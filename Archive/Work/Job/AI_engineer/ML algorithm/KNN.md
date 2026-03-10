@@ -1,0 +1,2 @@
+là viết tắt của K-Nearest Neighbour
+thuật toán này hoạt động theo kiểu ví dụ như ta muốn dự đoán tuổi của một người đã có thông tin về giới tính, lương, .... nó sẽ tìm ra N người có giới tính và lương gần bằng với người ta muốn dự đoán nhất và thực hiện chia lấy trung bình tuổi của N người đó

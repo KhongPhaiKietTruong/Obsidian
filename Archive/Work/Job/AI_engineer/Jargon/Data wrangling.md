@@ -1,0 +1,1 @@
+là quá trình xử lí dữ liệu để con người hiểu được

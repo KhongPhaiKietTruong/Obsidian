@@ -1,0 +1,1 @@
+xóa tất cả phần tử

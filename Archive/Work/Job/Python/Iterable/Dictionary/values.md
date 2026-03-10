@@ -1,0 +1,1 @@
+hoạt động tương tự [[keys()]] nhưng nó trả về các giá trị thay vì các keys

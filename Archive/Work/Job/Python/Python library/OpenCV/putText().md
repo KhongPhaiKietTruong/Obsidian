@@ -1,0 +1,3 @@
+putText(img, text, org, fontFace, fontScale, color\[, thickness\[, lineType\[, bottomLeftOrigin]]]) -> img
+
+fonttFace: cv.FONT_...

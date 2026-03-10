@@ -1,0 +1,1 @@
+buồn nhưng ấm áp (nhưng không quá khống khổ)

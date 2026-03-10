@@ -1,0 +1,6 @@
+```SQL
+SHOW DATABASES
+SHOW TABLES
+SHOW COLUMNS FROM <TABLE_NAME>
+SHOW INDEX FROM Employee; -- xem các key của bảng
+```

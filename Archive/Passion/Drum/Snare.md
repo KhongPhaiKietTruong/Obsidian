@@ -1,0 +1,1 @@
+thường đánh ở nhịp 2 và 4

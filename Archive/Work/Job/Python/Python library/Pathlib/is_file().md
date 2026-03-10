@@ -1,0 +1,1 @@
+kiểm tra xem đối tượng có phải là file không

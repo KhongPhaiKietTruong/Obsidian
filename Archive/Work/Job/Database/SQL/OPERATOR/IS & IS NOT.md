@@ -1,0 +1,1 @@
+dùng để thay dấu '=' khi so sánh với NULL

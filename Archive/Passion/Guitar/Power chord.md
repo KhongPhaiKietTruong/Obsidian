@@ -1,0 +1,1 @@
+quạt 3 dây trên cùng kết hợp với palm mute

@@ -1,0 +1,1 @@
+cũng khá giống [[Partial participation]], khác ở chỗ là min của nó bằng 1, nghĩa là một thực thể bắt buộc phải tham gia vào một mối quan hệ

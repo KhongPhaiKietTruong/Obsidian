@@ -1,0 +1,1 @@
+là khóa có khả năng định danh duy nhất cho bản ghi

@@ -1,0 +1,1 @@
+là viết tắt của principal component analysism

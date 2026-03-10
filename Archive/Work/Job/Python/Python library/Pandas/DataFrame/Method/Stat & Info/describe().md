@@ -1,0 +1,1 @@
+trả về các giá trị như: số lượng giá trị không null (count) ,giá trị trung bình (mean), độ lệch chuẩn, giá trị nhỏ nhất, tứ phân vị 1 2 3, giá trị lớn nhất

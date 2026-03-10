@@ -1,0 +1,1 @@
+đánh đồng thời tất cả các nốt của một hợp âm

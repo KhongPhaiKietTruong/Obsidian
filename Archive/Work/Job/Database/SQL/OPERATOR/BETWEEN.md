@@ -1,0 +1,3 @@
+```sql
+WHERE Price BETWEEN 100000 AND 500000
+```

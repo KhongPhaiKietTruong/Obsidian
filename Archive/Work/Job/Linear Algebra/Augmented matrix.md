@@ -1,0 +1,1 @@
+là ma trận chứa hệ số ẩn và hệ số sau dấu '=' lại

@@ -1,0 +1,1 @@
+là cách đánh đối lập với [[Block chords]], thay vì đánh đồng thời các nốt thì broken đánh từng nốt không theo thứ tự bắt buộc nào cả (là tập siêu của [[Arppegio]])

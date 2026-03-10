@@ -1,0 +1,4 @@
+- w: jump forward to the beginning of the next word
+- b: jump backward to the beginning of the current or previous word
+- W: jump forward to the beginning of the next word (ignore punctuation) ~ space-based
+- B: jump forward to the beginning of the previous word (ignore punctuation) ~ space-based

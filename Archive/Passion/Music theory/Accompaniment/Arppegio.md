@@ -1,0 +1,1 @@
+là [[Broken chord]] tuân thủ theo quy tắc chặt chẽ hơn, thay vì các nốt được đánh ngẫu nhiên thì arppegio chỉ đánh theo tăng dần hoặc giảm dần (không nhất thiết là phải tăng đều )

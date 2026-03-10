@@ -1,0 +1,25 @@
+
+git add . (chụp lại)
+git commit -m "[message] (lưu lại)
+git push (đẩy lên github)
+git status (xem trang thái hiện tại: brank, các file đã sửa nhưng chưa add, ...)
+git branch (xem nhánh hiện tại)
+git checkout -b [branch_name] (create a new branch and switch to that branch)
+git switch [tên nhánh] (chuyển qua nhánh khác)
+git diff [branch_name_that_we_compare_to_out_current_branch] (so sánh branch được ghi tên với branch hiện tại)
+git diff (so sánh code hiện tại với code lần cuối commit)
+git branch -d [branch_name]
+git reset [file_name] (đưa file về trạng thái unstaged)
+git log (print all the commit history )
+
+
+Lưu ý: 
+Khi tạo repo trên github: tick ô tạo readme thì sẽ có sẵn nhánh main, ngược lại thì không
+
+git push -u origin main: tạo luôn nhánh main trên repo github nếu chưa có
+
+git remote add origin ... — liên kết repo ↔ repo
+git push -u origin main — liên kết nhánh ↔ nhánh
+
+khi git init một folder trên local, nhánh mặc định là master
+

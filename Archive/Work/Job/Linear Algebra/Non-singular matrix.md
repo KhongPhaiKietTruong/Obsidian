@@ -1,0 +1,1 @@
+là ma trận có số rank = số chiều (số biến)

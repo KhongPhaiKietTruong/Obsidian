@@ -1,0 +1,1 @@
+để khi mà bảng cha bị xóa đi, thì bảng con tham chiếu tới nó không bị mang giá trị NULL

@@ -1,0 +1,6 @@
+Parameters of vector database:
+dim: The length of each vector (number of features per embedding)
+metric: The distance metric used for similarity search.
+index_type: HNSW, IVF_FLAT, IVF_PQ
+f
+

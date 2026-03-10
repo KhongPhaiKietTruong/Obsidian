@@ -1,0 +1,1 @@
+cột mang ràng buộc này khi có bảng ghi thêm vào mà giá trị cột này không sẽ có số tự động tăng

@@ -1,0 +1,1 @@
+số lượng phần tử của một ma trận

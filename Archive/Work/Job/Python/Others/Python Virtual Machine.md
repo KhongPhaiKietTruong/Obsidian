@@ -1,0 +1,2 @@
+Điện thoại và máy tính dùng loại chip khác nhau, mỗi loại chip dùng loại code khác nhau, PVM có tác dụng là bộ phận trung gian, dịch code python sang đúng loại code mà chip để dùng để chạy
+phục vụ cho việc: write once, run anywhere

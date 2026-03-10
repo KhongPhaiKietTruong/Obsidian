@@ -1,0 +1,1 @@
+có 3 loại minor scale được sử dụng đồng thời, đan xen nhau

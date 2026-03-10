@@ -1,0 +1,1 @@
+exp(n) tính e mũ n

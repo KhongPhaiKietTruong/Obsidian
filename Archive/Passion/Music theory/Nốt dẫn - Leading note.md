@@ -1,0 +1,1 @@
+là nốt nằm ở bậc 7 của một âm giai, nó cách [[chủ âm - tonic]] đúng nửa cung, tạo một sức hút muốn về nốt chủ

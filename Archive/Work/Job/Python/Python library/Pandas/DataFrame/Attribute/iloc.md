@@ -1,0 +1,1 @@
+gần tương tự như [[loc]], chỉ khác ở chỗ iloc thì truy cập thông qua số còn loc thì theo nhãn

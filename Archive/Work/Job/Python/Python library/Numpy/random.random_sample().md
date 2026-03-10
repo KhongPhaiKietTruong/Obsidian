@@ -1,0 +1,1 @@
+giống [[random.rand()]] , nhưng hàm này nhận vào một tuple kích thước 

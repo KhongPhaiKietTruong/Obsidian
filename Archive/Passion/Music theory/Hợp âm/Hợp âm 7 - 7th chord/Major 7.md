@@ -1,0 +1,1 @@
+mang cảm giác mơ màng, lofi, sáng, mềm

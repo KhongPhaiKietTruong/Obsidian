@@ -1,0 +1,1 @@
+N(A) là tập hợp các vector mà sẽ bị biến thành điểm (0, 0) nếu áp dụng phép biển đổi A

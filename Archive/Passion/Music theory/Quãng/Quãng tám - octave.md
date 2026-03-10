@@ -1,0 +1,1 @@
+là khoảng cách giữa hai nốt nhạc có cùng tên nhưng khác cao độ (12 semitones)

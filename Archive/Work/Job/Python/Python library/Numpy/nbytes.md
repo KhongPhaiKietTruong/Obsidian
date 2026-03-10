@@ -1,0 +1,1 @@
+số byte của một ma trận

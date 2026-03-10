@@ -1,0 +1,1 @@
+giá trị trong cột không được là rỗng

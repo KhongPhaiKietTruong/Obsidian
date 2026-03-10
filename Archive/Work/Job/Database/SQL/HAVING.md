@@ -1,0 +1,1 @@
+tác dụng giống WHERE nhưng giành cho aggregation

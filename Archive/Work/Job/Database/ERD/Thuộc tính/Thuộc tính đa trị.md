@@ -1,0 +1,1 @@
+là [[Thuộc tính]] có nhiều giá trị cùng lúc

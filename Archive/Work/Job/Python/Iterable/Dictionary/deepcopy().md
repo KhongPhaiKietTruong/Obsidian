@@ -1,0 +1,1 @@
+tạo ra bản thể mới độc lập 100%

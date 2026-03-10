@@ -1,0 +1,1 @@
+là khoảng cách nhỏ nhất giữa hai nốt nhạc 

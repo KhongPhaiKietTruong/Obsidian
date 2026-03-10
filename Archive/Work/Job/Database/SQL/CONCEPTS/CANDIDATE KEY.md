@@ -1,0 +1,1 @@
+là một [[SUPER KEY]] tối thiểu, có thể được chọn để trở thành [[Archive/Work/Job/Database/SQL/CONCEPTS/PRIMARY KEY|PRIMARY KEY]]

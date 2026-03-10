@@ -1,0 +1,61 @@
+
+
+Vibrance (n): độ rực rõ
+Saturation (n): độ bão hòa
+set out to
+manhour
+in a different light (adv): dưới một góc độ khác
+happen to (v): tình cờ, hóa ra
+foremost (adj): hàng đầu, quan trọng nhất
+superscript (n): chỉ số trên
+Empirically (adv): bằng thực nghiệm
+with regard to
+whopping (adj): cực kì lớn, to lớn, khổng lồ
+shutter (v): đóng cửa vĩnh viễnp
+peculiar (adj): kì lạ, khác thường
+slope (n): hệ số góc, độ góc
+nomenclature (n): danh pháp ~ thuật ngữ chuyên ngành
+equate to (v): tương đương
+
+crisp (adj): giòn, rõ nét
+Propagate (v): lan truyền
+characterize (v): xác định đặc tính ~ mô tả đặc trưng
+under the hood (adv): cơ chế hoạt động bên trong
+shove (v): đẩy
+parallelogram (n): hình bình hành
+tessellates (v): lát hình
+pinpoint (v): xác định chính xác
+pinpoint (adj): cực kì chính xác
+deterministic (adj): xác định
+uniform (adj): đồng nhất, đều
+composite (adj): phức hợp
+cascade (n, v): chuỗi phản ứng, lan truyền theo chuỗi
+schema (n)
+Modularity (n)
+monolithic (adj)
+
+perceptron (n): mô hình nơ ron đơn tầng ~ mô hình nơ ron cơ bản (**một** layer trong neural network)
+dissect (v): mổ xẻ, tìm hiểu sâu, phân tích chi tiết
+intercept (n): hệ số chặn
+dimensionality (n): 
+cumbersome (adj): cồng kềnh
+forsake (v): từ bỏ
+in which = where (adj): mà ở đó
+at all times (adv): mọi lúc
+permute (v): hoán vị
+technicality (n): tiểu tiết
+intrinsic (adj): nội tại, bản chất
+astronomical (adj): "trên trời" ~ khổng lồ (thường dùng cho giá cả)\
+eyeball (v): xem xét kĩ
+Polyminal (adj): đa thức
+Trigonometry (n): lượng giác học
+Tilt (v): 
+Hiccup (n, v): trục trặc nhỏ, nấc cục 
+variance (n): phương sai
+covariance (n): hiệp phương sai
+swell (v): sưng lên, tăng lên
+invariably (adv): luôn luôn
+Hyperbolic (adj): nói quá
+sprint (n): cuộc chạy nước rút
+
+

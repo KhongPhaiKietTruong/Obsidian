@@ -1,0 +1,1 @@
+là vị trí của một nốt trong [[Gam - thang âm - âm giai - scale]], ví dụ trong scale C major có 7 nốt là C D E G A B C tương ứng là bậc 1, bậc 2, ..., bậc 7

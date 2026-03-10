@@ -1,0 +1,99 @@
+GIAI ĐOẠN 1: Nền tảng lập trình & máy tính
+🎯 Mục tiêu:
+
+Biết cách viết code sạch, logic.
+
+Hiểu máy tính hoạt động, thuật toán cơ bản.
+
+🔧 Kỹ năng:
+
+Ngôn ngữ: Python (bắt buộc), thêm C++/JavaScript nếu cần hiệu năng hoặc web.
+
+Thư viện: numpy, pandas, matplotlib.
+
+Cấu trúc dữ liệu & giải thuật: list, stack, queue, tree, graph, sort, search.
+
+Linux + Git + Terminal: căn bản để làm việc thật.
+
+📚 Gợi ý:
+
+CS50 (Harvard) – miễn phí, cực hay.
+
+Python for Everybody (Coursera)
+
+Sách: “Grokking Algorithms”, “Automate the Boring Stuff with Python”
+
+📐 GIAI ĐOẠN 2: Toán cho AI
+🎯 Mục tiêu:
+
+Hiểu "tại sao mô hình học được" chứ không chỉ “chạy code”.
+
+🔧 Kiến thức:
+
+Đại số tuyến tính: vector, ma trận, phép nhân, SVD.
+
+Giải tích: đạo hàm, gradient descent.
+
+Thống kê & xác suất: mean, variance, Bayes theorem.
+
+Tối ưu hóa: gradient descent, loss function.
+
+📚 Gợi ý:
+
+Mathematics for Machine Learning (Imperial College, Coursera)
+
+Khan Academy (Linear Algebra + Calculus + Probability)
+
+🤖 GIAI ĐOẠN 3: Machine Learning (ML)
+🎯 Mục tiêu:
+
+Biết huấn luyện, đánh giá, và tối ưu mô hình ML.
+
+🔧 Kỹ năng:
+
+Học có giám sát & không giám sát.
+
+Mô hình: Linear Regression, Decision Tree, Random Forest, SVM, K-Means.
+
+Feature engineering & preprocessing.
+
+Validation, cross-validation, bias–variance tradeoff.
+
+💻 Công cụ:
+
+Scikit-learn, XGBoost, LightGBM, TensorFlow/PyTorch (sơ cấp)
+
+📚 Gợi ý:
+
+Andrew Ng – Machine Learning (Coursera)
+
+Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (Aurélien Géron)
+
+🧠 GIAI ĐOẠN 4: Deep Learning & AI chuyên sâu
+🎯 Mục tiêu:
+
+Hiểu các mô hình hiện đại và ứng dụng thực tế.
+
+🔧 Kỹ năng:
+
+Mạng neuron (ANN, CNN, RNN, Transformer).
+
+NLP (LLM, Transformer, RAG, BERT, GPT, PhoBERT, LLaMA).
+
+Computer Vision (CNN, ViT, YOLO, OpenCV, Diffusion).
+
+Generative AI (text-to-image, LLM fine-tuning).
+
+Reinforcement Learning (RL).
+
+💻 Thư viện:
+
+PyTorch (chính), TensorFlow, Hugging Face Transformers.
+
+📚 Gợi ý:
+
+Deep Learning Specialization – Andrew Ng (Coursera)
+
+Fast.ai Practical Deep Learning
+
+Dive into Deep Learning (d2l.ai) – miễn phí, cực hay.

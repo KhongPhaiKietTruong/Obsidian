@@ -1,0 +1,1 @@
+ circle(img, center, radius, color\[, thickness\[, lineType\[, shift]]]) -> img

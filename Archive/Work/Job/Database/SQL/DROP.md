@@ -1,0 +1,1 @@
+dùng để xóa một đối tượng như: table, database, column

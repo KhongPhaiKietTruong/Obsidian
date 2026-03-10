@@ -1,0 +1,1 @@
+có nghĩa là một thực thể có thể không tham gia vào một mối quan hệ đó (tương ứng với min = 0 trong [[Min-max notation]])  

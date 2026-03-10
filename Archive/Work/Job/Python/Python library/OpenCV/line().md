@@ -1,0 +1,1 @@
+line(img, pt1, pt2, color\[, thickness\[, lineType\[, shift]]]) -> img

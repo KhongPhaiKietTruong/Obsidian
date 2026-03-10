@@ -1,0 +1,1 @@
+là một folder chứa nhiều [[Module]], trong mỗi package luôn chứa file [[__init__.py]] 

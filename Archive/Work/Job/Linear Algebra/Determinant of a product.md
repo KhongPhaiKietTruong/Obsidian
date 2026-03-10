@@ -1,0 +1,1 @@
+Det(AB) = det(A) * det(B)

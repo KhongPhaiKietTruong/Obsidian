@@ -1,0 +1,3 @@
+
+đây là một file chứa mã nguồn đã được biên dịch sang bytecode - một loại ngôn ngữ cấp thấp mà chỉ có [[Python Virtual Machine]] hiểu được, tác dụng là để tăng tốc độ chạy chương trình, lần đầu chạy nó sẽ biên dịch ra file .pyc, nếu chạy lại lần nữa mà không có sự thay đổi gì thì nó không cần biên dịch lại mà chỉ cần lấy file .pyc ra chạy thôi
+điều này giúp ích rất nhiều, rất là chương trình import nhiều module khác, các module đó sẽ không cần phải biên dịch lại, tăng tốc độ chạy chương trình 

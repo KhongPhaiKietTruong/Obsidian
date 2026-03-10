@@ -1,0 +1,1 @@
+đặc trưng của bản ghi không được chứa nhiều giá trị

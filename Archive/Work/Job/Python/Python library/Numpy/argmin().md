@@ -1,0 +1,1 @@
+trả về vị trí của phần tử nhỏ nhất trong mảng
