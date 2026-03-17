@@ -1,0 +1,1 @@
+xóa cache của package không còn trên máy: paccache -Sc

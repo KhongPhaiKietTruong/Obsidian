@@ -1,0 +1,1 @@
+pacman -Qs [package name]

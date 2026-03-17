@@ -1,1 +1,0 @@
-nó là một trình khởi tạo hệ thống và là trình quả lí dịch vụ (start/end/restart dịch vụ)

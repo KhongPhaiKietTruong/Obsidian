@@ -1,2 +1,0 @@
-
-super shift alt arrow

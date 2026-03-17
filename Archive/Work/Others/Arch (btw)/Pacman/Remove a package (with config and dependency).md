@@ -1,0 +1,1 @@
+pacman -Rns [package name]

@@ -1,1 +1,0 @@
-.NET is a common language runtime
