@@ -1,0 +1,1 @@
+trả về những hàng ở bảng này mà không có ở bảng kia

@@ -59,3 +59,7 @@ Hyperbolic (adj): nói quá
 sprint (n): cuộc chạy nước rút
 
 
+sophomore (n): sinh viên năm 2
+Hook (v): thu hút, câu (cá), móc 
+after which (adv): sau đó
+

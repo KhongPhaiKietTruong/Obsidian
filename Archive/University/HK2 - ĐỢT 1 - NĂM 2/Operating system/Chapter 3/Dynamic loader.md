@@ -1,0 +1,1 @@
+Một chương trình sẽ gồm nhiều phần, thay vì [[Load]] hết vào RAM một lần thì người ta chỉ nộp phần chính trước, những phần phụ còn lại chỉ nạp vào RAM khi cần dùng tới

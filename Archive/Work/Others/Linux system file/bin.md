@@ -1,0 +1,3 @@
+là folder chứa các chương trình có thể thực thi của hệ thống dành cho **tất cả người dùng**, vd: ls, cd, ...
+
+ngày nay, /bin là symbolic link tới /[[sbin]] để quản lí

@@ -1,0 +1,1 @@
+các package cài bằng pacman sẽ đi vào đây

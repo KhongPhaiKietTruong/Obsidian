@@ -1,0 +1,1 @@
+Cách này gom tất cả dung lượng trống lại thanh một cụm lớn

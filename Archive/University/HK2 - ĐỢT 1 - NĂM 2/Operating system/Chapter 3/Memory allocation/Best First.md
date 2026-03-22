@@ -1,0 +1,1 @@
+tìm lỗ trống **nhỏ nhất** mà vẫn đủ lớn cho tiến trình

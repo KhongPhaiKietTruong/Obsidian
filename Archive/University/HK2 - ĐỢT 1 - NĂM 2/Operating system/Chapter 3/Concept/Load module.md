@@ -1,0 +1,1 @@
+là sản phẩm của linker, nó thực chất là một file exe

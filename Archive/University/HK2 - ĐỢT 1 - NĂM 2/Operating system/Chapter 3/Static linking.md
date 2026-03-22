@@ -1,0 +1,1 @@
+Các [[System libraries (thư viện hệ thống)]] và chương trình người dùng được [[Load]] thành một chương trình duy nhất
