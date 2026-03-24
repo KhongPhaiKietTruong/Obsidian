@@ -1,0 +1,1 @@
+dùng để trỏ đến segment-table mà chương trình sử dụng

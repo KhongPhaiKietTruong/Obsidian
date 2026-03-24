@@ -1,0 +1,1 @@
+dùng để chỉ ra số lượng segment được sử dụng bởi chương trình
