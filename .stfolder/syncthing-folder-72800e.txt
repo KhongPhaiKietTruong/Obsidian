@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: svvxu-kc79a
-created: 2026-03-25T17:42:51+07:00
