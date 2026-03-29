@@ -1,0 +1,1 @@
+là đoạn mã được SSH tạo, nằm trên cả client và server

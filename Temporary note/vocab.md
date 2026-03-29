@@ -65,4 +65,17 @@ after which (adv): sau đó
 debunk (v): bác bỏ - chứng minh điều gì đó là sai
 backfire (v): phản tác dụng
 seniority (n): thâm niên
+curvature (n): độ cong
+quadratic (adj): thuộc về bậc hai
+quadratics (n): phương tình bậc hai
+polynomial (n): đa thức
+Gradient (n): độ dốc (~độ thay đổi (rộng hơn slope))
+Slope (n): độ dốc
+Tangent (n): tiếp tuyến
+Elapse (v): (thời gian) trôi qua
+Trajectory (n): quỹ đạo
+Infinitesimal (adj): lượng vô cùng nhỏ
+Trigonometry (n): lượng giác
+Numerator (n): tử số
+Denominator (n):  mẫu số
 

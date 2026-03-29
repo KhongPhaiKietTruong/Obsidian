@@ -4,39 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "ccfae1d632a55480",
+        "id": "be72eb67ee44ee8e",
         "type": "tabs",
         "children": [
           {
-            "id": "1fc15f8592e558a7",
+            "id": "d91dcb3002afb63a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Work/Others/SSH - Secure Shell/private key.md",
+                "file": "Daily note/week13/24-3-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "private key"
+              "title": "24-3-26"
             }
           },
           {
-            "id": "41f7394621ea563d",
+            "id": "58ee46868cea65bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Archive/Work/Others/SSH - Secure Shell/Create SSH.md",
+                "file": "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Concept/Physical address.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Create SSH"
+              "title": "Physical address"
+            }
+          },
+          {
+            "id": "90dd79dadc81d3eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Concept/MMU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MMU"
+            }
+          },
+          {
+            "id": "f95e93baa237933a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Paging/Frame.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frame"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,23 +206,13 @@
               "icon": "lucide-list",
               "title": "Outline of 1.1 - Introduction"
             }
-          },
-          {
-            "id": "621de4a357ed2520",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,48 +222,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "41f7394621ea563d",
+  "active": "d91dcb3002afb63a",
   "lastOpenFiles": [
-    "Life management/Todo list/Tuần 13/29-3-26.md",
-    "Archive/Work/Others/SSH - Secure Shell/Create SSH.md",
-    "Archive/Work/Others/SSH - Secure Shell/private key.md",
-    "Archive/Work/Others/SSH - Secure Shell/How SSH works.md",
-    "Archive/Work/Others/SSH - Secure Shell/public key.md",
-    "Archive/Work/Job/Shell scripting/Bash/_.md",
-    "Archive/Work/Others/SSH - Secure Shell",
-    "Life management/Todo list/Tuần 13/26-3-26.md",
-    "Life management/Todo list/Tuần 13/23-3-26.md",
-    "Life management/Todo list/Tuần 13/24-3-26.md",
-    "Life management/Todo list/Tuần 13/25-3-26.md",
-    "Life management/Todo list/Tuần 13/26-3-26.sync-conflict-20260328-173434-QYD4TT2.md",
-    "Template/subscript.md",
-    "Daily note/week13/24-3-26.md",
     "Template/prompt1.md",
-    "Temporary note/song to sing.md",
-    "Archive/Work/Others/Arch (btw)/Pacman/Find package.md",
-    "Life management/Weight/Untitled.md",
-    "Life management/Finance management/month3/week13/26-3-26.md",
-    "Life management/Weight",
-    "Life management/Finance management/query.md",
-    "Daily note/week13",
-    "Daily note",
-    "Life management/Finance management/month3/week13/25-3-26.md",
-    "Life management/Finance management/month3/week13/24-3-26.md",
     "Temporary note/vocab.md",
-    "Archive/Work/Job/MathForAI/Caculus/Derivative's notation.md",
-    "Archive/Work/Job/MathForAI/Caculus",
-    "Archive/Work/Job/MathForAI/CA==.md",
-    "Temporary note/vocab.sync-conflict-20260325-174433-4GWCLZD.md",
-    "test",
-    "Daily note/things to do.md",
-    "Daily note/week12",
-    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Segmentation",
+    "Daily note/week13/24-3-26.md",
+    "Temporary note/song to sing.md",
+    "Template/subscript.md",
+    "Template/prompt.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Concept/Logic address.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Segmentation/STBR (Segment-table base register).md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Paging/Frame.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Concept/MMU.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Concept/Physical address.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Translate logic address to physical address.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Concept/Link.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Concept/Compile.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Paging/Paging.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Paging/Page.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Segmentation/Segmentation.md",
     "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Paging",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Segmentation/STLR (Segment-table length register).md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Stub.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Segmentation",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Multistep processing of a user program.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Memory protection.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Loading/Dynamic loading.md",
     "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Loading",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Memory allocation/Compaction (gom cụm).md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Linking",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Memory allocation/External Fragmentation.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Memory allocation/Contiguous Memory Allocation/Fixed Partition Allocation.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Memory allocation/Contiguous Memory Allocation/Contiguous Memory Allocation.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 1/1.1 - Introduction.pdf",
+    "Daily note/week13",
+    "Archive/Work/Job/MathForAI",
+    "Archive/Work/Others/Linux system file/usr",
+    "Archive/Work/Others/Linux system file",
+    "Archive/Work/Job/Shell scripting/Terminal emulator/Kitty",
     "Assets/IMG/Pasted image 20260317151152.png",
     "Assets/IMG/Pasted image 20260317153123.png",
     "Assets/IMG/Pasted image 20260318143122.png",
