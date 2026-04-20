@@ -12,3 +12,11 @@ có ba cách để truyền tham số cho system call: truyền vào thanh ghi, 
 chương 2.2: 
 cấu trúc của một thread gồm: PC (program counter, register, stack) 
 các thread của một tiến trình chia sẻ nhau: code, data, files 
+
+chương 2.3:
+preemtive schedule (điều phối ưu tiên): một khi cpu được cấp cho một tiến trình, nó sẽ giữ phần cpu đó cho đến khi hoàn thành
+non-preemtive:  cpu được cấp có thể bị thu hồi
+
+turnaround time: thời gian để hoàn thành một tiến trình
+waiting time: tổng thời gian một tiến trình phải chờ để được cấp phát cpu
+response time: 
