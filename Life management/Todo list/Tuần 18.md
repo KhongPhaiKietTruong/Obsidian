@@ -1,0 +1,2 @@
+- [x] anki
+- [x] đi chơi vs Pthuy 
