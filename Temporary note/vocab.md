@@ -37,19 +37,19 @@ monolithic (adj)
 perceptron (n): mô hình nơ ron đơn tầng ~ mô hình nơ ron cơ bản (**một** layer trong neural network)
 dissect (v): mổ xẻ, tìm hiểu sâu, phân tích chi tiết
 intercept (n): hệ số chặn
-dimensionality (n): 
+dimensionality (n): số chiều
 cumbersome (adj): cồng kềnh
 forsake (v): từ bỏ
 in which = where (adj): mà ở đó
 at all times (adv): mọi lúc
 permute (v): hoán vị
 technicality (n): tiểu tiết
-intrinsic (adj): nội tại, bản chất
-astronomical (adj): "trên trời" ~ khổng lồ (thường dùng cho giá cả)\
+intrinsic (adj): nội tại
+astronomical (adj): "trên trời" ~ khổng lồ (thường dùng cho giá cả)
 eyeball (v): xem xét kĩ
 Polyminal (adj): đa thức
 Trigonometry (n): lượng giác học
-Tilt (v): 
+Tilt (v): làm nghiêng
 Hiccup (n, v): trục trặc nhỏ, nấc cục 
 variance (n): phương sai
 covariance (n): hiệp phương sai
@@ -82,4 +82,7 @@ fusion (n): sự hợp nhất
 tamper (v): can thiệp, mua chuộc
 agitate (v): làm lo lắng, làm kích động
 archaic (adj): cổ hủ
+
+
+detergent (n): chất tẩy rửa
 

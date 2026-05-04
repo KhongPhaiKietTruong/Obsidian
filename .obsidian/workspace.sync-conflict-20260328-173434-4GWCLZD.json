@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "523dfb11f65d6ec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "be72eb67ee44ee8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d91dcb3002afb63a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life management/Todo list/Tuần 13/26-3-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26-3-26"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37f0899ed0831d6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bfb9f576afa79da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5796e79bf17945dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9742ed78d30dbb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "EXCE",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4c9459fa2038be6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5cb67c6a62828d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0599f660cbc7e771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc9c8869bafef54e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 1/1.1 - Introduction.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1.1 - Introduction"
+            }
+          },
+          {
+            "id": "77d7799f7e314d0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 1/1.1 - Introduction.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1.1 - Introduction"
+            }
+          },
+          {
+            "id": "36add9ffa6fd81f0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ded34474729115da",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9a085140b5255718",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 1/1.1 - Introduction.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1.1 - Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d91dcb3002afb63a",
+  "lastOpenFiles": [
+    "Life management/Todo list/Tuần 13/25-3-26.md",
+    "Life management/Todo list/Tuần 13/24-3-26.md",
+    "Life management/Todo list/Tuần 13/23-3-26.md",
+    "Life management/Finance management/month3/week13/25-3-26.md",
+    "Life management/Finance management/month3/week13/26-3-26.md",
+    "Life management/Finance management/month3/week13/24-3-26.md",
+    "Life management/Todo list/Tuần 13/26-3-26.md",
+    "Daily note/week13/24-3-26.md",
+    "test",
+    "Temporary note/vocab.sync-conflict-20260325-174433-4GWCLZD.md",
+    "Daily note/things to do.md",
+    "Daily note/week13/23-3-26.md",
+    "Daily note/week12/18-3-26.md",
+    "Daily note/week12/19-3-26.md",
+    "Daily note/week12/20-3-26.md",
+    "Daily note/week12/22-3-26.md",
+    "Daily note/week12/21-3-26.md",
+    "Daily note/week12/17-3-26.md",
+    "Daily note/week12",
+    "Daily note/week13",
+    "Life management/Finance management/query.md",
+    "Life management/Todo list/Tuần 12/17-3-26.md",
+    "Life management/Todo list/Tuần 12/18-3-26.md",
+    "Life management/Todo list/Tuần 12/19-3-26.md",
+    "Life management/Todo list/Tuần 12/20-3-26.md",
+    "Life management/Todo list/Tuần 12/21-3-26.md",
+    "Life management/Todo list/Tuần 12/22-3-26.md",
+    "Template/prompt1.md",
+    "Daily note",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Concept/Physical address.md",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Segmentation",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Paging",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Loading",
+    "Archive/University/HK2 - ĐỢT 1 - NĂM 2/Operating system/Chapter 3/Linking",
+    "Life management/Finance management/month3",
+    "Life management/Finance management/month3/week13",
+    "Assets/IMG/Pasted image 20260317151152.png",
+    "Assets/IMG/Pasted image 20260317153123.png",
+    "Assets/IMG/Pasted image 20260318143122.png",
+    "Assets/IMG/Pasted image 20260318143044.png",
+    "Assets/IMG/Pasted image 20260317154738.png",
+    "Assets/IMG/Pasted image 20260317153837.png",
+    "Assets/IMG/Pasted image 20260317153536.png",
+    "Assets/IMG/Pasted image 20260317152221.png",
+    "Assets/IMG/Pasted image 20260317151842.png",
+    "Assets/IMG/Pasted image 20260317151824.png"
+  ]
+}
