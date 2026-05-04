@@ -1,4 +1,4 @@
-tiếng việt: phương sai
+dịch: phương sai
 
 là một đại lượng dùng để đo mức độ phân tán của một tập dữ liệu so với giá trị trung bình của nó
 
