@@ -80,4 +80,6 @@ Numerator (n): tử số
 Denominator (n):  mẫu số
 fusion (n): sự hợp nhất
 tamper (v): can thiệp, mua chuộc
+agitate (v): làm lo lắng, làm kích động
+archaic (adj): cổ hủ
 
