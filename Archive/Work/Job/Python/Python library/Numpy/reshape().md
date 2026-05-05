@@ -1,6 +1,6 @@
 là hàm dùng để thay đổi hình dạng của ma trận (số hàng, số cột)
 
-lưu ý 1: hàm reshape chỉ trả về một view, nghĩa là thay đổi giá trị của ma trận được tạo bởi reshape sẽ thay đổi lên mảng gốc luôn
+lưu ý 1: hàm reshape chỉ trả về view, nghĩa là thay đổi giá trị của ma trận được tạo bởi reshape sẽ thay đổi lên mảng gốc luôn
 
 lưu ý 2: phải đảm bảo hình dạng mới có số phần tử bằng hình dạng cũ
 nghĩa là tích của hàng mới và cột mới bằng tích của hàng cũ và cột cũ
