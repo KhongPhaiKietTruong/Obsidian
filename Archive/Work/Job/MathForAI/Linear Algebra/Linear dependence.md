@@ -1,3 +1,5 @@
+dịch: phụ thuộc tuyến tính
+
 phụ thuộc tuyến tính là kiểu như ta bỏ đi ít nhất vector thì nó vẫn không làm giảm [[Span]]
 
 theo một cách hiểu khác: một ma trận được gọi là phụ thuộc tuyến tính nếu ta có suy ra một hàng từ những hàng khác 

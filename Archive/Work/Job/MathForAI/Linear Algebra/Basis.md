@@ -12,5 +12,5 @@ nghĩa là nó phải chứa ít vector nhất có thể để tạo nên chiề
 ta thấy chỉ cần i và j là ta đủ để tạo mặt phẳng rồi. i, j, z cũng có thể nhưng bỏ z đi thì ta vẫn tạo được, nghĩa là z thừa (z phụ thuộc tuyến tính vào i và j ([[Linear dependence]]))
 
 => một tập hợp vector muốn là cơ sở thì phải thỏa mãn điều kiện:
-- tập hợp đó phải độc lập tuyến tính 
+- tập hợp đó phải [[Linear Independency]]
 - [[Span]] của tập hợp vector đó phủ kín cả không gian ta đang xét (một tập hợp vector muốn làm cơ sở cho một không gian 3 chiều thì span của chúng nó phải phủ cả không gian 3 chiều)
