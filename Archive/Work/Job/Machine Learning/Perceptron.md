@@ -5,4 +5,4 @@ perception cấu tạo gồm 4 thành phần:
 - trọng số w1, w2, ... wn
 - bias
 - activation function
-hay đơn giản hơn chính là phương trình w1x2 + w2x2 + ... + wnxn + b và activation function
+hay đơn giản hơn, perceptron chính là phương trình w1x2 + w2x2 + ... + wnxn + b và activation function
