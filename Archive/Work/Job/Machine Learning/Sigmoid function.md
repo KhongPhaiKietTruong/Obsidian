@@ -1,0 +1,1 @@
+là một hàm số nhận vào một số tự nhiên và luôn trả về giá trị nằm trong khoảng \[0, 1]
