@@ -85,4 +85,4 @@ archaic (adj): cổ hủ
 
 
 detergent (n): chất tẩy rửa
-
+Reciprocal
