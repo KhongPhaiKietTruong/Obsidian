@@ -1,5 +1,5 @@
 dịch: đạo hàm riêng
-kí hiệu: 
+kí hiệu: $\frac{ \partial f }{ \partial x }$ (đạo hàm riêng của f tại x)
 
 dùng cho hàm có nhiều biến, để xem mức độ thay đổi của một biến trong khi những biến khác sẽ giữ nguyên
 
