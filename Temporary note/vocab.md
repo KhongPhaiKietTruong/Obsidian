@@ -86,3 +86,5 @@ archaic (adj): cổ hủ
 
 detergent (n): chất tẩy rửa
 Reciprocal
+downstream (adv): khâu xử lí sau
+regularization (n): sự điều chuẩn / sự chính quy hóa
