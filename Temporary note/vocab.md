@@ -85,6 +85,17 @@ archaic (adj): cổ hủ
 
 
 detergent (n): chất tẩy rửa
-Reciprocal
+reciprocal (n): số nghịch đảo
 downstream (adv): khâu xử lí sau
 regularization (n): sự điều chuẩn / sự chính quy hóa
+plotline: tuyến cốt truyện
+sphere (n): hình cầu, phạm vi
+Reciprocate (v): đáp lại
+snowpack (n): lớp tuyết tích tụ
+spearhead (v): dẫn đầu
+subcompact (adj): cỡ nhỏ
+quaint (adj): cổ kính
+earmark (v): dành riêng
+boulevard (n): đại lộ
+
+
