@@ -3,3 +3,6 @@ $$
 \sigma(x) = \frac{1}{1 + e^{-x}} 
 $$
 
+$$
+\sigma'(x) = \sigma(x)(1-\sigma(x)) 
+$$
