@@ -97,5 +97,6 @@ subcompact (adj): cỡ nhỏ
 quaint (adj): cổ kính
 earmark (v): dành riêng
 boulevard (n): đại lộ
+annihilate (v): hủy diệt
 
 
