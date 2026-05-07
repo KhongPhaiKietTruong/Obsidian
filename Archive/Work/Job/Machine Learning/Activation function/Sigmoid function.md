@@ -2,7 +2,6 @@ là một hàm số nhận vào một số tự nhiên và luôn trả về giá
 $$
 \sigma(x) = \frac{1}{1 + e^{-x}} 
 $$
-
 $$
 \sigma'(x) = \sigma(x)(1-\sigma(x)) 
 $$
