@@ -115,6 +115,8 @@ bothersome (adj): khó chịu
 haphazard (adj): bừa bãi
 
 sleek (adj): thanh thoát
+distillation (n): chưng cất
+
 
 
 
