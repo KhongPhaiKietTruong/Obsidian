@@ -114,4 +114,6 @@ adorn (v): trang trí
 bothersome (adj): khó chịu
 haphazard (adj): bừa bãi
 
+sleek (adj): thanh thoát
+
 
