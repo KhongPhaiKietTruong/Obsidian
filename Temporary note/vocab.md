@@ -116,7 +116,7 @@ haphazard (adj): bừa bãi
 
 sleek (adj): thanh thoát
 distillation (n): chưng cất
-
+downsample (v): giảm mẫu
 
 
 
