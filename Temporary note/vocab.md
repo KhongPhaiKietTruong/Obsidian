@@ -104,5 +104,8 @@ receptacle (n): vật chứa
 cumulative (adj): tích lũy
 marginal (adj): không đáng kể
 instrumental (adj): đống vai trò quan trọng
+onboard (v): tuyển dụng và hướng dẫn người mới
+onboard (adj, adv): ở trên phương tiện
+rustic (adj): mộc mạc
 
 
