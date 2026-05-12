@@ -109,3 +109,4 @@ onboard (adj, adv): ở trên phương tiện
 rustic (adj): mộc mạc
 
 
+
