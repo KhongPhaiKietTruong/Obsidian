@@ -1,0 +1,1 @@
+dùng lệnh: pip list
