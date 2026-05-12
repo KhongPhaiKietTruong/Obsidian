@@ -99,4 +99,9 @@ earmark (v): dành riêng
 boulevard (n): đại lộ
 annihilate (v): hủy diệt
 
+deboard (v): rời khỏi phương tiện
+receptacle (n): vật chứa
+cumulative (adj): tích lũy
+marginal (adj): không đáng kể
+
 
