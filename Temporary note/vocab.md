@@ -103,5 +103,6 @@ deboard (v): rời khỏi phương tiện
 receptacle (n): vật chứa
 cumulative (adj): tích lũy
 marginal (adj): không đáng kể
+instrumental (adj): đống vai trò quan trọng
 
 
