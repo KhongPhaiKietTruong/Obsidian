@@ -109,7 +109,6 @@ onboard (adj, adv): ở trên phương tiện
 rustic (adj): mộc mạc
 contemplate (v): suy ngẫm
 ponder (v): suy ngẫm
-reckon (v):
 conscientious (adj): có ý thức làm việc
 adorn (v): trang trí
 bothersome (adj): khó chịu
