@@ -118,6 +118,7 @@ sleek (adj): thanh thoát
 distillation (n): chưng cất
 downsample (v): giảm mẫu
 colloquially (adv): một cách dân dã
-
+kewness 
+kurtosis
 
 
