@@ -1,0 +1,1 @@
+dịch: giá trị kỳ vọng
