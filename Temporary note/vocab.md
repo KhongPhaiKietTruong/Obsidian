@@ -131,5 +131,6 @@ skew
 granular (adj): 
 bundle
 why is this the case
+concavity (n): tính lõm
 
 
