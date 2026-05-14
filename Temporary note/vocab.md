@@ -116,7 +116,10 @@ haphazard (adj): bừa bãi
 
 sleek (adj): thanh thoát
 distillation (n): chưng cất
-
+failover (n): dự phòng lỗi 
+standby (adj): dự phòng
+multi-head attention (n): cơ chế chú ý đa đầu
+feed-forward network (n): mạng truyền thẳng
 
 
 
