@@ -1,4 +1,5 @@
 moment bậc 1: [[Expected value | kỳ vọng]]
 moment bậc 2: [[Variance | phương sai]]
-moent bậc 3: 
+moment bậc 3:  [[Skewness | độ xiên]]
+moment bậc 4:  [[Kurtosis | độ nhọn]]
 ![[Pasted image 20260514195923.png]]

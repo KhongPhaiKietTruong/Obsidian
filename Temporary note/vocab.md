@@ -134,4 +134,7 @@ why is this the case
 concavity (n): tính lõm
 subtleties (n): những chi tiết nhỏ 
 skew (v): làm lệch, phân phối lệch
+quantile (n): điểm phân vị
+midpoint (n): trung điểm 
+interquartile range (n): khoảng tứ phân vị (là khoảng giữa Q1 và Q3)
 
