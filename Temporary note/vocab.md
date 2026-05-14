@@ -120,5 +120,7 @@ downsample (v): giảm mẫu
 colloquially (adv): một cách dân dã
 kewness 
 kurtosis
+skew
+granular (adj): 
 
 
