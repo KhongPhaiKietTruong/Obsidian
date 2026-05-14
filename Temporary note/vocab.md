@@ -133,5 +133,5 @@ bundle
 why is this the case
 concavity (n): tính lõm
 subtleties (n): những chi tiết nhỏ 
-
+skew (v): làm lệch, phân phối lệch
 
