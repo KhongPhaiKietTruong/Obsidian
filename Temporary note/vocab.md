@@ -129,6 +129,7 @@ kewness
 kurtosis
 skew
 granular (adj): 
+bundle
 
 
 
