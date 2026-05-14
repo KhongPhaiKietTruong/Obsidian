@@ -130,6 +130,6 @@ kurtosis
 skew
 granular (adj): 
 bundle
-
+why is this the case
 
 
