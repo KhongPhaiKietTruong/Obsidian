@@ -1,1 +1,1 @@
-chuẩn hóa phân phối là quá trình đưa một phân phối thành dạng có [[Expected value | giá trị trung bình]] bằng 0 và 
+chuẩn hóa phân phối là quá trình đưa một phân phối thành dạng có [[Expected value | giá trị trung bình]] bằng 0 và [[Variance | phương sai]] bằng 1 
