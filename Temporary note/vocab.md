@@ -174,6 +174,8 @@ verbose (adj): nhiều lời, dài dòng
 deprecated (adj): lỗi thời
 guardrails (n): rào chắn bảo vệ
 proxy (n): người đại diện
+Pearson (n): hệ số tương quan
+variate (n): biến (dùng trong xstk)
 
 
 
