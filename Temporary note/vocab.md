@@ -172,5 +172,6 @@ internals (n): cấu trúc bên trong, cơ chế nội tại
 residual (adj): dư, còn lại
 verbose (adj): nhiều lời, dài dòng
 deprecated (adj): lỗi thời
+guardrails (n): rào chắn bảo vệ
 
 
