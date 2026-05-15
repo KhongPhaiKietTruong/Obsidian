@@ -141,4 +141,30 @@ extol (v): ca tụng
 assiduous (adj): siêng năng, tận tụi 
 barren (adj): cằn cỗi
 brittle (adj): giòn, dễ vỡ
+colossal (adj): khổng lồ
+shun (v): xa lành
+zeal (n): lòng nhiệt huyết
+zealous (adj): nhiệt huyết
+tranquil (adj): yên tĩnh
+serene (adj): điềm tĩnh
+exorbitant (adj): (giá) chặt chém, cao vô lí
+lavish (adj): xa hoa
+sumptuous (adj): lộng lẫy
+fret (v): lo lắng
+perilous (adj): nguy hiểm
+damp (adj): ẩm ướt
+formidable (adj): đáng gờm, đáng kinh ngạc
+quintessential (adj): điển hình
+prudent (adj): thận trọng
+dubious (adj): đáng ngờ
+skeptical (adj): hoài nghi
+fellowship (n): học bổng
+malodorous (adj): hôi thối
+miscellaneous (adj): đa dạng
+disarray (n): sự hỗn loạn 
+meteoric (adj): nhanh chóng
+notwithstanding (adv): dù vậy
+perplex (v): làm bối rối
+infrequent (adj): không thường xuyên
+charisma (n): sự cuốn hút
 
