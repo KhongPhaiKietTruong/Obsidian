@@ -173,3 +173,4 @@ residual (adj): dư, còn lại
 verbose (adj): nhiều lời, dài dòng
 deprecated (adj): lỗi thời
 
+
