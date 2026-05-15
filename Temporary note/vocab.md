@@ -179,6 +179,8 @@ variate (n): biến (dùng trong xstk)
 bimodal (adj): hai đỉnh
 ergonomic (n): công thái học
 
+undershoot (v): ước lượng thiếu
+overshoot (v): ước lượng thừa
 
 
 
