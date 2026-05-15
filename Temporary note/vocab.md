@@ -135,4 +135,10 @@ midpoint (n): trung điểm
 interquartile range (n): khoảng tứ phân vị (là khoảng giữa Q1 và Q3)
 adjoin (v): sát vách, kế sát nhau
 woo (v): chèo kéo, thu hút
+grumble (v): càu nhàu
+minuscule (adj): bé xíu
+extol (v): ca tụng
+assiduous (adj): siêng năng, tận tụi 
+barren (adj): cằn cỗi
+brittle (adj): giòn, dễ vỡ
 
