@@ -168,3 +168,8 @@ perplex (v): làm bối rối
 infrequent (adj): không thường xuyên
 charisma (n): sự cuốn hút
 
+internals (n): cấu trúc bên trong, cơ chế nội tại
+residual (adj): dư, còn lại
+verbose (adj): nhiều lời, dài dòng
+deprecated (adj): lỗi thời
+
