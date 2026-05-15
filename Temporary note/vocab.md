@@ -181,6 +181,7 @@ ergonomic (n): công thái học
 
 undershoot (v): ước lượng thiếu
 overshoot (v): ước lượng thừa
+pinnacle (n): đỉnh cao
 
 
 
