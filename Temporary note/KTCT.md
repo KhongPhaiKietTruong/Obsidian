@@ -1,0 +1,1 @@
+ubiquitous (adj): phổ biến
