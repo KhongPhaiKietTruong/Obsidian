@@ -173,6 +173,8 @@ residual (adj): dư, còn lại
 verbose (adj): nhiều lời, dài dòng
 deprecated (adj): lỗi thời
 guardrails (n): rào chắn bảo vệ
+proxy (n): người đại diện
+
 
 
 
