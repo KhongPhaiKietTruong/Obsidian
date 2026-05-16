@@ -69,3 +69,5 @@ ubiquitous (adj): phổ biến
 vague (adj): mơ hồ
 penalize (v): 
 characterize (v): mô tả 
+Immersive (n): 
+
