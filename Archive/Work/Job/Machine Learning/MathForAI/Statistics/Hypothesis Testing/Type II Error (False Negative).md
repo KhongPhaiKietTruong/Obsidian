@@ -1,0 +1,1 @@
+ta không bác bỏ $H_0$ trong khi nó thực sự sai
