@@ -70,4 +70,6 @@ vague (adj): mơ hồ
 penalize (v): 
 characterize (v): mô tả 
 Immersive (n): 
-
+backlog task (n): 
+codebase (n): bộ mã nguồn
+deprecation (n): 
