@@ -1,1 +1,0 @@
-dịch: phân phối Student's t
