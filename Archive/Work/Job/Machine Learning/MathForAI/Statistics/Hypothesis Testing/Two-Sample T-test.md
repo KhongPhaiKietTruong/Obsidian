@@ -1,0 +1,2 @@
+**Two-Sample t-test** (kiểm định t hai mẫu), hay chính xác hơn là **Independent Samples t-test** (kiểm định t hai mẫu độc lập), là một phương pháp thống kê dùng để so sánh giá trị trung bình (mean) của **hai nhóm dữ liệu hoàn toàn riêng biệt và độc lập** với nhau.
+Mục đích của nó là xác định xem sự khác biệt giữa hai giá trị trung bình đó là thực sự có ý nghĩa thống kê hay chỉ là do biến động ngẫu nhiên khi lấy mẫu.
