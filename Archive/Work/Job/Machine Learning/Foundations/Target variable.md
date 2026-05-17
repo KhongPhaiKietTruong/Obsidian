@@ -1,6 +1,5 @@
-dịch: biến mục tiêu
+dịch: biến mục tiêu, giá trị thực tế
 tên khác: label
-kí hiệu: $\hat{y}$
+kí hiệu: y
 
-ta đặt kí hiệu như vậy là vì kí hiệu y là kí hiệu của đáp án của [[Trainning Set ]] rồi
-là kết quả dự đoán của model 
+là đáp án thực tế của từng mẫu nằm trong [[Trainning Set]] 
