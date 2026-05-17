@@ -75,4 +75,4 @@ backlog task (n):
 codebase (n): bộ mã nguồn
 deprecation (n): 
 ubiquitous (adj): phổ biến
-
+variation (n): sự biến động
