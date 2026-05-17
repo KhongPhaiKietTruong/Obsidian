@@ -1,0 +1,1 @@
+là một phương pháp kiểm định để so sánh giá trị trung bình giữa hai nhóm dữ liệu 
