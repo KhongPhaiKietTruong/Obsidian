@@ -1,4 +1,5 @@
 dịch: điểm tiêu chuẩn
+tên khác: Z statistic
 
 là một đại lượng dùng để chỉ ra giá trị đang xét cách [[Expected value | giá trị trung bình]] bao nhiêu lần [[Standard deviation | độ lệch chuẩn]]
 công thức tính:
