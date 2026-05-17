@@ -1,0 +1,1 @@
+uupacman -Ss \[package]

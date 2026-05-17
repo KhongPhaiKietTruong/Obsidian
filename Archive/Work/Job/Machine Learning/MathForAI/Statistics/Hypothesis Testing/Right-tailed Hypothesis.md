@@ -1,0 +1,1 @@
+vùng bác bỏ nằm ở bên phải của $\mu$ 
