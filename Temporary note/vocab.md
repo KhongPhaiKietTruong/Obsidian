@@ -185,4 +185,5 @@ pinnacle (n): đỉnh cao
 ubiquitous (adj): phổ biến
 vague (adj): mơ hồ
 penalize (v): 
+divergent
 
