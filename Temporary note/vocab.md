@@ -79,3 +79,4 @@ variation (n): sự biến động
 dabble (v): học cho biết (hời hợt không chuyên sâu)
 untapped (adj): chưa được khai thác
 worthwhile (adj): xứng đáng
+porabola (n): 
