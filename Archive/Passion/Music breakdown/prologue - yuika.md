@@ -3,7 +3,7 @@ bài này dùng [[Royal road progression]] biến thể là: IV III II I
 **Đoạn Verse (Lời phiên khúc):**
 Cadd9 | Bm7 | Am7 - D | G - G7
 ở đây II tách thành II và V để nối với I ở cuối tạo thành [[Authentic cadence]] II - V - I
-I tách thành I và V/IV ([[Music theory/Substitution/Ác âm phụ - Secondary dominant]])
+I tách thành I và V/IV ([[Ác âm phụ - Secondary dominant]])
 **Đoạn Pre-Chorus (Tiền điệp khúc):**
 Am7 - Bm7 - Cadd9 - Dsus4 - D
 
