@@ -82,3 +82,4 @@ worthwhile (adj): xứng đáng
 porabola (n): 
 diverge (v):
 converge (v): 
+summation (n): phép tổng hợp 
