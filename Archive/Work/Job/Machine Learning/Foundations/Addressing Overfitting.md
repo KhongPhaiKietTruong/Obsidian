@@ -1,0 +1,1 @@
+cách 1: tăng kích thước [[Training Set]]
