@@ -1,3 +1,4 @@
+tên gọi đầy đủ là batch gradient descent
 gradient descent là một phương pháp dùng để tìm giá trị nhỏ nhất của một hàm số, bằng cách bắt đầu tại một vị trí bất kì, sau đó dựa trên độ dốc tại điểm đó mà quyết định nhảy tới điểm tiếp theo dựa trên công thức: 
 
 **x(n+1) = x(n) - $\alpha$.f\`(x)** (hàm số 2 biến) hay (x(n+1), y(n+1)) = (x(n), y(n)) - $\alpha\nabla f$ (trong hàm số n biến) (kí hiệu này là [[Gradient]])
