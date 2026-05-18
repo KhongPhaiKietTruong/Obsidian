@@ -32,3 +32,5 @@ diverge (v):
 converge (v): 
 summation (n): phép tổng hợp 
 preconception (n): định kiến
+wiggly (adj): nguệch ngoạc, vặn vẹo
+all over the place (adj): bừa bãi
