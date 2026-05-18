@@ -6,3 +6,5 @@ $$
 f_{\vec{w}, b}(\vec{x})=\frac{1}{1-e^{-(\vec{w}\vec{x}+b)}}
 $$
 hàm này là sự kết hợp giữa [[Linear equation]] và [[Sigmoid function]]
+
+
