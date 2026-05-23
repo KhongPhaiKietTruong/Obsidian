@@ -1,4 +1,4 @@
-
+S
 internals (n): cấu trúc bên trong, cơ chế nội tại
 residual (adj): dư, còn lại
 verbose (adj): nhiều lời, dài dòng
