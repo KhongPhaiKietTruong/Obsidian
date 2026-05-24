@@ -37,3 +37,4 @@ all over the place (adj): bừa bãi
 symlink (n): liên kết biểu trưng
 Retroactive
 developer-centric
+cryptography

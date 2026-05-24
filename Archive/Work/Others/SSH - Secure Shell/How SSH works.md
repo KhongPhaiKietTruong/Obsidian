@@ -6,3 +6,8 @@ khi client muốn kết nối với server
 server gửi cho client một đoạn mã được mã hóa bằng public key
 client phải giải mã nó bằng cách sử dụng private key
 sau khi giải mã, client gửi lại cho server kiểm tra, nếu kết quả đúng thì hai máy sẽ được kết nối với nhau
+
+
+public key là cái ổ khóa, còn private sẽ là chìa khóa
+
+client giữ private key, server sẽ giữ public key
