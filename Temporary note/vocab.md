@@ -1,4 +1,4 @@
-
+S
 internals (n): cấu trúc bên trong, cơ chế nội tại
 residual (adj): dư, còn lại
 verbose (adj): nhiều lời, dài dòng
@@ -35,6 +35,7 @@ preconception (n): định kiến
 wiggly (adj): nguệch ngoạc, vặn vẹo
 all over the place (adj): bừa bãi
 symlink (n): liên kết biểu trưng
+
 ceramic (n): đồ gốm
 lot (n): bãi đất
 deodorant (n): xịt khử mùi
@@ -43,3 +44,7 @@ pervasive (adj): lan tỏa
 insidious (adj): âm thầm diễn ra
 elucidate (v): làm sáng tỏ
 realty (n): bất động sản
+
+Retroactive
+developer-centric
+cryptography
