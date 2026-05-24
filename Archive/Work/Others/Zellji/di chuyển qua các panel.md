@@ -1,0 +1,1 @@
+ctrl + b + mũi tên
