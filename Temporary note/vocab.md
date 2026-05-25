@@ -50,3 +50,6 @@ developer-centric
 cryptography (n): mật mã học 
 transcendence (n): sự siêu việt
 transcend (v): vượt qua, siêu việt hơn
+case studies (n): bài toán thực tế
+open-ended (adj): mở, không giới hạn
+saturate (v): bão hòa
