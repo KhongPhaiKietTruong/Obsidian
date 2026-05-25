@@ -18,10 +18,10 @@ vague (adj): mơ hồ
 penalize (v): phạt
 divergent (adj): mang tính phân kì
 characterize (v): mô tả 
-Immersive (n): 
-backlog task (n): 
+backlog task (n): danh sách việc cần làm còn tồn đọng
 codebase (n): bộ mã nguồn
-deprecation (n): 
+deprecation (n): sự lỗi thời
+deprecated (adj): lỗi thời
 ubiquitous (adj): phổ biến
 variation (n): sự biến động
 dabble (v): học cho biết (hời hợt không chuyên sâu)
@@ -55,7 +55,7 @@ open-ended (adj): mở, không giới hạn
 saturate (v): bão hòa
 bandwidth (n): băng thông (lượng dữ liệu tối đa truyền được trong một đơn vị thời gian)
 throughput (n): băng thông thực tế (lượng dữ liệu thực tế truyền được trong một đơn vị thời gian)
-
+onsite (adj): tại chỗ
 
 
 
