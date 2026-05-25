@@ -1,4 +1,4 @@
-S
+
 internals (n): cấu trúc bên trong, cơ chế nội tại
 residual (adj): dư, còn lại
 verbose (adj): nhiều lời, dài dòng
@@ -47,5 +47,6 @@ realty (n): bất động sản
 
 Retroactive
 developer-centric
-cryptography
-hehhe
+cryptography (n): mật mã học 
+transcendence (n): sự siêu việt
+transcend (v): vượt qua, siêu việt hơn
