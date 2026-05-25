@@ -9,33 +9,34 @@ Pearson (n): hệ số tương quan
 variate (n): biến (dùng trong xstk)
 bimodal (adj): hai đỉnh
 ergonomic (n): công thái học
-
 undershoot (v): ước lượng thiếu
 overshoot (v): ước lượng thừa
 pinnacle (n): đỉnh cao
 ubiquitous (adj): phổ biến
 vague (adj): mơ hồ
-penalize (v): 
-divergent
+penalize (v): phạt
+divergent (adj): phân kì
 characterize (v): mô tả 
-Immersive (n): 
-backlog task (n): 
+backlog task (n): những vấn đề cần làm còn tồn đọng
 codebase (n): bộ mã nguồn
-deprecation (n): 
+deprecation (n): sự lỗi thời
+deprecated (adj): 
+
+
+
 ubiquitous (adj): phổ biến
 variation (n): sự biến động
 dabble (v): học cho biết (hời hợt không chuyên sâu)
 untapped (adj): chưa được khai thác
 worthwhile (adj): xứng đáng
-porabola (n): 
-diverge (v): 
+porabola (n): đường cong parabol
+diverge (v): phân kì
 converge (v): hội tụ
 summation (n): phép tổng hợp 
 preconception (n): định kiến
 wiggly (adj): nguệch ngoạc, vặn vẹo
 all over the place (adj): bừa bãi
 symlink (n): liên kết biểu trưng
-
 ceramic (n): đồ gốm
 lot (n): bãi đất
 deodorant (n): xịt khử mùi
@@ -44,8 +45,6 @@ pervasive (adj): lan tỏa
 insidious (adj): âm thầm diễn ra
 elucidate (v): làm sáng tỏ
 realty (n): bất động sản
+developer-centric (adj): hướng tới lập trình viên
+cryptography (n): mật mã học
 
-Retroactive
-developer-centric
-cryptography
-hehhe

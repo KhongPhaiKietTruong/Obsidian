@@ -8,4 +8,4 @@ sudo limine-snapper-restore
 ```
 sau đó reboot lại máy 
 
-lưu ý: chỉ có các file của system được quay về quá khứ còn /home vì vẫn là trạng thái hiện tại22222222222222222221122222222222333333332
+lưu ý: chỉ có các file của system được quay về quá khứ còn /home vì vẫn là trạng thái hiện tại
