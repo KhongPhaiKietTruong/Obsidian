@@ -22,8 +22,6 @@ codebase (n): bộ mã nguồn
 deprecation (n): sự lỗi thời
 deprecated (adj): 
 
-
-
 ubiquitous (adj): phổ biến
 variation (n): sự biến động
 dabble (v): học cho biết (hời hợt không chuyên sâu)
