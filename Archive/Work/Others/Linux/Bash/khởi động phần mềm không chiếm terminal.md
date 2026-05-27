@@ -1,0 +1,1 @@
+nohup \[process_name] > /dev/null 2>&1 & 

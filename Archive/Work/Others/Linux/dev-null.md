@@ -1,0 +1,1 @@
+file /dev/null chính là thùng rác của linux, bất cứ dữ liệu nào được truyền vào file này sẽ biến mất

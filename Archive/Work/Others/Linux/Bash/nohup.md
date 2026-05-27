@@ -1,0 +1,1 @@
+dùng để tạo ra một tiến trình chạy ngầm, khi tắt terminal đi thì tiến trình đó cũng không tắt
