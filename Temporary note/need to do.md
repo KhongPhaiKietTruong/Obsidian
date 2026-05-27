@@ -6,7 +6,7 @@
 - [ ] dang ki du thi AI challenge
 - [x] làm bài ktct
 - [x] hỏi mn đi ai challenge thứ 7
-- [ ] nhắc mẹ học phí
+- [x] nhắc mẹ học phí
 - [x] làm lab attt
 - [x] học bài attt
 - [ ] 
