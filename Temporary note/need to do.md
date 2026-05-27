@@ -4,11 +4,11 @@
 - [ ] clone hoặc tìm chìa khóa xe
 - [ ] làm chìa khóa phòng
 - [ ] dang ki du thi AI challenge
-- [ ] làm bài ktct
-- [ ] hỏi mn đi ai challenge thứ 7
+- [x] làm bài ktct
+- [x] hỏi mn đi ai challenge thứ 7
 - [ ] nhắc mẹ học phí
-- [ ] làm lab attt
-- [ ] học bài attt
+- [x] làm lab attt
+- [x] học bài attt
 - [ ] 
 
 
