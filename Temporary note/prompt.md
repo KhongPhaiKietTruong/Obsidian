@@ -30,4 +30,4 @@ The company signed a contract with a new supplier.<br>→ Công ty đã ký hợ
 
 Bây giờ, hãy tạo thẻ cho từ sau: [ĐIỀN TỪ CỦA BẠN VÀO ĐÂY]
 
- xuất ra text dạng csv cho tôi trong một code snippet và không dùng markdown
+ xuất ra file .csv cho phép tôi tải về
