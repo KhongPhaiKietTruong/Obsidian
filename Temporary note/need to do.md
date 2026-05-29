@@ -12,5 +12,6 @@
 - [ ] làm bài tập ai
 - [ ] làm attt (lab nhóm)
 - [ ] mua usb wifi 
+- [ ] chọn chủ đề ai
 
 
