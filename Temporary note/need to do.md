@@ -11,6 +11,6 @@
 - [x] học bài attt
 - [ ] làm bài tập ai
 - [ ] làm attt (lab nhóm)
-- [ ] 
+- [ ] mua usb wifi 
 
 
