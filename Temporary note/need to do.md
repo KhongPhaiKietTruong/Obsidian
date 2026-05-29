@@ -9,6 +9,8 @@
 - [x] nhắc mẹ học phí
 - [x] làm lab attt
 - [x] học bài attt
+- [ ] làm bài tập ai
+- [ ] làm attt (lab nhóm)
 - [ ] 
 
 
