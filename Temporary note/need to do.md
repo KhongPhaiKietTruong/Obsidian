@@ -13,5 +13,6 @@
 - [ ] làm attt (lab nhóm)
 - [ ] mua usb wifi 
 - [ ] chọn chủ đề ai
+- [ ] xóa burpsuit
 
 
