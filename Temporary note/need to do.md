@@ -10,7 +10,7 @@
 - [x] làm lab attt
 - [x] học bài attt
 - [ ] làm bài tập ai
-- [ ] làm attt (lab nhóm)
+- [x] làm attt (lab nhóm)
 - [ ] mua usb wifi 
 - [ ] chọn chủ đề ai
 - [ ] xóa burpsuit
