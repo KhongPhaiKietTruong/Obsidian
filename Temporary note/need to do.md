@@ -14,7 +14,7 @@
 - [ ] mua usb wifi 
 - [ ] chọn chủ đề ai
 - [ ] xóa burpsuit
-- [ ] trả ken 500k
+- [ ] trả ken 400k
 - [ ] làm web IOT
 
 
