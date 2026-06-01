@@ -16,5 +16,7 @@
 - [ ] xóa burpsuit
 - [ ] trả ken 400k
 - [ ] làm web IOT
+- [ ] mua đồ đeo thẻ mới
+- [ ] làm tool kiểm tra
 
 
