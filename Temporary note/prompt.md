@@ -31,3 +31,4 @@ The company signed a contract with a new supplier.<br>→ Công ty đã ký hợ
 Bây giờ, hãy tạo thẻ cho từ sau: [ĐIỀN TỪ CỦA BẠN VÀO ĐÂY]
 
  xuất ra file .csv cho phép tôi tải về
+ lưu ý: một từ có nhiều từ loại thì vẫn để trong cùng một thẻ, trong tách từng từ loại ra thành nhiều thẻ tương ứng
