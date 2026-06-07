@@ -1,0 +1,1 @@
+hàm này dùng để nạp các biến trong file .env vào [[Biến môi trường (Enviroment Variables)]]
