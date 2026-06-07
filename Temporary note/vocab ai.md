@@ -5,3 +5,4 @@ annotator (n): bộ / người gán nhãn
 throttle (n): 
 multi-head attention (n): cơ chế chú ý đa đầu
 feed-forward network (n): mạng truyền thẳng
+hehe
