@@ -1,0 +1,2 @@
+chứa các dữ liệu không quan trọng, có thể xóa
+những dữ liệu trong đây là dữ liệu của các phần mềm tạo ra để vận hành nhanh hơn, nếu xóa thì những lần sau các phần mềm đó sẽ tải lại (không phá vỡ hệ thống)
