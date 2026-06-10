@@ -3,7 +3,7 @@
 - [ ] promp engineer course
 - [ ] clone hoặc tìm chìa khóa xe
 - [ ] làm chìa khóa phòng
-- [ ] dang ki du thi AI challenge
+- [x] dang ki du thi AI challenge
 - [x] làm bài ktct
 - [x] hỏi mn đi ai challenge thứ 7
 - [x] nhắc mẹ học phí
