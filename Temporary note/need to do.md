@@ -12,10 +12,10 @@
 - [ ] làm bài tập ai
 - [x] làm attt (lab nhóm)
 - [ ] mua usb wifi 
-- [ ] chọn chủ đề ai
+- [x] chọn chủ đề ai
 - [ ] xóa burpsuit
-- [ ] trả ken 400k
-- [ ] làm web IOT
+- [x] trả ken 400k
+- [x] làm web IOT
 - [ ] mua đồ đeo thẻ mới
 - [ ] làm tool kiểm tra
 
