@@ -20,6 +20,6 @@
 - [ ] làm tool kiểm tra
 - [ ] làm báo cáo KTCT
 - [ ] làm báo cáo AI
-- [ ] làm báo cáo  CNXH
+- [ ] làm báo cáo CNXH
 
 
