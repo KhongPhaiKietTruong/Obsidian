@@ -13,10 +13,13 @@
 - [x] làm attt (lab nhóm)
 - [ ] mua usb wifi 
 - [x] chọn chủ đề ai
-- [ ] xóa burpsuit
+- [x] xóa burpsuit
 - [x] trả ken 400k
 - [x] làm web IOT
 - [ ] mua đồ đeo thẻ mới
 - [ ] làm tool kiểm tra
+- [ ] làm báo cáo KTCT
+- [ ] làm báo cáo AI
+- [ ] làm báo cáo  CNXH
 
 
