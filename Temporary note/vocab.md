@@ -3,3 +3,5 @@ bundle (v):  đóng gói
 unsolicited (adj):  không ai hỏi
 tame  (adj): được thuần hóa, tẻ nhạt
 tame (v): thuần hóa, kiềm chế (cảm xúc)
+outage (n): sự cố mất ...
+disregard (v): bỏ qua
