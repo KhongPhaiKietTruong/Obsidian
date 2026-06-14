@@ -13,3 +13,17 @@ repel (v): đẩy lùi
 transit (n): sự quá cảnh, sự vận chuyển, giao thông công cộng
 offset (v): bù đắp vào
 offset (n):  
+layover
+incur (v): phát sinh
+getaway (n): kì nghỉ ngắn
+syllabus (n): 
+sift (v): 
+porter (n):
+tray (n): cái khay
+ensemble (v): 
+full-fledge (adj):
+manifold (adj): 
+decimate 
+dictate (v):
+sterilize (v):
+stance (n)
