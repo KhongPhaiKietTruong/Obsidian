@@ -12,4 +12,4 @@ hamper (v): gây cản trở
 repel (v): đẩy lùi
 transit (n): sự quá cảnh, sự vận chuyển, giao thông công cộng
 offset (v): bù đắp vào
-offset (n): 
+offset (n):  
