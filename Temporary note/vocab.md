@@ -12,18 +12,19 @@ hamper (v): gây cản trở
 repel (v): đẩy lùi
 transit (n): sự quá cảnh, sự vận chuyển, giao thông công cộng
 offset (v): bù đắp vào
-offset (n):  
-layover
+offset (n):  độ lệch 
+layover time (n): thời gian chờ quá cảnh 
 incur (v): phát sinh
 getaway (n): kì nghỉ ngắn
-syllabus (n): 
-sift (v): 
-porter (n):
+syllabus (n): đề cương môn học
+sift (v): sàng lọc
+porter (n): nhân viên khuân vác, người gác cổng 
 tray (n): cái khay
-ensemble (v): 
-full-fledge (adj):
-manifold (adj): 
-decimate 
-dictate (v):
-sterilize (v):
-stance (n)
+ensemble (v): một bộ đồ
+full-fledge (adj): phát triển hoàn thiện 
+manifold (adj): đa dạng
+decimate (v):  tiêu diệt phần lớn
+dictate (v): đọc cho người khác chép, ra lệnh
+sterilize (v): tiệt trùng, triệt sản
+stance (n): quan điểm, lập trường
+storytelling (n): nghệ thuật kể chuyện 
