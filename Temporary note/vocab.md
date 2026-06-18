@@ -28,3 +28,4 @@ dictate (v): đọc cho người khác chép, ra lệnh
 sterilize (v): tiệt trùng, triệt sản
 stance (n): quan điểm, lập trường
 storytelling (n): nghệ thuật kể chuyện 
+cultivate (v): trồng trọt, nuôi dưỡng
