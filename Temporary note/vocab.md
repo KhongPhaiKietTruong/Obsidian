@@ -29,3 +29,5 @@ sterilize (v): tiệt trùng, triệt sản
 stance (n): quan điểm, lập trường
 storytelling (n): nghệ thuật kể chuyện 
 cultivate (v): trồng trọt, nuôi dưỡng
+superintenent (n): người giám sát / quản lí
+paystub (n): phiếu lương
