@@ -35,3 +35,5 @@ altogether (adv): hoàn toàn, tổng cộng, nhìn chung
 walk-in (adj): vãng lai
 columnist (n): nhà bình luận
 ballot (n): lá phiếu
+
+vary (v): làm da đạng
