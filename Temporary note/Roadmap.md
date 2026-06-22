@@ -11,6 +11,7 @@ Must have:
 - [ ] Typescript 
 - [ ] RESTful APIs
 - [ ] Docker
+- [ ] Cloud (AWS/Azure/GCP)
 Frontend:
 - HTML, Reactjs (React)
 Backend:
