@@ -2,6 +2,7 @@ Both must have:
 - [ ] API
 	- [ ] RESTful APIs
 	- [ ] gRPC
+- [ ] Microservices
 
 AI:
 - [ ] speaking english
@@ -13,11 +14,11 @@ AI:
 - [ ] fine-tuning (LoRA, QLoRA, ...)
 - [ ] MLOps
 	- [ ] vLLM, Triton 
+	- [ ] Docker, Kubernetes
 
 SWE:
 Must have:
 - [ ] Typescript 
-
 - [ ] Docker
 - [ ] Cloud (AWS/Azure/GCP)
 Frontend:
