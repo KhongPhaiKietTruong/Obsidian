@@ -9,6 +9,7 @@ AI:
 - [x] math for ai
 - [ ] maplotlib & seaborn
 - [ ] machine learning (scikit-learn, XGBoost, LightGMB)
+- [ ] pytorch
 - [ ] deep learning
 - [ ] Langchain, Llamandex, Hugging Face transformer
 - [ ] fine-tuning (LoRA, QLoRA, ...)
