@@ -34,3 +34,4 @@ Others:
 - [ ] Blogs 
 - [ ] Porfolio
 - [ ] System design
+- [ ] Vertex AI
