@@ -1,2 +1,1 @@
-- tại sao linux hiện tại chạy rất ổn định rồi mà đội ngũ phát triển vẫn còn tiếp tục viết code ? họ đang viết cái gì
 - xem xem antigravity có làm việc với notebook được không

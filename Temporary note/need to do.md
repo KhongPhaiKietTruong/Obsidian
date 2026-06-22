@@ -2,7 +2,6 @@
 - [x] chạy máy ảo test caelestia
 - [ ] promp engineer course
 - [ ] clone hoặc tìm chìa khóa xe
-- [ ] làm chìa khóa phòng
 - [x] dang ki du thi AI challenge
 - [x] làm bài ktct
 - [x] hỏi mn đi ai challenge thứ 7
@@ -17,10 +16,10 @@
 - [x] trả ken 400k
 - [x] làm web IOT
 - [ ] mua đồ đeo thẻ mới
-- [ ] làm tool kiểm tra
-- [ ] làm báo cáo KTCT
-- [ ] làm báo cáo AI
-- [ ] làm báo cáo CNXH
+- [x] làm tool kiểm tra
+- [x] làm báo cáo KTCT
+- [x] làm báo cáo AI
+- [x] làm báo cáo CNXH
 
 
 
