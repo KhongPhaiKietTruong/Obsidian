@@ -9,6 +9,8 @@ AI:
 SWE:
 Must have:
 - [ ] Typescript 
+- [ ] RESTful APIs
+- [ ] Docker
 Frontend:
 - HTML, Reactjs (React)
 Backend:
