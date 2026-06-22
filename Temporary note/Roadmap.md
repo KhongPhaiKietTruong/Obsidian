@@ -1,11 +1,13 @@
 AI:
-
 - [ ] speaking english
 - [x] math for ai
 - [ ] maplotlib & seaborn
 - [ ] machine learning (scikit-learn, XGBoost, LightGMB)
 - [ ] deep learning
-- [ ] langchain, llmaIndex
+- [ ] Langchain, Llamandex, Hugging Face transformer
+- [ ] fine-tuning (LoRA, QLoRA, ...)
+- [ ] MLOps
+	- [ ] vLLM, Triton 
 
 SWE:
 Must have:
@@ -19,3 +21,8 @@ Backend:
 - [ ] Nodejs (Express.js, Nest.js)
 - [ ] FastAPI 
 - [ ] PostgreSQL
+
+
+Others:
+- [ ] Blogs 
+- [ ] Porfolio
