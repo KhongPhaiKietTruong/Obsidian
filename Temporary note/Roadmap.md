@@ -7,9 +7,11 @@ AI:
 - [ ] deep learning
 
 SWE:
+Must have:
+- [ ] Typescript 
 Frontend:
 - HTML, Reactjs (React)
 Backend:
-- [ ] Nodejs 
+- [ ] Nodejs (Express.js, Nest.js)
 - [ ] FastAPI 
 - [ ] PostgreSQL
