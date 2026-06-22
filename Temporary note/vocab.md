@@ -39,3 +39,4 @@ ballot (n): lá phiếu
 vary (v): làm da đạng
 set (adj): cố định 
 as though (adv): cứ như là 
+obfuscate (v): 
