@@ -1,3 +1,8 @@
+Both must have:
+- [ ] API
+	- [ ] RESTful APIs
+	- [ ] gRPC
+
 AI:
 - [ ] speaking english
 - [x] math for ai
@@ -12,7 +17,7 @@ AI:
 SWE:
 Must have:
 - [ ] Typescript 
-- [ ] RESTful APIs
+
 - [ ] Docker
 - [ ] Cloud (AWS/Azure/GCP)
 Frontend:
