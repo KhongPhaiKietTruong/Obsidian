@@ -4,3 +4,4 @@ as though (adv): cứ như là
 obfuscate (v):  làm cho khó đọc 
 carpenter (n): thợ mộc
 brush (v): chải, phủi
+không dùng that sau giới từ
