@@ -22,6 +22,6 @@ buffet (n):
 handout (n): tài liệu phát tay, đồ cứu trợ
 ribbon (n):  dảy ruy-băng
 lumber / timber (n): gỗ xây dựng
-
+disposal (n): 
 midranges
 không dùng that sau giới từ
