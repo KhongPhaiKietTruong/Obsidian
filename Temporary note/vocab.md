@@ -9,5 +9,9 @@ merger (n): sự sát nhập
 mixup/mix-up (n): sự nhầm lẫn
 offshore (adj): ở nước ngoài, hải ngoại
 repave (v): làm lại đường
+hinge (n): bản lề
+hinge on (v): phụ thuộc vào
+
+midranges
 
 không dùng that sau giới từ
