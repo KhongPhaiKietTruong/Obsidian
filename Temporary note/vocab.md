@@ -15,7 +15,9 @@ terrace (n): sân thượng
 terraces (n): ruộng bậc thang 
 stamp (n): con tem
 stamp (v): đóng dấu
-
+board (v): lên (tàu, máy bay, xe, ...)
+tack (v): cố định một vật bằng đinh nhỏ
+tack (n): chiến thuật
 
 midranges
 không dùng that sau giới từ
