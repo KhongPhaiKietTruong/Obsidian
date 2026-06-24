@@ -18,7 +18,8 @@ stamp (v): đóng dấu
 board (v): lên (tàu, máy bay, xe, ...)
 tack (v): cố định một vật bằng đinh nhỏ
 tack (n): chiến thuật
-buffet (n):
+buffet (n): 
+handout (n): tài liệu phát tay, đồ cứu trợ
 
 midranges
 không dùng that sau giới từ
