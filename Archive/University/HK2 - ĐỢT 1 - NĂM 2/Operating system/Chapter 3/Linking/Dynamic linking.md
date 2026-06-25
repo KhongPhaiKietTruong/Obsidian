@@ -1,1 +1,0 @@
-việc liên kết [[System libraries (thư viện hệ thống)]] với chương trình người dùng được trì hoãn cho tới giai đoạn execution

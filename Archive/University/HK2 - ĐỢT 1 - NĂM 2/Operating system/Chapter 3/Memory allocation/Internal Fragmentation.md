@@ -1,1 +1,0 @@
-do RAM cấp phát bộ nhớ theo block 4KB, ví dụ process chỉ cần 18KB thì RAM sẽ cấp cho nó 20KB gây lãng phí 2KB

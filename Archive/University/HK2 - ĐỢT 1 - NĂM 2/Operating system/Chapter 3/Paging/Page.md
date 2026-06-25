@@ -1,1 +1,0 @@
-là nhiều phần được chia nhỏ bằng nhau của RAM ảo

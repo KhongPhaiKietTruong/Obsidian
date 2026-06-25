@@ -1,1 +1,0 @@
-nếu như ta sử dụng First Fit để cấp bộ nhớ, cứ mỗi 2 block ta cung cấp, ta sẽ lãng phí 1 block do phân mảnh

@@ -1,1 +1,0 @@
-vẫn gây ra [[Internal Fragmentation]]

@@ -1,1 +1,0 @@
-lưu trữ kích thước của vùng nhớ

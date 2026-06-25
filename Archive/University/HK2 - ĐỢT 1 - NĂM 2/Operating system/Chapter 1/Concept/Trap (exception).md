@@ -1,1 +1,0 @@
-cũng khá tương tự [[Interrupt]] ngoại trừ việc trap xuất phát từ chính phần mềm đang chạy
