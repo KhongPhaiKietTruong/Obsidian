@@ -1,0 +1,3 @@
+```terminal
+npx live-server
+```
