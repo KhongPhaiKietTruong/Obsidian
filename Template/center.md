@@ -1,1 +1,0 @@
-<div align="center"> <% tp.file.selection() %> </div>
