@@ -23,5 +23,14 @@
       ],
       "key": "S"
     }
+  ],
+  "markdown:toggle-preview": [],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }
