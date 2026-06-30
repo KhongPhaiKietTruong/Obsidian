@@ -5,5 +5,5 @@ sudo snapper -c root create -c "" -d "Truoc khi upgrade he thong"
 
 nếu muốn chụp một bản bình thường (sẽ bị xóa khi số lượng bản snapshot đạt giới hạn):
 ```bash
-sudo snapper -c root create -c "number" -d "Mo ta snapshot binh thuong"
+sudo snapper -c root create -c "number" -d "chup snapshot"
 ```
