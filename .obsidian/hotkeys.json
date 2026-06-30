@@ -1,12 +1,4 @@
 {
-  "editor:toggle-strikethrough": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "editor:insert-codeblock": [
     {
       "modifiers": [
@@ -30,7 +22,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "E"
+      "key": "Q"
     }
   ]
 }
