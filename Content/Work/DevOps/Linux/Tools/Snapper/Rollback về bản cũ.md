@@ -1,4 +1,3 @@
-dùng để quay về trạng thái ở một bản snapshot trong quá khứ
 
 cách dùng:
 trong menu khi khởi động, chọn bản snapshot muốn khôi phục
