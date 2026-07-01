@@ -1,0 +1,1 @@
+dùng để chia web thành nhiều thành phần chuyên biệt

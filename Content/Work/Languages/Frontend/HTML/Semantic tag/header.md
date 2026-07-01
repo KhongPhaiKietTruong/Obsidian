@@ -1,0 +1,1 @@
+cũng giống như [[div]] nhưng dùng thẻ này sẽ có tính ngữ nghĩa hơn đồng thời hỗ trợ SEO tốt hơn, một trang web có thể có nhiều header
