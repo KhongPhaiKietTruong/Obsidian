@@ -1,4 +1,4 @@
-thẻ này nằm trong [[Content/Work/Languages/Frontend/HTML/head|head]], dùng để kết nối file CSS vào file HTML
+thẻ này nằm trong [[Content/Work/Languages/Frontend/HTML/Normal tag/head|head]], dùng để kết nối file CSS vào file HTML
 ```html
 <link rel="stylesheet" href="style.css">
 ```
