@@ -1,0 +1,2 @@
+thuộc tính này dùng để đặt mã định dang cho thẻ, mỗi thẻ chỉ có một id duy nhất và các thẻ cũng không được trùng id
+thuộc tính này thường được dùng để làm việc với Javascript bằng method [[getElementById("<id>")]]
