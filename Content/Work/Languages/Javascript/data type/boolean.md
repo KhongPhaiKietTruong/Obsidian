@@ -1,0 +1,1 @@
+gồm hai giá trị: true và false

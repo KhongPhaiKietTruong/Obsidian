@@ -1,0 +1,1 @@
+một biến khi được khai báo nhưng không gán giá trị thì sẽ mang kiểu dữ liệu này
