@@ -1,3 +1,3 @@
 ```terminal
-npx live-server
+npx live-server <file_name>
 ```
