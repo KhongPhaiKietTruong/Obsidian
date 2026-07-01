@@ -1,0 +1,1 @@
+kiểu này thường để với ý nghĩa là "chủ động để trống"

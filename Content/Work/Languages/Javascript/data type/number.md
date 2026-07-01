@@ -1,1 +1,1 @@
-đây là kiểu dữ liệu bao gồm: số nguyên, Infinity, -Infinity, NaN (Not a number)
+đây là kiểu dữ liệu bao gồm: số nguyên, số thập phân, Infinity, -Infinity, NaN (Not a number)
