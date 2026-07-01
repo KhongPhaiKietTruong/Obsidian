@@ -1,1 +1,0 @@
-là một tập thực thể được kế thừa các thuộc tính và mối quan hệ từ một [[Tập thực thể]] gọi là lớp cha

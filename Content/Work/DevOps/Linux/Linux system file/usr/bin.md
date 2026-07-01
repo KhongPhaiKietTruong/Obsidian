@@ -1,1 +1,1 @@
-các package cài bằng pacman sẽ đi vào đây
+các [[Package|package]] cài bằng pacman sẽ đi vào đây

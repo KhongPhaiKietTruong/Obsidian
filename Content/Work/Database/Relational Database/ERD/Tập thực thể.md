@@ -1,1 +1,0 @@
-là tập hợp của các [[Thực thể]] có chung thuộc tính với nhau

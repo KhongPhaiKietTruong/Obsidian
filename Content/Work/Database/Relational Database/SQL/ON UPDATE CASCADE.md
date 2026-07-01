@@ -1,1 +1,0 @@
-khi bản ghi ở bản cha bị thay đổi, thì giá trị ở bảng con sẽ được cập nhật theo

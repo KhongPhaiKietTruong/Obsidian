@@ -1,0 +1,1 @@
+tiêu đề tiếng Việt: thuộc tính

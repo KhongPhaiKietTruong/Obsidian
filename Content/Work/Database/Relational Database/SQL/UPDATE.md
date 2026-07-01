@@ -1,1 +1,0 @@
-dùng để chọn bảng để thực hiện chỉnh sửa

@@ -1,0 +1,1 @@
+là một [[Tập thực thể|tập thực thể]] được kế thừa các [[Thuộc tính|thuộc tính]] và [[Mối quan hệ|mối quan hệ]] từ một [[Tập thực thể]] gọi là lớp cha

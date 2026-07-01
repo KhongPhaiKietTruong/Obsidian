@@ -1,0 +1,1 @@
+là tập hợp của các [[Thực thể]] có chung [[Thuộc tính|thuộc tính]] với nhau

@@ -1,1 +1,0 @@
-là "hồi quy" nghĩa là dự đoán một con số

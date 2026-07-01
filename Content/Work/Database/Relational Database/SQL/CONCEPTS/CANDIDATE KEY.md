@@ -1,1 +1,0 @@
-là một [[SUPER KEY]] tối thiểu, có thể được chọn để trở thành [[Database/Relational Database/SQL/CONCEPTS/PRIMARY KEY|PRIMARY KEY]]

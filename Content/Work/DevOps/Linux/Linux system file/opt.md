@@ -1,1 +1,1 @@
-opt nghĩa là optional (mở rộng), là những file hay phần mềm tải về ở bên thứ ba (không nằm trong package manager). Mọi user đều có thể dùng phần mềm được đặt trong opt
+opt nghĩa là optional (mở rộng), là những file hay phần mềm tải về ở bên thứ ba (không nằm trong [[package manager]]). Mọi user đều có thể dùng phần mềm được đặt trong opt

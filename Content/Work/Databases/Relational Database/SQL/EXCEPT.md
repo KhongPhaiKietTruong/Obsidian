@@ -1,0 +1,1 @@
+trả về những hàng ở [[Bảng|bảng]] này mà không có ở [[Bảng|bảng]] kia

@@ -1,1 +1,1 @@
-pacman -Rns [package name]
+pacman -Rns [[[Package|package]] name]

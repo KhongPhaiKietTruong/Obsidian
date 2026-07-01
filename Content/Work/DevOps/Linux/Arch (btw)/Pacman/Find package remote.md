@@ -1,1 +1,1 @@
-uupacman -Ss \[package]
+uupacman -Ss \[[[Package|package]]]

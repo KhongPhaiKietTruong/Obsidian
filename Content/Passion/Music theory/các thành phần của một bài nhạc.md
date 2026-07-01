@@ -2,7 +2,7 @@
 
 Đây là "bộ khung" giữ cho bài hát đi đúng tốc độ và tạo ra sự sôi động.
 
-- **Drums (Trống):** Bao gồm Kick (trống cái), Snare (trống lẫy), Hi-hat và Cymbals. Nó là xương sống của nhịp điệu.
+- **Drums (Trống):** Bao gồm [[Kick]] (trống cái), [[Snare]] (trống lẫy), Hi-hat và Cymbals. Nó là xương sống của nhịp điệu.
     
 - **Percussion (Nhạc cụ gõ):** Các loại như Shaker, Tambourine, Congas... dùng để thêm các chi tiết nhỏ, làm nhịp điệu thêm tinh tế.
     

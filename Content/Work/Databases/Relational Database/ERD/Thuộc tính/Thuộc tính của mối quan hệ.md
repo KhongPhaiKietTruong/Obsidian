@@ -1,0 +1,2 @@
+kết hợp định nghĩa của [[Mối quan hệ]] và [[Thực thể]]
+ta thấy rằng, [[Thuộc tính|thuộc tính]] của [[Mối quan hệ|mối quan hệ]] là một [[Thuộc tính|thuộc tính]] trong [[Bảng|bảng]] thể hiện [[Mối quan hệ|mối quan hệ]] ([[Mối quan hệ|mối quan hệ]] là một [[Thực thể]] ~ [[Bảng|bảng]])
