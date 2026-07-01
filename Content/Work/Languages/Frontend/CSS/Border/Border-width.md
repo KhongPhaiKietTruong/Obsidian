@@ -1,0 +1,1 @@
+dùng để định nghĩa độ dày của viền

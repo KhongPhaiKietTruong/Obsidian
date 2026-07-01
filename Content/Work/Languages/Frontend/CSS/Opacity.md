@@ -1,0 +1,1 @@
+dùng để chỉnh độ trong suốt, có giá trị từ 0 đến 1.0

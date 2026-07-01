@@ -1,0 +1,1 @@
+tính toán dựa trên độ rộng và cao của màn hình

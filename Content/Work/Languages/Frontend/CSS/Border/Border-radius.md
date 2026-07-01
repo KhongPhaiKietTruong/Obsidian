@@ -1,0 +1,1 @@
+dùng để định nghĩa bo tròn góc cho viền

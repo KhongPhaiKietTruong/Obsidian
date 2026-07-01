@@ -1,0 +1,1 @@
+dùng để định nghĩa màu sắc của viền

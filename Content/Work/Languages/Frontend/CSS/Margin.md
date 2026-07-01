@@ -1,0 +1,1 @@
+dùng để định nghĩa khoảng cách giữa thẻ được định nghĩa với các thẻ xung quanh
