@@ -1,1 +1,1 @@
-dùng để chọn [[Bảng|bảng]] để thực hiện chỉnh sửa
+dùng để chọn [[Table (Bảng)|bảng]] để thực hiện chỉnh sửa

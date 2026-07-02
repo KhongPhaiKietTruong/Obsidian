@@ -2,5 +2,5 @@ mối quan hệ là một [[Thực thể]], dùng để chỉ mối quan hệ gi
 
 kí hiệu **hình thoi** 
 
-về cơ bản thì ta đem ERD qua CSDL vật lí thì nó sẽ là một [[Bảng|bảng]]
+về cơ bản thì ta đem ERD qua CSDL vật lí thì nó sẽ là một [[Table (Bảng)|bảng]]
 

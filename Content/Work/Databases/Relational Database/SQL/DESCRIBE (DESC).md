@@ -1,3 +1,3 @@
-dùng để hiển thị ra [[Bảng|bảng]]
+dùng để hiển thị ra [[Table (Bảng)|bảng]]
 
 DESC <TABLE_NAME>

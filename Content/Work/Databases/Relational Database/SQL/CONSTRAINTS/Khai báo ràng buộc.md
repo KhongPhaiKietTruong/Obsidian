@@ -9,7 +9,7 @@ CREATE TABLE NhanVien (
 );
 ```
 
-Khai báo ở mức [[Bảng|bảng]]
+Khai báo ở mức [[Table (Bảng)|bảng]]
 
 ```sql
 CREATE TABLE DonHang (

@@ -1,1 +1,1 @@
-để khi mà [[Bảng|bảng]] cha bị xóa đi, thì [[Bảng|bảng]] con tham chiếu tới nó không bị mang giá trị NULL
+để khi mà [[Table (Bảng)|bảng]] cha bị xóa đi, thì [[Table (Bảng)|bảng]] con tham chiếu tới nó không bị mang giá trị NULL

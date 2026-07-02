@@ -1,1 +1,1 @@
-khi bản ghi ở bản cha bị thay đổi, thì giá trị ở [[Bảng|bảng]] con sẽ được cập nhật theo
+khi bản ghi ở bản cha bị thay đổi, thì giá trị ở [[Table (Bảng)|bảng]] con sẽ được cập nhật theo

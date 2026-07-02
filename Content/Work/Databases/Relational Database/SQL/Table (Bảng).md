@@ -1,0 +1,1 @@
+là một tập hợp các [[Records (Bảng ghi)]]

@@ -1,4 +1,4 @@
-dùng để chọn [[Bảng|bảng]] để xóa hàng
+dùng để chọn [[Table (Bảng)|bảng]] để xóa hàng
 thường đứng trước [[WHERE]]
 
 ```SQL
