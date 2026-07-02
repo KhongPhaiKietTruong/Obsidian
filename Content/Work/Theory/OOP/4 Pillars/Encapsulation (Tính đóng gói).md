@@ -1,1 +1,3 @@
-Là tính chất nhằm đảm bảo tính bảo mật của [[Attribute (Thuộc tính)]], không cho người bên ngoài có quyền truy cập tùy ý vào các thuộc tính bên trong mà phải truy cập thông qua các [[Method (Phương thức)]] như  [[Getter]] hoặc [[Setter]] 
+Là tính chất nhằm đảm bảo tính bảo mật của [[Attribute (Thuộc tính)]], không cho người bên ngoài có quyền truy cập tùy ý vào các thuộc tính bên trong mà phải truy cập thông qua các [[Method (Phương thức)]] như  [[Getter]] hoặc [[Setter]]
+Tính chất này cũng đảm bảo gom các thuộc tính và phương thức về cùng một nơi chính là lớp mà tụi nó liên quan (thuộc về)
+- ví dụ: class dog thì sẽ có các thuộc tính như là giống, màu lông, .... và các thuộc tính như ăn, ngủ, ...

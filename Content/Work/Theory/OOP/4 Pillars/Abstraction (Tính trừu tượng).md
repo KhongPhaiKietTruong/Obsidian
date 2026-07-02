@@ -1,0 +1,2 @@
+thể hiện rõ nhất của tính chất này chính là [[Abstract Class (Lớp trừu tượng)]] và [[Interface]] 
+Tính chất này tập trung vào những đặc điểm cốt lõi của một đối tượng như [[Attribute (Thuộc tính)]] và [[Method (Phương thức)]] mà bỏ qua cách triển khai chi tiết để có được cái nhìn tổng quát

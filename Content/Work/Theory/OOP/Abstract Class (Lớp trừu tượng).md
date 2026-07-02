@@ -1,0 +1,2 @@
+Nếu các [[Class (Lớp)]] là bản thiết kế để tạo ra các [[Object (Đối tượng)]] thì lớp trừu tượng chính là bản thiết kế dành cho các lớp 
+đặc điểm của các lớp trừu tượng nó không thể tạo ra các đối tượng mà chỉ có thể để các lớp [[Inheritance (Tính kế thừa) |kế thừa]] nó mà thôi
