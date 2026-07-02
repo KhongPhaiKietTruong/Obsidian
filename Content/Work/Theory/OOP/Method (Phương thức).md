@@ -1,0 +1,1 @@
+là các [[Function (Hàm số)]] của một [[Class (Lớp)]] cụ thể và các function được định nghĩa trong class thì chỉ có class đó mới có và có thể sử dụng function đó

@@ -1,0 +1,1 @@
+là giá trị thực tế mà ta truyền vào [[Function (Hàm số)]]

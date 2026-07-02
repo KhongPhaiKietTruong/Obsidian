@@ -24,5 +24,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }

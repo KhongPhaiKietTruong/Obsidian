@@ -1,0 +1,1 @@
+Là tính chất nhằm đảm bảo tính bảo mật của [[Attribute (Thuộc tính)]], không cho người bên ngoài có quyền truy cập tùy ý vào các thuộc tính bên trong mà phải truy cập thông qua các [[Method (Phương thức)]] như  [[Getter]] hoặc [[Setter]] 

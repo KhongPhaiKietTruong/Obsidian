@@ -1,2 +1,1 @@
-tiêu đề tiếng Việt: đối tượng
-là một thực thể gồm các [[Attribute (Thuộc tính)]] và [[Method(Phương thức)]]  ^de4b5c
+là một thực thể gồm các [[Attribute (Thuộc tính)]] và [[Method (Phương thức)]], được tạo nên thông qua các [[Class (Lớp)]]  
