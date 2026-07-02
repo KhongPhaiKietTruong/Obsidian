@@ -1,1 +1,1 @@
-là một function của một đối
+là các function của một [[Class (Lớp)]]  cụ thể và các function này chỉ có class đó mới có và có thể sử dụng,
