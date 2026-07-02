@@ -1,1 +1,1 @@
-cũng khá
+cũng khá giống với một [[Object (Đối tượng)]] trong OOP bình thường, chúng ta có thể định nghĩa các [[Attribute (Thuộc tính)]] và các [[Method(Phương thức)]]
