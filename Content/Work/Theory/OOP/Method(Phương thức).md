@@ -1,1 +1,1 @@
-là [[function
+là một function của một đối
