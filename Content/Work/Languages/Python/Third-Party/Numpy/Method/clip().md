@@ -1,3 +1,4 @@
+```python
 np.clip(
     a,
     a_min=\<no value>,
@@ -8,6 +9,7 @@ np.clip(
     max=\<no value>,
     **kwargs,
 )
+```
 dùng để gán cận trên cận dưới cho phần tử, nếu phần tử < a_min thì nhận a_min
 nếu > a_max thì nhận a_ax
 
