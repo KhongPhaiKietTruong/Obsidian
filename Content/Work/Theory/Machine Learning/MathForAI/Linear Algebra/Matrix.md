@@ -1,0 +1,1 @@
+là tập hợp của các [[Vector]] tạo thành một [[Arrays (Mảng)]] 2 chiều

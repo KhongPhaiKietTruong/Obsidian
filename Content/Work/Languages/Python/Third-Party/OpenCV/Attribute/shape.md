@@ -1,0 +1,2 @@
+trả về một [[Tuple]] chứa lần lượt là chiều cao, chiều rộng, số kênh màu (nếu là ảnh màu, còn ảnh xám thì sẽ không có phần tử này)
+khi làm việc với ảnh, người ta thường quy ước là (rộng, cao) nhưng [[Attribute (Thuộc tính) |thuộc tính]] này lại trả về ngược lại, do đó ta thường phải đảo nó lại

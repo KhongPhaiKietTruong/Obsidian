@@ -1,3 +1,3 @@
-thường dùng với hàm findContour()
+thường dùng với hàm findContour() để tìm những đường viền trong ảnh
 drawContours(image, contours, contourIdx, color\[, thickness\[, lineType\[, hierarchy\[, maxLevel\[, offset]]]]]) -> image
 ![[Pasted image 20260118163931.png]]

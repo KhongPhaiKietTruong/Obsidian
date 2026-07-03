@@ -1,1 +1,0 @@
-trả về kích thước (số byte) của một phần tử 

@@ -1,0 +1,1 @@
+là một cấu trúc dữ liệu dùng để lưu trữ nhiều phần tử có cùng kiểu dữ liệu với nhau và ta có thể truy cập các phần tử đó thông qua các chỉ số
