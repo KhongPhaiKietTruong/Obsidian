@@ -7,17 +7,14 @@ các thông số: np.arrange(start, stop, step, dtype=None)
 ```python
 arr = np.arrange(7)
 output: arr = [0, 1, 2, 3, 4, 5, 6, 7]
-
 ```
 
 ```python
 arr = np.arrange(3, 6)
 output: arr = [3, 4, 5]
-
 ```
 
 ```python
 arr = np.arrange(3, 6, 2)
 output: arr = [3, 5]
-
 ```
