@@ -1,7 +1,7 @@
-hàm array() giúp tạo một mảng trong numpy
+hàm array() giúp tạo một [[Arrays (Mảng)]] trong numpy
 
 nhận vào các tham số
-- object: là một iterable (thường là list và tuple, chấp nhận list và tuple xen lẫn nhau)
+- object: là một iterable (thường là [[List]] và [[Tuple]], chấp nhận list và tuple xen lẫn nhau)
 - dtype: kiểu dữ liệu mong muốn, không khai báo thì np sẽ tự suy luận, nếu vừa có số nguyên và số thực thì nó cho là số thực
 - ndmin: số chiều, dùng để tạo "lớp vỏ bọc" 
 
