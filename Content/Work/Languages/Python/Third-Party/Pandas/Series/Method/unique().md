@@ -1,4 +1,4 @@
-dùng để trả về một mảng numpy chứa các giá trị riêng biệt của Series đó
+dùng để trả về một mảng numpy chứa các giá trị riêng biệt của [[Series]] đó
 ```python
 print(df['Duration'].unique())
 #output:

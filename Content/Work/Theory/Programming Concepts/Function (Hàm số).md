@@ -1,1 +1,0 @@
-là một khối code được bao bọc lại dùng để làm một việc cụ thể nào đó

@@ -1,1 +1,0 @@
-poetry config http-basic.foo \<username> \<password> 

@@ -1,0 +1,1 @@
+dùng để thêm một folder bên ngoài folder được khởi tạo agy hiện tại và đưa nó vào ngữ cảnh làm việc

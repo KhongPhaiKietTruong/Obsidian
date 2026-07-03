@@ -1,1 +1,1 @@
-cách dùng tương tự hoàn toàn mean(), chỉ khác ở ý nghĩa là median tính trung vị còn mean thì trung bình
+cách dùng tương tự hoàn toàn mean(), chỉ khác ở ý nghĩa là median tính [[Median value |trung vị]] còn mean thì [[Mean value (Average value)|trung bình]] 

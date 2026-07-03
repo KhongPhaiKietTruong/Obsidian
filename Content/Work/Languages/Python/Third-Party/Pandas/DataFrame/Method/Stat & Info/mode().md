@@ -1,4 +1,4 @@
-luôn trả về một Dataframe mới với từng cột là giá trị xuất hiện nhiều nhất của nó
+luôn trả về một [[DataFrame]] mới với từng cột là giá trị xuất hiện nhiều nhất của nó ([[Mode value]])
 
 hàm này có thể làm việc với str
 
