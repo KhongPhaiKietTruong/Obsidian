@@ -3,3 +3,5 @@ không dùng that sau giới từ
 
 stash (v): cất giấu
 canvas (n): 
+justify (v): chứng minh
+
