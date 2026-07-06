@@ -6,4 +6,6 @@ canvas (n):
 justify (v): chứng minh
 annotator (n): bộ / người gán nhãn
 throttle (n): bóp băng thông, kiềm hãm 
+broadband (adj): băng thông rộng 
+
 
