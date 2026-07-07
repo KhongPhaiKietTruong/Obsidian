@@ -6,3 +6,7 @@ CIA+ (CIA được nâng cấp):
 - authencity: sự xác minh
 - accountability: sự giải trình
 - non-repudiation: không thể phủ nhận hành động đã làm 
+
+### Threat 
+các loại hậu quả và hành vi đe dọa (4 mục lớn là hậu quả, mục con là hành vi)
+unathorinized disclosure (tiết lộ trái phép)
