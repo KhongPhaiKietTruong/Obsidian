@@ -32,5 +32,47 @@
       ],
       "key": "L"
     }
-  ]
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageDown"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    },
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "PageUp"
+    },
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "editor:insert-link": []
 }

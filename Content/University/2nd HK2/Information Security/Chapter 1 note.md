@@ -26,3 +26,6 @@ các loại hậu quả và hành vi đe dọa (4 mục lớn là hậu quả, m
 - denial of service: từ chối dịch vụ
 - fabrication: giả mạo
 
+# Attack surface
+​​​​	Là tập hợp tất cả các điểm có thể tấn công
+
