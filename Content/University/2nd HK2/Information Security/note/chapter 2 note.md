@@ -10,6 +10,21 @@ Ciphertext (bản mã): là thông điệp sau khi được mã hóa
 
 # Phân loại mật mã
 ## dựa trên phép biến đổi
-
+- phép thế
+- phép hoán vị
 ## dựa trên số lượng khóa
+- mã hóa đối xứng (1 khóa): 1 khóa cho cả mã hóa và giải mã
+- mã hóa bất đối xứng (2 khóa): khóa công khai và khóa riêng tư
+## dựa trên cách xử lí bản rõ
+- mã hóa khối: theo từng khối
+- mã hóa luồng: theo từng bit hoặc ký tự
+
+# Các loại tấn công giải mã
+- vét cạn
+- thám mã
+- tấn công dựa trên triển khai thực tế
+- tấn công phi kĩ thuật
+
+# Độ mạnh mật mã
+​phụ thuộc vào **chi phí** và **thời gian** 
 
