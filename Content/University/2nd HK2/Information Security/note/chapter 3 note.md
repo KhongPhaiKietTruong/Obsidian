@@ -16,7 +16,7 @@ Text segment: lưu trữ mã máy của chương trình
 trỏ vào vị trí trên cùng của stack
 ## ebp
 trỏ vào vị trí làm mốc trong stack
-## eip
+## eip (rip)
 trỏ đến vị trí lệnh tiếp theo mà cpu sẽ thực hiện
 ## khung stack
 chứa các thông tin của hàm như tham số, địa chỉ trả về, biến cục bộ
@@ -35,3 +35,12 @@ trỏ vào khung stack trước đó
 ### kích hoạt 
 ### thực thi
 
+## heap overflow
+
+
+# chống buffer overflow
+- ASLR: ngẫu nhiên địa chỉ bộ nhớ mỗi lần chạy
+- Stack guard 
+- non-excutable stack
+- safer function
+- safe language 
