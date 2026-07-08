@@ -15,3 +15,7 @@ theo dõi TCP
 ngắt kết nối TCP gốc và thiết lập 2 TCP riêng biệt
 ## proxy firewall
 ngắt kết nối và đóng vai trò là thực thể trung chuyển lưu lượng ở tầng ứng dụng 
+
+
+# các mô hình phòng thủ 
+## bá
