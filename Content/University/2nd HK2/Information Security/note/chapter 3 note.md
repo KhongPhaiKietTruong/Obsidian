@@ -26,3 +26,12 @@ trỏ vào khung stack trước đó
 ## stack overflow
 ### stack smash: ghi đè eip
 ### stack off-by-one: ghi đè ebp
+
+
+## Các bước khai thác stack overflow
+### phát hiện
+### xây dựng payload
+### bơm payload
+### kích hoạt 
+### thực thi
+
