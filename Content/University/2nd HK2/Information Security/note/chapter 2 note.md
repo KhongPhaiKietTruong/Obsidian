@@ -10,7 +10,13 @@ Ciphertext (bản mã): là thông điệp sau khi được mã hóa
 
 # Phân loại mật mã
 ## dựa trên phép biến đổi
-- phép thế
+### phép thế
+#### mã hóa Caesar:
+là phép dịch chữ đi **k** vị trí trong bảng chữ cái, phép này dễ bị giải bằng brute force
+mã hóa: c = (p+k) mod 26
+giải mã: c = (p-k) mod 26
+#### mã hóa đơn mẫu:
+
 - phép hoán vị
 ## dựa trên số lượng khóa
 - mã hóa đối xứng (1 khóa): 1 khóa cho cả mã hóa và giải mã
