@@ -6,5 +6,6 @@ justify (v): chứng minh
 annotator (n): bộ / người gán nhãn
 throttle (n): bóp băng thông, kiềm hãm 
 broadband (adj): băng thông rộng 
+taxonomy (n): hệ thống phân loại
 
 
