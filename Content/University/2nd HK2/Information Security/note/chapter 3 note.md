@@ -23,3 +23,6 @@ chứa các thông tin của hàm như tham số, địa chỉ trả về, biế
 ## con trỏ
 trỏ vào khung stack trước đó
 # tràn bộ nhớ đệm (buffer overflow)
+## stack overflow
+### stack smash: ghi đè eip
+### stack off-by-one: ghi đè ebp
