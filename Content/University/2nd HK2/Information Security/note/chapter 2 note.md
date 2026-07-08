@@ -51,3 +51,11 @@ khác: so vần theo hình chữ nhật
 # Độ mạnh mật mã
 ​phụ thuộc vào **chi phí** và **thời gian** 
 
+# hàm hash
+biến một đoạn kí tự có độ dài bất kì thành một đoạn mã có độ dài cố định
+mục tiêu: đảm bảo integrity 
+đặc điểm:
+- là hàm một chiều
+- kháng va chạm yếu
+- kháng va chạm mạnh
+
