@@ -9,4 +9,20 @@ CIA+ (CIA được nâng cấp):
 
 ### Threat 
 các loại hậu quả và hành vi đe dọa (4 mục lớn là hậu quả, mục con là hành vi)
-unathorinized disclosure (tiết lộ trái phép)
+- unathorinized disclosure (tiết lộ trái phép) (xâm phạm confidentiality)
+- deception (lừa gạt) (xâm phạm integrity)
+- disruption (gián đoạn) (xâm phạm availability)
+- usurpation (chiếm đoạt) (xâm phạm access control)
+### Vulnerability
+...
+
+## Attack
+### passive attack: khó phát hiện, dễ ngăn chặn
+- release of message (interception): tiết lộ nội dung thông điệp (đọc tin nhắn)
+- traffic analysis : phân tích lưu lượng truy cập
+### active attack: dễ phát hiện, khó ngăn chặn
+- replay: phát lại
+- modification: chỉnh sửa
+- denial of service: từ chối dịch vụ
+- fabrication: giả mạo
+
