@@ -1,7 +1,7 @@
 # kiến trúc AAA:
-- xác thực
-- cấp quyền
-- lưu lại các hoạt động
+- xác thực (authen)
+- cấp quyền (authorize)
+- lưu lại các hoạt động (account)
 
 False negative: thông tin đăng nhập sai nhưng hệ thống lại cấp quyền
 False positve: thông tin đăng nhập đúng nhưng hệ thống không cấp quyền 
