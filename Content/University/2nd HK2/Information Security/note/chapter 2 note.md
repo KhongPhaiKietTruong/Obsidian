@@ -1,13 +1,16 @@
 # Ứng dụng của mã hóa
-- IPSec (internet protocol security): bảo vệ tính bảo mật và tính toàn vẹn thông tin​	  
+- IPSec (internet protocol security): bảo vệ tính bảo mật và tính toàn vẹn thông tin​	(hoạt động tại tầng network)
 - PGP (Pretty good privacy): sử dụng mã hóa khóa công khai
 - SSL (Secure Sockets Layerl): trao đổi dữ liệu một cách an toàn
-
+- TLS: SSL phiên bản nâng cấp, TLS giúp HTTP trở thành HTTPS
 # Các thuật ngữ
 Plaintext (bản rõ): là thông điệp gốc
 Secret key (khóa bí mật): là một giá trị để đưa vào thuật toán mã hóa
 Ciphertext (bản mã): là thông điệp sau khi được mã hóa
 
+# Các thuật toán
+RSA: dựa trên phân tích số thành thừa số nguyên tố
+DES: là mã hóa đối xứng dựa trên cơ chế mã hóa khối 
 # Phân loại mật mã
 ## dựa trên phép biến đổi
 ### phép thế
