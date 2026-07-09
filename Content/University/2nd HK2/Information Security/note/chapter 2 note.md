@@ -1,4 +1,4 @@
-# Ứng dụng của mã hóa
+d# Ứng dụng của mã hóa
 - IPSec (internet protocol security): bảo vệ tính bảo mật và tính toàn vẹn thông tin​	(hoạt động tại tầng network)
 - PGP (Pretty good privacy): sử dụng mã hóa khóa công khai
 - SSL (Secure Sockets Layerl): trao đổi dữ liệu một cách an toàn
