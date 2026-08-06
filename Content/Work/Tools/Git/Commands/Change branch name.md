@@ -1,3 +1,0 @@
-```
-git branch -m <old_name> <new_name>
-```
