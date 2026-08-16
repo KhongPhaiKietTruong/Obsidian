@@ -1,7 +1,3 @@
 .obsidian
-
-
-
-
-# Ignore Smart Environment folder
+.folder
 .smart-env
