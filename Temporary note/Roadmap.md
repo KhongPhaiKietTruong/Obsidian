@@ -29,7 +29,6 @@ Backend:
 - [ ] FastAPI 
 - [ ] PostgreSQL
 
-
 Others:
 - [ ] Blogs 
 - [ ] Porfolio
