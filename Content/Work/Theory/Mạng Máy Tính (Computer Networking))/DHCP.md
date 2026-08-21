@@ -1,1 +1,2 @@
-là một giao thức giúp gán địa chỉ IP (và các thông số cần thiết khác) cho các thiết bị kết nối đến mạng
+là một giao thức giúp gán địa chỉ [[IP]] (và các thông số cần thiết khác) cho các thiết bị kết nối đến mạng.
+​tuy nhiên, địa chỉ IP được cấp đó chỉ được dùng một khoảng thời gian, sau đó phải được cấp lại cái mới
