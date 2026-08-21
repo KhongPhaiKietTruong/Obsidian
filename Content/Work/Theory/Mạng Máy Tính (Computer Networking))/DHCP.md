@@ -1,0 +1,1 @@
+là một giao thức giúp gán địa chỉ IP (và các thông số cần thiết khác) cho các thiết bị kết nối đến mạng
