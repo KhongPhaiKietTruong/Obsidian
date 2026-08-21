@@ -1,1 +1,1 @@
-Khi cùng có nhiều ứng dụng trên một server
+Khi cùng có nhiều ứng dụng trên một server thì giúp request được gửi đến đúng ứng dụng cần (mỗi ứng dụng được gán với một cổng)
