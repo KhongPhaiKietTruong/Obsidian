@@ -10,7 +10,7 @@
 - [x] học bài attt
 - [x] làm bài tập ai
 - [x] làm attt (lab nhóm)
-- [ ] mua usb wifi 
+- [x] mua usb wifi 
 - [x] chọn chủ đề ai
 - [x] xóa burpsuit
 - [x] trả ken 400k
