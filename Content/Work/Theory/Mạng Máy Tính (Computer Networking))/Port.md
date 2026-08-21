@@ -1,0 +1,1 @@
+Khi cùng có nhiều ứng dụng trên một server
