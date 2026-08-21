@@ -2,4 +2,4 @@
 - [ ] the architecture for a servlet/JSP application
 - [ ] viet ung dung web dau tien va dua len hosting (mon lap trinh web)
 - [ ] stateless 
-- [ ] response, request ? 
+- [x] response, request ? 
