@@ -13,12 +13,6 @@ lưu ý: khi thay đổi một đối tượng mutable bên trong (trong trườ
 l = [1, [2, 3]]
 l1 = l.copy()
 l1[1][0] = 99
+# bản gốc là đối tượng l sẽ bị thay đổi 
 print(l)
-```
-
-```python
-a = [1, 2, 3]
-b = a
-b[0] = 99
-print(b)
 ```
