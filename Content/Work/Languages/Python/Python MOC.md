@@ -143,6 +143,6 @@ Chào mừng bạn đến với tài liệu học và tra cứu Python. Dưới 
 
 ### Theory / làm việc với file
 
-- [[Content/Work/Languages/Python/Theory/làm việc với file/ghi file|ghi file]]
-- [[Content/Work/Languages/Python/Theory/làm việc với file/nối file|nối file]]
-- [[Content/Work/Languages/Python/Theory/làm việc với file/đọc file|đọc file]] - lưu ý: khi đọc file theo kiểu từng dòng (for line in f), line sẽ có chứa '\n' trong đó luôn, nên ...
+- [[ghi file|ghi file]]
+- [[nối file|nối file]]
+- [[đọc file|đọc file]] - lưu ý: khi đọc file theo kiểu từng dòng (for line in f), line sẽ có chứa '\n' trong đó luôn, nên ...
