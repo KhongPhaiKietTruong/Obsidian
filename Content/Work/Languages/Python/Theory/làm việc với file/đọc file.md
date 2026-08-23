@@ -10,4 +10,4 @@ with open(file_path, 'r', encoding='utf-8') as f:
 		print(line)
 ```
 
-lưu ý: khi đọc file theo kiểu từng dòng (for line in f), line sẽ có chứa '\n' trong đó luôn, nên ngta thường dùng thêm [[strip()]] 
+lưu ý: khi đọc file theo kiểu từng dòng (for line in f), line sẽ có chứa '\n' trong đó luôn, nên ngta thường dùng thêm [[Content/Work/Languages/Python/Built-in/Function/strip()]] 
