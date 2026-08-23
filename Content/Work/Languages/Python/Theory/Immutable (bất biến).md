@@ -1,0 +1,1 @@
+Một biến là Immutable (bất biến) nghĩa là khi ta thay đổi giá trị của biến đó thì ta thật sự thay đổi con trỏ của biến đó đến một ô nhớ mới mang giá trị mà ta thay đổi thành chứ không thay đổi giá trị của ô nhớ mà nó trỏ đến hiện tại
