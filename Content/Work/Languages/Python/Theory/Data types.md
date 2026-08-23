@@ -1,0 +1,1 @@
+Trong python có các kiểu dữ liệu cơ bản: int, bool, string, float, None   
