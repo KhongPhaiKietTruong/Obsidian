@@ -71,12 +71,12 @@ Chào mừng bạn đến với tài liệu học và tra cứu Python. Dưới 
 
 #### Built-in / Iterable / String
 
-- [[Content/Work/Languages/Python/Built-in/Iterable/String/find()|find()]] - find(str, start, end)
+- [[find(str, start, end)|find(str, start, end)]] - find(str, start, end)
 - [[Content/Work/Languages/Python/Built-in/Iterable/String/isalnum()|isalnum()]] - kiểm tra xem chuỗi chỉ chứa số hoặc chữ hay không
 - [[Content/Work/Languages/Python/Built-in/Iterable/String/isalpha()|isalpha()]] - kiểm tra xem tất cả kí tự trong chuỗi có phải là chữ hay không
 - [[Content/Work/Languages/Python/Built-in/Iterable/String/isnumeric()|isnumeric()]] - là hàm để kiểm tra xem tất cả kí tự trong chuỗi có phải là số hay không (có chữ = trả về False)
 - [[Content/Work/Languages/Python/Built-in/Iterable/String/join()|join()]] - separator.join(list)
-- [[Content/Work/Languages/Python/Built-in/Iterable/String/split()|split()]] - split(separator, maxsplit)
+- [[split(sep, maxsplit)|split(sep, maxsplit)]] - split(separator, maxsplit)
 
 #### Built-in / Iterable / Tuple
 
