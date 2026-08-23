@@ -1,5 +1,5 @@
 split(separator, maxsplit)
-dùng để tắt str thành một list dựa trên kí tự ngăn cách
+dùng để tách str thành một list dựa trên kí tự ngăn cách
 ```python
 s = 'truong anh kiet'
 s1 = '2,4,5,,3'
