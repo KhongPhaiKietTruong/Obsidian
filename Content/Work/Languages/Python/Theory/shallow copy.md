@@ -1,4 +1,4 @@
-tạo ra một biến nhưng trỏ tới cùng một địa chỉ, thay đổi trên lớp ngoài cùng sẽ không thay đổi lên bản gốc 
+tạo ra một biến mới chứa các giá trị giống biến cũ (thật chất là chứa các con trỏ trỏ đến cùng địa chỉ của các biến nằm trong biến cũ), thay đổi trên lớp ngoài cùng sẽ không thay đổi lên bản gốc 
 
 ```python
 l = [1, [2, 3]]
