@@ -1,0 +1,1 @@
+A là instance của [[class]] B nếu như A là một [[Object (Đối tượng)]] được khởi tạo từ lớp B
