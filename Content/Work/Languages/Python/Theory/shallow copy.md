@@ -1,4 +1,5 @@
-tạo ra một biến nhưng trỏ tới cùng một địa chỉ **của lớp ngoài cùng**, thay đổi trên lớp ngoài cùng sẽ không thay đổi lên bản gốc 
+tạo ra một biến nhưng trỏ tới cùng một địa chỉ, thay đổi trên lớp ngoài cùng sẽ không thay đổi lên bản gốc 
+
 ```python
 l = [1, [2, 3]]
 l1 = l.copy()
