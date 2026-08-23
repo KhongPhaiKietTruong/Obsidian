@@ -10,7 +10,7 @@ Các thành phần cơ bản cấu tạo nên một hệ thống lập trình h�
 - **[[Constructor (Hàm khởi tạo)]]**: Hàm đặc biệt dùng để khởi tạo đối tượng từ class.
 - **[[Attribute (Thuộc tính)]]**: Các đặc điểm, trạng thái lưu giữ thông tin của đối tượng.
 - **[[Method (Phương thức)]]**: Các hành vi, hành động mà đối tượng có thể thực hiện.
-- **[[Content/Work/Theory/OOP/Theory/Getter]] & [[Setter]]**: Các phương thức trung gian để truy xuất và thiết lập giá trị cho thuộc tính của đối tượng.
+- **[[Content/Work/Theory/OOP/Theory/Getter]] & [[Content/Work/Theory/OOP/Theory/Setter]]**: Các phương thức trung gian để truy xuất và thiết lập giá trị cho thuộc tính của đối tượng.
 
 ---
 
