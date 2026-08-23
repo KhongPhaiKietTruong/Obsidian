@@ -1,0 +1,1 @@
+kiểm tra xem a có phải là một [[Instance (Thể hiện)]] hoặc 
