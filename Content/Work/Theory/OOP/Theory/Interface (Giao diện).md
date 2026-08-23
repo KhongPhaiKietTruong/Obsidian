@@ -1,6 +1,6 @@
 Dùng để thiết lập tính module cho code, nó là một bản quy ước để định nghĩa xem một [[Class (Lớp)]] có thể làm được gì chứ không định nghĩa cụ thể là làm như thế nào (bên trong interface chỉ để tên các [[Function (Hàm)]] chứ không có nội dung bên trong hàm, các class khi thực hiện giao diện đó thì mới định nghĩa từng hàm thực hiện như nào), một class có thể thực hiện nhiều giao diện khác nhau
 
-sự khác biệt giữa interface và [[Abstract Class (Lớp trừu tượng)|lớp trừu tượng]] nằm ở mối quan hệ của chúng với các class
+sự khác biệt giữa interface và [[Content/Work/Theory/OOP/Theory/Abstract Class (Lớp trừu tượng)|lớp trừu tượng]] nằm ở mối quan hệ của chúng với các class
 - interface định nghĩa các "khả năng", class nào có khả năng đó thì sẽ thực hiện các interface tương ứng (mối quan hệ can-do), các lớp không liên quan đến nhau nhưng có thể thực hiện chung một interface
 - lớp trừu tượng thì định nghĩa một lớp cha, và các class con có chung nguồn gốc từ class cha đó (is-a)
 

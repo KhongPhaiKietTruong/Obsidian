@@ -17,7 +17,7 @@ Các thành phần cơ bản cấu tạo nên một hệ thống lập trình h�
 ## 🌟 2. 4 Tính chất cốt lõi (The 4 Pillars of OOP)
 Bốn cột trụ chính của OOP định hình cách thiết kế hệ thống phần mềm:
 1. **[[Abstraction (Tính trừu tượng)]]**: Tập trung vào những đặc điểm cốt lõi của đối tượng, bỏ qua chi tiết triển khai cụ thể.
-   - Thể hiện rõ nhất qua: **[[Abstract Class (Lớp trừu tượng)]]** & **[[Interface (Giao diện)]]**.
+   - Thể hiện rõ nhất qua: **[[Content/Work/Theory/OOP/Theory/Abstract Class (Lớp trừu tượng)]]** & **[[Interface (Giao diện)]]**.
 2. **[[Encapsulation (Tính đóng gói)]]**: Che giấu dữ liệu bên trong đối tượng, chỉ cho phép tương tác qua các phương thức công khai.
    - Kiểm soát chặt chẽ bằng các **[[Access Modifier (Phạm vi truy cập)]]**.
 3. **[[Inheritance (Tính kế thừa)]]**: Cho phép một lớp con tái sử dụng và mở rộng các thuộc tính & phương thức của lớp cha.
