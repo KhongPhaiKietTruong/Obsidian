@@ -5,6 +5,3 @@ bias là giá trị kiểu như là giá trị dự đoán ban đầu rồi từ
 giả sử ta đang dự đoán giá nhà, thì bias thường sẽ là 2 tỷ vnđ
 ta đang dự đoán giá của một lon coca thì bias sẽ là 10 nghìn vnđ 
 
-
-một mô hình có bias cao nghĩa là mô hình đó quá đơn giản, nó dự đoán một điều một cách ngây thơ
-ví dụ nó dự đoán giá nhà chỉ thông qua diện tích mà không quan tâm đến vị trí, hình dáng, kiểu nhà
