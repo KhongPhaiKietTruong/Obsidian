@@ -1,1 +1,0 @@
-loss function là hàm số mà ta sẽ cố tối thiểu hóa nó để cho ra được mô hình tốt nhất
