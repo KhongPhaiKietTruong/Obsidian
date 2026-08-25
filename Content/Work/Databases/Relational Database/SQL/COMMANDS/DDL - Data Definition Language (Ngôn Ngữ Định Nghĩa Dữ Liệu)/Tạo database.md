@@ -1,3 +1,3 @@
 ```
-CREATE DATABASE \<NAME>;
+create database <tên_database>;
 ```

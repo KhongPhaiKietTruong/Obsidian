@@ -2,16 +2,13 @@ lệnh này có thể thêm một cột vào [[Table (Bảng)]], thêm các ràn
 
 THÊM CỘT:
 ```sql
-ALTER TABLE student
-ADD COLUMN email VARCHAR(20);
+ALTER TABLE <tên_bảng>
+ADD COLUMN <tên_cột> <kiểu_dữ_liệu> ;
 ```
 
 có thể xếp vị trí của một mới tại một vị trí cụ thể bằng cách sử dụng AFTER <COLUMN_NAME>
 ```SQL
-ALTER TABLE student
-ADD COLUMN email VARCHAR(20) AFTER name;
+ALTER TABLE <tên_bảng>
+ADD COLUMN <tên_cột> <kiểu_dữ_liệu> AFTER <tên_cột>;
 ```
 
-
-THÊM CHỈ MỤC:
-...

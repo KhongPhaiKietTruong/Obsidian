@@ -27,22 +27,22 @@
 - [[Tạo bảng|CREATE TABLE (Tạo table)]]
 - [[ALTER TABLE|ALTER TABLE]]
   - [[Thêm cột vào bảng|ADD (Thêm cột / ràng buộc)]]
-- [[Xóa một đối tượng (DROP)|DROP (Xóa bảng / database)]]
-- [[Xóa tất cả dữ liệu trong bảng nhưng vẫn giữ cấu trúc bảng (TRUNCATE TABLE )|TRUNCATE TABLE (Xóa dữ liệu, giữ cấu trúc)]]
+- [[Xóa một đối tượng|DROP (Xóa bảng / database)]]
+- [[Xóa tất cả dữ liệu trong bảng nhưng vẫn giữ cấu trúc bảng|TRUNCATE TABLE (Xóa dữ liệu, giữ cấu trúc)]]
 
 ## ✍️ Thao tác dữ liệu (DML - Data Manipulation Language)
-- [[COMMANDS/DML/INSERT INTO|INSERT INTO]]
-- [[COMMANDS/DML/UPDATE|UPDATE]]
-- [[COMMANDS/DML/SET|SET]]
-- [[COMMANDS/DML/DELETE FROM|DELETE FROM]]
+- [[INSERT INTO|INSERT INTO]]
+- [[UPDATE|UPDATE]]
+- [[Content/Work/Databases/Relational Database/SQL/COMMANDS/DML - Data Manipulation Language (Ngôn Ngữ Thao Tác Dữ Liệu)/SET|SET]]
+- [[Xóa bảng ghi|DELETE FROM]]
 
 ## 🔍 Truy vấn dữ liệu (DQL - Data Query Language)
-- [[COMMANDS/DQL/DISTINCT|DISTINCT]]
-- [[COMMANDS/DQL/WHERE|WHERE]]
-- [[COMMANDS/DQL/GROUP BY|GROUP BY]]
-- [[COMMANDS/DQL/HAVING|HAVING]]
-- [[COMMANDS/DQL/ORDER BY|ORDER BY]]
-- [[COMMANDS/DQL/LIMIT|LIMIT (Vendor Extension / MySQL / Postgres)]]
+- [[DISTINCT|DISTINCT]]
+- [[WHERE|WHERE]]
+- [[GROUP BY|GROUP BY]]
+- [[HAVING|HAVING]]
+- [[ORDER BY|ORDER BY]]
+- [[LIMIT|LIMIT (Vendor Extension / MySQL / Postgres)]]
 
 ## 📑 Phép toán tập hợp (Set Operations)
 - [[COMMANDS/Set Operations/UNION|UNION]]
