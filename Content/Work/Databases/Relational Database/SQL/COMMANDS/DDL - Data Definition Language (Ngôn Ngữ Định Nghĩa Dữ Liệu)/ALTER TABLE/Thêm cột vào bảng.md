@@ -12,11 +12,6 @@ ALTER TABLE student
 ADD COLUMN email VARCHAR(20) AFTER name;
 ```
 
-THÊM RÀNG BUỘC: 
-```SQL
-ALTER TABLE student 
-ADD PRIMARY KEY <COLUMN_NAME>
-```
 
 THÊM CHỈ MỤC:
 ...

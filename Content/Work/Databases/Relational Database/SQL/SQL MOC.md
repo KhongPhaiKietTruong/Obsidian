@@ -23,12 +23,12 @@
 - [[DATATYPE/TIMESTAMP|TIMESTAMP]]
 
 ## 🛠️ Định nghĩa dữ liệu (DDL - Data Definition Language)
-- [[COMMANDS/DDL/tạo database|CREATE DATABASE (Tạo database)]]
-- [[COMMANDS/DDL/tạo table|CREATE TABLE (Tạo table)]]
-- [[COMMANDS/DDL/ALTER TABLE|ALTER TABLE]]
-  - [[COMMANDS/DDL/ADD|ADD (Thêm cột / ràng buộc)]]
-- [[COMMANDS/DDL/Xóa một đối tượng (DROP)|DROP (Xóa bảng / database)]]
-- [[COMMANDS/DDL/Xóa tất cả dữ liệu trong bảng nhưng vẫn giữ cấu trúc bảng (TRUNCATE TABLE )|TRUNCATE TABLE (Xóa dữ liệu, giữ cấu trúc)]]
+- [[Tạo database|CREATE DATABASE (Tạo database)]]
+- [[Tạo bảng|CREATE TABLE (Tạo table)]]
+- [[ALTER TABLE|ALTER TABLE]]
+  - [[Thêm cột vào bảng|ADD (Thêm cột / ràng buộc)]]
+- [[Xóa một đối tượng (DROP)|DROP (Xóa bảng / database)]]
+- [[Xóa tất cả dữ liệu trong bảng nhưng vẫn giữ cấu trúc bảng (TRUNCATE TABLE )|TRUNCATE TABLE (Xóa dữ liệu, giữ cấu trúc)]]
 
 ## ✍️ Thao tác dữ liệu (DML - Data Manipulation Language)
 - [[COMMANDS/DML/INSERT INTO|INSERT INTO]]
