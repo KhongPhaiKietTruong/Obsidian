@@ -10,7 +10,7 @@
 
 ## 2. Khởi tạo Mảng (Array Creation)
 - [[array()]] - Tạo mảng từ list/tuple
-- [[arrange()]] - Tạo mảng với các phần tử cách đều (arange)
+- [[arange()]] - Tạo mảng với các phần tử cách đều (arange)
 - [[linspace()]] - Tạo mảng với số lượng phần tử cách đều nhau trong khoảng
 - [[zeros()]] - Tạo mảng chứa toàn số 0
 - [[ones()]] - Tạo mảng chứa toàn số 1

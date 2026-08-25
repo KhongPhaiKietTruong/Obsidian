@@ -1,1 +1,2 @@
-np.random.randint(low, high=None, size=None, dtype=<class 'int'>)
+random.ranint(a, b)
+hàm này dùng để sinh **một** số ngẫu nhiên từ a đến b-1 
