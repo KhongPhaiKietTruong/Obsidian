@@ -1,8 +1,7 @@
-dịch: Mean Squared Error (sai số bình phương trung bình)
+dịch: Mean Squared Error (sai số bình phương)
 
-thường được dùng trong bài toán hồi quy, có công thức
-
-$$MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
+thường được dùng trong bài toán hồi quy, có công thức:
+$$SE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
 - $n$: Tổng số mẫu dữ liệu.
 - $y_i$: Giá trị thực tế (Ground Truth).
 - $\hat{y}_i$: Giá trị dự đoán từ mô hình.
