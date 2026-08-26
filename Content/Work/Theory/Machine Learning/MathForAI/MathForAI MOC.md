@@ -121,7 +121,7 @@ Xác suất giúp mô hình hóa sự không chắc chắn (uncertainty) trong d
 ### 📉 Các đặc trưng phân phối (Measures / Moments)
 - [[Moments of a distribution]]: Các momen của phân phối xác suất.
 - [[Expected value]]: Kỳ vọng (giá trị trung bình dài hạn).
-- [[Variance]] & [[Standard deviation (Độ Lệch Chuẩn)]]: Phương sai và Độ lệch chuẩn (đo lường độ phân tán của dữ liệu).
+- [[Variance (Phương Sai)]] & [[Standard deviation (Độ Lệch Chuẩn)]]: Phương sai và Độ lệch chuẩn (đo lường độ phân tán của dữ liệu).
 - [[Median value]]: Trung vị.
 - [[Mode value]]: Yếu vị (giá trị xuất hiện nhiều nhất).
 - [[Quantile]] & [[Interquartile range]]: Phân vị và khoảng tứ phân vị.

@@ -1,5 +1,5 @@
 dịch: quá khớp
-tên khác: high [[Variance]] (mô hình cực kì nhạy cảm với dữ liệu)
+tên khác: high [[Variance (Phương Sai)]] (mô hình cực kì nhạy cảm với dữ liệu)
 
 là hiện tượng khi mô hình uốn éo quá mức để có thể khớp các điểm dữ liệu trên tập [[Training Set]], nhưng khi đưa dữ liệu mới vào để dự đoán thì mô hình dự đoán rất tệ ([[Generalization]] kém)
 
