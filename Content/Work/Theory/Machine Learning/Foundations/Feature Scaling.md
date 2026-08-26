@@ -1,6 +1,6 @@
 dịch: chuẩn hóa đặc trưng
 
-vấn đề: lấy ví dụ với bài toán dự đoán giá nhà, ta xét 2 [[Features]] $lại$  là diện tích nhà và số phòng có miền giá trị như sau:
+vấn đề: lấy ví dụ với bài toán dự đoán giá nhà, ta xét 2 [[Features]] là diện tích nhà và số phòng có miền giá trị như sau:
 - $x_{1}$ $\in$ \[1000, 5000]
 - $x_{2}$ $\in$ \[1, 5]
 
