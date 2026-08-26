@@ -2,7 +2,7 @@ vấn đề: lấy ví dụ với bài toán dự đoán giá nhà, ta xét 2 [[
 - $x_{1}$ $\in$ \[1000, 5000]
 - $x_{2}$ $\in$ \[1, 5]
 - 
-[[Hypothesis (hàm dự đoán)]] của ta có dạng: $$f_{\vec{w}, b}(\vec{x}) = w_{1} x_{1} + w_{2}x_{2} + b$$ta có [[Cost Function]] (giả sử ta dùng [[Mean Squared Error Cost Function (MSE)]]) là:
+[[Hypothesis (hàm dự đoán)]] của ta có dạng: $$f_{\vec{w}, b}(\vec{x}) = w_{1} x_{1} + w_{2}x_{2} + b$$ta có [[Cost Function (Hàm Chi Phí)]] (giả sử ta dùng [[Mean Squared Error Cost Function (MSE)]]) là:
 $$ 
 J(\vec{w},b) = \frac{1}{2m} \sum_{i=1}^{m} \left( f_{\vec{w},b}(\vec{x}^{(i)}) - y^{(i)} \right)^2
 $$

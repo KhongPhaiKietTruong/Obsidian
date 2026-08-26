@@ -50,7 +50,7 @@ Chào mừng bạn đến với Bản đồ nội dung (MOC) về **Toán học 
 ### 🔄 Trị riêng, Véc-tơ riêng & Ứng dụng
 - [[Eigenvalue]] & [[Eigenvector]]: Trị riêng và véc-tơ riêng của ma trận vuông.
 - [[Eigenbasis]]: Cơ sở gồm các véc-tơ riêng.
-- [[Covariance matrix]]: Ma trận hiệp phương sai.
+- [[Covariance matrix (Ma Trận Hiệp Phương Sai)]]: Ma trận hiệp phương sai.
 - [[PCA]]: Phân tích thành phần chính (Principal Component Analysis) ứng dụng giảm chiều dữ liệu.
 
 ---

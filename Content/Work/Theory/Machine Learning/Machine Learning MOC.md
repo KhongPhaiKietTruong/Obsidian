@@ -14,10 +14,10 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
   - [[Training Set (Tập Huấn Luyện)]]: Tập dữ liệu dùng để huấn luyện mô hình.
   - [[Features (Đặc Trưng)]] & [[Features Selection (Chọn Đặc Trưng)]]: Các đặc trưng dữ liệu và cách lựa chọn đặc trưng.
   - [[Feature Scaling (Chuẩn Hóa Đặc Trưng)]]: Kỹ thuật chuẩn hóa/co giãn đặc trưng.
-  - [[Target variable]]: Biến mục tiêu (nhãn) cần dự đoán.
+  - [[Target variable (Giá Trị Thực Tế)]]: Biến mục tiêu (nhãn) cần dự đoán.
   - [[Hypothesis (hàm dự đoán)]]: Giả thuyết/Mô hình toán học xấp xỉ hàm mục tiêu.
-  - [[Predicted Value]]: Giá trị dự đoán đầu ra của mô hình.
-  - [[The Error]]: Sai số giữa giá trị dự đoán và thực tế.
+  - [[Predicted Value (Giá Trị Dự Đoán)]]: Giá trị dự đoán đầu ra của mô hình.
+  - [[The Error (Sai Số)]]: Sai số giữa giá trị dự đoán và thực tế.
   - [[Generalization]]: Khả năng tổng quát hóa trên dữ liệu mới chưa từng thấy.
 
 ### 📈 Học có giám sát (Supervised Learning)
@@ -35,7 +35,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
   - [[Overfitting]] (Quá khớp): Mô hình quá khớp với dữ liệu huấn luyện, mất khả năng tổng quát.
     - [[Addressing Overfitting]]: Các phương pháp giải quyết quá khớp.
   - [[Underfitting]] (Chưa khớp): Mô hình quá đơn giản, không học được cấu trúc dữ liệu.
-  - [[Regularization]]: Kỹ thuật chính quy hóa (L1, L2) giúp giảm overfitting.
+  - [[Regularization (Chuẩn Hóa)]]: Kỹ thuật chính quy hóa (L1, L2) giúp giảm overfitting.
   - [[Bias]]: Độ chệch - sai số do giả định đơn giản hóa mô hình.
 
 ### 🧠 Mạng nơ-ron cơ bản (Neural Networks)
@@ -50,11 +50,11 @@ Các khối xây dựng chi tiết của một mô hình học máy:
 - **Hàm kích hoạt ([[Activation function]])**:
   - [[Sigmoid function]]: Hàm kích hoạt phi tuyến đưa giá trị về khoảng $(0, 1)$.
   - [[Softmax]]: Hàm kích hoạt chuẩn hóa đầu ra thành phân phối xác suất cho phân loại đa lớp.
-- **Hàm mất mát ([[Loss function]])**:
+- **Hàm mất mát ([[Loss function (Hàm Mất Mát)]])**:
   - [[Components/Loss function/Definition|Definition]]: Định nghĩa và vai trò của hàm mất mát đối với một điểm dữ liệu.
   - [[SE (Squared Error)]] (Mean Squared Error): Hàm mất mát bình phương trung bình.
   - [[Log loss (Cross-entropy Loss)]]: Hàm mất mát cho bài toán phân loại.
-- **Hàm chi phí ([[Cost Function]])**:
+- **Hàm chi phí ([[Cost Function (Hàm Chi Phí)]])**:
   - [[Log Loss Cost Function]]: Hàm chi phí Log Loss trên toàn bộ tập dữ liệu.
   - [[Mean Squared Error Cost Function (MSE)]]: Hàm chi phí MSE trên toàn bộ tập huấn luyện.
 
