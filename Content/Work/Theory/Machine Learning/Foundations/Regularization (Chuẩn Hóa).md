@@ -2,6 +2,9 @@
 $$\text{Hàm chi phí mới} = \text{Hàm chi phí ban đầu} + \text{Thành phần phạt }$$
 công thức của thành phần phạt là:
 $$
-s\su
+\frac{\lambda}{2m} \sum_{i=1}^{m} w_{j}^2
 $$
+với:
+- $\lambda$ là hệ số chuẩn hóa (khá giống với [[Learning Rate (Tốc Độ Học)]])
+- m là số lượng mẫu trong [[Training Set (Tập Huấn Luyện)]] 
 ![[Pasted image 20260515181101.png]]
