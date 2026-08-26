@@ -7,7 +7,7 @@ $$
 J(\vec{w},b) = \frac{1}{2m} \sum_{i=1}^{m} \left( f_{\vec{w},b}(\vec{x}^{(i)}) - y^{(i)} \right)^2
 $$
 khi đó $w_{1}$ chỉ cần tăng nhẹ thôi cũng khiến hàm dự đoán tăng vọt (đồng nghĩa với việc hàm cost cũng tăng vọt) vì giá trị của $x_1$ lớn, $w_2$ tăng mạnh thì cost cũng chỉ tăng nhẹ do giá trị của $x_2$ nhỏ.
-điều này khiến cho [[Contour Plot]] của hàm cost mỏng, dẹp và con đường đi để tìm [[Global Minimum]] của ta trên hàm cost bị "lắc lư" làm cho tốc độ hội tụ chậm chạp:
+điều này khiến cho [[Contour Plot]] của hàm cost mỏng, dẹp và con đường đi để tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] của ta trên hàm cost bị "lắc lư" làm cho tốc độ hội tụ chậm chạp:
 
 
 ![[Pasted image 20260518100531.png|center]]
