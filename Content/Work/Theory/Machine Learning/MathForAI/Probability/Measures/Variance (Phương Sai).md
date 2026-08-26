@@ -1,8 +1,8 @@
 ký hiệu: Var (X) hoặc σ^2
 
-là một đại lượng dùng để đo mức độ phân tán của một tập dữ liệu so với giá trị trung bình của nó ([[Moments of a distribution | moment bậc 2]] của phân phối cũng là [[Standard deviation (Độ Lệch Chuẩn)| độ lệch chuẩn]] bình phương)
+là một đại lượng dùng để đo mức độ phân tán của một tập dữ liệu so với [[Expected value (Giá Trị Kỳ Vọng)]] của nó ([[Moments of a distribution | moment bậc 2]] của phân phối cũng là [[Standard deviation (Độ Lệch Chuẩn)| độ lệch chuẩn]] bình phương)
 
-tổng bình phương độ lệch của các điểm so với [[Expected value]] của các điểm đó
+tổng bình phương độ lệch của các điểm so với [[Expected value (Giá Trị Kỳ Vọng)]] của các điểm đó
 $$Var(X) = \mathbb{E} \left[ (X - \mathbb{E}[X])^2 \right]$$
 $$=E[X^2]−(E[X])^2$$
 $$= \sum_{i} (x_i - \mu)^2 \cdot P(X = x_i)$$

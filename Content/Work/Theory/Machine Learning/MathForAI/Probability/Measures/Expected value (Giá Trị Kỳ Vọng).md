@@ -1,4 +1,3 @@
-dịch: giá trị kỳ vọng
 ký hiệu: $E(X)$
 
 nó là giá trị kỳ vọng trong tương lai khi ta thực hiện một [[Experiment]] nhiều lần ([[Moments of a distribution | moment bậc 1]] của phân phối)
