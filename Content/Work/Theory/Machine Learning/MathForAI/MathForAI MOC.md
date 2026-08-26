@@ -182,4 +182,4 @@ Thống kê cung cấp các phương pháp để phân tích, diễn giải dữ
 ## 🧮 5. Các chủ đề Toán học khác (Math)
 - [[Cosine similarity]]: Độ tương đồng Cosine (đo góc giữa hai véc-tơ).
 - [[Euclidean]]: Khoảng cách hình học Euclidean.
-- [[Mean value (Average value)]]: Giá trị trung bình.
+- [[Mean value (Giá Trị Trung Bình)]]: Giá trị trung bình.

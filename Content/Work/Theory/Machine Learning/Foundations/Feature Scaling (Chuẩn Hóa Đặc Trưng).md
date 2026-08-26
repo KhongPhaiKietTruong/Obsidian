@@ -18,6 +18,8 @@ do đó ta phải chuẩn hóa miền giá trị của các đặc trưng lại 
 ### chia các giá trị cho giá trị lớn nhất
 ​	​	giả sử miền giá trị của x1 là \[1000, 5000], ta thực hiện chia các giá trị đó cho giá trị lớn nhất, tức miền giá trị mới của x1 là \[1000/5000, 5000/5000] = \[0,2, 1]
 ### mean normalization
+có công thức là $$X' = \frac{X - \mu}{X_{\max} - X_{\min}}$$
+với $\mu$ là [[Mean value (Giá Trị Trung Bình)]] của feature X 
 
 - z-score 
 
