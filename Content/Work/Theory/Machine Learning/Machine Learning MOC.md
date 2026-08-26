@@ -15,7 +15,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
   - [[Features]] & [[Features Selection]]: Các đặc trưng dữ liệu và cách lựa chọn đặc trưng.
   - [[Feature Scaling]]: Kỹ thuật chuẩn hóa/co giãn đặc trưng.
   - [[Target variable]]: Biến mục tiêu (nhãn) cần dự đoán.
-  - [[Hypothesis]]: Giả thuyết/Mô hình toán học xấp xỉ hàm mục tiêu.
+  - [[Hypothesis (hàm dự đoán)]]: Giả thuyết/Mô hình toán học xấp xỉ hàm mục tiêu.
   - [[Predicted Value]]: Giá trị dự đoán đầu ra của mô hình.
   - [[The Error]]: Sai số giữa giá trị dự đoán và thực tế.
   - [[Generalization]]: Khả năng tổng quát hóa trên dữ liệu mới chưa từng thấy.
