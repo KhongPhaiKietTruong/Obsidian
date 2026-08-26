@@ -2,6 +2,6 @@
 $$\text{Hàm chi phí mới} = \text{Hàm chi phí ban đầu} + \text{Thành phần phạt }$$
 công thức của thành phần phạt là:
 $$
-d
+s\su
 $$
 ![[Pasted image 20260515181101.png]]
