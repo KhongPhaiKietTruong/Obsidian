@@ -1,0 +1,1 @@
+hàm này dùng để vẽ biểu đồ dạng cột
