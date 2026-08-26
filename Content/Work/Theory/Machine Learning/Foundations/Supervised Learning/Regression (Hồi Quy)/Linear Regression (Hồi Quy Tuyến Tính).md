@@ -21,4 +21,8 @@ w_{n}
 \end{bmatrix}
 $$
 
+
+$$
+
+$$
 lí do mà $\vec{x} \text{ và } \vec{w}$ là vector thay vì vector hàng là vì đó là quy ước chuẩn của đại số tuyến tính
