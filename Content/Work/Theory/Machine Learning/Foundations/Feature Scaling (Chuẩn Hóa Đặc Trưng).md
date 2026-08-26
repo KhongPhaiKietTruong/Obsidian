@@ -19,6 +19,7 @@ do đó ta phải chuẩn hóa miền giá trị của các đặc trưng lại 
 có 2 cách để chuẩn hóa là:
 - chia các giá trị cho giá trị lớn nhất
 - mean normalization
+- z-score 
 
 lưu ý: với mỗi đặc trưng ta sẽ có một chỉ số tỉ lệ riêng cho nó, điều này nghĩa là đồ thị biểu diễn [[Training Set]] sẽ thay đổi (trở nên đồng đều hơn sau scaling) chứ không phải hình dạng như cũ và chỉ bị "thu nhỏ thôi"
 
