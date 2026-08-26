@@ -21,7 +21,7 @@ do đó ta phải chuẩn hóa miền giá trị của các đặc trưng lại 
 có công thức là $$X' = \frac{X - \mu}{X_{\max} - X_{\min}}$$
 với $\mu$ là [[Mean value (Giá Trị Trung Bình)]] của feature X 
 
-- z-score 
+### z-score 
 
 lưu ý: với mỗi đặc trưng ta sẽ có một chỉ số tỉ lệ riêng cho nó, điều này nghĩa là đồ thị biểu diễn [[Training Set]] sẽ thay đổi (trở nên đồng đều hơn sau scaling) chứ không phải hình dạng như cũ và chỉ bị "thu nhỏ thôi"
 
