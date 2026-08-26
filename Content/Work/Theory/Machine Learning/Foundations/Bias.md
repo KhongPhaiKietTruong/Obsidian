@@ -5,7 +5,7 @@ bias là giá trị kiểu như là giá trị dự đoán ban đầu rồi từ
 giả sử ta đang dự đoán giá nhà, thì bias thường sẽ là 2 tỷ vnđ
 ta đang dự đoán giá của một lon coca thì bias sẽ là 10 nghìn vnđ 
 
-cần phải phân biệt giữa bias nằm trong phương trình [[Linear Regression]] và bias trong đánh giá mô hình:
+cần phải phân biệt giữa bias nằm trong phương trình [[Linear Regression (Hồi Quy Tuyến Tính)]] và bias trong đánh giá mô hình:
 - cái định nghĩa ở trên chính là cho b trong phương trình
 - còn nếu nói bias của mô hình này quá cao, nghĩa là mô hình này đang bị định kiến (hay nói cách khác là bị [[Underfitting]], nghĩa là giá trị dự đoán trung bình của nó lệch nhiều so với giá trị thực tế 
 

@@ -1,4 +1,4 @@
-dịch: đường ranh giới
+dịch: ranh giới quyết định 
 
 đây là đường thẳng (hoặc mặt phẳng và cao hơn) , để phân tách giữa hai cụm 0 và 1, các điểm trên đường này có giá trị của [[Hypothesis]] là 0.5 tức là xác suất để nó có nhãn 1 là 0.5
 

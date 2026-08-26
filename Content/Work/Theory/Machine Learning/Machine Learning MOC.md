@@ -9,7 +9,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
 
 ### 📖 Tổng quan & Quy trình huấn luyện
 - **[[Supervised Learning]]** (Học có giám sát): Học từ dữ liệu đã được gán nhãn.
-- **[[Unsupervised Learning]]** (Học không giám sát): Tìm cấu trúc ẩn trong dữ liệu không nhãn.
+- **[[Unsupervised Learning (Học Không Giám Sát)]]** (Học không giám sát): Tìm cấu trúc ẩn trong dữ liệu không nhãn.
 - **Dữ liệu & Giả thuyết**:
   - [[Training Set]]: Tập dữ liệu dùng để huấn luyện mô hình.
   - [[Features]] & [[Features Selection]]: Các đặc trưng dữ liệu và cách lựa chọn đặc trưng.
@@ -21,14 +21,14 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
   - [[Generalization]]: Khả năng tổng quát hóa trên dữ liệu mới chưa từng thấy.
 
 ### 📈 Học có giám sát (Supervised Learning)
-- **[[Regression]]** (Hồi quy): Dự đoán giá trị liên tục.
-  - [[Linear Regression]]: Hồi quy tuyến tính - mô hình hồi quy cơ bản nhất.
+- **[[Regression (Hồi Quy)]]** (Hồi quy): Dự đoán giá trị liên tục.
+  - [[Linear Regression (Hồi Quy Tuyến Tính)]]: Hồi quy tuyến tính - mô hình hồi quy cơ bản nhất.
 - **[[Classification]]** (Phân loại): Dự đoán nhãn danh mục/rời rạc.
-  - [[Logistic Regression]]: Hồi quy Logistic - mô hình phân loại nhị phân phổ biến.
-  - [[Decision Boundary]]: Ranh giới quyết định phân tách các phân lớp.
+  - [[Logistic Regression (Hồi Quy Logistic)]]: Hồi quy Logistic - mô hình phân loại nhị phân phổ biến.
+  - [[Decision Boundary (Ranh Giới Quyết Định)]]: Ranh giới quyết định phân tách các phân lớp.
 
 ### 🔍 Học không giám sát (Unsupervised Learning)
-- **[[Clustering]]** (Phân cụm): Nhóm các điểm dữ liệu tương tự lại với nhau.
+- **[[Clustering (Phân Cụm)]]** (Phân cụm): Nhóm các điểm dữ liệu tương tự lại với nhau.
 
 ### ⚖️ Đánh giá & Tối ưu hóa mô hình
 - **Vấn đề Overfitting & Underfitting**:
