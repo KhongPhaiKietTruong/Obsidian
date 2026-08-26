@@ -1,5 +1,3 @@
-dịch: cơ sở
-
 một cơ sở là một tập sinh tối thiểu
 
 ví dụ: cơ sở ta thường thấy là tập hợp của 2 vector i và j tương ứng (1, 0) và (0, 1)

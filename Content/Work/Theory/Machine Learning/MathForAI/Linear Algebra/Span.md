@@ -1,1 +1,1 @@
-là tập hợp các điểm có thể tạo nên bởi một tổ hợp tuyến tính ([[Linear combination]])chiều
+là tập hợp các điểm có thể tạo nên bởi một tổ hợp tuyến tính ([[Linear Combination (Tổ Hợp Tuyến Tính)]])chiều

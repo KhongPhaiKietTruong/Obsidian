@@ -8,9 +8,9 @@ Chào mừng bạn đến với Bản đồ nội dung (MOC) về **Toán học 
 Đại số tuyến tính cung cấp ngôn ngữ và công cụ để biểu diễn, thao tác dữ liệu nhiều chiều.
 
 ### 🧱 Các đối tượng cơ bản
-- [[Scalar]] (Vô hướng): Giá trị số đơn lẻ.
+- [[Scalar (Hệ Số Vô Hướng)]] (Vô hướng): Giá trị số đơn lẻ.
 - [[Vector]] (Véc-tơ): Mảng số 1 chiều đại diện cho hướng và độ lớn.
-- [[Matrix]] (Ma trận): Mảng số 2 chiều.
+- [[Matrix (Ma Trận)]] (Ma trận): Mảng số 2 chiều.
 
 ### ➕ Phép toán trên Vector & Ma trận
 - **Phép toán Vector**:
@@ -24,15 +24,15 @@ Chào mừng bạn đến với Bản đồ nội dung (MOC) về **Toán học 
   - [[Matrix operations/Matrix multiplication|Matrix multiplication]]: Phép nhân ma trận.
 
 ### 🏛️ Không gian Vector & Tính chất tuyến tính
-- [[Linear combination]] (Tổ hợp tuyến tính): Biểu diễn véc-tơ dưới dạng tổng tuyến tính của các véc-tơ khác.
+- [[Linear Combination (Tổ Hợp Tuyến Tính)]] (Tổ hợp tuyến tính): Biểu diễn véc-tơ dưới dạng tổng tuyến tính của các véc-tơ khác.
 - [[Span]] (Không gian sinh): Tập hợp tất cả các tổ hợp tuyến tính khả dĩ.
 - [[Linear Independency]] & [[Linear dependence]]: Độc lập tuyến tính và Phụ thuộc tuyến tính.
-- [[Basis]] (Cơ sở): Tập hợp các véc-tơ độc lập tuyến tính sinh ra không gian vector.
+- [[Basis (cơ sở)]] (Cơ sở): Tập hợp các véc-tơ độc lập tuyến tính sinh ra không gian vector.
 
 ### 🔲 Hệ phương trình & Các dạng ma trận đặc biệt
 - [[Linear equation]]: Phương trình tuyến tính.
-- [[Augmented matrix]]: Ma trận mở rộng biểu diễn hệ phương trình.
-- [[Row echelon form]] & [[Reduced row echelon form]]: Dạng bậc thang và Dạng bậc thang rút gọn.
+- [[Augmented matrix (Ma Trận Mở Rộng)]]: Ma trận mở rộng biểu diễn hệ phương trình.
+- [[Row echelon form (Ma Trận Bậc Thang)]] & [[Reduced row echelon form]]: Dạng bậc thang và Dạng bậc thang rút gọn.
 - [[Identity matrix]]: Ma trận đơn vị $I$.
 - [[Inverse matrix]]: Ma trận nghịch đảo $A^{-1}$.
 - [[Non-singular matrix]] & [[Singular matrix]]: Ma trận không suy biến (có nghịch đảo) và Ma trận suy biến (không nghịch đảo).

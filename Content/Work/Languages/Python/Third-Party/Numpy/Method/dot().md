@@ -1,6 +1,6 @@
 hàm dùng để tính tích vô hướng của hai trận [[Vector]]
 **hoặc**
-tính tích của hai [[Matrix |ma trận]]  (cũng có thể sử dụng "@")
+tính tích của hai [[Matrix (Ma Trận)|ma trận]]  (cũng có thể sử dụng "@")
 
 tích vô hướng:
 ```python

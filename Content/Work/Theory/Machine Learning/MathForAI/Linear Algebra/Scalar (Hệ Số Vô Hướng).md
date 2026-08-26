@@ -1,0 +1,1 @@
+là một con số (không có hướng như vector)

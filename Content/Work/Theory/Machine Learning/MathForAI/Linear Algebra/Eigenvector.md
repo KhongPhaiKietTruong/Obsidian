@@ -3,7 +3,7 @@ là vector mà không chệch khỏi phương của nó sau khi thực hiện m�
 
 trong không gian 3 chiều thì có thể hiểu nó là trục quay 
 
-[[Linear combination]] của các eigenvector trong một [[Eigenbasis]] phải có khả năng biểu diễn được tất cả các vector nằm trong không gian ta đang xét
+[[Linear Combination (Tổ Hợp Tuyến Tính)]] của các eigenvector trong một [[Eigenbasis]] phải có khả năng biểu diễn được tất cả các vector nằm trong không gian ta đang xét
 
 số lượng vector riêng của một ma trận liên quan mật thiết đến [[Eigenvalue]], trường hợp thường thấy là
 

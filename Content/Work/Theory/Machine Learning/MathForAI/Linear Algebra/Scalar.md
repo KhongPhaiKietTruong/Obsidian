@@ -1,1 +1,0 @@
-là một đại lượng vô hướng
