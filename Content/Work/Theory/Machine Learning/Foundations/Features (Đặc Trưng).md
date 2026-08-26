@@ -1,4 +1,3 @@
-dịch: đặc trưng, đầu vào
 kí hiệu: $x_1$, ..., $x_n$
 
 là các thông tin về đối tượng để model học
