@@ -3,3 +3,4 @@ nếu chỉ truyền vào hàm này một [[List]] duy nhất thì nó sẽ nh�
 ![[Pasted image 20260826164030.png]]
 
 còn nếu truyền vào là hai list thì nó sẽ nối các điểm tương ứng ở hai list bằng đường nét liền
+![[Pasted image 20260826164252.png]]
