@@ -60,7 +60,7 @@ Giải tích là nền tảng cho việc tối ưu hóa các mô hình học má
 
 ### ✍️ Đạo hàm & Quy tắc đạo hàm
 - [[Derivative's notation]]: Ký hiệu đạo hàm.
-- [[Partial Derivative]]: Đạo hàm riêng theo từng biến trong hàm nhiều biến.
+- [[Partial Derivative (Đạo Hàm Riêng)]]: Đạo hàm riêng theo từng biến trong hàm nhiều biến.
 - **Quy tắc đạo hàm**:
   - [[The chain rule]]: Quy tắc chuỗi (cho hàm hợp).
   - [[The product rule]]: Quy tắc đạo hàm của tích.
