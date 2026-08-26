@@ -1,5 +1,3 @@
-dịch: chuẩn hóa đặc trưng
-
 vấn đề: lấy ví dụ với bài toán dự đoán giá nhà, ta xét 2 [[Features]] là diện tích nhà và số phòng có miền giá trị như sau:
 - $x_{1}$ $\in$ \[1000, 5000]
 - $x_{2}$ $\in$ \[1, 5]
@@ -16,8 +14,9 @@ khi đó $w_{1}$ chỉ cần tăng nhẹ thôi cũng khiến hàm dự đoán t�
 
 do đó ta phải chuẩn hóa miền giá trị của các đặc trưng lại (biến miền giá trị của x1 và x2 đều trở thành \[0, 1])
 
-có 2 cách để chuẩn hóa là:
-- chia các giá trị cho giá trị lớn nhất
+## 3 cách để chuẩn hóa là:
+### chia các giá trị cho giá trị lớn nhất
+​	​	giả sử miền giá trị của x1 là \[1000, 5000], ta thực hiện chia các giá trị đó cho giá trị lớn nhất, tức miền giá trị mới của x1 là \[1000/5000, 5000/5000] = \[0,2, 1]
 - mean normalization
 - z-score 
 
