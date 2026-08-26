@@ -1,0 +1,1 @@
+là số lần mà toàn độ [[Training Set (Tập Huấn Luyện)]] được model đi qua 

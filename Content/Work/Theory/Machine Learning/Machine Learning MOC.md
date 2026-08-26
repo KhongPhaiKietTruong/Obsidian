@@ -11,7 +11,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
 - **[[Supervised Learning]]** (Học có giám sát): Học từ dữ liệu đã được gán nhãn.
 - **[[Unsupervised Learning (Học Không Giám Sát)]]** (Học không giám sát): Tìm cấu trúc ẩn trong dữ liệu không nhãn.
 - **Dữ liệu & Giả thuyết**:
-  - [[Training Set]]: Tập dữ liệu dùng để huấn luyện mô hình.
+  - [[Training Set (Tập Huấn Luyện)]]: Tập dữ liệu dùng để huấn luyện mô hình.
   - [[Features]] & [[Features Selection]]: Các đặc trưng dữ liệu và cách lựa chọn đặc trưng.
   - [[Feature Scaling (Chuẩn Hóa Đặc Trưng)]]: Kỹ thuật chuẩn hóa/co giãn đặc trưng.
   - [[Target variable]]: Biến mục tiêu (nhãn) cần dự đoán.

@@ -1,0 +1,1 @@
+là số lần trọng số w được cập nhật 
