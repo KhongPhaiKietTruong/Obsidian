@@ -10,5 +10,5 @@ f_{\vec{w}, b}(\vec{x}) &= \frac{1}{1+e^{-(\vec{w}\vec{x}+b)}}=0.5 \\  \\
 &= \vec{w}\vec{x}+b=0
 \end{align} 
 $$
-những điểm nằm trên đường ranh giới sẽ có xác suất nhãn 1 là 0.5, vậy những điểm nằm ở một phí thì sẽ có xác xuất lớn hơn 0.5 và tương tự vậy với các điểm ở phía còn sẽ bé hơn 0.5, tức
+những điểm nằm trên đường ranh giới sẽ có xác suất nhãn 1 và 0 là 0.5, vậy những điểm nằm ở một phía thì sẽ có xác xuất lớn hơn 0.5 và tương tự vậy với các điểm ở phía còn sẽ bé hơn 0.5, tức
 $$\vec{w}\vec{x}+b>0 \implies f_{\vec{w}, b}(\vec{x})>0.5$$
