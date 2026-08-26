@@ -1,4 +1,4 @@
-dịch: Mean Squared Error (sai số bình phương)
+dịch: Squared Error (sai số bình phương)
 
 thường được dùng trong bài toán hồi quy, có công thức:
 $$SE = (y_i - \hat{y}_i)^2$$
