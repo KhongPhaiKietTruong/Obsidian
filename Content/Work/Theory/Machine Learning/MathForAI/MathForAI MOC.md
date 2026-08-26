@@ -89,7 +89,7 @@ Xác suất giúp mô hình hóa sự không chắc chắn (uncertainty) trong d
   - [[Complement of probability]]: Xác suất của biến cố đối.
   - [[Sum of probabilities]]: Quy tắc cộng xác suất.
   - [[Product rule]]: Quy tắc nhân xác suất.
-  - [[Conditional probability]]: Xác suất có điều kiện.
+  - [[Conditional probability (xác suất có điều kiện)]]: Xác suất có điều kiện.
   - [[Independent events]]: Các biến cố độc lập.
   - [[Disjoint events (mutually exclusive)]]: Các biến cố xung khắc (không đồng thời xảy ra).
   - [[Joint events (non-mutually exclusive)]]: Các biến cố không xung khắc.
