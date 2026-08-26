@@ -16,5 +16,9 @@ khi đó $w_{1}$ chỉ cần tăng nhẹ thôi cũng khiến hàm dự đoán t�
 
 do đó ta phải chuẩn hóa miền giá trị của các đặc trưng lại (biến miền giá trị của x1 và x2 đều trở thành \[0, 1])
 
+có 2 cách để chuẩn hóa là:
+- chia các giá trị cho giá trị lớn nhất
+- mean normalization
+
 lưu ý: với mỗi đặc trưng ta sẽ có một chỉ số tỉ lệ riêng cho nó, điều này nghĩa là đồ thị biểu diễn [[Training Set]] sẽ thay đổi (trở nên đồng đều hơn sau scaling) chứ không phải hình dạng như cũ và chỉ bị "thu nhỏ thôi"
 
