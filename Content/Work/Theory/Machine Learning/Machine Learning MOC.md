@@ -47,7 +47,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
 ## 🧩 2. Các thành phần mô hình (Components)
 Các khối xây dựng chi tiết của một mô hình học máy:
 
-- **Hàm kích hoạt ([[Activation function]])**:
+- **Hàm kích hoạt ([[Activation Function (Hàm Kích Hoạt)]])**:
   - [[Sigmoid function]]: Hàm kích hoạt phi tuyến đưa giá trị về khoảng $(0, 1)$.
   - [[Softmax]]: Hàm kích hoạt chuẩn hóa đầu ra thành phân phối xác suất cho phân loại đa lớp.
 - **Hàm mất mát ([[Loss function (Hàm Mất Mát)]])**:
