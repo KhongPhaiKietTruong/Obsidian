@@ -1,0 +1,1 @@
+đây là một [[class]] dùng để tạo ra một bộ chứa các 
