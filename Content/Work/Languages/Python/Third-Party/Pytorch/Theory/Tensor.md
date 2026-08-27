@@ -1,0 +1,1 @@
+cũng khá giống với [[List]] hay [[array()|numpy array]] tuy nhiên, tensor được tối ưu hóa khi làm việc trong DL, giúp việc tính toán nhanh hơn rất nhiều 
