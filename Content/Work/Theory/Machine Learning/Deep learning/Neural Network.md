@@ -1,5 +1,5 @@
 là tập hợp các lớp [[Perceptron]], output của lớp này sẽ là input của lớp kia
-![[Pasted image 20260507201913.png]]
+![[Pasted image 20260827160937.png]]
 
 một neural network sẽ gồm 3 thành phần chính:
 **input layer**: chính là các [[Features (Đặc Trưng)]] 
