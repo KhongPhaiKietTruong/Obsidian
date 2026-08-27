@@ -21,7 +21,7 @@ Chào mừng bạn đến với Bản đồ nội dung (MOC) về **Toán học 
   - [[Hadamard product]]: Tích Hadamard (nhân từng phần tử tương ứng).
 - **Phép toán Ma trận**:
   - [[Matrix operations/Matrix subtraction|Matrix subtraction]]: Phép trừ ma trận.
-  - [[Matrix operations/Matrix multiplication|Matrix multiplication]]: Phép nhân ma trận.
+  - [[Content/Work/Theory/Machine Learning/MathForAI/Linear Algebra/Matrix operations/Matrix multiplication (Nhân Ma Trận)|Matrix multiplication (Nhân Ma Trận)]]: Phép nhân ma trận.
 
 ### 🏛️ Không gian Vector & Tính chất tuyến tính
 - [[Linear Combination (Tổ Hợp Tuyến Tính)]] (Tổ hợp tuyến tính): Biểu diễn véc-tơ dưới dạng tổng tuyến tính của các véc-tơ khác.

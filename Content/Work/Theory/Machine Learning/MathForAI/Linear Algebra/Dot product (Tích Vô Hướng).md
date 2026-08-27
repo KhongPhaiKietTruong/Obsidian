@@ -1,3 +1,5 @@
+hai ma trận có thể nhân vô hướng với nhau nếu như tụi nó có cùng kích thước 
+
 tích vô hướng của hai vector là một con số mà thể hiện mối quan hệ giữa hai vector đó (cùng hướng, trái hướng, vuông góc)
 
 có thể hiểu theo nghĩa hình học là tích vô hướng của hai vector x và y là tích độ dài của x và y (trong trường hợp hai nó cùng phương), nếu x và y khác phương thì đó là tích độ dài của hình chiếu của x lên y và độ dài y (hoặc ngược lại cũng đúng)
