@@ -1,0 +1,3 @@
+```python 
+torch.tensor(<mảng>)
+```

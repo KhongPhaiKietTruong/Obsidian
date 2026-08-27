@@ -1,0 +1,1 @@
+đây là một class dùng để khởi tạo một layer 
