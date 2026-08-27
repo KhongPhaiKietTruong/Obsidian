@@ -16,7 +16,7 @@ Chào mừng bạn đến với Bản đồ nội dung (MOC) về **Toán học 
 - **Phép toán Vector**:
   - [[Vector addition]] & [[Vector subtraction]]: Phép cộng và trừ véc-tơ.
   - [[Vector multiplication]]: Phép nhân véc-tơ với vô hướng.
-  - [[Dot product]]: Tích vô hướng của hai véc-tơ (trả về một vô hướng).
+  - [[Dot product (Tích Vô Hướng)]]: Tích vô hướng của hai véc-tơ (trả về một vô hướng).
   - [[Cross product]]: Tích có hướng của hai véc-tơ (trả về một véc-tơ vuông góc).
   - [[Hadamard product]]: Tích Hadamard (nhân từng phần tử tương ứng).
 - **Phép toán Ma trận**:
