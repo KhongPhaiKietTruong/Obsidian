@@ -1,0 +1,1 @@
+là [[Class (Lớp)]]class cha đại diện cho [[Layer (Lớp)]], các class để khởi tạo layer khác đều [[Inheritance (Tính kế thừa) |kế thừa]] class này 
