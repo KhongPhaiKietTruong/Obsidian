@@ -1,1 +1,1 @@
-đây là một [[class]] dùng để tạo ra một bộ chứa các 
+đây là một [[class]] dùng để tạo ra một container chứa các [[Layer (Lớp)]] 
