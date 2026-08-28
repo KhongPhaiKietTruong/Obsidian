@@ -10,8 +10,9 @@ begin
 end
 ```
 
+trong trigger, nó cung cấp cho ta "inserted" tương ứng với bảng vừa được insert hoặc update và "deleted" tương ứng với bảng bị xóa
 
-ví dụ
+code ví dụ
 ```sql
 CREATE OR ALTER TRIGGER trg_kiem_tra_ngay_mua
 ON hoa_don
