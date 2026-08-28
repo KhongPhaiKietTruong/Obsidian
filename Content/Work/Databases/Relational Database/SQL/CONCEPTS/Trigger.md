@@ -4,5 +4,31 @@ cú pháp tạo một trigger
 create or alter trigger <tên_trigger>
 on <tên_bảng>
 <before|after|instead of> <insert|update|delete>
+as
+begin
+-- code 
+end
+```
 
+
+ví dụ
+```sql
+CREATE OR ALTER TRIGGER trg_kiem_tra_ngay_mua
+ON hoa_don
+AFTER INSERT, UPDATE
+AS
+BEGIN
+    IF EXISTS (
+        SELECT 1
+        FROM inserted i
+        JOIN dbo.khach_hang k
+            ON i.ma_kh = k.ma_kh
+        WHERE i.ngay_mua <= k.ngay_sinh
+    )
+    BEGIN
+        RAISERROR(N'Ngày mua phải sau ngày sinh.', 16, 1);
+        ROLLBACK TRANSACTION;
+    END
+END;
+GO
 ```
