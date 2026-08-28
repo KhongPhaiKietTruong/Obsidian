@@ -1,4 +1,4 @@
-THÊM RÀNG BUỘC: 
+thêm ràng buộc: 
 ```SQL
 ALTER TABLE <tên_bảng> 
 ADD <tên_ràng_buộc> <tên_cột>
