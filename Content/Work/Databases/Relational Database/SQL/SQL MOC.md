@@ -19,8 +19,8 @@
 - [[DATATYPE/CHAR(N)|CHAR(N)]]
 - [[DATATYPE/VARCHAR(N)|VARCHAR(N)]]
 - [[DATATYPE/BLOB|BLOB]]
-- [[DATATYPE/DATE|DATE]]
-- [[DATATYPE/TIMESTAMP|TIMESTAMP]]
+- [[DATE|DATE]]
+- [[TIMESTAMP|TIMESTAMP]]
 
 ## 🛠️ Định nghĩa dữ liệu (DDL - Data Definition Language)
 - [[Tạo database|CREATE DATABASE (Tạo database)]]
