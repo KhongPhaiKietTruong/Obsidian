@@ -1,1 +1,1 @@
-là một class - một bản thảo để 
+là một bản thảo dùng để tạo nên các [[Container]] 
