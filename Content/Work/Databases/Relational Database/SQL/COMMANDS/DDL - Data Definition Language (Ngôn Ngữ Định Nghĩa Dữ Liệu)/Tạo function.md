@@ -9,3 +9,5 @@ as begin
 ​	<code>
 end;
 ```
+
+lưu ý: khi sử dụng một function do mình tạo ra, buộc phải chỉ rõ tên [[Schema]] 
