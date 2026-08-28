@@ -1,0 +1,1 @@
+kiểm tra xem truy vấn bên trong () của if exists có tồn tại ít nhất một dòng hay không
