@@ -1,4 +1,3 @@
-
 Khai báo ở mức cột
 
 ```sql
