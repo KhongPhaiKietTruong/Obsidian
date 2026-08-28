@@ -1,1 +1,1 @@
-là một đoạn mã sẽ 
+là một đoạn mã được thực thi tự động khi có một sự kiện nào đó (thêm bảng ghi, xóa bảng ghi, ...) xảy ra lên [[Table (Bảng)]] hoặc View  
