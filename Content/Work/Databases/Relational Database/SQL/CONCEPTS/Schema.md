@@ -15,3 +15,5 @@ ban_hang
     └── phong_ban
 ```
 ta còn có thể phân quyền cho role lên các schema được chỉ định 
+
+schema mặc định của một database sẽ là "dbo" (viết tắt của database owner)
