@@ -1,0 +1,1 @@
+là một class - một bản thảo để 
