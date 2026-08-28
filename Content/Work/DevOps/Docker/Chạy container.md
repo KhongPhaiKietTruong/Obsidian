@@ -1,3 +1,3 @@
 ```
-docker run [flag] <
+sudo docker start <tên_container>
 ```
