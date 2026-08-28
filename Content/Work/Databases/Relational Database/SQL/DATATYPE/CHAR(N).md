@@ -1,3 +1,3 @@
-dùng để lưu chuỗi có độ dài cố định
-
+dùng để lưu chuỗi có độ dài cố định như mã số quốc gia, mã số căn cước, ...
+tốc độ của char sẽ nhanh hơn [[VARCHAR(N)]] vì nó có độ dài cố định nên máy tính sẽ tính toán 
 ví dụ khai báo: CHAR(10) mà nhập có 3 kí tự thì nó vẫn chiếm 10 chỗ 
