@@ -1,6 +1,6 @@
 lệnh này có thể thêm một cột vào [[Table (Bảng)]], thêm các ràng buộc, thêm chỉ mục (index)
 
-THÊM CỘT:
+thêm cột:
 ```sql
 ALTER TABLE <tên_bảng>
 ADD COLUMN <tên_cột> <kiểu_dữ_liệu> ;
