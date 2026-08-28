@@ -3,5 +3,6 @@ cú pháp tạo một trigger
 ```sql
 create or alter trigger <tên_trigger>
 on <tên_bảng>
+<before|after|instead of> <insert|update|delete>
 
 ```
