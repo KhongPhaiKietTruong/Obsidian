@@ -1,0 +1,1 @@
+đây là kiểu dữ liệu mặc định của [[Tensor]] 
