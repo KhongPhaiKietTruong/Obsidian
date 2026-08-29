@@ -55,7 +55,7 @@ Các khối xây dựng chi tiết của một mô hình học máy:
   - [[SE (Squared Error)]] (Mean Squared Error): Hàm mất mát bình phương trung bình.
   - [[Log loss (Cross-entropy Loss)]]: Hàm mất mát cho bài toán phân loại.
 - **Hàm chi phí ([[Cost Function (Hàm Chi Phí)]])**:
-  - [[Log Loss Cost Function]]: Hàm chi phí Log Loss trên toàn bộ tập dữ liệu.
+  - [[Log Loss Cost Function - Binary Cross-Entropy Cost Function]]: Hàm chi phí Log Loss trên toàn bộ tập dữ liệu.
   - [[Mean Squared Error Cost Function (MSE)]]: Hàm chi phí MSE trên toàn bộ tập huấn luyện.
 
 ---
