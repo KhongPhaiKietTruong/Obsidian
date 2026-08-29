@@ -5,3 +5,4 @@ các [[Attribute (Thuộc tính)]] phổ biến của tensor là:
      ![[Pasted image 20260829160746.png|574]]
 - device: cho biết tensor này được lưu trên đâu (cpu hay gpu)
 - dtype: cho biết kiểu dữ liệu của tensor
+- T: dùng để truy cập vào tensor chuyển vị
