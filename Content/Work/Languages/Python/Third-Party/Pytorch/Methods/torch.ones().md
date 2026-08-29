@@ -1,0 +1,1 @@
+dùng để tạo [[Tensor]] có giá trị 1

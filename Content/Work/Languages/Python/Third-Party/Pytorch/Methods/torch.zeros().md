@@ -1,0 +1,1 @@
+dùng để tạo tensor có giá trị 0
