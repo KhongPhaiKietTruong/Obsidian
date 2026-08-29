@@ -1,0 +1,1 @@
+dùng để tìm giá trị nhỏ nhất trong [[Tensor]]

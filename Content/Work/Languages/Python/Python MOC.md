@@ -12,7 +12,7 @@ Chào mừng bạn đến với tài liệu học và tra cứu Python. Dưới 
 - [[Content/Work/Languages/Python/Built-in/Function/int()|int()]] - nhận vào hai tham số n và b (thường dùng với 1 tham số n)
 - [[Content/Work/Languages/Python/Built-in/Function/map()|map()]] - apply a function to all the elements in an iterable
 - [[Content/Work/Languages/Python/Built-in/Function/max()|max()]] - max(iterable, key) return the max value of a iterable
-- [[Content/Work/Languages/Python/Built-in/Function/min()|min()]] - tương tự [[max()]]
+- [[Content/Work/Languages/Python/Built-in/Function/min()|min()]] - tương tự [[Content/Work/Languages/Python/Built-in/Function/max()]]
 - [[Content/Work/Languages/Python/Built-in/Function/print()|print()]] - nhận vào các tham số: sep, end, flush
 - [[Content/Work/Languages/Python/Built-in/Function/replace()|replace()]] - dùng để thay thế một đoạn văn bản trong một chuỗi thành chuỗi khác
 - [[Content/Work/Languages/Python/Built-in/Function/round()|round()]]

@@ -26,7 +26,7 @@ Chào mừng bạn đến với tài liệu hướng dẫn học và tra cứu t
 * [[describe()]] - Thống kê mô tả các đặc trưng số/chuỗi.
 * [[head()]] - Lấy các hàng đầu tiên của bảng.
 * [[tail()]] - Lấy các hàng cuối cùng của bảng.
-* [[mean()]] - Tính giá trị trung bình.
+* [[Content/Work/Languages/Python/Third-Party/Pandas/DataFrame/Method/Stat & Info/mean()]] - Tính giá trị trung bình.
 * [[median()]] - Tính giá trị trung vị.
 * [[mode()]] - Tìm giá trị xuất hiện nhiều nhất.
 
