@@ -1,0 +1,1 @@
+hàm này dùng để chuyển từ một tensor sang một numpy array
