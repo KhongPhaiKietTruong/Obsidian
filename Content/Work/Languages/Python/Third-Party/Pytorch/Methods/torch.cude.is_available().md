@@ -1,0 +1,1 @@
+kiểm tra xem chương trình hiện tại có nhận được GPU không 
