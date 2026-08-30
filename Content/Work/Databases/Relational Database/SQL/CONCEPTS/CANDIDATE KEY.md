@@ -1,1 +1,0 @@
-là một [[SUPER KEY]] tối thiểu, có thể được chọn để trở thành [[Primary key (Khóa chính)|Primary key (Khóa chính)]]

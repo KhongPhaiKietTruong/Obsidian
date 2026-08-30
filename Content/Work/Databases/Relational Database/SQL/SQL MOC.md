@@ -9,8 +9,8 @@
 - [[CONCEPTS/1NF|1NF (Chuẩn hóa 1)]]
 - [[CONCEPTS/2NF|2NF (Chuẩn hóa 2)]]
 - [[CONCEPTS/3NF|3NF (Chuẩn hóa 3)]]
-- [[CONCEPTS/SUPER KEY|SUPER KEY (Khóa siêu cấp)]]
-- [[CONCEPTS/CANDIDATE KEY|CANDIDATE KEY (Khóa ứng viên)]]
+- [[Super Key|SUPER KEY (Khóa siêu cấp)]]
+- [[Candidate Key|CANDIDATE KEY (Khóa ứng viên)]]
 - [[Primary key (Khóa chính)|PRIMARY KEY (Khóa chính - Khái niệm)]]
 
 ## 📊 Kiểu dữ liệu (Datatypes)
