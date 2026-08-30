@@ -1,0 +1,1 @@
+cũng tương tự [[Test Error]] nhưng đại lượng này được tính trên [[Training Set (Tập Huấn Luyện)]]
