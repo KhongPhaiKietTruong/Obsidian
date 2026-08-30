@@ -1,4 +1,11 @@
 
+##### dạng tổng quát (n nhãn)
+$$L = -\sum_{j=1}^{K} y_j \log(a_j)$$
+với:
+- K là số nhãn 
+- $a_{j}$ là kết quả dự đoán (cũng giống như $f_{\vec{w},b}(\vec{x}^{(i)}), y^{(i)}$ ở dưới thôi)
+
+##### dạng cụ thể trong bài toán dự đoán với 2 nhãn
 có công thức:
 $$L\left(f_{\vec{w},b}(\vec{x}^{(i)}), y^{(i)}\right) = \begin{cases} -\log\left(f_{\vec{w},b}(\vec{x}^{(i)})\right) & \text{if } y^{(i)} = 1 \\ -\log\left(1 - f_{\vec{w},b}(\vec{x}^{(i)})\right) & \text{if } y^{(i)} = 0 \end{cases}$$
 dạng gộp để có thể dễ dàng code:
