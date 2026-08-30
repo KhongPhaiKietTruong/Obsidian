@@ -1,0 +1,1 @@
+đây là dạng mở rộng của [[Logistic Regression (Hồi Quy Logistic)]] dùng trong bài toán phân loại với n nhãn 
