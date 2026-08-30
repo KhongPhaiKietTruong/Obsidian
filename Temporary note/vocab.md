@@ -10,5 +10,6 @@ arcane (adj): khó hiểu, bí ẩn
 round-off error (n): sai số làm tròn 
 oscillation (n): sự dao động 
 architect (v): thiết kế kiến trúc 
+tractable (adj): khả thi
 
 
