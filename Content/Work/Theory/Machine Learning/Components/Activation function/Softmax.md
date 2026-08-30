@@ -18,8 +18,9 @@ lưu ý: ở output layer, số lượng [[Neural]] trong layer đó sẽ bằng
 nếu để những con số như này như ta khó dùng và khó hình dung được
 nên ta dùng softmax để chuẩn hóa nó về xác suất
 Kết quả sau khi qua Softmax:
-- Mèo: **0.659** (65.9%)
-- Chó: **0.242** (24.2%)
-- Gà: **0.099** (9.9%) 
+- Mèo: 0.659 (65.9%)
+- Chó: 0.242 (24.2%)
+- Gà: 0.099 (9.9%) 
+Tổng cộng = 1.0 (100%).
 
-**Tổng cộng = 1.0 (100%)**.
+để sử dụng softmax hiệu quả, do một vài vấn đề liên quan đến sai số làm tròn mà người ta không để layer cuối cùng là softmax mà là 'linear' sau đó gán tham số from_logits = true (bản chất của việc này thì vẫn là dùng softmax nhưng tăng độ chính xác hơn), ở phần predict, thì ta dùng một method để chuyển đổi các con số thành xác xuất
