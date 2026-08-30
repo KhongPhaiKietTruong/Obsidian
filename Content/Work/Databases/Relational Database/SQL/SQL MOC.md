@@ -74,7 +74,7 @@
 - [[Primary Key|PRIMARY KEY (Ràng buộc khóa chính)]]
 - [[Foreign Key|FOREIGN KEY (Khóa ngoại)]]
 - [[Default|Default]]
-- [[CONSTRAINTS/AUTO_INCREMENT|AUTO_INCREMENT]]
+- [[Auto_increment|Auto_increment]]
 
 ### Khóa ngoại & Hành vi (Foreign Key Behaviors)
 - [[CONSTRAINTS/ON DELETE CASCADE|ON DELETE CASCADE]]
