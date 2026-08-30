@@ -1,0 +1,1 @@
+là các quy tắc để lưu trữ dữ liệu trong một [[Table (Bảng)]] giúp dữ liệu nhất quán và hợp lệ 

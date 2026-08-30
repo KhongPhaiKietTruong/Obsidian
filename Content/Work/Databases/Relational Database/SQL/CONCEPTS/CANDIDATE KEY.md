@@ -1,1 +1,1 @@
-là một [[SUPER KEY]] tối thiểu, có thể được chọn để trở thành [[Content/Work/Databases/Relational Database/SQL/CONCEPTS/PRIMARY KEY|PRIMARY KEY]]
+là một [[SUPER KEY]] tối thiểu, có thể được chọn để trở thành [[Primary key (Khóa chính)|Primary key (Khóa chính)]]

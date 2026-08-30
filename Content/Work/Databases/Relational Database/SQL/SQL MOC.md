@@ -11,7 +11,7 @@
 - [[CONCEPTS/3NF|3NF (Chuẩn hóa 3)]]
 - [[CONCEPTS/SUPER KEY|SUPER KEY (Khóa siêu cấp)]]
 - [[CONCEPTS/CANDIDATE KEY|CANDIDATE KEY (Khóa ứng viên)]]
-- [[CONCEPTS/PRIMARY KEY|PRIMARY KEY (Khóa chính - Khái niệm)]]
+- [[Primary key (Khóa chính)|PRIMARY KEY (Khóa chính - Khái niệm)]]
 
 ## 📊 Kiểu dữ liệu (Datatypes)
 - [[DATATYPE/INT|INT]]
@@ -69,11 +69,11 @@
 ## 🔐 Ràng buộc dữ liệu (Constraints)
 - [[CONSTRAINTS/Khai báo ràng buộc|Khai báo ràng buộc]]
 - [[CONSTRAINTS/Quy tắc đặt tên|Quy tắc đặt tên ràng buộc]]
-- [[CONSTRAINTS/NOT NULL|NOT NULL]]
-- [[CONSTRAINTS/UNIQUE|UNIQUE]]
-- [[CONSTRAINTS/PRIMARY KEY|PRIMARY KEY (Ràng buộc khóa chính)]]
-- [[CONSTRAINTS/FOREIGN KEY|FOREIGN KEY (Khóa ngoại)]]
-- [[CONSTRAINTS/DEFAULT|DEFAULT]]
+- [[Not null|not null]]
+- [[Unique|Unique]]
+- [[Primary Key|PRIMARY KEY (Ràng buộc khóa chính)]]
+- [[Foreign Key|FOREIGN KEY (Khóa ngoại)]]
+- [[Default|Default]]
 - [[CONSTRAINTS/AUTO_INCREMENT|AUTO_INCREMENT]]
 
 ### Khóa ngoại & Hành vi (Foreign Key Behaviors)

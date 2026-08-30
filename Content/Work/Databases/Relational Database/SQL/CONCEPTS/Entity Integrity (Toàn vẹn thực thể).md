@@ -1,0 +1,1 @@
+đây là tính chất đảm bảo rằng các [[Records (Bảng ghi)]] trong [[Table (Bảng)]] không được trùng nhau 
