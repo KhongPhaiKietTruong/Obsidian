@@ -1,1 +1,1 @@
-khi cho [[Constraint (Ràng Buộc)]] này vào một [[Foreign Key]], thì nếu cái mà nó trỏ đến bị xóa, thì bản ghi chứa khóa ngoại trỏ đến nó cũng bị xóa theo
+khi cho [[Constraint (Ràng Buộc)]] này vào một [[Foreign Key (Khóa Ngoại)]], thì nếu cái mà nó trỏ đến bị xóa, thì bản ghi chứa khóa ngoại trỏ đến nó cũng bị xóa theo

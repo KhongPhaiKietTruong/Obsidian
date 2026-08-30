@@ -1,0 +1,1 @@
+là tính chất đảm bảo rằng một giá trị [[Foreign Key (Khóa Ngoại)]] phải tham chiếu đến một [[[[Records (Bảng ghi)]]]] có tồn tại trong database 

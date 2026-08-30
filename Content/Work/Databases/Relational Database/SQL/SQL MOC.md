@@ -72,7 +72,7 @@
 - [[Not null|not null]]
 - [[Unique|Unique]]
 - [[Primary Key|PRIMARY KEY (Ràng buộc khóa chính)]]
-- [[Foreign Key|FOREIGN KEY (Khóa ngoại)]]
+- [[Foreign Key (Khóa Ngoại)|FOREIGN KEY (Khóa ngoại)]]
 - [[Default|Default]]
 - [[Auto_increment|Auto_increment]]
 
