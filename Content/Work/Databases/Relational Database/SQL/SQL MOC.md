@@ -68,7 +68,7 @@
 
 ## 🔐 Ràng buộc dữ liệu (Constraints)
 - [[CONSTRAINTS/Khai báo ràng buộc|Khai báo ràng buộc]]
-- [[CONSTRAINTS/Quy tắc đặt tên|Quy tắc đặt tên ràng buộc]]
+- [[Quy tắc đặt tên ràng buộc|Quy tắc đặt tên ràng buộc]]
 - [[Not null|not null]]
 - [[Unique|Unique]]
 - [[Primary Key|PRIMARY KEY (Ràng buộc khóa chính)]]
