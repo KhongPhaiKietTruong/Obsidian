@@ -48,7 +48,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
 Các khối xây dựng chi tiết của một mô hình học máy:
 
 - **Hàm kích hoạt ([[Activation Function (Hàm Kích Hoạt)]])**:
-  - [[Sigmoid function]]: Hàm kích hoạt phi tuyến đưa giá trị về khoảng $(0, 1)$.
+  - [[Sigmoid]]: Hàm kích hoạt phi tuyến đưa giá trị về khoảng $(0, 1)$.
   - [[Softmax]]: Hàm kích hoạt chuẩn hóa đầu ra thành phân phối xác suất cho phân loại đa lớp.
 - **Hàm mất mát ([[Loss function (Hàm Mất Mát)]])**:
   - [[Components/Loss function/Definition|Definition]]: Định nghĩa và vai trò của hàm mất mát đối với một điểm dữ liệu.
