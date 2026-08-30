@@ -2,8 +2,8 @@
 nn.Linear(in_features, out_features, bias=True)
 ```
 đây là một [[Class (Lớp)]] dùng để khởi tạo một [[Linear - Dense - Fully Connected Layer|linear layer]]  với:
-- in_features là số lượng [[Perceptron|neural]] đầu vào
-- in_features là số lượng [[Perceptron|neural]] đầu ra
+- in_features là số lượng [[Neural|neural]] đầu vào
+- in_features là số lượng [[Neural|neural]] đầu ra
 - bias: bật tắt [[Bias]]
 code mẫu:
 ```python 

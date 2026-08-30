@@ -39,7 +39,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
   - [[Bias]]: Độ chệch - sai số do giả định đơn giản hóa mô hình.
 
 ### 🧠 Mạng nơ-ron cơ bản (Neural Networks)
-- [[Perceptron]]: Đơn vị phân loại tuyến tính cơ bản, nền tảng của mạng nơ-ron.
+- [[Neural]]: Đơn vị phân loại tuyến tính cơ bản, nền tảng của mạng nơ-ron.
 - [[Neural Network (Mạng Neural)]]: Mạng nơ-ron nhân tạo mô phỏng hoạt động não bộ.
 
 ---
