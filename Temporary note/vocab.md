@@ -8,6 +8,7 @@ as in (adv): tức là
 hook up (v): kết nối, lắp đặt 
 arcane (adj): khó hiểu, bí ẩn 
 round-off error (n): sai số làm tròn 
-Oscillation
+oscillation (n): sự dao động 
+architect (v): thiết kế kiến trúc 
 
 
