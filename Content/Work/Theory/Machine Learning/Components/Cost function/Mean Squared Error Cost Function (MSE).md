@@ -10,7 +10,7 @@ $$
 với:
 - y là giá trị thực tế
 - $\hat{y}$ là giá trị dự đoán ra
-- 
+- m là số lượng mẫu 
 ta chia cho 2m là để khi lấy đạo hàm cost function này, số 2 từ mũ của [[The Error (Sai Số)]] sẽ đem xuống và tụi nó triệt tiêu nhau giúp phương trình đẹp và tính toán dễ hơn nhưng không làm thay đổi bản chất bài toán
 
 nếu ta sử dụng squared error cost function với [[Linear Regression (Hồi Quy Tuyến Tính)]] thì hàm số sẽ là một [[Convex Function]] và ta sẽ dễ dàng tìm được giá trị nhỏ nhất 
