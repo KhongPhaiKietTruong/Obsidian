@@ -1,1 +1,1 @@
-là một [[Super Key]] tối thiểu (không thể xóa , có thể được chọn để trở thành [[Primary key (Khóa chính)|Primary key (Khóa chính)]]
+là một [[Super Key]] tối thiểu (không thể xóa cột nào nữa), có thể được chọn để trở thành [[Primary key (Khóa chính)|Primary key (Khóa chính)]]
