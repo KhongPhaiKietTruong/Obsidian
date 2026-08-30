@@ -34,3 +34,5 @@ Others:
 - [ ] Porfolio
 - [ ] System design
 - [ ] Vertex AI
+- [ ] 
+https://chatgpt.com/share/6a945e72-ecfc-83ec-affc-e42baf03c453
