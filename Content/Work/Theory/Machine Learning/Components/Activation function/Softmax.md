@@ -1,10 +1,12 @@
-đây là một [[Activation Function (Hàm Kích Hoạt)]] được dùng trong dạng toán phân loại với n nhãn (n>2)
+đây là một [[Activation Function (Hàm Kích Hoạt)]] được dùng trong **output layer** dạng toán phân loại với n nhãn (n>2)
 có dạng là:
 $$
 a_{j}=\frac{e^{z_{j}}}{\sum_{k=1}^{K}e^{z_{k}}}
 $$
-với 
-![[Pasted image 20260830164550.png]]
+với :
+- K: số lượng nhãn 
+- j: số thứ tự của neural đang tính
+
 là một hàm giúp chuẩn hóa xác xuất
 ví dụ như khi mà ta cho model phân biệt giữa 3 con vật: mèo, chó, gà
 model cho ra điểm số của từng con như sau:
