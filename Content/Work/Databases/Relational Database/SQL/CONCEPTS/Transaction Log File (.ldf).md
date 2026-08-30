@@ -1,0 +1,1 @@
+đây là file chứa log thay đổi của các database, giúp ta rollback, backup và recovery 
