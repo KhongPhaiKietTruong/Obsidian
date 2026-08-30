@@ -34,7 +34,7 @@
 - [[INSERT INTO|INSERT INTO]]
 - [[UPDATE|UPDATE]]
 - [[Content/Work/Databases/Relational Database/SQL/COMMANDS/DML - Data Manipulation Language (Ngôn Ngữ Thao Tác Dữ Liệu)/SET|SET]]
-- [[Xóa bảng ghi|DELETE FROM]]
+- [[Xóa các bảng ghi thỏa điều kiện|DELETE FROM]]
 
 ## 🔍 Truy vấn dữ liệu (DQL - Data Query Language)
 - [[DISTINCT|DISTINCT]]
