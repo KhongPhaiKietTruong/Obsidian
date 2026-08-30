@@ -11,3 +11,5 @@ add check (tuoi >= 18);
 ```
 #### thêm ràng buộc khóa chính
 trước tiên phải thay đổi kiểu dữ liệu của cột thành [[Not null]] ([[Thay đổi kiểu dữ liệu cột]]) rồi mới thêm ràng buộc [[Khóa chính]] cho cột đó được
+
+lưu ý: đôi lúc có code sẽ là "add constraint", từ "constraint" là không bắt buộc và có thể có hoặc không 
