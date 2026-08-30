@@ -5,6 +5,7 @@ traction (n):
 introspect (v):
 act up (v): hư
 as in (adv): tức là
+hook up (v): kết nối, lắp đặt 
 
 
 
