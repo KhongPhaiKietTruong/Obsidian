@@ -7,4 +7,5 @@ ta chọn hàm kích hoạt của output layer dựa trên ([[Target variable (G
 
 ##### hidden layer
 lựa chọn hàm kích hoạt phổ biến nhất cho hiddent layer chính là ReLU
-bởi vì ReLU nhanh hơn Sigmoid (hàm của nó đơn giản hơn, không phải tính toán nhiều)
+- bởi vì ReLU nhanh hơn Sigmoid (hàm của nó đơn giản hơn, không phải tính toán nhiều)
+- đạo hàm (độ dốc) sigmoid quá nhỏ, dẫn đến việc tính gradient descent diễn ra chậm chạp 
