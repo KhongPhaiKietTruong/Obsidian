@@ -1,0 +1,1 @@
+là tập dữ liệu mà model chưa từng thấy qua, dùng để thực hiện đánh giá tính [[Generalization]] của model 
