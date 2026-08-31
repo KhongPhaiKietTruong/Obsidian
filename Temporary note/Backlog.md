@@ -1,7 +1,7 @@
 - [x] tải antigravity trên aur
 - [x] chạy máy ảo test caelestia
 - [ ] promp engineer course
-- [ ] clone hoặc tìm chìa khóa xe
+- [x] clone hoặc tìm chìa khóa xe
 - [x] dang ki du thi AI challenge
 - [x] làm bài ktct
 - [x] hỏi mn đi ai challenge thứ 7

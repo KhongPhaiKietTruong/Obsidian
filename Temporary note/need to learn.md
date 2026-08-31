@@ -3,3 +3,4 @@
 - [x] viet ung dung web dau tien va dua len hosting (mon lap trinh web)
 - [ ] stateless 
 - [x] response, request ? 
+- [ ] private ip vs public ip 
