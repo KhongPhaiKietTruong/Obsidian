@@ -1,0 +1,1 @@
+khi ta huấn luyện một mô hình, ta sẽ thử mô hình đó với nhiều 
