@@ -34,7 +34,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
 - **Vấn đề Overfitting & Underfitting**:
   - [[Overfitting - High Variance]] (Quá khớp): Mô hình quá khớp với dữ liệu huấn luyện, mất khả năng tổng quát.
     - [[Addressing Overfitting (Giải Quyết Overfitting)]]: Các phương pháp giải quyết quá khớp.
-  - [[Underfitting]] (Chưa khớp): Mô hình quá đơn giản, không học được cấu trúc dữ liệu.
+  - [[Underfitting - High Bias]] (Chưa khớp): Mô hình quá đơn giản, không học được cấu trúc dữ liệu.
   - [[Regularization (Chuẩn Hóa)]]: Kỹ thuật chính quy hóa (L1, L2) giúp giảm overfitting.
   - [[Bias]]: Độ chệch - sai số do giả định đơn giản hóa mô hình.
 
