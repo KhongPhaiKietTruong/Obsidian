@@ -1,0 +1,1 @@
+đây là con số đại diện cho model mà ta chọn khi thử 
