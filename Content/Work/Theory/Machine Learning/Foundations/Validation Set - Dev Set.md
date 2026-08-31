@@ -1,1 +1,1 @@
-khi ta huấn luyện một mô hình, ta sẽ thử mô hình đó với nhiều 
+khi ta huấn luyện một mô hình, ta sẽ thử mô hình đó với nhiều feature [[Linear equation | phương trình tuyến tính]] khác nhau  
