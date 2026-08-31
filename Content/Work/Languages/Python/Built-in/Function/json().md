@@ -1,0 +1,1 @@
+hàm này giúp chuyển một json thành một [[Dictionary]] 
