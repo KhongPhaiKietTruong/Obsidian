@@ -2,7 +2,7 @@ không dùng that sau giới từ
 
 interoffice (adj): nội bộ trong văn phòng
 traction (n): độ bám, đà phát triển (sự thu hút)
-introspect (v):
+introspect (v): kiểm tra cấu trúc 
 act up (v): hư
 as in (adv): tức là
 hook up (v): kết nối, lắp đặt 
