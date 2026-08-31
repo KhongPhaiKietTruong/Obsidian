@@ -1,0 +1,1 @@
+là một thư viện python giúp kết nối đến [[ODBC]] để làm việc với cơ sở dữ liệu 

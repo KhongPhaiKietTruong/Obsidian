@@ -4,11 +4,11 @@
 > Map of Content cho phần **SQL (Structured Query Language)**. Bao gồm các khái niệm, kiểu dữ liệu, các câu lệnh chuẩn DDL, DML, DQL, Set Operations, toán tử, ràng buộc và các hàm tổng hợp.
 
 ## 🧭 Khái niệm cơ bản (Concepts)
-- [[CONCEPTS/Table (Bảng)|Table (Bảng)]]
-- [[CONCEPTS/Records (Bảng ghi)|Records (Bản ghi)]]
-- [[CONCEPTS/1NF|1NF (Chuẩn hóa 1)]]
-- [[CONCEPTS/2NF|2NF (Chuẩn hóa 2)]]
-- [[CONCEPTS/3NF|3NF (Chuẩn hóa 3)]]
+- [[Table (Bảng)|Table (Bảng)]]
+- [[Records (Bảng ghi)|Records (Bản ghi)]]
+- [[1NF|1NF (Chuẩn hóa 1)]]
+- [[2NF|2NF (Chuẩn hóa 2)]]
+- [[3NF|3NF (Chuẩn hóa 3)]]
 - [[Super Key|SUPER KEY (Khóa siêu cấp)]]
 - [[Candidate Key|CANDIDATE KEY (Khóa ứng viên)]]
 - [[Primary key (Khóa chính)|PRIMARY KEY (Khóa chính - Khái niệm)]]
