@@ -23,3 +23,13 @@ $$
 
 $f_{\vec{w}, b}(\vec{x})$ là giá trị dự đoán của model 
 lí do mà $\vec{x} \text{ và } \vec{w}$ là vector thay vì vector hàng là vì đó là quy ước chuẩn của đại số tuyến tính
+```mermaid
+flowchart LR
+    A[Dataset] --> B[Training set]
+    A --> C[CV set]
+    A --> D[Test set]
+
+    B --> E[Train models]
+    C --> F[Choose best model]
+    F --> D
+```
