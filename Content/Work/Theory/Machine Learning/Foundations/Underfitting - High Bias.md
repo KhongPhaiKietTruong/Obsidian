@@ -4,4 +4,6 @@ dịch: chưa khớp, khớp dưới
 
 hiện tượng này có thể được nhận biết thông qua tính [[Training Error]] và [[Validation Error]], khi training error cao và validation error cũng cao (hai đại lượng này xấp xỉ nhau) (xem thêm [[Content/Work/Theory/Machine Learning/Foundations/Mối quan hệ giữa Trainning Error và Validation Error trong Degree Of Polynominal]])
 
+một cách khác để biết mô hình có underfitting không là ta dựa trên [[Baseline Error]], nếu khoảng cách giữa training error và baseline error là lớn (training error > baseline error) thì nghĩa là mô hình ta đang bị underfitting 
+
 hiện tượng này còn được gọi là high bias vì model mang định kiến rằng đường thẳng này là đủ để khớp các điểm mà không chịu uốn cong
