@@ -1,0 +1,1 @@
+cũng giống như cách tính của [[Test Error]], tuy nhiên, ta sẽ sử dụng thuật toán rất cơ bản 
