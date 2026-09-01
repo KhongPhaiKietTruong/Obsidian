@@ -2,3 +2,4 @@ dịch: giải quyết [[Overfitting - High Variance]]
 
 cách 1: tăng kích thước [[Training Set (Tập Huấn Luyện)]]
 cách 2: khi tập huấn luyện quá ít mà [[Features (Đặc Trưng)]] quá nhiều thì [[Features Selection (Chọn Đặc Trưng)]] là giải pháp tốt 
+cách 3: tăng hệ số regularization 
