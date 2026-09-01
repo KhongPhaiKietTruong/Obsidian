@@ -6,7 +6,7 @@ dựa trên learning curve mà ta có thể đánh giá mô hình đang bị [[O
 
 với overfitting, learning curve sẽ có hình dạng như này:
 ![[Pasted image 20260901190600.png]]
-
+càng nhiều mẫu thì model học tốt hơn điều đó khiến validation error càng thấp dần 
 với underfitting thì:
 ![[Pasted image 20260901190642.png]]
 
