@@ -7,6 +7,6 @@ hiện tượng này còn được gọi là high variance bởi vì nếu như 
 
 hiện tượng này còn thể nhận biết được thông qua tính [[Training Error]] và [[Validation Error]], nếu tranning error mà thấp nhưng validation error cao thì nghĩa là model đang bị overfitting (validation error cao hơn nhiều so với training error) (xem thêm [[Hyperpamater d - Degree Of Polynomial]]). 
 
-một cách khác để biết mô hình có overfitting không là ta dựa trên [[Baseline Error]], nếu khoảng cách giữa training error và baseline error là lớn (training error > baseline error) thì nghĩa là mô hình ta đang bị overfit 
+một cách khác để biết mô hình có overfitting không là ta dựa trên [[Baseline Error]], nếu khoảng cách giữa training error và baseline error là nhỏ (training error ~ baseline error) và validation error nằm cách xa training error thì mô hình đang bị overfit 
 
 giải pháp: [[Addressing Overfitting (Giải Quyết Overfitting)]]
