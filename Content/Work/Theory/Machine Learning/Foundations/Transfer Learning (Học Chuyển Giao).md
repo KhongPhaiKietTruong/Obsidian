@@ -1,1 +1,2 @@
-khi ta có tập dữ liệu nhỏ, ta có thể cho model học trên một tập dữ liệu lớn trước (có thể dữ liệu đó sẽ không hề liên quan đến bài toán hiện tại nhưng sẽ giúp model học được những đặc điểm cơ bản), sau đó ta sẽ tiếp tục 
+khi ta có tập dữ liệu nhỏ, ta có thể cho model học trên một tập dữ liệu lớn trước (có thể dữ liệu đó sẽ không hề liên quan đến bài toán hiện tại nhưng sẽ giúp model học được những đặc điểm cơ bản), tiếp theo ta sẽ có 2 options:
+- giữ lại tất cả lớp của mạng neural ban đầu và chỉ thay thế lớp output rồi thực hiện train model trên lớp output mà thôi (nghĩa là trọng số của lớp ban đầu sẽ giữ nguyên), điều này thường thực hiện khi ta có [[Training Set (Tập Huấn Luyện)]] nhỏ 
