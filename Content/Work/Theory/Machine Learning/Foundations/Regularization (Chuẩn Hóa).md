@@ -5,7 +5,7 @@ $$
 \frac{\lambda}{2m} \sum_{i=1}^{m} w_{j}^2
 $$
 với:
-- $\lambda$ là hệ số chuẩn hóa (khá giống với [[Learning Rate (Tốc Độ Học)]])
+- $\lambda$ là [[Regularization Coefficient (Hệ Số Chuẩn Hóa)]] (khá giống với [[Learning Rate (Tốc Độ Học)]])
 - m là số lượng mẫu trong [[Training Set (Tập Huấn Luyện)]] 
 
 nếu chọn $\lambda$ quá lớn sẽ khiến cho mô hình bị [[Underfitting - High Bias]] khi mà các trọng số w sẽ rất nhỏ để hàm chi phí đạt giá trị nhỏ nhất

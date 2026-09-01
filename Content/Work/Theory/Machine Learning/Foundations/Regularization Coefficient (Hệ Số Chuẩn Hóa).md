@@ -1,0 +1,3 @@
+$\lambda$ là hệ số quyết định tỉ lệ phạt của hệ số w để "kiềm chế" hệ số này lại
+$\lambda$ càng cao thì w càng thấp và ngược lại 
+các giá trị thường sử dụng: 0.01, 0.02, 0.05, 0.1, 0.2, 0.5, 1, ...
