@@ -1,3 +1,4 @@
 cũng tương tự [[Test Error]] nhưng đại lượng này được tính trên [[Training Set (Tập Huấn Luyện)]]
 
 nếu như training error của chúng ta lớn, ta có thể cân nhắc tăng số lượng [[Layer (Lớp)]] của mạng neural để giảm training error lại, điều này sẽ không dẫn đến hiện tượng [[Overfitting - High Variance]] quá nhiều nếu như ta có [[Regularization (Chuẩn Hóa)]] hợp lí, việc tăng số lượng lớp thường sẽ luôn mang lại một model tốt hơn mà thường không dẫn đến việc overfit 
+tuy nhiên sẽ đánh đổi lại một việc là càng nhiều lớp thì việc tính toán sẽ càng chậm chạp hơn 
