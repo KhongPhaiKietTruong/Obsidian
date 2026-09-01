@@ -5,6 +5,6 @@ là hiện tượng khi mô hình uốn éo quá mức để có thể khớp c�
 
 hiện tượng này còn được gọi là high variance bởi vì nếu như ta thay đổi một vài điểm dữ liệu trong tập huấn luyện thôi thì hình dạng đồ thị của model sẽ cho ra hoàn toàn khác (w và b có độ biến động cao)
 
-hiện tượng này còn thể nhận biết được thông qua tính [[Training Error]] và [[Validation Error]], nếu tranning error mà thấp nhưng validation error cao thì nghĩa là model đang bị overfitting (validation error cao hơn nhiều so với training error) (xem thêm [[Content/Work/Theory/Machine Learning/Foundations/Mối quan hệ giữa Trainning Error và Validation Error trong Degree Of Polynominal]])
+hiện tượng này còn thể nhận biết được thông qua tính [[Training Error]] và [[Validation Error]], nếu tranning error mà thấp nhưng validation error cao thì nghĩa là model đang bị overfitting (validation error cao hơn nhiều so với training error) (xem thêm [[Hyperpamater d - Degree Of Polynomial]]). Tuy nhiên, để biết được liệu training error liệu có đang ở mức cao hay không, ta dựa trên 
 
 giải pháp: [[Addressing Overfitting (Giải Quyết Overfitting)]]
