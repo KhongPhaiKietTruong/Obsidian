@@ -1,0 +1,1 @@
+khi chỉ sử dụng một [[Decision Tree (Cây Quyết Định)]], model đó rất dễ bị ảnh hưởng bởi dữ liệu  đây là một thuật toán mà ta sẽ
