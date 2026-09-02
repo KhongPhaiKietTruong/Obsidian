@@ -1,0 +1,2 @@
+là một cách từ để mà từ một tập [[Training Set (Tập Huấn Luyện)]] gốc mà ta có thể tạo ra nhiều training set khác, bằng cách bóc từng mẫu trong training set gốc ra và để vào lại và tiếp tục bóc tiếp cho đến khi đủ số lượng cần thiết
+các mẫu trong training set được tạo ra có thể bị trùng lặp và điều đó hoàn toàn bình thường 
