@@ -10,3 +10,4 @@ be to + Vo: phải làm / dự kiến làm gì đó
 whereby: nhờ đó 
 intermix 
 fraction (n): phân số, tỉ lệ 
+rationale (n): lí do, cơ sở lí luận 
