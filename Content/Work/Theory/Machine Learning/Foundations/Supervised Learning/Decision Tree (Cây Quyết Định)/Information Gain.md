@@ -8,6 +8,15 @@ với:
 - $H_{i}$: entropy của node con 
 - $n_{i}$: số mẫu trong node con (node con nào có mẫu nhiều hơn thì sẽ tác động đến entropy nhiều hơn ($n_{i}/n$))
 - n: tổng số mẫu 
-
+hay:
+ $$
+ H\left(p_1^{\text{root}}\right)
+-
+\left(
+w^{\text{left}} H\left(p_1^{\text{left}}\right)
++
+w^{\text{right}} H\left(p_1^{\text{right}}\right)
+\right)
+ $$
 ví dụ:
 ![[Pasted image 20260902151239.png]]
