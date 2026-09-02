@@ -1,0 +1,2 @@
+khi đánh giá một mô hình, nếu dùng hai đại lượng [[Precision (Độ chính xác)]] và [[Recall (Độ Bao Phủ)]] thì có thể sẽ hơi khó để đánh giá xem mô hình đó có thật sự có hiệu suất tốt hay không 
+là một đại lượng dùng để thể
