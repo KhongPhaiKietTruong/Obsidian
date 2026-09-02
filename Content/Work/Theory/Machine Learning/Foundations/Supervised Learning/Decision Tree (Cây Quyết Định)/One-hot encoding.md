@@ -1,0 +1,1 @@
+là quá trình mà tách từ một [[Features (Đặc Trưng)]] có thể nhận vào n giá trị khác nhau thành n đặc trưng có thể nhận vào giá trị 0 hoặc 1 
