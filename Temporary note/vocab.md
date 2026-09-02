@@ -11,3 +11,5 @@ whereby: nhờ đó
 intermix 
 fraction (n): phân số, tỉ lệ 
 rationale (n): lí do, cơ sở lí luận 
+plateaus (n): giai đoạn chững lại 
+plateaus (v): đi ngang 
