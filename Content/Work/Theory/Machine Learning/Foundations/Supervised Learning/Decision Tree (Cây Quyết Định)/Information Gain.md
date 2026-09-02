@@ -1,4 +1,4 @@
-là đại lượng cho ta biết rằng cái split mà ta vừa thực hiện giảm [[Entropy (Mức độ hỗn loạn)]] đi bao nhiêu, IG cũng có thể là một trong những yếu tố để ta quyết định dừng chia và biến node hiện tại thành leaf node nếu như IG không đủ lớn 
+là đại lượng cho ta biết rằng cái split mà ta vừa thực hiện giảm [[Entropy (Mức độ hỗn loạn)]] đi bao nhiêu, IG giúp ta chọn được [[Features (Đặc Trưng)]] để làm decision node để thực hiện chia bằng cách chọn feature cho ra IG cao nhất, IG cũng có thể là một trong những yếu tố để ta quyết định dừng chia và biến node hiện tại thành leaf node nếu như IG không đủ lớn 
 công thức tính:
 $$
 IG = H(\text{parent}) - \sum_{i=1}^{k} \frac{n_i}{n} H_i
