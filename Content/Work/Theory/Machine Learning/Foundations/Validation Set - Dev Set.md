@@ -1,4 +1,4 @@
-khi ta huấn luyện một mô hình, ta sẽ thử mô hình đó với nhiều [[Linear equation |phương trình tuyến tính]] khác nhau trong mỗi [[Neural]] ([[Polynomial Feautre]]) thay vì chỉ dạng cơ bản là 
+khi ta huấn luyện một mô hình, ta sẽ thử mô hình đó với nhiều [[Linear equation |phương trình tuyến tính]] khác nhau trong mỗi [[Neural]] ([[Polynomial Feautre (Đặc Trưng Đa Thức)]]) thay vì chỉ dạng cơ bản là 
 $$
 z = \vec{x}\vec{w}+b
 $$

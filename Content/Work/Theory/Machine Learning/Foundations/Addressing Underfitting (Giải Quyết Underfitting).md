@@ -1,4 +1,4 @@
 - thu thập thêm nhiều mẫu để tăng [[Training Set (Tập Huấn Luyện)]] sẽ không giúp giải quyết được underfitting bởi vì mô hình không thể học thêm được nữa nếu 
 - tạo thêm feature mới thông qua [[Feature Engineering]]
-- thêm các [[Polynomial Feautre]]
+- thêm các [[Polynomial Feautre (Đặc Trưng Đa Thức)]]
 - giảm hệ số [[Regularization (Chuẩn Hóa)]] 
