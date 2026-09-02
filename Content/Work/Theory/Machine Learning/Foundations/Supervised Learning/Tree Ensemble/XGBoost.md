@@ -1,1 +1,1 @@
-ở [[Random Forest]] thì mỗi [[Decision Tree (Cây Quyết Định)]] là độc lập với nhau, nhưng với XGBoost, mỗi cây được xây dựng tuần tự và cố gắng sửa lỗi của những cây trước (những mẫu mà cây trước đoán sai thì cây sau sẽ cố gắng sửa chửa điều đó) 
+ở [[Random Forest]] thì mỗi [[Decision Tree (Cây Quyết Định)]] là độc lập với nhau, nhưng với XGBoost, mỗi cây được xây dựng tuần tự và cố gắng sửa lỗi của tập hợp những cây trước (những mẫu mà cây trước đoán sai thì cây sau sẽ cố gắng sửa chửa điều đó) 
