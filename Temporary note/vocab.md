@@ -8,3 +8,4 @@ syllabel (n): âm tiết
 be indicative of (adj): là dấu hiệu của 
 be to + Vo: phải làm / dự kiến làm gì đó  
 whereby: nhờ đó 
+intermix 
