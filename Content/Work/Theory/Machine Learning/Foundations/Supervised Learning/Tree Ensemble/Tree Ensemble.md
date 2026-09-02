@@ -1,1 +1,1 @@
-khi chỉ sử dụng một [[Decision Tree (Cây Quyết Định)]], model đó rất dễ bị ảnh hưởng bởi dữ liệu  đây là một thuật toán mà ta sẽ
+khi chỉ sử dụng một [[Decision Tree (Cây Quyết Định)]], dự đoán của model đó rất dễ bị ảnh hưởng bởi sự thay đổi nhỏ của dữ liệu, đó cũng chính là lí do ta tree ensemble ra đời, đây là một thuật toán mà ta sẽ xây dựng nhiều cây quyết định thay vì chỉ có 1 cây 
