@@ -6,3 +6,4 @@ $$
 $$
 \sigma'(x) = \sigma(x)(1-\sigma(x)) 
 $$
+hàm này rất ít khi được sử dụng trừ khi ở layout output bài toán phân loại nhị phân 
