@@ -10,3 +10,7 @@ chính sách phân quyền của hệ thống
 có chức năng thống kê, báo cáo 
 
 ![[Pasted image 20260903150140.png]]
+
+các vấn đề cần giải quyết:
+- giải quyết vấn đề đăng nhập như nào ? (để account thành table trong sql luôn hay là tách tính năng đăng nhập ra riêng và phải đảm bảo tính bảo mật (hash mật khẩu))
+- 
