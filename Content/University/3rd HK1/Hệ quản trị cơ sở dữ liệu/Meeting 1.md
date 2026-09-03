@@ -68,6 +68,29 @@ JOIN BENHNHAN bn
 JOIN BACSI bs
     ON lk.MaBS = bs.MaBS;
 ```
+chi tiết đơn thuốc dành cho bác sĩ
+```sql
+CREATE VIEW vw_ChiTietDonThuoc
+AS
+SELECT
+    dt.MaDon,
+    dt.MaPK,
+    dt.NgayKe,
+
+    ct.MaThuoc,
+    t.TenThuoc,
+    t.DonViTinh,
+
+    ct.SoLuong,
+    ct.LieuDung,
+    ct.SoLanDung,
+    ct.HuongDan
+FROM DONTHUOC dt
+JOIN CT_DONTHUOC ct
+    ON dt.MaDon = ct.MaDon
+JOIN THUOC t
+    ON ct.MaThuoc = t.MaThuoc;
+```
 
 ##### Stored Procedure
 
