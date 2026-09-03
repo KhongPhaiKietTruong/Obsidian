@@ -21,7 +21,7 @@ phân công:
 - ở THUOC: nên thêm trạng thái và số lượng còn lại , vì thuốc có thể hết hoặc hết hạn
 **(thêm số lượng)**
 
-- ở CT_THUOC nên thêm DONGIA vì giá thuốc có thể thay đổi, THUOC.DONGIA = giá thuốc hiện tại, CT_THUOC.DONGIA = giá thuốc lúc được kê 
+- ở CT_THUOC nên thêm DONGIA vì giá thuốc có thể thay đổi, THUOC.DONGIA = giá thuốc hiện tại, CT_THUOC.DONGIA = giá thuốc lúc được kê **(ok)**
 
 ##### View 
 lịch khám chi tiết dành cho: admin, lễ tân, bác sĩ
@@ -163,7 +163,7 @@ LEFT JOIN (
 ) t
     ON pk.MaPK = t.MaPK;
 ```
-##### Stored Procedure
+##### Stored Procedureok
 xem doanh thu trong một khoảng thời gian trên view đã tạo ở trên
 ```sql
 CREATE OR ALTER PROCEDURE sp_ThongKeDoanhThu
