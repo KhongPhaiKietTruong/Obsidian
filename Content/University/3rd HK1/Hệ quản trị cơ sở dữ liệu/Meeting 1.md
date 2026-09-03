@@ -32,7 +32,6 @@ SELECT
     lk.MaLich,
     lk.NgayKham,
     lk.GioKham,
-    lk.LyDoKham,
     lk.TrangThai,
 
     bn.MaBN,
@@ -52,7 +51,8 @@ JOIN BACSI bs
 JOIN CHUYENKHOA ck
     ON bs.MaCK = ck.MaCK;
 ```
-lịch sử khám bệnh dành cho bác sĩ
+
+lịch sử khám bệnh dành cho bác sĩ 
 ```sql
 CREATE VIEW vw_LichSuKhamBenh
 AS
