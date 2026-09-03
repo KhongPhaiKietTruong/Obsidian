@@ -116,6 +116,43 @@ GROUP BY
     hd.TongTien,
     hd.TrangThai;
 ```
+doanh thu dành cho thu ngân, admin
+```sql
+CREATE VIEW vw_DoanhThuPhieuKham
+AS
+SELECT
+    pk.MaPK,
+    pk.NgayKham,
+    pk.PhiKham,
+
+    COALESCE(dv.TienDichVu, 0) AS TienDichVu,
+    COALESCE(t.TienThuoc, 0) AS TienThuoc,
+
+    pk.PhiKham
+        + COALESCE(dv.TienDichVu, 0)
+        + COALESCE(t.TienThuoc, 0) AS TongTien
+FROM PHIEUKHAM pk
+
+LEFT JOIN (
+    SELECT
+        MaPK,
+        SUM(SoLuong * DonGia) AS TienDichVu
+    FROM CT_DICHVU
+    GROUP BY MaPK
+) dv
+    ON pk.MaPK = dv.MaPK
+
+LEFT JOIN (
+    SELECT
+        dt.MaPK,
+        SUM(ct.SoLuong * ct.DonGia) AS TienThuoc
+    FROM DONTHUOC dt
+    JOIN CT_DONTHUOC ct
+        ON dt.MaDon = ct.MaDon
+    GROUP BY dt.MaPK
+) t
+    ON pk.MaPK = t.MaPK;
+```
 ##### Stored Procedure
 
 ##### Indexes 
