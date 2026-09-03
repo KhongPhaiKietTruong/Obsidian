@@ -2,4 +2,4 @@ kí hiệu là w
 là hệ số đi kèm với x ([[Features (Đặc Trưng)]]) trong phương trình tuyến tính $y = wx + b$ nằm trong [[Neural]] 
 
 chúng ta không thể khởi tạo các trọng số với giá trị bằng nhau vì điều này sẽ gây ra vấn đề đối xứng giữa các neural, khiến mỗi neural sẽ tính một phương trình hoàn toàn giống nhau, trả ra kết quả giống nhau khiến cho những neural này không thể học được những đặc trưng khác nhau của dữ liệu
-chúng ta cần khởi tạo trọng số với những 
+chúng ta cần khởi tạo trọng số với những số ngẫu nhiên 
