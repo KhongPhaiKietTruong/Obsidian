@@ -320,7 +320,6 @@ thực hiện trên chức năng:
 | Create appointments       | ✅     | ✅            | ✅            | ❌       |       |
 | Update appointment status | ✅     | ✅            | ✅            | ❌       |       |
 | View appointments         | ✅     | Own patients | ✅            | ❌       |       |
-| Update diagnosis          | ✅     | ✅            | ❌            | ❌       |       |
 | Create prescriptions      | ✅     | ✅            | ❌            | ❌       |       |
 | Manage medicines          | CRUD  | Read         | ❌            | ❌       |       |
 | Mange medical services    | ✅     | Read         | ❌            | ❌       |       |
