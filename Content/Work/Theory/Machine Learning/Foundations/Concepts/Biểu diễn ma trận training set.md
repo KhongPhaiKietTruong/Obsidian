@@ -12,10 +12,13 @@ $$
 ta có ma trận training set như sau 
 $$
 X = \begin{bmatrix} 
-x^({1}) x^{(2)} ...x^{(n)}  \\
+x^{(1)} x^{(2)} ...x^{(n)}  \\
 \end{bmatrix} 
 $$
-
+còn ma trận nhãn thì thường để ở dạng ma trận hàng:
+$$
+y = [{y_{1}, y_{2}}]
+$$
 
 
  
