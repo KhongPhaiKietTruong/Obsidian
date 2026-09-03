@@ -317,7 +317,7 @@ thực hiện trên chức năng:
 | Manage doctors            | CRUD  | Read         | Read         | Read    |       |
 | Manage specialties        | CRUD  | Read         | Read         | Read    |       |
 | Manage patients           | CRUD  | Read/Update  | CRUD         | Read    |       |
-| Create appointments       | ✅     | ❌            | ✅            | ❌       |       |
+| Create appointments       | ✅     | ✅            | ✅            | ❌       |       |
 | Update appointment status | ✅     | ✅            | ✅            | ❌       |       |
 | View appointments         | ✅     | Own patients | ✅            | ❌       |       |
 | Update diagnosis          | ✅     | ✅            | ❌            | ❌       |       |
