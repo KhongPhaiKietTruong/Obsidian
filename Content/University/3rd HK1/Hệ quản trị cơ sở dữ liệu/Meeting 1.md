@@ -154,7 +154,24 @@ LEFT JOIN (
     ON pk.MaPK = t.MaPK;
 ```
 ##### Stored Procedure
+xem doanh thu trong một khoảng thời gian trên view đã tạo ở trên
+```sql
+CREATE OR ALTER PROCEDURE sp_ThongKeDoanhThu
+    @TuNgay DATE,
+    @DenNgay DATE
+AS
+BEGIN
+    SET NOCOUNT ON;
 
+    SELECT
+        SUM(PhiKham) AS TongPhiKham,
+        SUM(TienDichVu) AS TongTienDichVu,
+        SUM(TienThuoc) AS TongTienThuoc,
+        SUM(TongTien) AS TongDoanhThu
+    FROM vw_DoanhThuPhieuKham
+    WHERE NgayKham BETWEEN @TuNgay AND @DenNgay;
+END;
+```
 ##### Indexes 
 
 ##### Transaction 
