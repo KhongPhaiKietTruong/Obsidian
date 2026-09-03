@@ -14,9 +14,10 @@ phân công:
 
 - gộp ngày khám và giờ khám lại thành kiểu dữ liệu DATETIME (gồm cả ngày và giờ) (**ok**)
 
-- thêm thời gian khám dự kiến (vd 30p) (để thực hiện tính năng trùng lịch khám) 
+- thêm thời gian khám dự kiến (vd 30p) (để thực hiện tính năng trùng lịch khám) **(bác sĩ làm theo ca (sáng chiều), mỗi ca có giới hạn số lượng bệnh nhân, nếu người đặt lịch khám vào ca đã đầy thì không cho phép đặt)**
 
-- ở LICHKHAM và PHIEUKHAM có cả hai cột là ngaykham, nên đặt thành ngayhen và ngaykhamthucte
+- ở LICHKHAM và PHIEUKHAM có cả hai cột là ngaykham, nên đặt thành ngayhen và ngaykhamthucteđặt
+-
 - ở HOADON: tại sao cần MaPK ?
 - ở THUOC: nên thêm trạng thái và số lượng còn lại , vì thuốc có thể hết hoặc hết hạn
 - ở CT_THUOC nên thêm DONGIA vì giá thuốc có thể thay đổi, THUOC.DONGIA = giá thuốc hiện tại, CT_THUOC.DONGIA = giá thuốc lúc được kê 
