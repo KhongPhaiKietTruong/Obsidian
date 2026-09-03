@@ -3,6 +3,8 @@ phân công:
 1 người làm backend Kiệt (python) 
 1 người làm database 
 1 viết báo cáo 
+
+
 #### các vấn đề cần giải quyết: 
 ##### thiết kế database: các tảng, các đối tượng đã ổn chưa ?
 đề xuất: 
