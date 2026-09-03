@@ -18,7 +18,7 @@ x^{(1)} x^{(2)} ...x^{(m)}  \\
 $$
 còn ma trận nhãn thì thường để ở dạng ma trận hàng:
 $$
-y = [{y_{1}, y_{2}}, \dots, y_{m}]
+y = [{y^{(1)}, y^{(2)}}, \dots, y^{(m)}]
 $$
 với m là số mẫu trong training set 
 
