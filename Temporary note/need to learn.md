@@ -5,3 +5,4 @@
 - [x] response, request ? 
 - [ ] private ip vs public ip 
 - [ ] back propagation
+- [ ] leakt relu vs relu 
