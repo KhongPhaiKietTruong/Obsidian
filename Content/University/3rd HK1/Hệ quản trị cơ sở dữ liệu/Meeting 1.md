@@ -324,11 +324,11 @@ thực hiện trên chức năng:
 | Create prescriptions      | ✅     | ✅            | ❌            | ❌       |       |
 | Manage medicines          | CRUD  | Read         | ❌            | ❌       |       |
 | Mange medical services    | ✅     | Read         | ❌            | ❌       |       |
-| Manage service catalog    | CRUD  | Read         | Read         | Read    |       |
 | View invoices             | ✅     | Read         | Read         | ✅       |       |
 | Create invoice            | ✅     | ❌            | ❌            | ✅       |       |
 | Process payment           | ✅     | ❌            | ❌            | ✅       |       |
 | View payment history      | ✅     | ❌            | ❌            | ✅       |       |
 | System/user management    | ✅     | ❌            | ❌            | ❌       |       |
 
-bỏ tiếp tân (để y tá luôn)
+
+y tá để sau 
