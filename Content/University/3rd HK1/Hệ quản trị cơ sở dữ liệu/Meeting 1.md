@@ -10,7 +10,11 @@ phân công:
 - thêm bảng NHANVIEN MaNV (PK) HoTen NgaySinh GioiTinh SDT DiaChi ChucVu TrangThai (**ok**)
 - Nhanvien là cha của Bacsi, bỏ các cột trùng lập, chỉ để MaBS, MaCK (**ok**)
 
-- ở bảng LICHKHAM: bỏ lí do khám (vô khám rồi bs mới hỏi), gộp ngày khám và giờ khám lại thành kiểu dữ liệu DATETIME (gồm cả ngày và giờ), thêm thời gian khám dự kiến (vd 30p) (để thực hiện tính năng trùng lịch khám)
+- ở bảng LICHKHAM: bỏ lí do khám (vô khám rồi bs mới hỏi) **(vẫn để nhưng cho phép để null)** 
+
+- gộp ngày khám và giờ khám lại thành kiểu dữ liệu DATETIME (gồm cả ngày và giờ) (**ok**)
+
+- thêm thời gian khám dự kiến (vd 30p) (để thực hiện tính năng trùng lịch khám) 
 
 - ở LICHKHAM và PHIEUKHAM có cả hai cột là ngaykham, nên đặt thành ngayhen và ngaykhamthucte
 - ở HOADON: tại sao cần MaPK ?
