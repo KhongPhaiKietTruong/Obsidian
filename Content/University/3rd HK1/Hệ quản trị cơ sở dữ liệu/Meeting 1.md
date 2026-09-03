@@ -172,6 +172,58 @@ BEGIN
     WHERE NgayKham BETWEEN @TuNgay AND @DenNgay;
 END;
 ```
+thông kê thuốc sử dụng
+```sql
+CREATE OR ALTER PROCEDURE sp_ThongKeThuocSuDung
+    @TuNgay DATE,
+    @DenNgay DATE
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT
+        t.MaThuoc,
+        t.TenThuoc,
+        SUM(ct.SoLuong) AS TongSoLuong,
+        COUNT(DISTINCT dt.MaDon) AS SoDonThuoc
+    FROM THUOC t
+    JOIN CT_DONTHUOC ct
+        ON t.MaThuoc = ct.MaThuoc
+    JOIN DONTHUOC dt
+        ON ct.MaDon = dt.MaDon
+    WHERE dt.NgayKe BETWEEN @TuNgay AND @DenNgay
+    GROUP BY
+        t.MaThuoc,
+        t.TenThuoc
+    ORDER BY TongSoLuong DESC;
+END;
+```
+thống kê dịch vụ sử dụng
+```sql
+CREATE OR ALTER PROCEDURE sp_ThongKeDichVuSuDung
+    @TuNgay DATE,
+    @DenNgay DATE
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT
+        dv.MaDV,
+        dv.TenDV,
+        SUM(ct.SoLuong) AS TongSoLuong,
+        SUM(ct.SoLuong * ct.DonGia) AS TongTien
+    FROM DICHVU dv
+    JOIN CT_DICHVU ct
+        ON dv.MaDV = ct.MaDV
+    JOIN PHIEUKHAM pk
+        ON ct.MaPK = pk.MaPK
+    WHERE pk.NgayKham BETWEEN @TuNgay AND @DenNgay
+    GROUP BY
+        dv.MaDV,
+        dv.TenDV
+    ORDER BY TongSoLuong DESC;
+END;
+```
 ##### Indexes 
 
 ##### Transaction 
