@@ -296,6 +296,7 @@ thực hiện trên chức năng:
 - tạo lịch khám (xử lí đồng bộ khi có cả hai ngừoi cùng thực hiện đặt lịch)
 - tạo thanh toán (diễn ra cùng với việc update trạng thái thành đã thanh toán)
 - tạo đơn thuốc (sẽ diễn ra cùng lúc với tạo chi tiết đơn thuốc) => nếu thuốc hết hoặc gặp vấn đề giữa quá trình đó thì rollback 
+- tạo phiếu khám (sau khi đã khám xong thì phải diễn ra đồng thời update cái trạng thái thành đã khám)
 
 
 ##### Role 
