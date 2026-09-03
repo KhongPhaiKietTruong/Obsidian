@@ -17,8 +17,9 @@ x^{(1)} x^{(2)} ...x^{(n)}  \\
 $$
 còn ma trận nhãn thì thường để ở dạng ma trận hàng:
 $$
-y = [{y_{1}, y_{2}}]
+y = [{y_{1}, y_{2}}, \dots, y_{n}]
 $$
+
 
 
  
