@@ -6,4 +6,5 @@
 - ở LICHKHAM và PHIEUKHAM có cả hai cột là ngaykham, nên đặt thành ngayhen và ngaykhamthucte
 - ở HOADON: tại sao cần MaPK ?
 - ở THUOC: nên thêm trạng thái, vì thuốc có thể hết 
+- ở CT_THUOC nên thêm DONGIA vì giá thuốc có thể thay đổi, THUOC.DONGIA = giá thuốc hiện tại, CT_THUOC.DONGIA = giá thuốc lúc được kê 
 
