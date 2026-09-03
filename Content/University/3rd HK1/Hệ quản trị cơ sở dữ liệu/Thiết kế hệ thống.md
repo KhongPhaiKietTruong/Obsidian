@@ -9,6 +9,8 @@ chính sách phân quyền của hệ thống
 
 có chức năng thống kê, báo cáo 
 
+thiết kế hệ thống bằng UML ? 
+
 ![[Pasted image 20260903150140.png]]
 
 các vấn đề cần giải quyết:
