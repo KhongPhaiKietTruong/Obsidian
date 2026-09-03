@@ -19,9 +19,7 @@ phân công:
 - ở LICHKHAM và PHIEUKHAM có cả hai cột là ngaykham, nên đặt thành ngayhen và ngaykhamthucteđặt **(đổi ngaykham của phieukham thành thoigiankhamxong)**
 - 
 - ở THUOC: nên thêm trạng thái và số lượng còn lại , vì thuốc có thể hết hoặc hết hạn
-**thêm KHOTHUOC:**
-**khóa hỗn hợp (MaThuoc, DonViTinh), Gia, SoLuongConLai**
-**bỏ giá ở thuốc **
+**(thêm số lượng, )**
 - ở CT_THUOC nên thêm DONGIA vì giá thuốc có thể thay đổi, THUOC.DONGIA = giá thuốc hiện tại, CT_THUOC.DONGIA = giá thuốc lúc được kê 
 
 ##### View 
