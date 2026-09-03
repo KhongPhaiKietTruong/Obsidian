@@ -91,7 +91,31 @@ JOIN CT_DONTHUOC ct
 JOIN THUOC t
     ON ct.MaThuoc = t.MaThuoc;
 ```
+dành cho thu ngân
+```sql
+CREATE VIEW vw_TinhTrangHoaDon
+AS
+SELECT
+    hd.MaHD,
+    hd.MaPK,
+    hd.NgayLap,
+    hd.TongTien,
+    hd.TrangThai,
 
+    COALESCE(SUM(tt.SoTien), 0) AS DaThanhToan,
+
+    hd.TongTien
+        - COALESCE(SUM(tt.SoTien), 0) AS ConLai
+FROM HOADON hd
+LEFT JOIN THANHTOAN tt
+    ON hd.MaHD = tt.MaHD
+GROUP BY
+    hd.MaHD,
+    hd.MaPK,
+    hd.NgayLap,
+    hd.TongTien,
+    hd.TrangThai;
+```
 ##### Stored Procedure
 
 ##### Indexes 
