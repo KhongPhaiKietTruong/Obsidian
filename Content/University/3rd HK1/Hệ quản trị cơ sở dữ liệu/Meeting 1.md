@@ -17,7 +17,7 @@
 ##### Transaction 
 
 ##### Role 
-| Function / Data            | Admin | Doctor       | Receptionist | Cashier |
+| Function                   | Admin | Doctor       | Receptionist | Cashier |
 | -------------------------- | ----- | ------------ | ------------ | ------- |
 | Manage employees           | CRUD  | ❌            | ❌            | ❌       |
 | Manage doctors             | CRUD  | Read         | Read         | Read    |
@@ -28,7 +28,7 @@
 | View appointments          | ✅     | Own patients | ✅            | ❌       |
 | View appointments          | ✅     | Own patients | ✅            | ❌       |
 | Create examination records | ✅     | ✅            | ❌            | ❌       |
-| Update diagnosis/results   | ✅     | ✅            | ❌            | ❌       |
+| Update diagnosis           | ✅     | ✅            | ❌            | ❌       |
 | Create prescriptions       | ✅     | ✅            | ❌            | ❌       |
 | Manage medicines           | CRUD  | Read         | ❌            | ❌       |
 | Assign medical services    | ✅     | ✅            | ❌            | ❌       |
