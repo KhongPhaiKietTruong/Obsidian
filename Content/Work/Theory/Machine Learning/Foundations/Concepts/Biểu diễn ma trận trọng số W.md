@@ -1,4 +1,5 @@
 
+khi ở dạng vector thì w được biểu diễn theo cột, khi biểu diễn theo ma trận thì biến các w cột thành w hàng và xếp lên nhau 
 $$
 W^{[l]} =
 \begin{bmatrix}
