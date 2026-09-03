@@ -1,5 +1,6 @@
+thiết kế database: thêm bảng nhân viên: lễ tân, y tá 
+
 nên bỏ các cột "lí do khám"
-nên thêm bảng nhân viên: lễ tân, y tá 
 ở phiếu khám: kết quả và chẩn đoán ?
 index là gì 
 
