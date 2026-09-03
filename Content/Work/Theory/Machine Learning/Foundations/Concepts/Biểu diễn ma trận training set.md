@@ -9,16 +9,18 @@ x_{3}^{(1)} \\
 x_{n}^{(1)}
 \end{bmatrix} 
 $$
+với n là số [[Features (Đặc Trưng)]]
 ta có ma trận training set như sau 
 $$
 X = \begin{bmatrix} 
-x^{(1)} x^{(2)} ...x^{(n)}  \\
+x^{(1)} x^{(2)} ...x^{(m)}  \\
 \end{bmatrix} 
 $$
 còn ma trận nhãn thì thường để ở dạng ma trận hàng:
 $$
-y = [{y_{1}, y_{2}}, \dots, y_{n}]
+y = [{y_{1}, y_{2}}, \dots, y_{m}]
 $$
+với m là số mẫu trong training set 
 
 
 
