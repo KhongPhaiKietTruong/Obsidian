@@ -224,9 +224,75 @@ BEGIN
     ORDER BY TongSoLuong DESC;
 END;
 ```
+thống kê lịch khám mỗi bác sĩ
+```sql
+CREATE OR ALTER PROCEDURE sp_ThongKeLuotKhamTheoBacSi
+    @TuNgay DATE,
+    @DenNgay DATE
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT
+        bs.MaBS,
+        bs.HoTen,
+        COUNT(pk.MaPK) AS SoLuotKham
+    FROM BACSI bs
+    LEFT JOIN LICHKHAM lk
+        ON bs.MaBS = lk.MaBS
+    LEFT JOIN PHIEUKHAM pk
+        ON lk.MaLich = pk.MaLich
+        AND pk.NgayKham BETWEEN @TuNgay AND @DenNgay
+    GROUP BY
+        bs.MaBS,
+        bs.HoTen
+    ORDER BY SoLuotKham DESC;
+END;
+```
+thống kê lượt khám theo chuyên khoa
+```sql
+CREATE OR ALTER PROCEDURE sp_ThongKeLuotKhamTheoChuyenKhoa
+    @TuNgay DATE,
+    @DenNgay DATE
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT
+        ck.MaCK,
+        ck.TenCK,
+        COUNT(pk.MaPK) AS SoLuotKham
+    FROM CHUYENKHOA ck
+    JOIN BACSI bs
+        ON ck.MaCK = bs.MaCK
+    JOIN LICHKHAM lk
+        ON bs.MaBS = lk.MaBS
+    JOIN PHIEUKHAM pk
+        ON lk.MaLich = pk.MaLich
+    WHERE pk.NgayKham BETWEEN @TuNgay AND @DenNgay
+    GROUP BY
+        ck.MaCK,
+        ck.TenCK
+    ORDER BY SoLuotKham DESC;
+END;
+```
+thống kê hóa đơn chưa thanh toán
+```sql
+CREATE OR ALTER PROCEDURE sp_LayHoaDonChuaThanhToan
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    SELECT *
+    FROM vw_TinhTrangHoaDon
+    WHERE ConLai > 0
+    ORDER BY NgayLap;
+END;
+```
 ##### Indexes 
 
 ##### Transaction 
+thực hiện trên chức năng tạo lịch khám, tạo thanh toán, 
 
 ##### Role 
 | Function                   | Admin | Doctor       | Receptionist | Cashier |
