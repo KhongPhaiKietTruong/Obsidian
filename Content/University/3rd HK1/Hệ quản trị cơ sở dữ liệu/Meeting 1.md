@@ -323,7 +323,7 @@ thực hiện trên chức năng:
 | Update diagnosis          | ✅     | ✅            | ❌            | ❌       |       |
 | Create prescriptions      | ✅     | ✅            | ❌            | ❌       |       |
 | Manage medicines          | CRUD  | Read         | ❌            | ❌       |       |
-| Assign medical services   | ✅     | ✅            | ❌            | ❌       |       |
+| Mange medical services    | ✅     | Read         | ❌            | ❌       |       |
 | Manage service catalog    | CRUD  | Read         | Read         | Read    |       |
 | View invoices             | ✅     | Read         | Read         | ✅       |       |
 | Create invoice            | ✅     | ❌            | ❌            | ✅       |       |
