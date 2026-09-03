@@ -1,1 +1,1 @@
-đặc trưng của bản ghi không được chứa nhiều giá trị
+đặc trưng của bản ghi không được chứa nhiều giá trị (một ô không được chứa nhiều giá trị cùng lúc)
