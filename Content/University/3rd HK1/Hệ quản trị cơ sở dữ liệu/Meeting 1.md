@@ -10,7 +10,7 @@ phân công:
 - ở bảng LICHKHAM: bỏ lí do khám (vô khám rồi bs mới hỏi), gộp ngày khám và giờ khám lại thành kiểu dữ liệu DATETIME (gồm cả ngày và giờ), thêm thời gian khám dự kiến (vd 30p) (để thực hiện tính năng trùng lịch khám), 
 - ở LICHKHAM và PHIEUKHAM có cả hai cột là ngaykham, nên đặt thành ngayhen và ngaykhamthucte
 - ở HOADON: tại sao cần MaPK ?
-- ở THUOC: nên thêm trạng thái, vì thuốc có thể hết 
+- ở THUOC: nên thêm trạng thái và s, vì thuốc có thể hết hoặc hết hạn
 - ở CT_THUOC nên thêm DONGIA vì giá thuốc có thể thay đổi, THUOC.DONGIA = giá thuốc hiện tại, CT_THUOC.DONGIA = giá thuốc lúc được kê 
 
 ##### View 
@@ -297,7 +297,7 @@ thực hiện trên chức năng:
 - tạo thanh toán (diễn ra cùng với việc update trạng thái thành đã thanh toán)
 - tạo đơn thuốc (sẽ diễn ra cùng lúc với tạo chi tiết đơn thuốc) => nếu thuốc hết hoặc gặp vấn đề giữa quá trình đó thì rollback 
 - tạo phiếu khám (sau khi đã khám xong thì phải diễn ra đồng thời update cái trạng thái thành đã khám)
-- hủy lịch khám ()
+- thay đổi đơn thuốc (thêm thuốc vô đơn phải diễn ra cùng lúc với việc trừ thuốc trong kho)
 
 
 ##### Role 
