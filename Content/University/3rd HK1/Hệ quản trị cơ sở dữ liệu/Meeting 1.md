@@ -24,7 +24,7 @@ phân công:
 - ở CT_THUOC nên thêm DONGIA vì giá thuốc có thể thay đổi, THUOC.DONGIA = giá thuốc hiện tại, CT_THUOC.DONGIA = giá thuốc lúc được kê **(ok)**
 
 ##### View 
-lịch khám chi tiết dành cho: admin, lễ tân, bác sĩ
+lịch khám chi tiết dành cho: admin, lễ tân, bác sĩ **(ok)** 
 ```sql 
 CREATE VIEW vw_LichKhamChiTiet
 AS
@@ -52,7 +52,7 @@ JOIN CHUYENKHOA ck
     ON bs.MaCK = ck.MaCK;
 ```
 
-lịch sử khám bệnh dành cho bác sĩ 
+lịch sử khám bệnh dành cho bác sĩ **(ok)**
 ```sql
 CREATE VIEW vw_LichSuKhamBenh
 AS
@@ -78,7 +78,8 @@ JOIN BENHNHAN bn
 JOIN BACSI bs
     ON lk.MaBS = bs.MaBS;
 ```
-chi tiết đơn thuốc dành cho bác sĩ
+
+chi tiết đơn thuốc dành cho bác sĩ **(cút)**
 ```sql
 CREATE VIEW vw_ChiTietDonThuoc
 AS
@@ -101,7 +102,8 @@ JOIN CT_DONTHUOC ct
 JOIN THUOC t
     ON ct.MaThuoc = t.MaThuoc;
 ```
-dành cho thu ngân
+
+dành cho thu ngân **(ok)** 
 ```sql
 CREATE VIEW vw_TinhTrangHoaDon
 AS
@@ -126,7 +128,8 @@ GROUP BY
     hd.TongTien,
     hd.TrangThai;
 ```
-doanh thu dành cho thu ngân, admin
+
+doanh thu dành cho thu ngân, admin **(ok)**
 ```sql
 CREATE VIEW vw_DoanhThuPhieuKham
 AS
@@ -163,7 +166,7 @@ LEFT JOIN (
 ) t
     ON pk.MaPK = t.MaPK;
 ```
-##### Stored Procedureok
+##### Stored Procedure
 xem doanh thu trong một khoảng thời gian trên view đã tạo ở trên
 ```sql
 CREATE OR ALTER PROCEDURE sp_ThongKeDoanhThu
