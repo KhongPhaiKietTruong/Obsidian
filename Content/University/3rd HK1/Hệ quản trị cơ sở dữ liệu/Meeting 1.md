@@ -311,25 +311,24 @@ thực hiện trên chức năng:
 
 
 ##### Role 
-| Function                   | Admin | Doctor       | Receptionist | Cashier | Nurse |
-| -------------------------- | ----- | ------------ | ------------ | ------- | ----- |
-| Manage employees           | CRUD  | ❌            | ❌            | ❌       |       |
-| Manage doctors             | CRUD  | Read         | Read         | Read    |       |
-| Manage specialties         | CRUD  | Read         | Read         | Read    |       |
-| Manage patients            | CRUD  | Read/Update  | CRUD         | Read    |       |
-| Create appointments        | ✅     | ❌            | ✅            | ❌       |       |
-| Update appointment status  | ✅     | ✅            | ✅            | ❌       |       |
-| View appointments          | ✅     | Own patients | ✅            | ❌       |       |
-| View appointments          | ✅     | Own patients | ✅            | ❌       |       |
-| Create examination records | ✅     | ✅            | ❌            | ❌       |       |
-| Update diagnosis           | ✅     | ✅            | ❌            | ❌       |       |
-| Create prescriptions       | ✅     | ✅            | ❌            | ❌       |       |
-| Manage medicines           | CRUD  | Read         | ❌            | ❌       |       |
-| Assign medical services    | ✅     | ✅            | ❌            | ❌       |       |
-| Manage service catalog     | CRUD  | Read         | Read         | Read    |       |
-| View invoices              | ✅     | Read         | Read         | ✅       |       |
-| Create invoice             | ✅     | ❌            | ❌            | ✅       |       |
-| Process payment            | ✅     | ❌            | ❌            | ✅       |       |
-| View payment history       | ✅     | ❌            | ❌            | ✅       |       |
-| System/user management     | ✅     | ❌            | ❌            | ❌       |       |
+| Function                  | Admin | Doctor       | Receptionist | Cashier | Nurse |
+| ------------------------- | ----- | ------------ | ------------ | ------- | ----- |
+| Manage employees          | CRUD  | ❌            | ❌            | ❌       |       |
+| Manage doctors            | CRUD  | Read         | Read         | Read    |       |
+| Manage specialties        | CRUD  | Read         | Read         | Read    |       |
+| Manage patients           | CRUD  | Read/Update  | CRUD         | Read    |       |
+| Create appointments       | ✅     | ❌            | ✅            | ❌       |       |
+| Update appointment status | ✅     | ✅            | ✅            | ❌       |       |
+| View appointments         | ✅     | Own patients | ✅            | ❌       |       |
+| Update diagnosis          | ✅     | ✅            | ❌            | ❌       |       |
+| Create prescriptions      | ✅     | ✅            | ❌            | ❌       |       |
+| Manage medicines          | CRUD  | Read         | ❌            | ❌       |       |
+| Assign medical services   | ✅     | ✅            | ❌            | ❌       |       |
+| Manage service catalog    | CRUD  | Read         | Read         | Read    |       |
+| View invoices             | ✅     | Read         | Read         | ✅       |       |
+| Create invoice            | ✅     | ❌            | ❌            | ✅       |       |
+| Process payment           | ✅     | ❌            | ❌            | ✅       |       |
+| View payment history      | ✅     | ❌            | ❌            | ✅       |       |
+| System/user management    | ✅     | ❌            | ❌            | ❌       |       |
 
+bỏ tiếp tân (để y tá luôn)
