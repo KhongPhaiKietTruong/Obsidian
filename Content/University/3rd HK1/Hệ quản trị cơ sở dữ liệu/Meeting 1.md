@@ -4,3 +4,4 @@
 - thêm bảng NHANVIEN: MaNV (PK) HoTen NgaySinh SDT ChucVu
 - ở bảng LICHKHAM: bỏ lí do khám (vô khám rồi bs mới hỏi), thêm thời gian khám (để thực hiện tính năng trùng lịch khám )
 - ở HOADON: tại sao cần MaPK ?
+
