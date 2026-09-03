@@ -14,6 +14,60 @@ phân công:
 - ở CT_THUOC nên thêm DONGIA vì giá thuốc có thể thay đổi, THUOC.DONGIA = giá thuốc hiện tại, CT_THUOC.DONGIA = giá thuốc lúc được kê 
 
 ##### View 
+lịch khám chi tiết dành cho: admin, lễ tân, bác sĩ
+```sql 
+CREATE VIEW vw_LichKhamChiTiet
+AS
+SELECT
+    lk.MaLich,
+    lk.NgayKham,
+    lk.GioKham,
+    lk.LyDoKham,
+    lk.TrangThai,
+
+    bn.MaBN,
+    bn.HoTen AS TenBenhNhan,
+    bn.SoDienThoai AS SDTBenhNhan,
+
+    bs.MaBS,
+    bs.HoTen AS TenBacSi,
+
+    ck.MaCK,
+    ck.TenCK
+FROM LICHKHAM lk
+JOIN BENHNHAN bn
+    ON lk.MaBN = bn.MaBN
+JOIN BACSI bs
+    ON lk.MaBS = bs.MaBS
+JOIN CHUYENKHOA ck
+    ON bs.MaCK = ck.MaCK;
+```
+lịch sử khám bệnh dành cho bác sĩ
+```sql
+CREATE VIEW vw_LichSuKhamBenh
+AS
+SELECT
+    pk.MaPK,
+    bn.MaBN,
+    bn.HoTen AS TenBenhNhan,
+
+    bs.MaBS,
+    bs.HoTen AS TenBacSi,
+
+    pk.NgayKham,
+    pk.TrieuChung,
+    pk.KetQua,
+    pk.ChanDoan,
+    pk.GhiChu,
+    pk.PhiKham
+FROM PHIEUKHAM pk
+JOIN LICHKHAM lk
+    ON pk.MaLich = lk.MaLich
+JOIN BENHNHAN bn
+    ON lk.MaBN = bn.MaBN
+JOIN BACSI bs
+    ON lk.MaBS = bs.MaBS;
+```
 
 ##### Stored Procedure
 
