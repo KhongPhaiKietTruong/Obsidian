@@ -17,4 +17,25 @@
 ##### Transaction 
 
 ##### Role 
+| Function / Data            | Admin | Doctor       | Receptionist | Cashier |
+| -------------------------- | ----- | ------------ | ------------ | ------- |
+| Manage employees           | CRUD  | ❌            | ❌            | ❌       |
+| Manage doctors             | CRUD  | Read         | Read         | Read    |
+| Manage specialties         | CRUD  | Read         | Read         | Read    |
+| Manage patients            | CRUD  | Read/Update  | CRUD         | Read    |
+| Create appointments        | ✅     | ❌            | ✅            | ❌       |
+| Update appointment status  | ✅     | ✅            | ✅            | ❌       |
+| View appointments          | ✅     | Own patients | ✅            | ❌       |
+| View appointments          | ✅     | Own patients | ✅            | ❌       |
+| Create examination records | ✅     | ✅            | ❌            | ❌       |
+| Update diagnosis/results   | ✅     | ✅            | ❌            | ❌       |
+| Create prescriptions       | ✅     | ✅            | ❌            | ❌       |
+| Manage medicines           | CRUD  | Read         | ❌            | ❌       |
+| Assign medical services    | ✅     | ✅            | ❌            | ❌       |
+| Manage service catalog     | CRUD  | Read         | Read         | Read    |
+| View invoices              | ✅     | Read         | Read         | ✅       |
+| Create invoice             | ✅     | ❌            | ❌            | ✅       |
+| Process payment            | ✅     | ❌            | ❌            | ✅       |
+| View payment history       | ✅     | ❌            | ❌            | ✅       |
+| System/user management     | ✅     | ❌            | ❌            | ❌       |
 
