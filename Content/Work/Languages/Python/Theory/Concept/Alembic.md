@@ -1,0 +1,1 @@
+đây chính là "git" của SQL database, nó giúp theo dõi các hành động thực hiện lên database 
