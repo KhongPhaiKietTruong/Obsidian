@@ -292,7 +292,11 @@ END;
 ##### Indexes 
 
 ##### Transaction 
-thực hiện trên chức năng tạo lịch khám, tạo thanh toán, 
+thực hiện trên chức năng:
+- tạo lịch khám (xử lí đồng bộ khi có cả hai ngừoi cùng thực hiện đặt lịch)
+- tạo thanh toán (diễn ra cùng với việc update trạng thái thành đã thanh toán)
+- tạo đơn thuốc (sẽ diễn ra cùng lúc với tạo chi tiết đơn thuốc) => nếu thuốc hết hoặc gặp vấn đề giữa quá trình đó thì rollback 
+
 
 ##### Role 
 | Function                   | Admin | Doctor       | Receptionist | Cashier |
