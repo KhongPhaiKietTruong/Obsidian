@@ -1,4 +1,4 @@
-nên bỏ các cột "mô tả"
+nên bỏ các cột "lí do khám"
 
 index là gì 
 
