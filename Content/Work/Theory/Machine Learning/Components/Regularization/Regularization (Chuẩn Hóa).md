@@ -18,7 +18,7 @@ $$
 w = \left(1 - \alpha \frac{\lambda}{m}\right)w - \alpha \frac{\partial J_{origin}}{\partial w}
 $$
 $J_{origin}$ là hàm cost không có regularization 
-cái hệ số nằm trước W sẽ thường là một giá trị cận 1 (như 0.98, 0.99), giúp "kiềm chế" lại dần dần để W không quá to
+cái hệ số nằm trước W sẽ thường là một giá trị cận 1 (như 0.98, 0.99), giúp "kiềm chế" lại dần dần để W không quá to, quá trình này được gọi là weight decay 
 
 nếu chọn $\lambda$ quá lớn sẽ khiến cho mô hình bị [[Underfitting - High Bias]] khi mà các trọng số w sẽ rất nhỏ để hàm chi phí đạt giá trị nhỏ nhất
 còn nếu $\lambda$ quá nhỏ sẽ khiến cho mô hình bị [[Overfitting - High Variance]] khi mà các hệ số w có thể tăng lên rất cao mà không bị kiềm hãm bởi vì hệ số đi kèm của nó (tức $\lambda$) khiến cho mức độ đóng góp của hệ số vào hàm chi phí trở nên nhỏ
