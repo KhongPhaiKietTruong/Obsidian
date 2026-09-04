@@ -82,7 +82,7 @@ MaHD (PK)
 MaPK (Unique )(FK) (HOADON.MaPK -> PHIEUKHAM.MaPK) 
 ThoiGianLap (not null)
 TongTien (>0)
-TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Thanh toán một phần)
+TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Thanh toán một phần, Đã hủy)
 
 THANHTOAN 
 MaTT (PK)
