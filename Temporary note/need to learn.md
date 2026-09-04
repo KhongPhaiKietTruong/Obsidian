@@ -7,3 +7,4 @@
 - [ ] back propagation
 - [ ] leakt relu vs relu 
 - [ ] activation tanh 
+- [ ] bayes' error
