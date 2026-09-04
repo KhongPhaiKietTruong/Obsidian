@@ -64,7 +64,7 @@ MaThuoc (PK)
 TenThuoc
 DonViTinh
 DonGia
-SoLuong 
+SoLuongConLai
 
 DICHVU
 MaDV (PK)
@@ -93,4 +93,7 @@ MaHD (FK)
 TGThanhToan
 SoTien
 PhuongThuc
+
+
+Stored Procedure để tính tổng tiền 
 
