@@ -29,15 +29,15 @@ MoTa
 
 LICHKHAM
 MaLich (PK)
-MaBN (FK)
-MaBS (FK)
+MaBN (FK) (LICHKHAM.MaBN -> BENHNHAN.MaBN)
+MaBS (FK) (LICHKHAM.MaBS -> BACSI.MaBS)
 ThoiGianHenKham 
 LyDoKham
 TrangThai
 
 PHIEUKHAM
 MaPK (PK)
-MaLich (FK)
+MaLich (FK) (PHIEUKHAM.MaLich -> LICHKHAM.MaLich)
 ThoiGianKham
 TrieuChung
 ChanDoan
@@ -45,7 +45,7 @@ PhiKham
 
 DONTHUOC 
 MaDon (PK)
-MaPK (FK)
+MaPK (FK) (DONTHUOC.MaPK -> PHIEUKHAM.MaPK)
 NgayKe
 GhiChu
 
@@ -80,14 +80,14 @@ GhiChu: Ghi chú.
 
 HOADON 
 MaHD (PK)
-MaPK (FK)
+MaPK (FK) (HOADON.MaPK -> PHIEUKHAM.MaPK)
 ThoiGianLap
 TongTien
 TrangThai
 
 THANHTOAN 
 MaTT (PK)
-MaHD (FK)
+MaHD (FK) (THANHTOAN.MaHD -> HOADON.MaHD)
 TGThanhToan
 SoTien
 PhuongThuc
