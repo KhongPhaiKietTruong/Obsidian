@@ -9,7 +9,11 @@ với:
 - m là số lượng mẫu trong [[Training Set (Tập Huấn Luyện)]] 
 
 sau khi thêm thành phần phạt vào hàm cost rồi thì khi thực hiện update w bằng [[Gradient descent]] cũng sẽ thay đổi
-trước khi thêm regularz
+trước khi thêm regularization:
+$$
+w = w-\alpha\frac{ \partial J }{ \partial w } 
+$$
+sau khi thêm regularization:
 $$
 w = w-\frac{ \partial J }{ \partial w } 
 $$
