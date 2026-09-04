@@ -52,7 +52,6 @@ CT_DONTHUOC
 (MaDon, MaThuoc) (PK)
 SoLuong (>0)
 LieuDung (nửa viên, 2 liền, ... )
-SoLanDung: 14 (2 lần mỗi ngày trong 1 tuần)
 HuongDan (Trước ngủ 30 phút)
 DonGia: giá tại thời điểm bán
 
