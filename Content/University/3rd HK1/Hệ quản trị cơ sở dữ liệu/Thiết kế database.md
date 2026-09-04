@@ -19,7 +19,7 @@ MaBN (PK)
 HoTen (Not null)
 NgaySinh
 GioiTinh
-SoDienThoai (Not null, Unique)
+SoDienThoai (Not null)
 DiaChi
 
 CHUYENKHOA
@@ -81,15 +81,15 @@ HOADON
 MaHD (PK)
 MaPK (Unique )(FK) (HOADON.MaPK -> PHIEUKHAM.MaPK) 
 ThoiGianLap (not null)
-TongTien (>0)
+TongTien (>0) 
 TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Thanh toán một phần, Đã hủy)
 
 THANHTOAN 
 MaTT (PK)
 MaHD (FK) (THANHTOAN.MaHD -> HOADON.MaHD)
-NguoiThu (THANHTOAN.NguoiThu -> NHANVIEN.MaNV)
+MaNVThu (THANHTOAN.NguoiThu -> NHANVIEN.MaNV)
 ThoiGianThanhToan 
-SoTien (>0)
+SoTien (>0 And <=TongTien)
 PhuongThuc ('Chuyen Khoan', 'Tien mat')
 
 
