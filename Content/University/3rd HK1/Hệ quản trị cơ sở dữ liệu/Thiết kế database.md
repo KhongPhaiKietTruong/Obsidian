@@ -10,17 +10,17 @@ DiaChi
 ChucVu
 TrangThai
 
+BACSI
+MaBS (PK) (FK) (BACSI.MaBS -> NHANVIEN.MaNV)
+MaCK (FK) (BACSI.MaCK -> CHUYENKHOA.MaCK)
+
 BENHNHAN 
-MaBN (PK)
+MaBN (PK) 
 HoTen
 NgaySinh
 GioiTinh
 SoDienThoai
 DiaChi
-
-BACSI
-MaBS (PK)
-MaCK (FK)
 
 CHUYENKHOA
 MaCK (PK)
