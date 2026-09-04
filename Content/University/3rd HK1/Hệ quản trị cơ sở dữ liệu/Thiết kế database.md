@@ -72,8 +72,8 @@ TrangThai (Đang hoạt động, ngừng hoạt động, tạm dừng)
 
 CT_DICHVU
 (MaPK, MaDV) (PK)
-DonGia: Đơn giá tại thời điểm sử dụng.
-KetQua: Kết quả thực hiện dịch vụ.
+DonGia (>0)
+KetQua : Kết quả thực hiện dịch vụ.
 GhiChu: Ghi chú.
 
 HOADON 
