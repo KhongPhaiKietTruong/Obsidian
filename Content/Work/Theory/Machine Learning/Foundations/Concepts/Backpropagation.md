@@ -1,0 +1,1 @@
+sau khi [[Neural Network (Mạng Neural)]] thực hiện 
