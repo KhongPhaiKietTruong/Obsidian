@@ -14,3 +14,4 @@ rationale (n): lí do, cơ sở lí luận
 plateaus (n): giai đoạn chững lại 
 plateaus (v): đi ngang 
 flesh out (v): bổ sung chi tiết, hoàn thiện 
+sloppy (adj): cẩu thả
