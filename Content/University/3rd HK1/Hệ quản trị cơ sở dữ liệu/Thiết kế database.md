@@ -66,7 +66,7 @@ SoLuongConLai ( >= 0)
 
 DICHVU
 MaDV (PK)
-TenDV (Not Null)
+TenDV (Not Null) 
 Gia ( >0 )
 MoTa
 TrangThai ()

@@ -10,7 +10,7 @@
 - [[2NF|2NF (Chuẩn hóa 2)]]
 - [[3NF|3NF (Chuẩn hóa 3)]]
 - [[Super Key|SUPER KEY (Khóa siêu cấp)]]
-- [[Candidate Key|CANDIDATE KEY (Khóa ứng viên)]]
+- [[Candidate Key (Khóa ứng viên)|CANDIDATE KEY (Khóa ứng viên)]]
 - [[Primary key (Khóa chính)|PRIMARY KEY (Khóa chính - Khái niệm)]]
 
 ## 📊 Kiểu dữ liệu (Datatypes)
