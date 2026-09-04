@@ -12,7 +12,7 @@ TrangThai
 
 BACSI
 MaBS (PK)
-ChuyenKhoa 
+MaCK (FK)
 
 CHUYENKHOA
 MaCK (PK)
