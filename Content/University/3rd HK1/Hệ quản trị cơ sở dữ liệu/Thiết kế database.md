@@ -7,8 +7,8 @@ NgaySinh
 GioiTinh
 SDT
 DiaChi
-ChucVu
-TrangThai
+ChucVu (Bác sĩ, thu ngân, y tá, lễ tân)
+TrangThai (Còn làm việc, đã nghỉ)
 
 BACSI
 MaBS (PK) (FK) (BACSI.MaBS -> NHANVIEN.MaNV)
@@ -33,7 +33,7 @@ MaBN (FK) (LICHKHAM.MaBN -> BENHNHAN.MaBN)
 MaBS (FK) (LICHKHAM.MaBS -> BACSI.MaBS)
 ThoiGianHenKham 
 LyDoKham
-TrangThai
+TrangThai (Đã khám, vắng mặt, đã hủy)
 
 PHIEUKHAM
 MaPK (PK)
@@ -41,7 +41,7 @@ MaLich (Unique) (FK) (PHIEUKHAM.MaLich -> LICHKHAM.MaLich)
 ThoiGianKham
 TrieuChung
 ChanDoan
-PhiKham
+PhiKham ( >=0 )
 
 DONTHUOC 
 MaDon (PK)
@@ -51,25 +51,25 @@ GhiChu
 
 CT_DONTHUOC
 (MaDon, MaThuoc) (PK)
-SoLuong: Số lượng thuốc.
+SoLuong (>0)
 LieuDung: Liều dùng.
 SoLanDung: Số lần sử dụng.
-HuongDan: Hướng dẫn sử dụng.
+HuongDan (Trước ngủ 30 phút)
 DonGia: giá tại thời điểm bán
 
 THUOC 
 MaThuoc (PK)
 TenThuoc
-DonViTinh
-DonGia
-SoLuongConLai
+DonViTinh (Viên, Vỉ, Hộp)
+Gia ( >0 )
+SoLuongConLai ( >= 0)
 
 DICHVU
 MaDV (PK)
-TenDV
-DonGia
+TenDV (Not Null)
+Gia ( >0 )
 MoTa
-TrangThai
+TrangThai ()
 
 CT_DICHVU
 (MaPK, MaDV) (PK)
