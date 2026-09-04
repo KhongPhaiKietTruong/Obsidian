@@ -27,8 +27,6 @@ MaCK (PK)
 TenCK
 MoTa
 
-**(MoTa vi phạm 3NF ?)**
-
 LICHKHAM
 MaLich (PK)
 MaBN (FK)
