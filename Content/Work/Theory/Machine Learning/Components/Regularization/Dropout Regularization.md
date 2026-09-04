@@ -1,0 +1,2 @@
+với mỗi layer, ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100\%$ đi số neural mỗi lớp, nghĩa là xét mỗi neural, có $(\text{keep\_prob})*100\%$  ta sẽ giữ neural đó lại và $(1-\text{keep\_prob})*100\%$ ta sẽ bỏ neural đó đi
+đầu tiên
