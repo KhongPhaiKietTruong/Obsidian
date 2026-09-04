@@ -51,7 +51,7 @@ GhiChu
 CT_DONTHUOC
 (MaDon, MaThuoc) (PK)
 SoLuong (>0) (not null)
-LieuDung (nửa viên, 2 liền, ... )
+LieuDung (nửa viên, 2 viên, ... )
 HuongDan (Trước ngủ 30 phút)
 DonGia: giá tại thời điểm bán (not null)
 
