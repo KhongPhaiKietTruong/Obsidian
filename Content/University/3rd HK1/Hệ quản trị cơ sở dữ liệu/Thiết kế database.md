@@ -51,8 +51,8 @@ GhiChu
 CT_DONTHUOC
 (MaDon, MaThuoc) (PK)
 SoLuong (>0)
-LieuDung: Liều dùng.
-SoLanDung: Số lần sử dụng.
+LieuDung (nửa viên, 2 liền, ... )
+SoLanDung: 14 (2 lần mỗi ngày trong 1 tuần)
 HuongDan (Trước ngủ 30 phút)
 DonGia: giá tại thời điểm bán
 
@@ -68,17 +68,18 @@ MaDV (PK)
 TenDV (Not Null, Unique) 
 Gia ( >0 )
 MoTa
-TrangThai (Đang hoạt động, ngừng hoạt động, tạm dừng)
+TrangThai (Default 'Đang hoạt động') (Đang hoạt động, ngừng hoạt động, tạm dừng)
 
 CT_DICHVU
 (MaPK, MaDV) (PK)
 DonGia (>0)
+TrangThai (Chờ thực hiện, đã hoàn thành)
 KetQua ('Natri cao', 'Ti le giun san cao', ...)
 GhiChu
 
 HOADON 
 MaHD (PK)
-MaPK (FK) (HOADON.MaPK -> PHIEUKHAM.MaPK)
+MaPK (Unique )(FK) (HOADON.MaPK -> PHIEUKHAM.MaPK) 
 ThoiGianLap (not null)
 TongTien (>0)
 TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Thanh toán một phần)
