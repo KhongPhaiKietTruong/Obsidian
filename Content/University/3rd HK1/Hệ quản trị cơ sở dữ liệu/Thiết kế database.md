@@ -5,7 +5,7 @@ MaNV (PK)
 HoTen (Not null)
 NgaySinh
 GioiTinh
-SDT (unique)
+SDT (Not null)
 DiaChi
 ChucVu (Bác sĩ, thu ngân, y tá, lễ tân)
 TrangThai (Còn làm, đã nghỉ)
@@ -32,12 +32,12 @@ MaLich (PK)
 MaBN (FK) (LICHKHAM.MaBN -> BENHNHAN.MaBN)
 MaBS (FK) (LICHKHAM.MaBS -> BACSI.MaBS)
 ThoiGianHenKham (Not null)
-TrangThai (Đã khám, vắng mặt, đã hủy)
+TrangThai (default 'Chờ khám') (Chờ khám, đã khám, vắng mặt, đã hủy)
 
 PHIEUKHAM
 MaPK (PK)
 MaLich (Unique) (FK) (PHIEUKHAM.MaLich -> LICHKHAM.MaLich) 
-ThoiGianKham
+ThoiGianKham (Not null)
 TrieuChung
 ChanDoan
 PhiKham ( >=0 )
@@ -73,22 +73,22 @@ TrangThai (Đang hoạt động, ngừng hoạt động, tạm dừng)
 CT_DICHVU
 (MaPK, MaDV) (PK)
 DonGia (>0)
-KetQua : Kết quả thực hiện dịch vụ.
-GhiChu: Ghi chú.
+KetQua ('Natri cao', 'Ti le giun san cao', ...)
+GhiChu
 
 HOADON 
 MaHD (PK)
 MaPK (FK) (HOADON.MaPK -> PHIEUKHAM.MaPK)
-ThoiGianLap 
-TongTien
+ThoiGianLap (not null)
+TongTien (>0)
 TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Thanh toán một phần)
 
 THANHTOAN 
 MaTT (PK)
 MaHD (FK) (THANHTOAN.MaHD -> HOADON.MaHD)
-TGThanhToan
-SoTien
-PhuongThuc
+ThoiGianThanhToan 
+SoTien (>0)
+PhuongThuc ('Chuyen Khoan', 'Tien mat')
 
 
 Stored Procedure để tính tổng tiền 
