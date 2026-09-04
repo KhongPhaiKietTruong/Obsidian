@@ -8,3 +8,4 @@
 - [ ] leakt relu vs relu 
 - [ ] activation tanh 
 - [ ] bayes' error
+- [ ] forbenius norm 
