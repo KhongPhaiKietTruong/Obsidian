@@ -72,8 +72,8 @@ TrangThai (Default 'Đang hoạt động') (Đang hoạt động, ngừng hoạt
 CT_DICHVU
 (MaPK, MaDV) (PK)
 DonGia (>0)
-TrangThai (Chờ thực hiện, đã hoàn thành)
-KetQua ('Natri cao', 'Ti le giun san cao', ...)
+TrangThai (Chờ thực hiện, đã hoàn thành, đã hủy)
+KetQua ('Natri cao', 'Ti le giun san cao', ...) NULL 
 GhiChu
 
 HOADON 
