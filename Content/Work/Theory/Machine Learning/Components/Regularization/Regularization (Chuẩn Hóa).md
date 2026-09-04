@@ -15,8 +15,9 @@ w = w-\alpha\frac{ \partial J }{ \partial w }
 $$
 sau khi thêm regularization:
 $$
-w = w-\frac{ \partial J }{ \partial w } 
+W := \left(1 - \alpha \frac{\lambda}{m}\right)W - \alpha \frac{\partial J}{\partial W}
 $$
+
 
 nếu chọn $\lambda$ quá lớn sẽ khiến cho mô hình bị [[Underfitting - High Bias]] khi mà các trọng số w sẽ rất nhỏ để hàm chi phí đạt giá trị nhỏ nhất
 còn nếu $\lambda$ quá nhỏ sẽ khiến cho mô hình bị [[Overfitting - High Variance]] khi mà các hệ số w có thể tăng lên rất cao mà không bị kiềm hãm bởi vì hệ số đi kèm của nó (tức $\lambda$) khiến cho mức độ đóng góp của hệ số vào hàm chi phí trở nên nhỏ
