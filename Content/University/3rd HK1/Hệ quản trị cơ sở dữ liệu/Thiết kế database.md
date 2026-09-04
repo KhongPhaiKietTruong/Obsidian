@@ -81,7 +81,7 @@ MaHD (PK)
 MaPK (FK) (HOADON.MaPK -> PHIEUKHAM.MaPK)
 ThoiGianLap 
 TongTien
-TrangThai (Đã thanh toán, Chưa thanh toán, Thanh toán một phần)
+TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Thanh toán một phần)
 
 THANHTOAN 
 MaTT (PK)
