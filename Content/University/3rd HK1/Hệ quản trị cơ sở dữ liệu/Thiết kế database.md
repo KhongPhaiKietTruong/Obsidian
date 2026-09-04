@@ -2,13 +2,13 @@ Hệ thống quản lí bệnh viện
 
 NHANVIEN 
 MaNV (PK) 
-HoTen
+HoTen (Not null)
 NgaySinh
 GioiTinh
-SDT
+SDT (unique)
 DiaChi
 ChucVu (Bác sĩ, thu ngân, y tá, lễ tân)
-TrangThai (Còn làm việc, đã nghỉ)
+TrangThai (Còn làm, đã nghỉ)
 
 BACSI
 MaBS (PK) (FK) (BACSI.MaBS -> NHANVIEN.MaNV)
@@ -16,23 +16,22 @@ MaCK (FK) (BACSI.MaCK -> CHUYENKHOA.MaCK)
 
 BENHNHAN 
 MaBN (PK) 
-HoTen
+HoTen (Not null)
 NgaySinh
 GioiTinh
-SoDienThoai
+SoDienThoai (Not null, Unique)
 DiaChi
 
 CHUYENKHOA
 MaCK (PK)
-TenCK
+TenCK (Unique)
 MoTa
 
 LICHKHAM
 MaLich (PK)
 MaBN (FK) (LICHKHAM.MaBN -> BENHNHAN.MaBN)
 MaBS (FK) (LICHKHAM.MaBS -> BACSI.MaBS)
-ThoiGianHenKham 
-LyDoKham
+ThoiGianHenKham (Not null)
 TrangThai (Đã khám, vắng mặt, đã hủy)
 
 PHIEUKHAM
@@ -82,7 +81,7 @@ MaHD (PK)
 MaPK (FK) (HOADON.MaPK -> PHIEUKHAM.MaPK)
 ThoiGianLap 
 TongTien
-TrangThai ()
+TrangThai (Đã thanh toán, Chưa thanh toán, Thanh toán một phần)
 
 THANHTOAN 
 MaTT (PK)
