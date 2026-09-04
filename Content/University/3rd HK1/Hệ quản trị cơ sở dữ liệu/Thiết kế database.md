@@ -69,11 +69,10 @@ MaDV (PK)
 TenDV (Not Null, Unique) 
 Gia ( >0 )
 MoTa
-TrangThai ()
+TrangThai (Đang hoạt động, ngừng hoạt động, tạm dừng)
 
 CT_DICHVU
 (MaPK, MaDV) (PK)
-SoLuong: Số lượng dịch vụ.
 DonGia: Đơn giá tại thời điểm sử dụng.
 KetQua: Kết quả thực hiện dịch vụ.
 GhiChu: Ghi chú.
@@ -81,9 +80,9 @@ GhiChu: Ghi chú.
 HOADON 
 MaHD (PK)
 MaPK (FK) (HOADON.MaPK -> PHIEUKHAM.MaPK)
-ThoiGianLap
+ThoiGianLap 
 TongTien
-TrangThai
+TrangThai ()
 
 THANHTOAN 
 MaTT (PK)
