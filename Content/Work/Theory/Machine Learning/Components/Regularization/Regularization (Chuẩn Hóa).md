@@ -15,7 +15,7 @@ w = w-\alpha\frac{ \partial J }{ \partial w }
 $$
 sau khi thêm regularization:
 $$
-w = \left(1 - \alpha \frac{\lambda}{m}\right)W - \alpha \frac{\partial J}{\partial W}
+w = \left(1 - \alpha \frac{\lambda}{m}\right)w - \alpha \frac{\partial J}{\partial w}
 $$
 cái hệ số nằm trước W sẽ thường là một giá trị cận 1 (như 0.98, 0.99), giúp "kiềm chế" lại dần dần để W không quá to
 
