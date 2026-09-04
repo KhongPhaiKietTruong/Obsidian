@@ -12,7 +12,7 @@ TrangThai (Còn làm, đã nghỉ)
 
 BACSI
 MaBS (PK) (FK) (BACSI.MaBS -> NHANVIEN.MaNV)
-MaCK (FK) (BACSI.MaCK -> CHUYENKHOA.MaCK)
+MaCK (FK) (BACSI.MaCK -> CHUYENKHOA.MaCK) (not null)
 
 BENHNHAN 
 MaBN (PK) 
@@ -24,7 +24,7 @@ DiaChi
 
 CHUYENKHOA
 MaCK (PK)
-TenCK (Unique)
+TenCK (Unique, not null)
 MoTa
 
 LICHKHAM
@@ -44,35 +44,35 @@ PhiKham ( >=0 )
 
 DONTHUOC 
 MaDon (PK)
-MaPK (FK) (DONTHUOC.MaPK -> PHIEUKHAM.MaPK)
-NgayKe
+MaPK (Unique)(FK) (DONTHUOC.MaPK -> PHIEUKHAM.MaPK)
+NgayKe (not null)
 GhiChu
 
 CT_DONTHUOC
 (MaDon, MaThuoc) (PK)
-SoLuong (>0)
+SoLuong (>0) (not null)
 LieuDung (nửa viên, 2 liền, ... )
 HuongDan (Trước ngủ 30 phút)
-DonGia: giá tại thời điểm bán
+DonGia: giá tại thời điểm bán (not null)
 
 THUOC 
 MaThuoc (PK)
-TenThuoc
-DonViTinh (Viên, Vỉ, Hộp)
-Gia ( >0 )
-SoLuongConLai ( >= 0)
+TenThuoc (not null)
+DonViTinh (Viên, Vỉ, Hộp) (not null)
+Gia ( >0 ) (not null)
+SoLuongConLai ( >= 0) not null
 
 DICHVU
 MaDV (PK)
 TenDV (Not Null, Unique) 
-Gia ( >0 )
+Gia ( >0 ) not null
 MoTa
-TrangThai (Default 'Đang hoạt động') (Đang hoạt động, ngừng hoạt động, tạm dừng)
+TrangThai (Default 'Đang hoạt động') (Đang hoạt động, ngừng hoạt động, tạm dừng) not null
 
 CT_DICHVU
 (MaPK, MaDV) (PK)
-DonGia (>0)
-TrangThai (Chờ thực hiện, đã hoàn thành, đã hủy)
+DonGia (>0) not null
+TrangThai (Chờ thực hiện, đã hoàn thành, đã hủy) not null
 KetQua ('Natri cao', 'Ti le giun san cao', ...) NULL 
 GhiChu
 
@@ -80,16 +80,16 @@ HOADON
 MaHD (PK)
 MaPK (Unique )(FK) (HOADON.MaPK -> PHIEUKHAM.MaPK) 
 ThoiGianLap (not null)
-TongTien (>0) 
-TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Thanh toán một phần, Đã hủy)
+TongTien (>0) not null
+TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Thanh toán một phần, Đã hủy) (not null) (Không được đổi trangthai của hoadon thành đã hủy nếu như nó đã được thanh toán một phần)
 
 THANHTOAN 
 MaTT (PK)
-MaHD (FK) (THANHTOAN.MaHD -> HOADON.MaHD)
-MaNVThu (THANHTOAN.NguoiThu -> NHANVIEN.MaNV)
-ThoiGianThanhToan 
-SoTien (>0 And <=TongTien)
-PhuongThuc ('Chuyen Khoan', 'Tien mat')
+MaHD (FK) (THANHTOAN.MaHD -> HOADON.MaHD) (not null)
+MaNVThu (THANHTOAN.MaNVThu -> NHANVIEN.MaNV) (not null)
+ThoiGianThanhToan (not null)
+SoTien (THANHTOAN.SoTien>0 And THANHTOAN.SoTien+(các khoản đã trả một phần)<=TongTien) (not null)
+PhuongThuc ('Chuyen Khoan', 'Tien mat') not null
 
 
 Stored Procedure để tính tổng tiền 
