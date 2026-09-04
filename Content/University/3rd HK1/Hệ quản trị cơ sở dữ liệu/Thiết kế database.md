@@ -87,6 +87,7 @@ TrangThai (defualt 'chờ thanh toán') (Đã thanh toán, Chờ thanh toán, Th
 THANHTOAN 
 MaTT (PK)
 MaHD (FK) (THANHTOAN.MaHD -> HOADON.MaHD)
+NguoiThu (THANHTOAN.NguoiThu -> NHANVIEN.MaNV)
 ThoiGianThanhToan 
 SoTien (>0)
 PhuongThuc ('Chuyen Khoan', 'Tien mat')
