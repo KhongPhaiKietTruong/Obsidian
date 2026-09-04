@@ -37,7 +37,7 @@ TrangThai
 
 PHIEUKHAM
 MaPK (PK)
-MaLich (FK) (PHIEUKHAM.MaLich -> LICHKHAM.MaLich)
+MaLich (Unique) (FK) (PHIEUKHAM.MaLich -> LICHKHAM.MaLich) 
 ThoiGianKham
 TrieuChung
 ChanDoan
