@@ -15,3 +15,4 @@ plateaus (n): giai đoạn chững lại
 plateaus (v): đi ngang 
 flesh out (v): bổ sung chi tiết, hoàn thiện 
 sloppy (adj): cẩu thả
+holdout (adj): được giữ lại 
