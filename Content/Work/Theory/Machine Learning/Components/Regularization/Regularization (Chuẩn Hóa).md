@@ -9,8 +9,9 @@ với:
 - m là số lượng mẫu trong [[Training Set (Tập Huấn Luyện)]] 
 
 sau khi thêm thành phần phạt vào hàm cost rồi thì khi thực hiện update w bằng [[Gradient descent]] cũng sẽ thay đổi
+trước khi thêm regularz
 $$
-w_{} = w
+w = w-\frac{ \partial J }{ \partial w } 
 $$
 
 nếu chọn $\lambda$ quá lớn sẽ khiến cho mô hình bị [[Underfitting - High Bias]] khi mà các trọng số w sẽ rất nhỏ để hàm chi phí đạt giá trị nhỏ nhất
