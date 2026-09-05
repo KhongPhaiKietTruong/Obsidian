@@ -9,7 +9,7 @@ với :
 
 là một hàm giúp chuẩn hóa xác xuất
 ví dụ như khi mà ta cho model phân biệt giữa 3 con vật: mèo, chó, gà
-model cho ra điểm số của từng con như sau:
+model cho ra "điểm số" của từng con như sau:
 - mèo: z1=2.0
 - chó: z2=1.0
 - gà: z3=0.1
