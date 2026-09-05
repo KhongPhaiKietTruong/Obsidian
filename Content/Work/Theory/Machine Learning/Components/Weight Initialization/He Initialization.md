@@ -8,5 +8,7 @@ với:
 
 triển khai trong code
 ```python
-W[l] = np.random.rand(n_in, n_out) * np.sqrt(2 / n_in)
+W[l] = np.random.randn(n_in, n_out) * np.sqrt(2 / n_in)
 ```
+
+lí do mà ta nhân cho $\sqrt{ \frac{2}{n_{in}} }$ là do [[random.randn()]] tuân theo N(0, 1) nhưng ta cần là N(0, $\frac{2}{n_{in}}$) nên đây là cách để biến đổi 
