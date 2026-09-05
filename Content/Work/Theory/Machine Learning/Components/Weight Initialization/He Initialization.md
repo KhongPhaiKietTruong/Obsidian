@@ -8,5 +8,5 @@ với:
 
 triển khai trong code
 ```python
-W = np.random.rand()
+W[l] = np.random.rand()
 ```
