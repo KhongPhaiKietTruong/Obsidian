@@ -1,0 +1,1 @@
+np.random.randn(a,b) trả về 
