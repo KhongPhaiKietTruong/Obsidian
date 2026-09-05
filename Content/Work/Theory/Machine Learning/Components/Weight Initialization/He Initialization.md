@@ -1,4 +1,4 @@
-được sử dụng khi mạng neural có hàm activation [[ReLU]]
+được sử dụng khi mạng neural có hàm activation [[ReLU]] hoặc biến thể của nó, dùng để giảm tình trạng [[Vanishing-Exploding Gradient (Tiêu Biến Gradient)]] 
 He initialization có dạng như sau:
 $$
 W \sim N\left( 0,  \frac{2}{n_{in}}  \right) 
