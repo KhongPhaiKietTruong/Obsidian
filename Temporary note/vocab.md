@@ -18,3 +18,4 @@ sloppy (adj): cẩu thả
 holdout (adj): được giữ lại 
 contrive 
 norm (n): chuẩn (của vector)
+premature (adj): quá sớm 

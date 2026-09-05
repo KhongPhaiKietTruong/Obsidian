@@ -7,12 +7,20 @@ $$
 J(\vec{w},b) = \frac{1}{2m} \sum_{i=1}^{m} \left( f_{\vec{w},b}(\vec{x}^{(i)}) - y^{(i)} \right)^2
 $$
 khi đó $w_{1}$ chỉ cần tăng nhẹ thôi cũng khiến hàm dự đoán tăng vọt (đồng nghĩa với việc hàm cost cũng tăng vọt) vì giá trị của $x_1$ lớn, $w_2$ tăng mạnh thì cost cũng chỉ tăng nhẹ do giá trị của $x_2$ nhỏ.
-điều này khiến cho [[Contour Plot]] của hàm cost mỏng, dẹp và con đường đi để tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] của ta trên hàm cost bị "lắc lư" làm cho tốc độ hội tụ chậm chạp:
+hoặc cũng có thể hiểu theo cách khác là do sự khác biệt về quy mô giá trị của x1 và x2 (miền giá trị ở trên), ta thấy rằng:
+$$
+\frac{ \partial J }{ \partial w_{1} } \gg  \frac{ \partial J }{ \partial w_{2} }  
+$$
+khiến việc update [[Weight (Trọng Số)]] bằng [[Gradient descent]] diễn ra có sự lệch rất lớn khi w1 thì update một khoảng lớn trong khi w2 lại được update một khoảng rất nhỏ
+
+điều này khiến cho [[Contour Plot]] của hàm cost mỏng, dẹp và con đường đi để tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] của ta trên hàm cost bị "lắc lư" làm cho tốc độ hội tụ chậm chạp
 
 
 ![[Pasted image 20260518100531.png|center]]
 
 do đó ta phải chuẩn hóa miền giá trị của các đặc trưng lại (biến miền giá trị của x1 và x2 đều trở thành \[0, 1])
+
+Vậy nên, chuẩn hóa đặc trưng sẽ giúp [[Neural Network (Mạng Neural)]] học thông hơn vì tốc độ hội tụ nhanh hơn
 
 ## 3 cách để chuẩn hóa là:
 ### chia các giá trị cho giá trị lớn nhất
@@ -22,7 +30,10 @@ có công thức là $$X' = \frac{X - \mu}{X_{\max} - X_{\min}}$$
 với $\mu$ là [[Mean value (Giá Trị Trung Bình)]] của feature X 
 
 ### z-score normalization 
-
-
-lưu ý: với mỗi đặc trưng ta sẽ có một chỉ số tỉ lệ riêng cho nó, điều này nghĩa là đồ thị biểu diễn [[Training Set (Tập Huấn Luyện)]] sẽ thay đổi (trở nên đồng đều hơn sau scaling) chứ không phải hình dạng như cũ và chỉ bị "thu nhỏ thôi"
+công thức:
+$$
+X = \frac{X-\mu_{X}}{\sigma} 
+$$
+![[Pasted image 20260904225147.png|402]]
+lưu ý: với mỗi đặc trưng ta sẽ có một chỉ số tỉ lệ riêng cho nó, điều này nghĩa là đồ thị biểu diễn [[Training Set (Tập Huấn Luyện)]] sẽ thay đổi (trở nên đồng đều hơn sau scaling) chứ không phải hình dạng như cũ và chỉ bị "thu nhỏ" thôi
 

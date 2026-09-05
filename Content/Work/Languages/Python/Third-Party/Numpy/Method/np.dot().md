@@ -1,4 +1,4 @@
-hàm dùng để tính tích vô hướng của hai trận [[Vector]]
+hàm dùng để tính [[Dot product (Tích Vô Hướng)]] của hai [[Vector]]
 **hoặc**
 tính tích của hai [[Matrix (Ma Trận)|ma trận]]  (cũng có thể sử dụng "@")
 

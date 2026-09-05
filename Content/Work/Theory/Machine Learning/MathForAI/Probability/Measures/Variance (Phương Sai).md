@@ -1,4 +1,4 @@
-ký hiệu: Var (X) hoặc σ^2
+ký hiệu: Var(X) hoặc σ^2
 
 là một đại lượng dùng để đo mức độ phân tán của một tập dữ liệu so với [[Expected value (Giá Trị Kỳ Vọng)]] của nó ([[Moments of a distribution | moment bậc 2]] của phân phối cũng là [[Standard deviation (Độ Lệch Chuẩn)| độ lệch chuẩn]] bình phương)
 

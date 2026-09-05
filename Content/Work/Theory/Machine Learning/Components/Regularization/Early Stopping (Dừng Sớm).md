@@ -1,0 +1,3 @@
+là cách thức để ngăn ngừa [[Overfitting - High Variance]] bằng cách ngừng việc huấn luyện lại khi thấy [[Training Error]] giảm mà [[Validation Error]] lại bắt đầu tăng lên 
+
+trong early stopping còn có một tham số gọi là patience, là số epoch tối đa mà ta vẫn thực hiện training sau khi thấy val error bắt đầu tăng (tại vì val error có tính dao động, có thể tăng lên rồi giảm xuống chứ khong phải tăng rồi sẽ tăng hoài), nói nôm na là đợi (patience) epoch xem val error có giảm sau khi tăng không, nếu còn tăng thì mới dừng 

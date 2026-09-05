@@ -44,10 +44,10 @@
 - [[hstack()]] - Ghép các mảng theo chiều ngang (horizontal stack)
 
 ## 7. Phép toán & Đại số tuyến tính (Operations & Linear Algebra)
-- [[broadcasting]] - Cơ chế lan truyền khi tính toán khác kích thước
+- [[Broadcasting]] - Cơ chế lan truyền khi tính toán khác kích thước
 - [[clip()]] - Giới hạn các giá trị trong mảng khoảng [min, max]
-- [[dot()]] - Phép nhân dot product / nhân ma trận
-- [[Content/Work/Languages/Python/Third-Party/Numpy/Method/dot()|dot()]] - Hàm tính dot product
+- [[np.dot()]] - Phép nhân dot product / nhân ma trận
+- [[np.dot()|np]] - Hàm tính dot product
 - [[matmul()]] - Nhân hai ma trận
 - [[Content/Work/Languages/Python/Third-Party/Numpy/Theory/Matrix Multiplication (Nhân ma trận)]] - Phép nhân ma trận
 - [[Scalar Multiplication (Nhân vô hướng)]] - Phép nhân vô hướng (scalar multiplication)

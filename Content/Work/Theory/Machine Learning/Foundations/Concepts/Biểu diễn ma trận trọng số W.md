@@ -15,13 +15,13 @@ W^{[l]} \in \mathbb{R}^{n^{[l]} \times n^{[l-1]}}
 $$
 với l là layer hiện tại, n là số neuron ($n^{[l]}$ là neural tại layer hiện tại)
 
-nói nôm na là số hàng của ma trận W sẽ là số neural của layer trước và số cột của W là số neural của layer hiện tại, nghĩa là hình dạng của ma trận w là 
+nói nôm na là số hàng của ma trận W sẽ là số neural của layer **hiện tại** và số cột của W là số neural của layer **trước**, nghĩa là hình dạng của ma trận w là 
 $$
 (n^{(l)}, n^{(l-1)})
 $$
 ở trường hợp ma trận w của layer 1, ta biết rằng layer 0 chính là input ([[Features (Đặc Trưng)]]) còn có thể hiểu nôm na hình dạng của W là
 $$
-(\text{số đặc trưng hiện tại},  \text{ số đặc trưng lớp trước (số đặc trưng)})
+(\text{số neural hiện tại},  \text{ số đặc trưng lớp trước (số đặc trưng)})
 $$
-
 vector trọng số w của mỗi mẫu sẽ biểu diễn theo cột, tuy nhiên, khi đưa vào ma trận, nó sẽ là các hàng 
+lưu ý: có thể hiểu nôm na rằng nỗi neural là một đặc trưng ẩn 
