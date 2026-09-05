@@ -109,7 +109,7 @@ Xác suất giúp mô hình hóa sự không chắc chắn (uncertainty) trong d
   - [[Probability density function (PDF)]]: Hàm mật độ xác suất (cho biến liên tục).
   - [[Cumulative distribution function]]: Hàm phân phối tích lũy (CDF).
 - **Các phân phối xác suất phổ biến**:
-  - [[Uniform distribution]]: Phân phối đều.
+  - [[Uniform distribution (Phân Phối Đều)]]: Phân phối đều.
   - [[Binomial distribution]]: Phân phối nhị thức.
   - [[Normal distribution (Gaussian distribution)]]: Phân phối chuẩn (Gauss).
     - [[Sum of Gaussian]]: Tổng các phân phối chuẩn độc lập cũng là phân phối chuẩn.
