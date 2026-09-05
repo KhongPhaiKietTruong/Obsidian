@@ -8,5 +8,5 @@ với:
 
 triển khai trong code
 ```python
-W[l] = np.random.rand()
+W[l] = np.random.rand(n_in, n_out) * np.sqrt(2 / n_in)
 ```
