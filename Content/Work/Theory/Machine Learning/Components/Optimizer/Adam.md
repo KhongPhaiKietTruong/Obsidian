@@ -23,10 +23,11 @@ $$
 $$
 \hat{s}_t = \frac{s_t}{1-\beta_2^t}
 $$
-cuối cùng, ta thực hiện update
+cuối cùng, ta thực hiện update:
 $$
 W_t = W_{t-1} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
 $$
 đây chính là công thức update của [[Weight (Trọng Số)]] khi áp dụng cả momentum và RMSProp 
 
+lí do mà adam cần bias correction trong khi 2 cái kia không cần là gì 
 adam gần như là lựa chọn mặc định trong các model
