@@ -15,12 +15,11 @@ $$
 s_t = \beta_2 s_{t-1} + (1-\beta_2)g_t^2
 $$
 - s chính là thành phần của RMSProp 
+sau đó ta thực hiện [[Bias Correction]] cho v và s
 
 $$
 W_t = W_{t-1} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
 $$
 đây chính là công thức update của [[Weight (Trọng Số)]] khi áp dụng cả momentum và RMSProp 
-
-một điều thú vị nữa là khi dùng adam, chúng ta sẽ có n learning rate khác nhau (n là số lượng [[Features (Đặc Trưng)]])
 
 adam gần như là lựa chọn mặc định trong các model
