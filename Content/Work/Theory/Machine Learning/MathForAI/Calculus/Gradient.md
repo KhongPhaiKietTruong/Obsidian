@@ -21,3 +21,5 @@ ví dụ một hàm số có n biến thì vector gradient của hàm số đó 
 
 gradient cũng giống với việc ta tìm điểm cực trị của một hàm số nhưng thay vì một hàm số một biến thì gradient tìm "cực trị" cho hàm n biến (n>1), ở hàm một biến thì ta tìm đạo hàm rồi cho = 0, ở gradient cũng gần tương tự vậy, chỉ là ta tìm điểm để mà gradient = 0
 
+
+
