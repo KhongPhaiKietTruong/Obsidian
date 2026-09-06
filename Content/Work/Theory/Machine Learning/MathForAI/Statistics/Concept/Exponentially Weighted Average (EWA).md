@@ -14,7 +14,7 @@ một ví dụ cụ thể để dễ hình dung:
 $$
 v_t​=0.1x_t​+0.09x_{t−1}​+0.081x_{t−2}​+0.0729x_{t−3}​+⋯
 $$
-có thể thấy rằng, x càng cũ thì trọng số của nó càng nhỏ dần đi, hiện tượng này gọi là [[Exponential Decay]] ,và tất cả trọng số của x cộng lại sẽ là 1 
+có thể thấy rằng, x càng cũ thì trọng số của nó càng nhỏ dần đi, hiện tượng này gọi là [[Exponential Decay]] , sau n bước, trọng số còn lại của x là $\beta^n$,và tất cả trọng số của x cộng lại sẽ là 1 
 
 đường màu đỏ chính là EWA
 ![[Pasted image 20260906203434.png]]
