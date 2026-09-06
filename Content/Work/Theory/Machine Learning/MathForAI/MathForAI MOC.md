@@ -44,8 +44,8 @@ Chào mừng bạn đến với Bản đồ nội dung (MOC) về **Toán học 
 
 ### 📏 Chuẩn (Norms)
 - [[Norm of a matrix]]: Chuẩn của ma trận.
-- [[L1-norm]]: Chuẩn Manhattan (tổng trị tuyệt đối các phần tử).
-- [[L2-norm]]: Chuẩn Euclidean (căn bậc hai tổng bình phương).
+- [[L1-norm (Taxicab Norm)]]: Chuẩn Manhattan (tổng trị tuyệt đối các phần tử).
+- [[L2-norm (Euclidean Norm)]]: Chuẩn Euclidean (căn bậc hai tổng bình phương).
 
 ### 🔄 Trị riêng, Véc-tơ riêng & Ứng dụng
 - [[Eigenvalue]] & [[Eigenvector]]: Trị riêng và véc-tơ riêng của ma trận vuông.
