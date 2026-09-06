@@ -23,6 +23,8 @@ $$
 $$
 \hat{s}_t = \frac{s_t}{1-\beta_2^t}
 $$
+giá trị của $\beta_{1}$ thường là 0.9 và $\beta_{2}$ là 0.999
+
 cuối cùng, ta thực hiện update:
 $$
 W_t = W_{t-1} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
