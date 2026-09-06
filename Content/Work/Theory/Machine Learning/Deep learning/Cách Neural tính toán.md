@@ -23,3 +23,4 @@ lí do mà ta cộng vector b vào được các [[Matrix (Ma Trận)]] là nh�
 | 1   | một neural, một mẫu         |
 | 2   | một lớp, một mẫu            |
 | 3   | một lớp, nhiều mẫu cùng lúc |
+lưu ý: cấp bậc của [[Matrix (Ma Trận)]] dùng để tính toán toán trong [[Neural Network (Mạng Neural)]] to nhất chỉ là layer chứ không có một ma trận nào biểu diễn cho toàn bộ mạng neural cả 
