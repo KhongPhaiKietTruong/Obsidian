@@ -15,8 +15,15 @@ $$
 s_t = \beta_2 s_{t-1} + (1-\beta_2)g_t^2
 $$
 - s chính là thành phần của RMSProp 
-sau đó ta thực hiện [[Bias Correction]] cho v và s
+sau đó ta thực hiện [[Bias Correction]] cho v và s:
+$$
+\hat{v}_t = \frac{v_t}{1-\beta_1^t}
+$$
 
+$$
+\hat{s}_t = \frac{s_t}{1-\beta_2^t}
+$$
+cuối cùng, ta thực hiện update
 $$
 W_t = W_{t-1} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
 $$
