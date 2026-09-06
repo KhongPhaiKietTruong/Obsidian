@@ -1,4 +1,3 @@
-
 kí hiệu: $\nabla J$
 
 gradient là một [[Vector]] chỉ về hướng dốc nhất (đỉnh cao gần nó)
