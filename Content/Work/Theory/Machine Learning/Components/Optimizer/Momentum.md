@@ -12,6 +12,7 @@ $$
 ta thấy rằng ở trục 1, ta có các giá trị 10, -10, 9, -9 -> đường đi sẽ giật rất mạnh
 EWA sẽ giúp các giá trị này cancel nhau khi mà 10 và -10, 9 và -9 sẽ trung hòa, khiến cho giá trị duy chuyển của trục 1 xấp xỉ bằng 0 
 còn với ở trục 2, các giá trị là 2, 2, 2, 2 đang rất ổn định, và EWA sẽ vẫn duy trì sự ổng định đó 
+Momentum là sự trung hòa giữa các hướng di chuyển trong quá khứ
 
 công thức để tính gradient theo momentum sẽ là 
 $$
