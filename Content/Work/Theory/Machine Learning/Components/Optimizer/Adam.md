@@ -1,4 +1,4 @@
-trong [[Gradient descent]], đôi lúc ta đi từ điểm ban đầu đến [[[[Global Minimum (Cực Tiểu Toàn Cục)]]]] theo một hướng duy nhất và với độ dài mỗi bước bé
+trong [[Gradient Descent]], đôi lúc ta đi từ điểm ban đầu đến [[[[Global Minimum (Cực Tiểu Toàn Cục)]]]] theo một hướng duy nhất và với độ dài mỗi bước bé
 đôi lúc thì ba đi gấp khúc với độ dài bước đi dài
 adam sinh ra để tối ưu cho việc này, ở trường hợp 1, adam sẽ tăng [[Learning Rate (Tốc Độ Học)]] giúp cho bước đi của chúng ta dài hơn, trường hợp hai thì giảm lại 
 

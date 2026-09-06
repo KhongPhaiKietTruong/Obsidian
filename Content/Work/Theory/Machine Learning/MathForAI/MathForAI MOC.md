@@ -69,7 +69,7 @@ Giải tích là nền tảng cho việc tối ưu hóa các mô hình học má
 
 ### 🎯 Tối ưu hóa (Optimization)
 - [[Gradient]]: Vector chứa các đạo hàm riêng, chỉ hướng tăng nhanh nhất của hàm số.
-- [[Gradient descent]]: Thuật toán cực tiểu hóa độ dốc - thuật toán tối ưu hóa cốt lõi trong ML/DL.
+- [[Gradient Descent]]: Thuật toán cực tiểu hóa độ dốc - thuật toán tối ưu hóa cốt lõi trong ML/DL.
 - [[Newton's method]]: Phương pháp Newton để tìm nghiệm hoặc tối ưu hóa.
 - [[Convex Function]]: Hàm lồi (mọi cực trị địa phương đều là cực trị toàn cục).
 - [[Local Minimum (Cực Tiểu Cục Bộ)]] & [[Global Minimum (Cực Tiểu Toàn Cục)]]: Cực tiểu cục bộ và Cực tiểu toàn cục.

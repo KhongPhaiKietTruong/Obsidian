@@ -11,7 +11,7 @@ hoặc cũng có thể hiểu theo cách khác là do sự khác biệt về quy
 $$
 \frac{ \partial J }{ \partial w_{1} } \gg  \frac{ \partial J }{ \partial w_{2} }  
 $$
-khiến việc update [[Weight (Trọng Số)]] bằng [[Gradient descent]] diễn ra có sự lệch rất lớn khi w1 thì update một khoảng lớn trong khi w2 lại được update một khoảng rất nhỏ
+khiến việc update [[Weight (Trọng Số)]] bằng [[Gradient Descent]] diễn ra có sự lệch rất lớn khi w1 thì update một khoảng lớn trong khi w2 lại được update một khoảng rất nhỏ
 
 điều này khiến cho [[Contour Plot]] của hàm cost mỏng, dẹp và con đường đi để tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] của ta trên hàm cost bị "lắc lư" làm cho tốc độ hội tụ chậm chạp
 

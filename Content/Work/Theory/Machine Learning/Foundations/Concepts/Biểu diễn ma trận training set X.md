@@ -18,7 +18,6 @@ x^{(1)} x^{(2)} ...x^{(m)}  \\
 \end{bmatrix} 
 $$
 
-
 với m là số mẫu trong training set
 hình dạng của ma trận X sẽ là (N, M) với N là số đặc trưng và M là số mẫu
 
