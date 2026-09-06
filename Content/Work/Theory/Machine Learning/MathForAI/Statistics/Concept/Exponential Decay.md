@@ -1,0 +1,1 @@
+là hiện tượng khi mà trọng số đi với một số ngày càng nhỏ đi theo cấp số mũ 
