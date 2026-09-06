@@ -1,6 +1,6 @@
 kí hiệu: $\nabla J$
 
-gradient là một [[Vector]] chỉ về hướng dốc nhất (đỉnh cao gần nó)
+gradient là một [[Vector]] chỉ về hướng mà khiến hàm số tăng nhanh nhất 
 
 giả sử:
 $$
