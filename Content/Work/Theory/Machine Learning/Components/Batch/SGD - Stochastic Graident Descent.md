@@ -1,0 +1,1 @@
+mỗi lần chỉ đưa một mẫu trong [[Training Set (Tập Huấn Luyện)]] vào [[Neural Network (Mạng Neural)]], tức là với mỗi [[Epoch]] thì ta sẽ cập nhật [[Weight (Trọng Số)]] bằng [[Gradient Descent]] M lần (với M là số mẫu trong tập huấn luyện) 
