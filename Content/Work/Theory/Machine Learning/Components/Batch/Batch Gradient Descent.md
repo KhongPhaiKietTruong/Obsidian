@@ -2,4 +2,4 @@ là cách mà ta sẽ đưa toàn bộ mẫu trong [[Training Set (Tập Huấn 
 
 nghĩa là với một [[Epoch]] thì ta sẽ thực hiện update [[Weight (Trọng Số)]] w bằng [[Gradient Descent]] một lần 
 
-cách làm này rất tốn thời gian do nếu ta có số lượng mẫu nhiều, các ma trận W sẽ rất lớn (xem lí do ở [[Biểu diễn ma trận trọng số W]]) 
+cách làm này rất tốn thời gian do nếu ta có số lượng mẫu nhiều, các ma trận A sẽ rất lớn khiến việc [[nhân ma]]  (xem lí do ở [[Biểu diễn ma trận trọng số W]]) 
