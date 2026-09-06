@@ -9,12 +9,12 @@ adam là sự kết hợp giữa [[Momentum]] và [[RMSProp]] với các giá tr
 $$
 v_t = \beta_1 v_{t-1} + (1-\beta_1)g_t
 $$
-- v chính là gradient được áp dụng [[Exponentially Weighted Average (EWA)]] 
+- v chính là thành phần của momentum 
 
 $$
 s_t = \beta_2 s_{t-1} + (1-\beta_2)g_t^2
 $$
-- s chính là v được áp dụng [[Momentum]] 
+- s chính là thành phần của RMSProp 
 
 $$
 W_t = W_{t-1} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
