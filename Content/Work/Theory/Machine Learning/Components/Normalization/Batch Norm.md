@@ -1,1 +1,1 @@
-là một kĩ thuật giúp đưa giá trị z 
+là một kĩ thuật giúp đưa giá trị [[Pre-activation Value]] về mức ổn định trước khi truyền vào [[Activation Function (Hàm Kích Hoạt)]]
