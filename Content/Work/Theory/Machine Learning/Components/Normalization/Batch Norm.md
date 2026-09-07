@@ -4,6 +4,7 @@ là một kĩ thuật giúp đưa giá trị [[Pre-activation Value]] về mức
 $$
 z_{BN}=\gamma \hat{z} + \beta 
 $$
-lí do mà ta không dừng ở bước z-score normalization là vì như thế sẽ khiến z chỉ nằm trong , ta giới hạn khả năng học tập của [[Neural Network (Mạng Neural)]] 
+với:
+- $\gamma$ và $\beta$ laf 
 
 ​
