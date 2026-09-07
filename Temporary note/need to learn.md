@@ -9,3 +9,5 @@
 - [ ] activation tanh 
 - [ ] bayes' error
 - [ ] forbenius norm 
+- [ ] gray encoding 
+- [ ] 
