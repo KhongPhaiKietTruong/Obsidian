@@ -6,5 +6,8 @@ z_{BN}=\gamma \hat{z} + \beta
 $$
 với:
 - $\gamma$ và $\beta$ là hai tham số mà [[Neural Network (Mạng Neural)]] sẽ học được trong quá trình huấn luyện 
+- $\gamma^2$ sẽ quy định [[Variance (Phương Sai)]] 
+- $\beta$ sẽ quy định [[Mean value (Giá Trị Trung Bình)]]
+
 
 ​
