@@ -8,7 +8,7 @@ J(w, b)&=\frac{1}{2m} \sum_{i=1}^{m}(y^{(i)}-\hat{y}^{(i)})^2  	\\
 \end{aligned}
 $$
 với:
-- y là [[Target variable (Giá Trị Thực Tế)]]
+- y là [[Target variable - Ground Truth (Giá Trị Thực Tế)]]
 - $\hat{y}$ là [[Predicted Value (Giá Trị Dự Đoán)]]
 - m là số lượng mẫu trong [[Training Set (Tập Huấn Luyện)]]
 

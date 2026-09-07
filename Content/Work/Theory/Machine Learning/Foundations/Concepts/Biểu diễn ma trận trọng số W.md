@@ -1,5 +1,5 @@
 
-khi ở dạng vector thì [[Weight (Trọng Số)]] w được biểu diễn theo cột, khi biểu diễn theo ma trận thì biến các w cột thành w hàng và xếp lên nhau 
+khi ở dạng vector thì [[Weight (Trọng Số) w]] w được biểu diễn theo cột, khi biểu diễn theo ma trận thì biến các w cột thành w hàng và xếp lên nhau 
 $$
 W^{[l]} =
 \begin{bmatrix}

@@ -22,7 +22,7 @@ v_{dW}^{(t)}
 +
 (1-\beta)dW_t
 $$
-sau đó update [[Weight (Trọng Số)]] bằng công thức:
+sau đó update [[Weight (Trọng Số) w]] bằng công thức:
 $$
 W_t
 =
