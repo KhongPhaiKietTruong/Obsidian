@@ -1,0 +1,1 @@
+là một kĩ thuật giúp đưa giá trị z 
