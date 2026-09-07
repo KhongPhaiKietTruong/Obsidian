@@ -128,7 +128,7 @@ Xác suất giúp mô hình hóa sự không chắc chắn (uncertainty) trong d
 - [[Skewness]] & [[Kurtosis]]: Độ lệch (độ xiên) và độ nhọn của phân phối.
 - [[Covariance]] & [[Correlation coefficient]]: Hiệp phương sai và Hệ số tương quan (độ liên hệ tuyến tính giữa hai biến).
 - [[Binomial coefficient]]: Hệ số nhị thức.
-- [[Standardization (Z-score normalization )]]: Kỹ thuật chuẩn hóa đưa dữ liệu về phân phối chuẩn hóa có trung bình bằng 0 và độ lệch chuẩn bằng 1.
+- [[Standardization (Z-score normalization)]]: Kỹ thuật chuẩn hóa đưa dữ liệu về phân phối chuẩn hóa có trung bình bằng 0 và độ lệch chuẩn bằng 1.
 
 ---
 
