@@ -1,0 +1,1 @@
+cũng khá giống với [[Grid Search]], nhưng thay vì thử qua tất cả tổ hợp thì ta chỉ thực hiện chọn các tổ hợp random 
