@@ -4,5 +4,3 @@ trong bài toán, ta có rất nhiều hyperparameters để chọn như:
 - $\beta_{1}, \beta_{2}, \epsilon$ của [[Adam]]
 - ...
 
-chiến thuật để chọn được các hyperparameters này 
-class diagram 
