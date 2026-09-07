@@ -1,0 +1,1 @@
+optimum (n): điểm tối ưu 
