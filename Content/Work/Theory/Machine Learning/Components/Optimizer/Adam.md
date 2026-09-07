@@ -1,7 +1,6 @@
 trong [[Gradient Descent]], đôi lúc ta đi từ điểm ban đầu đến [[[[Global Minimum (Cực Tiểu Toàn Cục)]]]] theo một hướng duy nhất và với độ dài mỗi bước bé
 đôi lúc thì đi gấp khúc với độ dài bước đi dài
 
-
 adam sinh ra để tối ưu cho việc này, ở trường hợp 1, adam sẽ tăng giá trị update của trọng số w giúp cho bước đi của chúng ta dài hơn, trường hợp hai thì giảm lại 
 
 adam là sự kết hợp giữa [[Momentum]] và [[RMSProp]] với các giá trị :
