@@ -1,0 +1,1 @@
+thay thì chỉ thử các tổ hợp một cách mù quáng thì ta sẽ dựa trên những tổ hợp trong quá khứ mà cho kết quả tốt rồi thử điều chỉnh dựa trên giá trị đó 
