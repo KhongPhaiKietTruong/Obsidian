@@ -5,6 +5,7 @@ nn.Linear(in_features, out_features, bias=True)
 - in_features là số lượng [[Neural|neural]] đầu vào
 - in_features là số lượng [[Neural|neural]] đầu ra
 - bias: bật tắt [[Bias]]
+
 code mẫu:
 ```python 
 x = torch.tensor([200.0, 17.0])

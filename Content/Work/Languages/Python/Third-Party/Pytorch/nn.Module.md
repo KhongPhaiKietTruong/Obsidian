@@ -1,2 +1,3 @@
-là [[Class (Lớp)]] class cha đại diện cho [[Layer (Lớp)]], các class để khởi tạo layer khác đều [[Inheritance (Tính kế thừa) |kế thừa]] class này 
+là [[Class (Lớp)]] cha đại diện cho [[Layer (Lớp)]], các class để khởi tạo layer khác đều [[Inheritance (Tính kế thừa) |kế thừa]] class này 
 ở class này, ta phải tự định nghĩa hàm [[Forward Propogation (Lan Truyền Xuôi)]] 
+
