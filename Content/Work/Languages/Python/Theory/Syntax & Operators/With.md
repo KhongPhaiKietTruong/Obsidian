@@ -1,11 +1,19 @@
-là một cách để quản lí tài nguyên, tự động giải phóng tải nguyên sau khi hoàn thành đoạn code nằm trong with dù cho có lỗi xảy ra giữa chừng 
+là một cách để bối cảnh / tài nguyên
+định nghĩa những hành động sẽ làm khi đi vào trong with và khi đi ra with 
 ```python
-with <resource> as <alias_name>:
+with <context_manager> as <alias_name>:
 ​	#do something
 ​	...
 ​	# clean up resource
 ```
+
 "clean up" ở đây sẽ là hành động tùy thuộc vào loại resource
-ví dụ với resource là file thì hành động clean up sẽ là file.close()
-nếu resource là torch.inference_mode() thì clean up là quay lại trạng thái của gradient descent ban đầu (bật / tắt) 
+
+ví dụ :
+```python
+with torch.inference_mode():
+​	# some code
+
+```
+thì hành động khi đi vào with là 
 
