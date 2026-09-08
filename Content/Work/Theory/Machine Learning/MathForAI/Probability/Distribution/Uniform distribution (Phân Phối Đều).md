@@ -1,1 +1,3 @@
 phân phối đều là loại phân phối mà mọi khả năng đều có xác suất xảy ra **như nhau**
+
+![[Pasted image 20260908145202.png]]
