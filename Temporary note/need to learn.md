@@ -4,7 +4,7 @@
 - [ ] stateless 
 - [x] response, request ? 
 - [ ] private ip vs public ip 
-- [ ] back propagation
+- [x] back propagation
 - [ ] leakt relu vs relu 
 - [ ] activation tanh 
 - [ ] bayes' error
