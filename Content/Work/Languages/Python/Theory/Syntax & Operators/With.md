@@ -4,7 +4,7 @@ là một cách để bối cảnh / tài nguyên
 with <context_manager> as <alias_name>:
 ​	#do something
 ​	...
-​	# clean up resource
+​	# clean up resource / restore state 
 ```
 
 "clean up" ở đây sẽ là hành động tùy thuộc vào loại resource
