@@ -1,4 +1,5 @@
-sử dụng hàm rand(<tuple_kích_trước_tensor>) để tạo tensor có giá trị ngẫu nhiên tuân theo [[Uniform distribution (Phân Phối Đều)]] trong khoảng \[0, 1)
+sử dụng hàm rand(a, b, c, ...) với a, b, c, ... và kích thước của từng chiều
+dùng để tạo [[Tensor]] có giá trị ngẫu nhiên tuân theo [[Uniform distribution (Phân Phối Đều)]] trong khoảng \[0, 1)
 
 ```python 
 random_tensor = torch.rand((2, 2))
