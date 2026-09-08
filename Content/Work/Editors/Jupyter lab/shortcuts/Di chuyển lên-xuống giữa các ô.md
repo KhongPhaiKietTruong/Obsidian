@@ -1,0 +1,1 @@
+sử dụng "j" và "k" ở chế độ command mode 
