@@ -15,5 +15,5 @@ with torch.inference_mode():
 ​	# some code
 
 ```
-thì hành động khi đi vào with là 
+thì hành động khi đi vào with là tắt những cơ chế có liên quan đến [[Gradient]] (vì ta đang thực hiện dự đoán chứ không phải training) và hành động đi ra là khôi phục lại những cơ chế mà ta đã tắt ở hành động đầu về trạng thái cũ 
 
