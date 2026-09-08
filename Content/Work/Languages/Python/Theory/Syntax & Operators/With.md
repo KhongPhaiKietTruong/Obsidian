@@ -5,3 +5,7 @@ with <resource> as <alias_name>:
 ​	...
 ​	# clean up resource
 ```
+"clean up" ở đây sẽ là hành động tùy thuộc vào loại resource
+ví dụ với resource là file thì hành động clean up sẽ là file.close()
+nếu resource là model.inference() thì clean up là bật lại gradient descent của model 
+
