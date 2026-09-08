@@ -7,5 +7,5 @@ with <resource> as <alias_name>:
 ```
 "clean up" ở đây sẽ là hành động tùy thuộc vào loại resource
 ví dụ với resource là file thì hành động clean up sẽ là file.close()
-nếu resource là model.inference() thì clean up là bật lại gradient descent của model 
+nếu resource là torch.inference_mode() thì clean up là quay lại trạng thái của gradient descent ban đầu (bật / tắt) 
 
