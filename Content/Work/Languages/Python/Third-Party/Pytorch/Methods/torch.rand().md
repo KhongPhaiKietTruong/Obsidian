@@ -1,4 +1,5 @@
-sử dụng hàm rand(<tuple_size_of_matrix>) để tạo tensor có giá tị ngẫu nhiên trong khoảng (1, 1)
+sử dụng hàm rand(<tuple_size_of_matrix>) để tạo tensor có giá trị ngẫu nhiên trong khoảng (0, 1)
+
 ```python 
 random_tensor = torch.rand((2, 2))
 print(random_tensor)
