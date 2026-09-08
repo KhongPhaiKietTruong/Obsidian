@@ -1,0 +1,3 @@
+```python
+torch.save(model.state_dict(), "model.pth")
+```
