@@ -2,4 +2,4 @@ là một [[Object (Đối tượng)]] có khả năng chứa nhiều phần t�
 
 các tập hợp dữ liệu phổ biến như là: [[List]], [[Tuple]], ... 
 
-collect là tập con nằm trong [[]]
+collection là tập con nằm trong [[Iterable]], nghĩa là mọi collection đều có thể được duyệt qua 
