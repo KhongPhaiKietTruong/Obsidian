@@ -1,8 +1,11 @@
 ```python
 for epoch in range(epochs):
+
+​	model.train() #1. đưa model vào chế độ training (tùy chọn)
+
 ​	for X_batch, y_batch in train_loader:
 
-​	​	model.train() #1. đưa model vào chế độ training (tùy chọn)
+​	​	
 ​	​	​optimizer.zero_grad() #2 reset gradient 
 
 ​	​	y_pred = model(X_batch) #3. thực hiện forward pass để dự đoán
