@@ -1,0 +1,1 @@
+trả về hình dạng của [[Tensor]] 
