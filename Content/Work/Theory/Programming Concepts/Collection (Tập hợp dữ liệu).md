@@ -1,0 +1,3 @@
+là một [[Object (Đối tượng)]] có khả năng chứa nhiều phần tử / giá trị / đối tượng khác 
+
+các tập hợp dữ liệu phổ biến như là: [[List]], [[Tuple]], ... 
