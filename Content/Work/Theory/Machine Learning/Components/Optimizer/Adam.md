@@ -21,7 +21,7 @@ $$
 $$
 \hat{s}_t = \frac{s_t}{1-\beta_2^t}
 $$
-giá trị của $\beta_{1}$ thường là **0.9** và $\beta_{2}$ là **0.999**, $\epsilon$ thường là $10^-8$ 
+giá trị của $\beta_{1}$ thường là **0.9** và $\beta_{2}$ là **0.999**, $\epsilon$ thường là $10^-8$, đây cũng là giá trị mặc định sẵn, ta thường không đụng đến 
 
 cuối cùng, ta thực hiện update:
 $$

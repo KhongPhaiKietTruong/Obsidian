@@ -1,5 +1,9 @@
 ```python
-optimizer = torch.optim.Adam(params=<>)
+optimizer = torch.optim.Adam(
+​	params = model.parameters(),
+​	lr = 1e-3 
+)
 ```
 
 giá trị mặc định của $\beta_{1}$ và $\beta_{2}$ là 0.9 và 0.999, eps là 1e-8
+
