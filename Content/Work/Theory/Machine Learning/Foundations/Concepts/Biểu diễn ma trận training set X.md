@@ -35,7 +35,7 @@ cách biểu diễn ở trên là để thuận tiện cho đại số tuyến t
 còn trong code (trong thư viện như scikit-learn, pytorch) thì ta biểu diễn [[Tensor]] X có hình dạng là (M, N) với:
 - M là số mẫu
 - N là số đặc trưng 
-trong code làm vậy là để thuận tiện cho việc code hơn, khi ta muốn lấy theo batch thì chỉ cần X\[:<batch_size>] 
+trong code làm vậy là để thuận tiện cho việc code hơn, khi ta muốn lấy theo batch thì chỉ cần X\[:<batch_size>] (đây chỉ là ví dụ, chứ muốn lấy batch thì đã có [[DataLLoader]]) lo
 
 
  
