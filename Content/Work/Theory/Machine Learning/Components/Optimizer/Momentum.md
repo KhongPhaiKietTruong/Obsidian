@@ -1,3 +1,5 @@
+Momentum giúp kiểm soát hướng đi tốt hơn 
+
 là kĩ thuật giúp đường đi của [[Gradient]] ít "lắc lư hơn" bằng cách cho nó nhớ những giá trị gradient trước đó thông qua [[Exponentially Weighted Average (EWA)]]
 giả sử ta có lần lượt từng gradient như sau
 $$
