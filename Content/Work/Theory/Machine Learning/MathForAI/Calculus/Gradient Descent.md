@@ -1,4 +1,3 @@
-
 gradient descent là một phương pháp dùng để tìm cực tiểu của một hàm số, bằng cách bắt đầu tại một vị trí bất kì, sau đó dựa trên độ dốc tại điểm đó mà quyết định nhảy tới điểm tiếp theo dựa trên công thức: 
 $$
 x(n+1) = x(n) - \alpha f'y(x)
