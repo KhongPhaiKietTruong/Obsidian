@@ -1,15 +1,17 @@
 ```python
 for epoch in range(epochs):
-​	model.train() #1. đưa model vào chế độ training 
+​	for X_batch, y_batch in train_loader:
 
-​	y_pred = model(X_train) #2. thực hiện forward pass để dự đoán
-​	
-​	loss = loss_fn(y_pred, y_true) #3. tính loss của batch 
+​	​	model.train() #1. đưa model vào chế độ training (tùy chọn)
+​	​	​optimizer.zero_grad() #2 reset gradient 
 
-​	optimizer.zero_grad()
+​	​	y_pred = model(X_batch) #3. thực hiện forward pass để dự đoán
+​	​	loss = loss_fn(y_pred, y_batch) #4. tính loss của batch 
 
-​	loss.backward() #4. tính gradient của từng tham số  
+​	​	loss.backward() #5. tính gradient của từng tham số  
 
-​	optimizer.step() #5. thực hiện update ​	
+​	​	optimizer.step() #6. thực hiện update ​	
+
 ```
+
 
