@@ -15,8 +15,13 @@ với trường hợp đồ thị có nhiều [[Local Minimum (Cực Tiểu Cụ
 gradient descent được áp dụng vào việc cập nhật các tham số của [[Neural Network (Mạng Neural)]] như [[Weight (Trọng Số) w]], [[Bias]], ... 
 với mỗi một batch thì ta thực hiện update tham số (xét trường hợp là w) như sau:
 $$
-w = w - \alpha \frac{ \partial J }{ \partial w } 
+\begin{align}
+w &= w - \alpha \frac{ \partial J }{ \partial w }  \\
+&= w - \alpha  \sum_{i=1}^{B} \frac{ \partial L_{i} }{ \partial w } 
+\end{align}
 $$
-$$
-
-$$
+ với:
+ - B là kích thước của một batch 
+- $\alpha$ là [[Learning Rate (Tốc Độ Học)]] 
+- J là [[Cost Function (Hàm Chi Phí)]] 
+- $L_{i}$ là [[Loss function (Hàm Mất Mát)]] của mẫu thứ i trong batch 
