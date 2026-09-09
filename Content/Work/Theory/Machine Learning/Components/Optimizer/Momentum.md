@@ -1,6 +1,7 @@
 Momentum giúp kiểm soát hướng đi tốt hơn 
 
-là kĩ thuật giúp đường đi của [[Gradient]] ít "lắc lư hơn" bằng cách cho nó nhớ những giá trị gradient trước đó thông qua [[Exponentially Weighted Average (EWA)]]
+là kĩ thuật giúp đường đi của [[Gradient]] ít "lắc lư hơn" bằng cách cho nó nhớ những giá trị gradient trước đó thông qua [[Exponentially Weighted Average (EWA)]], còn nếu đường đi không lắc lư thì nó vẫn giữ tính ổn định như vậy 
+
 giả sử ta có lần lượt từng gradient như sau
 $$
 

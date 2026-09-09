@@ -1,7 +1,7 @@
-trong [[Gradient Descent]], đôi lúc ta đi từ điểm ban đầu đến [[[[Global Minimum (Cực Tiểu Toàn Cục)]]]] theo một hướng duy nhất và với độ dài mỗi bước bé
+trong [[Gradient Descent]], đôi lúc ta đi từ điểm ban đầu đến [[[[Global Minimum (Cực Tiểu Toàn Cục)]]]] đường đi bị "lắc lư" và độ dài mỗi bước bé
 đôi lúc thì đi gấp khúc với độ dài bước đi dài
 
-adam sinh ra để tối ưu cho việc này, ở trường hợp 1, adam sẽ tăng giá trị update của trọng số w giúp cho bước đi của chúng ta dài hơn, trường hợp hai thì giảm lại 
+adam sinh ra để tối ưu cho việc này, ở trường hợp đường đi lắc lư và độ dài bước bé, adam sẽ tăng giá trị update của trọng số w giúp cho bước đi của chúng ta dài hơn và "làm mượt" đường đi với trường hợp đường đi thẳng và bước lớn thì giảm bước lớn, vẫn duy trì độ ổn định đường đi  
 
 adam là sự kết hợp giữa [[Momentum]] và [[RMSProp]] với các giá trị :
 
@@ -18,7 +18,6 @@ sau đó ta thực hiện [[Bias Correction]] cho v và s:
 $$
 \hat{v}_t = \frac{v_t}{1-\beta_1^t}
 $$
-
 $$
 \hat{s}_t = \frac{s_t}{1-\beta_2^t}
 $$
