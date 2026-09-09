@@ -1,0 +1,1 @@
+là một [[Object (Đối tượng)]] dùng để lưu vị trí hiện tại khi duyệt qua một [[Iterable]] 
