@@ -1,0 +1,1 @@
+là một [[Object (Đối tượng)]], cũng là một [[Iterator]] đặc biệt, khi mà mỗi lần gọi next() trên generator thì nó chạy đến yield tiếp theo 
