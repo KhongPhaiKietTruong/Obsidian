@@ -1,0 +1,2 @@
+loss.backward() 
+loss là 
