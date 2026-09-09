@@ -11,6 +11,6 @@ $$
 \text{model.bias.grad}= \frac{ \partial J_{batch} }{ \partial b }
 $$
 
-lưu ý: W = $R^{N^{[l]}, N^{[l-1]}}$ thì $\frac{ \partial J_{batch} }{ \partial W }$ cũng có hình dạng giống vậy
+lưu ý: W = $R^{N^{[l]}, N^{[l-1]}}$ thì $\frac{ \partial J_{batch} }{ \partial W }$(model.weight.grad) cũng có hình dạng giống vậy
 với:
 - $N^{[l]}$ là số [[Neural]] của lớp thứ l trong mạng 
