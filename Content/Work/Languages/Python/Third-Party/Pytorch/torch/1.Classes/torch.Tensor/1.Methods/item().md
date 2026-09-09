@@ -1,0 +1,1 @@
+[[Method (Phương thức)]] này được sử dụng chocho [[Tensor]] chỉ có một phần tử, nó trả về giá trị của phần tử đó 
