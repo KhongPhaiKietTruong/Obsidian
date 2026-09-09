@@ -2,8 +2,11 @@ ta thực hiện forward pass bằng cách truyền [[Training Set (Tập Huấn
 
 ```python
 class LinearRegression(nn.Module):
-​	# code 
+​	# code định nghĩa cấu trúc model
+​	# code định nghĩa forward pass 
 
 model = LinearRegression()
 y_preds = model(X)
 ```
+
+gọi model(X) cũng là gọi đến [[Special method - Magic method - Dunder method]] \_\_call()__ của nn
