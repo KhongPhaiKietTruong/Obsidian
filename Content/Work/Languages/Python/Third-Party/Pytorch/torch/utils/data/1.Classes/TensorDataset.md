@@ -1,0 +1,1 @@
+dùng để khởi tạo một [[Object (Đối tượng)]] dataset để truyền vào [[DataLoader]] 
