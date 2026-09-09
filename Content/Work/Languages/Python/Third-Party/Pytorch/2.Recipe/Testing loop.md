@@ -1,0 +1,1 @@
+được thực hiện sau mỗi epoch 
