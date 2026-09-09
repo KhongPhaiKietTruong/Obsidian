@@ -1,3 +1,4 @@
+hàm loss này được dùng trong dạng bài phân loại nhiều nhãn 
 có công thức là: 
 $$
 \text{Loss} = L(a_i, y_i) =

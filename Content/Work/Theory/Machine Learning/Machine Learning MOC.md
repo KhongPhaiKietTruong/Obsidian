@@ -52,7 +52,7 @@ Các khối xây dựng chi tiết của một mô hình học máy:
   - [[Softmax]]: Hàm kích hoạt chuẩn hóa đầu ra thành phân phối xác suất cho phân loại đa lớp.
 - **Hàm mất mát ([[Loss function (Hàm Mất Mát)]])**:
   - [[Components/Loss function/Definition|Definition]]: Định nghĩa và vai trò của hàm mất mát đối với một điểm dữ liệu.
-  - [[SE (Squared Error)]] (Mean Squared Error): Hàm mất mát bình phương trung bình.
+  - [[MSE (Squared Error)]] (Mean Squared Error): Hàm mất mát bình phương trung bình.
   - [[Log loss (Cross-entropy Loss)]]: Hàm mất mát cho bài toán phân loại.
 - **Hàm chi phí ([[Cost Function (Hàm Chi Phí)]])**:
   - [[Log Loss Cost Function - Binary Cross-Entropy Cost Function]]: Hàm chi phí Log Loss trên toàn bộ tập dữ liệu.
