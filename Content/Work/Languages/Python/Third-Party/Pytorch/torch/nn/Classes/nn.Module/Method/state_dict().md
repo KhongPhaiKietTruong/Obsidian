@@ -2,3 +2,8 @@ là một [[Method (Phương thức)]] giúp trả về một [[Object (Đối t
 
 state_dict() thường được dùng để:
 lưu trọng số của model sau khi train vào file (xem thêm ở [[Lưu trọng số vào file]] 
+
+```python
+torch.save(model.state_dict(), "model.pth")
+```
+
