@@ -1,0 +1,1 @@
+[[Method (Phương thức)]] này dùng để tính 
