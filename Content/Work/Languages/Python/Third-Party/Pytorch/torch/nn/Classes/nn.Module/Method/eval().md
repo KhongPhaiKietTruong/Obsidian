@@ -1,0 +1,1 @@
+là [[Method (Phương thức)]] để đưa model vào trạng thái inference
