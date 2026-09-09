@@ -11,3 +11,12 @@ với a là [[Learning Rate (Tốc Độ Học)]] và $f'(x)$ là độ dốc t�
 với trường hợp đồ thị có nhiều [[Local Minimum (Cực Tiểu Cục Bộ)]] thì ta sẽ thử với nhiều điểm bắt đầu khác nhau
 
 ![[Pasted image 20260506203236.png]]
+
+gradient descent được áp dụng vào việc cập nhật các tham số của [[Neural Network (Mạng Neural)]] như [[Weight (Trọng Số) w]], [[Bias]], ... 
+với mỗi một batch thì ta thực hiện update tham số (xét trường hợp là w) như sau:
+$$
+w = w - \alpha \frac{ \partial J }{ \partial w } 
+$$
+$$
+
+$$
