@@ -1,0 +1,1 @@
+[[Method (Phương thức)]] này dùng để đưa mode vào trạng thái training
