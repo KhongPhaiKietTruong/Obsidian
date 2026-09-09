@@ -16,4 +16,4 @@ với:
 
 lưu ý ở công thức update thì $dW_{t}$ vẫn giữ lại dấu của gradient, nghĩa là hướng không bị đổi, việc chia cho cái căn ở dưới giúp ta điều chỉnh độ lớn 
 
-khi các gradient ở quá khứ lớn, nó sẽ giúp điều chỉnh lượng update của tham số ở hiện tại nhỏ lại và ngược lại, tức là nó sẽ hạn chế sự thay đổi quá đột ngột về lượng update
+khi các gradient ở quá khứ lớn, nó sẽ giúp điều chỉnh lượng update của tham số ở hiện tại nhỏ lại và ngược lại
