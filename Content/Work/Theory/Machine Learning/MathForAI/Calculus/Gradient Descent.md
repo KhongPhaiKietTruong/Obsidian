@@ -16,7 +16,7 @@ gradient descent được áp dụng vào việc cập nhật các tham số c�
 với mỗi một batch thì ta thực hiện update tham số (xét trường hợp là w) như sau:
 $$
 \begin{align}
-w &= w - \alpha \frac{ \partial J }{ \partial w }  \\
+w &= w - \alpha \frac{ \partial J_{batch} }{ \partial w }  \\
 &= w - \alpha  \frac{1}{B} \sum_{i=1}^{B} \frac{ \partial L_{i} }{ \partial w } 
 \end{align}
 $$
