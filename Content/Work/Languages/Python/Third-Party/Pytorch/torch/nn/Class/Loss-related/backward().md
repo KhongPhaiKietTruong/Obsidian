@@ -1,2 +1,0 @@
-loss.backward() 
-loss là 
