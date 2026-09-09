@@ -1,1 +1,1 @@
-là một [[subclas]]
+là một [[Subclass (Lớp con)]] của [[nn.Module]], dùng để khởi tại [[Mean MSE (Squared Error)]] 
