@@ -17,7 +17,7 @@ với mỗi một batch thì ta thực hiện update tham số (xét trường h
 $$
 \begin{align}
 w &= w - \alpha \frac{ \partial J }{ \partial w }  \\
-&= w - \alpha  \sum_{i=1}^{B} \frac{ \partial L_{i} }{ \partial w } 
+&= w - \alpha  \frac{1}{B} \sum_{i=1}^{B} \frac{ \partial L_{i} }{ \partial w } 
 \end{align}
 $$
  với:
