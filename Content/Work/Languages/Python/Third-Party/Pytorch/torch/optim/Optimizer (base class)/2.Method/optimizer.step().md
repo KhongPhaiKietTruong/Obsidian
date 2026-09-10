@@ -1,1 +1,1 @@
-sau khi đã tính [[Gradient]] của các tham số trong mạng bằng [[torch.Tensor.backward()]] rồi thì ta thực hiện update các tham số đó bằng method này (xem thêm ở [[Gradient Descent]] để biết việc update diễn ra như nào)
+sau khi đã tính [[Gradient]] của các tham số trong mạng bằng [[backward()]] rồi thì ta thực hiện update các tham số đó bằng method này (xem thêm ở [[Gradient Descent]] để biết việc update diễn ra như nào)
