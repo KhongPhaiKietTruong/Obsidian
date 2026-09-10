@@ -6,7 +6,8 @@ train_loader = DataLoader(
 )
 
 for epoch in range(epochs):
-​	for X_batch, y_batch in train_loader
+​	for X_batch, y_batch in train_loader:
+​	​	...
 ```
 
 với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng [[torch.utils.data.Dataset]] hoặc các class con của nó 
