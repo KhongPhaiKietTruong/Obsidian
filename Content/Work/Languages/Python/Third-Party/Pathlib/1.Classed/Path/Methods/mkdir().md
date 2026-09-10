@@ -14,4 +14,4 @@ cái phần "./" thì class Path đã mặt định luôn rồi nên có thể c
 
 hai tham số thường dùng:
 - parents: tự tạo các thư mục cha 
-- 
+- exist_ok: nếu thư mục đã tồn tại rồi thì không làm gì cả 
