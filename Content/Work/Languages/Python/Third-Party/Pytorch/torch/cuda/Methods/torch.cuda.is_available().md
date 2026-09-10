@@ -1,1 +1,1 @@
-kiểm tra xem chương trình hiện tại có thể dùng được GPU không 
+kiểm tra xem chương trình hiện tại có thể dùng được GPU của Nvidia không 
