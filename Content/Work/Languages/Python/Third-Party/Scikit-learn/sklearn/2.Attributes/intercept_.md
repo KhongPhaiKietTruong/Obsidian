@@ -1,0 +1,1 @@
+dùng để trả về [[Bias]] của model sau khi học xong 

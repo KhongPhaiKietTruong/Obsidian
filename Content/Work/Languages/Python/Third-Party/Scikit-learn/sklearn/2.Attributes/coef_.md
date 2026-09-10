@@ -1,0 +1,1 @@
+dùng để trả về [[Weight (Trọng Số) w]] của model sau khi đã học xong

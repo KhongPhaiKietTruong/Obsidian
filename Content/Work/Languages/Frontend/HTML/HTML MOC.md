@@ -16,7 +16,7 @@ Chào mừng bạn đến với tài liệu hướng dẫn học và tra cứu H
 - [[Inline & Block tag|Inline & Block tag]] - Phân biệt thẻ dạng Block (chiếm cả dòng) và thẻ dạng Inline (chỉ chiếm đủ không gian nội dung)
 - [[div|div]] - Khối phân chia (division) dùng làm container bao bọc các phần tử khác
 - [[p|p]] - Định nghĩa một đoạn văn bản (paragraph)
-- [[h|h]] - Tạo các tiêu đề từ cấp độ `<h1>` đến `<h6>`
+- [[Content/Work/Languages/Frontend/HTML/Theory/Normal tag/h|h]] - Tạo các tiêu đề từ cấp độ `<h1>` đến `<h6>`
 - [[a|a]] - Tạo siêu liên kết (hyperlink) tới trang web hoặc phần khác
 - [[img|img]] - Hiển thị hình ảnh trên trang web với các thuộc tính `src`, `alt`
 - [[button|button]] - Tạo nút bấm có thể tương tác
