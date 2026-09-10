@@ -6,4 +6,6 @@ train_loader = DataLoader(
 )
 ```
 
-với dataset_object là một object được khởi tạo bằng 
+với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng [[TensorDataset]]  
+
+
