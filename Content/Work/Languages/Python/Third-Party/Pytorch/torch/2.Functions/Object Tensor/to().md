@@ -1,4 +1,4 @@
-dùng để chuyển [[Tensor]] sang gpu, tpu, ...
+dùng để chuyển [[Tensor]] sang gpu, tpu, ... hoặc để chuyển kiểu dữ liệu của nó 
 ```python 
  a = torch.rand((2, 3))
  a = a.to('cuda', non_blocking=True)
