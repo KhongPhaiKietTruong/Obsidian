@@ -6,6 +6,6 @@ train_loader = DataLoader(
 )
 ```
 
-với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng [[TensorDataset]]  
+với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng [[torch.utils.data.TensorDataset]]  
 
 
