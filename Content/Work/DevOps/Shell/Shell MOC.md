@@ -12,7 +12,7 @@ Chào mừng bạn đến với tài liệu hướng dẫn học và tra cứu S
 ## 2. Quản lý File & Thư mục (File & Directory Management)
 - [[pwd|pwd]] - Hiển thị thư mục hiện tại (tùy chọn `-P` in đường dẫn vật lý, `-L` in đường dẫn logic)
 - [[ls|ls]] - Liệt kê các file và thư mục với nhiều tùy chọn (`-l`, `-a`, `-h`, `-t`, `-r`, `-R`, `-S`, `-1`, `-d`, `-F`, `-i`)
-- [[mkdir|mkdir]] - Tạo folder mới (tùy chọn `-p` tạo folder lồng nhau nhanh)
+- [[Content/Work/DevOps/Shell/Commands/mkdir|mkdir]] - Tạo folder mới (tùy chọn `-p` tạo folder lồng nhau nhanh)
 - [[touch|touch]] - Tạo một file mới nếu nó chưa tồn tại
 - [[cp|cp]] - Tạo bản sao của một file hoặc folder (muốn copy folder phải dùng tùy chọn `-r`)
 - [[rm|rm]] - Xóa một file hoặc folder
