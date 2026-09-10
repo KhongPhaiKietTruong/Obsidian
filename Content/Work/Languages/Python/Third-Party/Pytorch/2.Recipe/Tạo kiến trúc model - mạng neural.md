@@ -6,11 +6,12 @@ class LinearRegressionModel():
     def __init__(self):
         super().__init__()
 
-        self.weights = nn.Parameter(torch.randn(1))
-        self.bias = nn.Parameter(torch.randn(1))
+        self.layer1 = nn.Linear(2, 2)
+        self.layer2 = nn.Linear(2, 1)
         
     def forward(self): 
-        return self.weights * x + self.bias
+    ​	
+    ​	return self.weights * x + self.bias
 
 
 ```
