@@ -1,0 +1,1 @@
+dùng để dự doán trên mẫu mới 
