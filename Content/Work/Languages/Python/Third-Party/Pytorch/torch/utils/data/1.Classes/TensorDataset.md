@@ -1,7 +1,5 @@
 ```
 train_dataset = TensorDataset(<dataset>)
-
-for X_batchbatch, y_batch in 
 ```
 dùng để khởi tạo một [[Object (Đối tượng)]] dataset để truyền vào [[DataLoader]] 
 
