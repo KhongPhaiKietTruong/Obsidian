@@ -1,1 +1,1 @@
-dùng để dự doán trên mẫu mới 
+dùng để dự doán trên mẫu mới j
