@@ -1,8 +1,9 @@
 ```python
 train_loader = DataLoader(
 ​	<Dataset_Object>,
-​	batch_size = <kích_thước_batch>
-​	shuffle = <Boolean>
+​	batch_size = <kích_thước_batch>,
+​	shuffle = <Boolean>,
+​	pin_memory = False 
 )
 
 for epoch in range(epochs):
