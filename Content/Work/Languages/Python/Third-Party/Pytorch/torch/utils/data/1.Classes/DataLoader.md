@@ -10,7 +10,7 @@ for epoch in range(epochs):
 ​	​	...
 ```
 
-với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng [[torch.utils.data.Dataset]] hoặc các class con của nó 
+với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng các lớp con của [[torch.utils.data.Dataset]] 
 
 DataLoader là một [[Iterable]] mà sẽ trả về 2 [[Tensor]] mỗi lần duyệt qua, chính là X_batch và y_batch 
 
