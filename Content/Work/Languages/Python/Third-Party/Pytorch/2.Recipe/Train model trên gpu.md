@@ -2,5 +2,12 @@
 
 ví dụ
 ```python
+model = LinearRegression.to(device)
 
+for X_batch, y_batch in train_loader:
+    X_batch = X_batch.to(device)
+    y_batch = y_batch.to(device)
+
+    y_pred = model(X_batch)
+    ...
 ```
