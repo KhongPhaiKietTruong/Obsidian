@@ -12,7 +12,7 @@ for epoch in range(epochs):
 ```
 với các tham số:
 - với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng các lớp con của [[torch.utils.data.Dataset]] (như TensorDataset) hoặc tự khởi tạo một custom Dataset object bằng cách tạo một [[Class (Lớp)]] kế thừa từ torch.utils.data.Dataset  
-- shuffle: 
+- shuffle: xáo trộn
 
 DataLoader là một [[Iterable]] mà sẽ trả về 2 [[Tensor]] mỗi lần duyệt qua, chính là X_batch và y_batch 
 
