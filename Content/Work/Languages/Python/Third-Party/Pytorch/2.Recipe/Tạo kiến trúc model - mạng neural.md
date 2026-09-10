@@ -7,14 +7,14 @@ class LinearRegressionModel():
     def __init__(self):
         super().__init__()
 
-        self.layer1 = nn.Linear(2, 2)
+        self.layer1 = nn.Linear(n, 2)
         self.layer2 = nn.Linear(2, 1)
         
     def forward(self): 
     ​	X = layer1(X)
         X = torch.relu(X)
         X = layer2(X)
-    ​	return self.weights * x + self.bias
-
-
+    ​	return X 
 ```
+
+lưu ý: n phải bằng với [[Features (Đặc Trưng)]] của mỗi mẫu dữ liệu 
