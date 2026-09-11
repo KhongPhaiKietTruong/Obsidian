@@ -1,0 +1,1 @@
+sau khi dữ liệu đã đi qua [[Application Layer]], thì nó sẽ với 
