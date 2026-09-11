@@ -8,5 +8,7 @@ cấu tạo mỗi dòng của routing table gồm:
 - interface: card mạng mà ta sẽ sử dụng 
 - metric: độ ưu tiên route
 
+lí do mà một vài địa chỉ muốn gửi đến có specific route là vì không phải đường đi nào cũng có thể gửi đến đích mà phải có đường đi đúng mới được 
+
 tham khảo thêm ở ([[ip route]])
 có thể xem routing table trên terminal bằng lệnh "ip route"
