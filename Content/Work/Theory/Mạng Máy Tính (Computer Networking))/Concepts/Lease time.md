@@ -1,0 +1,1 @@
+mà thời gian mà một thiết bị có thể dùng [[IP]] do [[DHCP]] cấp 
