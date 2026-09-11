@@ -1,0 +1,1 @@
+là một thiết bị hoặc địa chỉ mà máy tính gửi đến khi mà nó cần gửi data đến địa chỉ nằm ngoài mạng cục bộ 
