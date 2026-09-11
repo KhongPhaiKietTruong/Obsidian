@@ -4,3 +4,5 @@ gồm có 4 tầng chính:
 - Transport 
 - Internet 
 - Network access 
+
+khi dữ liệu đi qua từng tầng thì tầng đó lại thêm vào dữ liệu thông tin của chính tầng đó 
