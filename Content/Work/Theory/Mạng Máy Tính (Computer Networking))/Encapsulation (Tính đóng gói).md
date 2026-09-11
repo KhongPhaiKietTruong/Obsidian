@@ -1,0 +1,1 @@
+là quá trình mà khi dữ liệu đi qua từng tầng mạng trong [[TCP-IP Model]] thì tầng đó lại thêm vào dữ liệu thông tin của chính tầng đó vào dữ liệu 
