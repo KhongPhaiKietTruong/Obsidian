@@ -1,0 +1,1 @@
+là một [[Object (Đối tượng)]]

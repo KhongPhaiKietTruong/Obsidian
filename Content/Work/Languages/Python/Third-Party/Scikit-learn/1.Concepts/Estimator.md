@@ -1,1 +1,1 @@
-là một đối tượng có thể học hỏi từ dữ liệu ta truyền vào 
+là một đối [[Object (Đối tượng)]] có thể học hỏi từ dữ liệu ta truyền vào 
