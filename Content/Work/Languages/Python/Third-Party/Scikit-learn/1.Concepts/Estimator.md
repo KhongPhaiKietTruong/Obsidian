@@ -1,0 +1,1 @@
+là một đối tượng có thể học hỏi từ dữ liệu ta truyền vào 
