@@ -1,1 +1,1 @@
-là một [[Object (Đối tượng)]]
+là một [[Object (Đối tượng)]] có thể nhận vào 
