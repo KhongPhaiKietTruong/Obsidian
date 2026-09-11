@@ -1,1 +1,1 @@
-sau khi dữ liệu đã đi qua [[Application Layer]], thì nó sẽ với 
+sau khi dữ liệu đã đi qua [[Application Layer]], thì nó sẽ tới [[Transport Layer]], ở tầng này, dữ liệu từ lớp trên sẽ bị gắn thêm header của lớp này và nguyên cục dữ liệu đó được gọi là TCP segment 
