@@ -1,0 +1,1 @@
+dùng space để đi xuống và shift space để đi lên 
