@@ -1,0 +1,1 @@
+dùng để đánh giá [[Estimator]] sau khi nó đã học từ dữ liệu 
