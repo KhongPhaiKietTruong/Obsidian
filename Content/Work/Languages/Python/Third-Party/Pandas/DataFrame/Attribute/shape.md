@@ -1,0 +1,1 @@
+trả về một [[Tuple]] gồm 2 giá trị và số hàng và số cột của [[DataFrame]] 
