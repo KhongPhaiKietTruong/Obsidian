@@ -1,0 +1,1 @@
+dùng để dự đoán giá trị dựa trên mối quan hệ tuyến tính của dữ liệu 
