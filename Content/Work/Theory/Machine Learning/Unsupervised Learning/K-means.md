@@ -1,11 +1,14 @@
 chọn ngẫu nhiên vị trí của k điểm tâm cụm bằng cách chọn ngẫu nhiên k mẫu (nghĩa là lấy mẫu làm tâm cụm)
 
+
 duyệt qua từng mẫu và gán mẫu đo vào cụm của tâm cụm nào gần nó nhất
 xong lấy trung bình cộng các điểm của trọng cụm của từng tâm cụm xong di chuyển tâm cụm sang vị trí đó 
 lặp lại từ đầu 
 
 nếu một cụm mà không có mẫu nào thì bỏ tâm cụm đó 
-
+$$
+J = \frac{1}{m} \sum_{i=1}^{m} \left\| x^{(i)} - \mu_{c^{(i)}} \right\|^2
+$$
 có k cluster 
 $c^{(i)}$ là một con số (1...K) thể hiện cluster mà mẫu thứ i thuộc về 
 $\mu_{k}$ là tọa độ tâm cụm của cụm thứ k 
