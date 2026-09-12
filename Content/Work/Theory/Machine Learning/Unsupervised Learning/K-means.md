@@ -11,3 +11,7 @@ $c^{(i)}$ là một con số (1...K) thể hiện cluster mà mẫu thứ i thu�
 $\mu_{k}$ là tọa độ tâm cụm của cụm thứ k 
 $\mu_{c^{(i)}}$ là tạo độ tâm cụm của cụm 
 
+cost function của K-means còn được gọi là distortion fucntion mà nó hoàn toàn có thể mắc kẹt ở cực tiểu cục bộ, hai cái dưới chính là cực tiểu cục bộ 
+giải pháp: chạy k-means nhiều lần và chọn cái mà có cost function nhỏ nhất 
+![[Pasted image 20260912222706.png]]
+
