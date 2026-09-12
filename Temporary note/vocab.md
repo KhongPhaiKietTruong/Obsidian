@@ -6,3 +6,4 @@ covariate
 X-agnostic (adj): không phụ thuộc vào x 
 ambit (n): phạm vi, giới hạn 
 variation (n): độ biến thiên 
+impute (v): ước lượng giá trị bị thiếu 
