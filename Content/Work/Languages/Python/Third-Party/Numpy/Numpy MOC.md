@@ -3,7 +3,7 @@
 ## 1. Thuộc tính của Mảng (Array Attributes)
 - [[Content/Work/Languages/Python/Third-Party/Numpy/Attribute/Shape |Shape]] - Kích thước/hình dạng của mảng (đối với ma trận 2D: chiều cao, chiều rộng)
 - [[ndim]] - Số chiều của mảng
-- [[size]] - Tổng số phần tử trong mảng
+- [[Content/Work/Languages/Python/Third-Party/Numpy/Attribute/size]] - Tổng số phần tử trong mảng
 - [[dtype]] - Kiểu dữ liệu của các phần tử
 - [[itemsize]] - Kích thước (byte) của mỗi phần tử
 - [[nbytes]] - Tổng kích thước (byte) của mảng
