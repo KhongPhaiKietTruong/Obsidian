@@ -1,0 +1,1 @@
+là kết hợp của [[Linear Regression (Hồi Quy Tuyến Tính)]], [[L1 Regularization]] và [[L2 Regularization - Weight Decay]] 
