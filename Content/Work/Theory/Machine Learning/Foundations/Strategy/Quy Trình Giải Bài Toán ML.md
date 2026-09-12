@@ -1,4 +1,5 @@
-Dataset
+Bước 1: Xác định bài toán (là học có giám sát hay không, hồi quy hay phân loại, ...)
+Bước 2: load Dataset
    ↓
 Explore data
    ↓
