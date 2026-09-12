@@ -8,3 +8,6 @@ ambit (n): phạm vi, giới hạn
 variation (n): độ biến thiên 
 impute (v): ước lượng giá trị bị thiếu 
 centroid (n): tâm cụm 
+
+optimum (n): điểm tối ưu
+optimum (adj): tối ưu
