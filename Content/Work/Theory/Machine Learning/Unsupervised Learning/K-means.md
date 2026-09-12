@@ -8,4 +8,4 @@ nếu một cụm mà không có mẫu nào thì bỏ tâm cụm đó
 có k cluster 
 $c^{(i)}$ là một con số (1...K) thể hiện cluster mà mẫu thứ i thuộc về 
 $\mu_{k}$ là tọa độ tâm cụm của cụm thứ k 
-c
+$\mu_{c^{(i)}}$ là tạo độ tâm cụm của cụm 
