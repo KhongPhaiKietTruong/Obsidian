@@ -1,0 +1,1 @@
+cũng khá giống với [[UMAP]], tuy nhiên, t-SNE không bảo quản khoảng cách giữa các cluster 
