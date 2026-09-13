@@ -17,7 +17,7 @@ Các khái niệm và phương pháp luận cơ bản trong Machine Learning:
   - [[Target variable - Ground Truth (Giá Trị Thực Tế)]]: Biến mục tiêu (nhãn) cần dự đoán.
   - [[Hypothesis (hàm dự đoán)]]: Giả thuyết/Mô hình toán học xấp xỉ hàm mục tiêu.
   - [[Predicted Value (Giá Trị Dự Đoán)]]: Giá trị dự đoán đầu ra của mô hình.
-  - [[The Error (Sai Số)]]: Sai số giữa giá trị dự đoán và thực tế.
+  - [[The Error (Độ Lệch)]]: Sai số giữa giá trị dự đoán và thực tế.
   - [[Generalization]]: Khả năng tổng quát hóa trên dữ liệu mới chưa từng thấy.
 
 ### 📈 Học có giám sát (Supervised Learning)
