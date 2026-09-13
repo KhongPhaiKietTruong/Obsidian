@@ -1,0 +1,1 @@
+là một loại ma trận dùng để đánh giá hiệu suất của một model trong bài toán [[class]]
