@@ -1,0 +1,1 @@
+là hiện tượng khi mà dữ liệu liên quan trực tiếp đến nhãn bị "rò rỉ" vào trong [[Training Set (Tập Huấn Luyện)]], khiến cho mô hình dễ bị [[Overfitting - High Variance]]
