@@ -12,4 +12,8 @@ vector đại diện cho xu hướng mua hàng của user là:
 $$
 \vec{v}=\frac{3a​+4b+5c}{3}
 $$
-xong timfwebservlet gọi đến api của hệ thống gợi ý để biết đem nào phẩm nào để hiện lên 
+xong tìm k vector có độ tương đồng với v, đó sẽ là k sản phẩm ta gợi ý cho user
+
+webservlet gọi đến api của hệ thống gợi ý để biết đem nào phẩm nào để hiện lên 
+
+chatbot ? 
