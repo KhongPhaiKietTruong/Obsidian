@@ -4,7 +4,7 @@ F_{i+1}(x) = F_i(x) + \eta h_{i+1}(x)
 $$
 với:
 - $F_{i}(x)$ là model hiện tại 
-- $F_{i+1}(x)$ là model sau khi thêm một cây 
+- $h_{{i+1}}(x)$ là c 
 - 
 tổng quát: 
 $$
