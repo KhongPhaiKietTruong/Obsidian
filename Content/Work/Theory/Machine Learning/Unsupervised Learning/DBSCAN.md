@@ -1,0 +1,1 @@
+cũng khá giống với [[K-means]] nhưng thay vì phân cụm bằng khoảng cách thì DBSCAN phân cụm bằng mật độ các mẫu trong một khu vực 
