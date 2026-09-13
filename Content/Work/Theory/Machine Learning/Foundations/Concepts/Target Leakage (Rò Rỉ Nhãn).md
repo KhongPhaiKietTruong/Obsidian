@@ -1,1 +1,1 @@
-là hiện tượng khi mà dữ liệu liên quan trực tiếp đến nhãn bị "rò rỉ" vào trong [[Training Set (Tập Huấn Luyện)]], khiến cho mô hình có hiệu suất rất cao trong 
+là hiện tượng khi mà dữ liệu liên quan trực tiếp đến nhãn bị "rò rỉ" vào trong [[Training Set (Tập Huấn Luyện)]], khiến cho mô hình có hiệu suất rất cao trong tập train, val, test nhưng khi dự đoán ngoài thực tế thì lại rất tệ 
