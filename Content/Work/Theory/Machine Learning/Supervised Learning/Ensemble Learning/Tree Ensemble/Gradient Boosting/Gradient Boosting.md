@@ -11,3 +11,4 @@ tổng quát:
 $$
 F_M(x) = F_0(x) + \eta h_1(x) + \eta h_2(x) + \cdots + \eta h_M(x)
 $$
+
