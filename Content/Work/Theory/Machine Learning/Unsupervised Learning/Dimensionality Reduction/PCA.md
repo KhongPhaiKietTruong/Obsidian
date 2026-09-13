@@ -1,4 +1,4 @@
-tham khảo PCA ở gốc độ đại số tuyến tính: [[PCA - Principal Component Analysis]] 
+tham khảo PCA ở gốc độ đại số tuyến tính: [[Content/Work/Theory/Machine Learning/MathForAI/Linear Algebra/PCA]] 
 
 là phương pháp dùng để giảm số chiều của dữ liệu (gộp các [[Features (Đặc Trưng)]] theo trọng số) lại nhưng vẫn cố gắng giữ lại tối đa thông tin 
 

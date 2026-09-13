@@ -51,7 +51,7 @@ Chào mừng bạn đến với Bản đồ nội dung (MOC) về **Toán học 
 - [[Eigenvalue]] & [[Eigenvector]]: Trị riêng và véc-tơ riêng của ma trận vuông.
 - [[Eigenbasis]]: Cơ sở gồm các véc-tơ riêng.
 - [[Covariance matrix (Ma Trận Hiệp Phương Sai)]]: Ma trận hiệp phương sai.
-- [[PCA - Principal Component Analysis]]: Phân tích thành phần chính (Principal Component Analysis) ứng dụng giảm chiều dữ liệu.
+- [[Content/Work/Theory/Machine Learning/MathForAI/Linear Algebra/PCA]]: Phân tích thành phần chính (Principal Component Analysis) ứng dụng giảm chiều dữ liệu.
 
 ---
 

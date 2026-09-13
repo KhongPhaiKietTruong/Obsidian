@@ -1,3 +1,4 @@
+viết tắt của: Principal Component Analysis
 giả sử ta có một tập dữ liệu 5 chiều, ta muốn giảm nó xuống còn n chiều (n<5) thì
 
 1. dựa trên dữ liệu, tìm [[Covariance matrix (Ma Trận Hiệp Phương Sai)]] 
