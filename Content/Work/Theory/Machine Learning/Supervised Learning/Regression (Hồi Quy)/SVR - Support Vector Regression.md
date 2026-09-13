@@ -1,1 +1,1 @@
-mục tiêu của SVR là 
+ý tưởng của SVR là chấp nhận những dự đoán trong khoảng s
