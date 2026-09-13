@@ -95,7 +95,7 @@ Xác suất giúp mô hình hóa sự không chắc chắn (uncertainty) trong d
   - [[Joint events (non-mutually exclusive)]]: Các biến cố không xung khắc.
 
 ### 📐 Định lý Bayes
-- [[Bayes's theorem]]: Định lý Bayes tính xác suất hậu nghiệm.
+- [[Bayes's theorem (Định Lý Bayes)]]: Định lý Bayes tính xác suất hậu nghiệm.
   - [[Prior]]: Xác suất tiên nghiệm (trước khi có dữ liệu mới).
   - [[Posterior]]: Xác suất hậu nghiệm (sau khi đã cập nhật dữ liệu mới).
   - [[Naive assumption]]: Giả định ngây thơ về tính độc lập của các đặc trưng (dùng trong Naive Bayes).
