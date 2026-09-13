@@ -1,1 +1,1 @@
-ý tưởng của SVR là chấp nhận những dự đoán trong khoảng s
+ý tưởng của SVR là chấp nhận những dự đoán trong khoảng sai số nhất định $v$
