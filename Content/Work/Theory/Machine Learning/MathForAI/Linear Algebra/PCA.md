@@ -1,6 +1,6 @@
 là viết tắt của principal component analysis
 
-là phương pháp dùng để giảm số chiều của dữ liệu nhưng vẫn cố gắng giữ lại tối đa thông tin 
+là phương pháp dùng để giảm số chiều của dữ liệu (gộp các [[Features (Đặc Trưng)]]) lại nhưng vẫn cố gắng giữ lại tối đa thông tin 
 
 giả sử ta có một tập dữ liệu 5 chiều, ta muốn giảm nó xuống còn n chiều (n<5) thì
 
