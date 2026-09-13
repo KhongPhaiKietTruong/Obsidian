@@ -1,7 +1,3 @@
-là viết tắt của principal component analysis
-
-là phương pháp dùng để giảm số chiều của dữ liệu (gộp các [[Features (Đặc Trưng)]] theo trọng số) lại nhưng vẫn cố gắng giữ lại tối đa thông tin 
-
 giả sử ta có một tập dữ liệu 5 chiều, ta muốn giảm nó xuống còn n chiều (n<5) thì
 
 1. dựa trên dữ liệu, tìm [[Covariance matrix (Ma Trận Hiệp Phương Sai)]] 
@@ -9,9 +5,3 @@ giả sử ta có một tập dữ liệu 5 chiều, ta muốn giảm nó xuốn
 3. chọn ra n eigenvalue có giá trị cao nhất (để bảo toàn được tối đa thông tin) và các eigenvector tương ứng 
 4. chiếu tập dữ liệu lên n eigenvector đó (lấy ma trận dữ liệu nhân cho ma trận gồm các vector riêng được chuẩn hóa)
 
-ví dụ gộp đặc trưng A và B lại thành C:
-$$
-C=w_{1}A+w_{2}​B
-$$
-
-mục đích chính của PCA để huấn luyện mô hình nhanh hơn, loại bớt các [[Features (Đặc Trưng)]] thừa
