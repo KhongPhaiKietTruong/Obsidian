@@ -1,1 +1,1 @@
-trong giai đoạn dự đoán một mẫu, batch norm sẽ không hoạt động giống như lúc train, thay vì sử dụng $$
+trong giai đoạn dự đoán, batch norm sẽ không hoạt động giống như lúc train, khi ta truyền vào một mini-batch, thay vì sử dụng $\mu \text{ và }\sigma^$ 
