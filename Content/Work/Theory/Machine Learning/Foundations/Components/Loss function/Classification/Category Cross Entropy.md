@@ -1,3 +1,5 @@
+tên khác: Cross-entropy 
+
 hàm loss này được dùng trong dạng bài phân loại nhiều nhãn 
 có công thức là: 
 $$
