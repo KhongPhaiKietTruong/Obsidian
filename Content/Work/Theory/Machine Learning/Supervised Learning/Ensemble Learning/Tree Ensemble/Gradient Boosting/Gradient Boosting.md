@@ -1,8 +1,11 @@
 là một phương pháp để xây dựng nên một model mạnh bằng cách kết hợp nhiều [[Weak Learner]] lại với nhau, với mỗi cây sau sẽ cố gắng sửa chữa lỗi của cây trước 
 $$
-F_i+1(x) = F_i(x) + \eta h_{i+1}(x) 
+F_{i+1}(x) = F_i(x) + \eta h_{i+1}(x) 
 $$
-với
+với:
+- $F_{i}(x)$ là model hiện tại 
+- $F_{i+1}(x)$ là model sau khi thêm một cây 
+- 
 tổng quát: 
 $$
 F_M(x) = F_0(x) + \eta h_1(x) + \eta h_2(x) + \cdots + \eta h_M(x)
