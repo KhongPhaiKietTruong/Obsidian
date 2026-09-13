@@ -1,0 +1,1 @@
+trong giai đoạn dự đoán một mẫu, batch norm sẽ không hoạt động giống như lúc train, thay vì sử dụng $$
