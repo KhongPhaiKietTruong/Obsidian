@@ -50,6 +50,7 @@
 	- [[Training Error]]
 	- [[Validation Error]]
 	- [[Weight (Trọng Số) w]]
+	- [[Weight Error (Sai Số Có Trọng Số)]]
 - **Normalization**
 	- [[Batch Norm At Test Time]]
 	- [[Batch Norm]]
