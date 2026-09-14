@@ -1,0 +1,40 @@
+%% Begin Waypoint %%
+- **Classification (Phân Loại)**
+	- **Evaluation**
+		- [[Confusion Matrix]]
+		- [[ROC curve]]
+	- **SVC - Support Vector Classification**
+		- **Concepts**
+			- [[Margin Boundary]]
+			- [[Support Vectors]]
+		- [[Kernel SVM - Kernel Support Vecotr Machine]]
+		- [[Linear SVM - Linear Support Vector Machine]]
+	- [[Decision Boundary (Ranh Giới Quyết Định)]]
+	- [[Logistic Regression (Hồi Quy Logistic)]]
+	- [[Multi-class Classification]]
+	- [[Multi-label Classification]]
+	- [[Softmax Regression (Hồi Quy Softmax)]]
+- **Ensemble Learning**
+	- **Concepts**
+		- [[Weak Learner]]
+	- **[[Decision Tree (Cây Quyết Định)]]**
+		- [[Decision Stump]]
+		- [[Entropy (Mức độ hỗn loạn)]]
+		- [[Information Gain]]
+		- [[One-hot encoding]]
+	- **[[Tree Ensemble]]**
+		- **[[Gradient Boosting]]**
+			- [[CatBoost]]
+			- [[LightGBM]]
+			- [[XGBoost]]
+		- [[Bagging - Sampling with replacement]]
+		- [[Random Forest]]
+- **[[Regression (Hồi Quy)]]**
+	- [[Elastic Net Regression]]
+	- [[Lasso Regression]]
+	- [[Linear Regression (Hồi Quy Tuyến Tính)]]
+	- [[Polynomial Regression (Hồi Quy Đa Thức)]]
+	- [[Ridge Regression]]
+	- [[SVR - Support Vector Regression]]
+
+%% End Waypoint %%

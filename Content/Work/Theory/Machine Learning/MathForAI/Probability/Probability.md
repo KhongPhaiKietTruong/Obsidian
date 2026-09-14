@@ -1,4 +1,48 @@
-dịch: xác suất
+%% Begin Waypoint %%
+- **Bayes theorem**
+	- [[Bayes's theorem (Định Lý Bayes)]]
+	- [[Event]]
+	- [[Naive assumption]]
+	- [[Posterior]]
+	- [[Prior]]
+- **Distribution**
+	- **[[Joint distribution]]**
+		- [[Conditional distribution]]
+		- [[Marginal distribution]]
+	- [[Binomial distribution]]
+	- [[Cumulative distribution function]]
+	- [[Normal distribution (Gaussian distribution)]]
+	- [[Uniform distribution (Phân Phối Đều)]]
+- **Measures**
+	- [[Binomial coefficient]]
+	- [[Correlation coefficient]]
+	- [[Covariance]]
+	- [[Expected value (Giá Trị Kỳ Vọng)]]
+	- [[Interquartile range]]
+	- [[Kurtosis]]
+	- [[Median value]]
+	- [[Mode value]]
+	- [[Quantile]]
+	- [[Skewness]]
+	- [[Standard deviation (Độ Lệch Chuẩn)]]
+	- [[Variance (Phương Sai)]]
+- **[[Random variable]]**
+	- [[Continuous random variable]]
+	- [[Discrete random variable]]
+- [[Complement of probability]]
+- [[Conditional probability (xác suất có điều kiện)]]
+- [[Disjoint events (mutually exclusive)]]
+- [[Experiment]]
+- [[Independent events]]
+- [[Joint events (non-mutually exclusive)]]
+- [[Moments of a distribution]]
+- [[Probability density function (PDF)]]
+- [[Probability mass function (PMF)]]
+- [[Product rule]]
+- [[Sample space]]
+- [[Standardization (Z-score normalization)]]
+- [[Sum of Gaussian]]
+- [[Sum of probabilities]]
+- [[Untitled]]
 
-xác suất của một biến cố A được tính bằng tỉ số của số khả năng xảy ra A với tổng số kết quả có thể xảy ra
-$$P(A) = \frac{n(A)}{n(\Omega)}$$
+%% End Waypoint %% 

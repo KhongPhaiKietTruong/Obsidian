@@ -1,0 +1,35 @@
+%% Begin Waypoint %%
+- **Theory**
+	- **Attribute**
+		- [[class]]
+		- [[id]]
+		- [[lang]]
+		- [[style]]
+	- **Normal tag**
+		- [[a]]
+		- [[br]]
+		- [[button]]
+		- [[div]]
+		- [[h]]
+		- [[head]]
+		- [[html]]
+		- [[iframe]]
+		- [[img]]
+		- [[Inline & Block tag]]
+		- [[input]]
+		- [[link]]
+		- [[meta]]
+		- [[p]]
+		- [[script]]
+		- [[title]]
+	- **Semantic tag**
+		- [[aside]]
+		- [[Favicon]]
+		- [[footer]]
+		- [[header]]
+		- [[nav]]
+		- [[section]]
+	- [[cách chạy file html]]
+	- [[comment]]
+
+%% End Waypoint %%
