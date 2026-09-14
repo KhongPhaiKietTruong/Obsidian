@@ -29,7 +29,6 @@
 - [[Test Set (Tập Kiểm Thử)]]
 - [[The Error (Độ Lệch)]]
 - [[Train-dev]]
-- [[Training Error]]
 - [[Training Set (Tập Huấn Luyện)]]
 - [[Transfer Learning (Học Chuyển Giao)]]
 - [[Underfitting - High Bias]]
