@@ -49,9 +49,8 @@
 	- [[Learning Rate (Tốc Độ Học)]]
 	- [[Regularization Coefficient (Hệ Số Chuẩn Hóa)]]
 	- [[Test Error]]
-	- [[Training Error]]
-	- [[Validation Error - Dev Error]] Dev Error]]
-	- [[Weight (Trọng Số) w]]
+	- [[Train Error]]
+[[Val Error - Dev Error]][[Weight (Trọng Số) w]]
 	- [[Weight Error (Sai Số Có Trọng Số)]]
 - **Normalization**
 	- [[Batch Norm At Test Time]]
