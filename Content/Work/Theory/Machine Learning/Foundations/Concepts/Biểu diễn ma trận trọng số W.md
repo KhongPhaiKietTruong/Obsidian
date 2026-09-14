@@ -29,3 +29,6 @@ $$
 $$
 vector trọng số w của mỗi mẫu sẽ biểu diễn theo cột, tuy nhiên, khi đưa vào ma trận, nó sẽ là các hàng 
 lưu ý: có thể hiểu nôm na rằng nỗi neural là một đặc trưng ẩn 
+
+
+![[Concepts]]
