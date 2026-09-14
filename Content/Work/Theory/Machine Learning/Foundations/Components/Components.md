@@ -1,0 +1,73 @@
+%% Begin Waypoint %%
+- **Activation function**
+	- [[Activation Function (Hàm Kích Hoạt)]]
+	- [[Cách chọn hàm kích hoạt]]
+	- [[Linear]]
+	- [[ReLU]]
+	- [[Sigmoid]]
+	- [[Softmax]]
+	- [[Tanh]]
+- **Batch**
+	- [[Batch Gradient Descent]]
+	- [[Cách chọn loại batch]]
+	- [[Mini-batch Gradient Descent]]
+	- [[SGD - Stochastic Graident Descent]]
+- **Cost function**
+	- [[Log Loss Cost Function - Binary Cross-Entropy Cost Function]]
+	- [[Mean Squared Error Cost Function (MSE)]]
+- **Layer**
+	- [[Convolutional Layer (Lớp Tích Chập)]]
+	- [[Linear - Dense - Fully Connected Layer]]
+- **Loss function**
+	- **Classification**
+		- [[Binary Cross-entropy Loss (Log loss)]]
+		- [[Category Cross Entropy]]
+	- **Regression**
+		- [[AE (Absolute Error)]]
+		- [[Huber Loss]]
+		- [[SE (Squared Error)]]
+- **Metrics**
+	- **Evaluation**
+		- **Classification**
+			- [[Accuracy (Độ Chính Xác Tổng Thể)]]
+			- [[F1 Score]]
+			- [[Precision (Độ chính xác)]]
+			- [[Precision-Recall Trade-Offs]]
+			- [[Recall (Độ Bao Phủ)]]
+		- **Regression**
+			- [[MAE Mean Absolute Error (Sai Số Tuyệt Đối Trung Bình)]]
+			- [[MSE Mean Squared Error (Sai Số Bình Phương Trung Bình)]]
+			- [[R2]]
+			- [[RMSE Root Mean Squared Error (Căn Trung Bình Bình Phương Sai Số)]]
+	- [[Baseline Error]]
+	- [[Bias]]
+	- [[Epoch]]
+	- [[Hyperpamater d - Degree Of Polynomial]]
+	- [[Iteration]]
+	- [[Learning Rate (Tốc Độ Học)]]
+	- [[Regularization Coefficient (Hệ Số Chuẩn Hóa)]]
+	- [[Test Error]]
+	- [[Training Error]]
+	- [[Validation Error]]
+	- [[Weight (Trọng Số) w]]
+- **Normalization**
+	- [[Batch Norm At Test Time]]
+	- [[Batch Norm]]
+	- [[Feature Normalizaion (Chuẩn Hóa Đặc Trưng)]]
+- **[[Optimizer]]**
+	- [[Adam]]
+	- [[AdamW]]
+	- [[Learning Rate Decay]]
+	- [[Momentum]]
+	- [[RMSProp]]
+- **Regularization**
+	- [[Data Augmentation (Tăng Cường Dữ Liệu)]]
+	- [[Dropout Regularization]]
+	- [[Early Stopping (Dừng Sớm)]]
+	- [[L1 Regularization]]
+	- [[L2 Regularization - Weight Decay]]
+	- [[Regularization (Chuẩn Hóa)]]
+- **Weight Initialization**
+	- [[He Initialization]]
+
+%% End Waypoint %%

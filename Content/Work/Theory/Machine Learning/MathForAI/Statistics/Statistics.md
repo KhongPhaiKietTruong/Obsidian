@@ -1,0 +1,43 @@
+%% Begin Waypoint %%
+- **Concept**
+	- [[Bias Correction]]
+	- [[EWA Windows]]
+	- [[Exponential Decay]]
+	- [[Exponentially Weighted Average (EWA)]]
+	- [[Population]]
+	- [[Sample]]
+- **Hypothesis Testing**
+	- **Student's T Distribution**
+		- [[Degree Of Freedom]]
+		- [[Student's t-distribution]]
+	- [[AB testing (Split testing)]]
+	- [[Alternative Hypothesis]]
+	- [[Critical Value]]
+	- [[Left-tailed Hypothesis]]
+	- [[Null Hypothesis]]
+	- [[P-value]]
+	- [[Power of the test]]
+	- [[Right-tailed Hypothesis]]
+	- [[Significance Level]]
+	- [[T-test]]
+	- [[Two-Sample T-test]]
+	- [[Two-tailed Hypothesis]]
+	- [[Type I Error (False Positive)]]
+	- [[Type II Error (False Negative)]]
+	- [[Type II Error Probability]]
+- **Measures**
+	- [[Population Standard Deviation]]
+	- [[Sample mean]]
+	- [[Sample proportion]]
+	- [[Sample Standard Deviation]]
+	- [[Sample Variance]]
+	- [[Standard Error (SE)]]
+	- [[T-score]]
+	- [[Z-score (standard score)]]
+- [[Central Limit Theorem (CLT)]]
+- [[Confidence Interval]]
+- [[MAP (Maximum A Posterior)]]
+- [[Margin Of Error (ME)]]
+- [[MLE (Maximum Likelihood Estimation)]]
+
+%% End Waypoint %%
