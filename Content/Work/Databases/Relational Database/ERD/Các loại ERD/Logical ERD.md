@@ -1,0 +1,1 @@
+nó là [[Conceptual ERD]] nhưng có thêm các thuộc tính, các [[Khóa chính]], [[Foreign Key (Khóa Ngoại)]] 
