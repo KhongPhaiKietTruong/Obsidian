@@ -5,7 +5,7 @@ là hiện tượng khi mô hình uốn éo quá mức để có thể khớp c�
 
 hiện tượng này còn được gọi là high variance bởi vì nếu như ta thay đổi một vài điểm dữ liệu trong tập huấn luyện thôi thì hình dạng đồ thị của model sẽ cho ra hoàn toàn khác (w và b có độ biến động cao)
 
-hiện tượng này còn thể nhận biết được thông qua tính [[Training Error]] và [[Validation Error]], nếu tranning error mà thấp nhưng validation error cao thì nghĩa là model đang bị overfitting (validation error cao hơn nhiều so với training error) (xem thêm [[Hyperpamater d - Degree Of Polynomial]]). 
+hiện tượng này còn thể nhận biết được thông qua tính [[Training Error]] và [[Validation Error - Dev Error]], nếu tranning error mà thấp nhưng validation error cao thì nghĩa là model đang bị overfitting (validation error cao hơn nhiều so với training error) (xem thêm [[Hyperpamater d - Degree Of Polynomial]]). 
 
 một cách khác để biết mô hình có overfitting không là ta dựa trên [[Baseline Error]], nếu khoảng cách giữa training error và baseline error là nhỏ (training error ~ baseline error) và validation error nằm cách xa training error thì mô hình đang bị overfit 
 

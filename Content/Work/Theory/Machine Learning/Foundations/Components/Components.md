@@ -50,7 +50,7 @@
 	- [[Regularization Coefficient (Hệ Số Chuẩn Hóa)]]
 	- [[Test Error]]
 	- [[Training Error]]
-	- [[Validation Error]]
+	- [[Validation Error - Dev Error]] Dev Error]]
 	- [[Weight (Trọng Số) w]]
 	- [[Weight Error (Sai Số Có Trọng Số)]]
 - **Normalization**

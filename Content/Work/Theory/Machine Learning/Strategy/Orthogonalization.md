@@ -3,7 +3,7 @@ ví dụ điển hình nhất là [[Early Stopping (Dừng Sớm)]], trong thự
 
 ví dụ khi model ta bị [[Underfitting - High Bias]] với:
 - [[Training Error]] 30%
-- [[Validation Error]] 34% 
+- [[Validation Error - Dev Error]] 34% 
 
 đầu tiên, ta sẽ cố điều chỉnh training error, phương pháp mà ta thực hiện để giải quyết vấn đề này sẽ là:
 - sử dụng mạng neural lớn hơn (nhiều lớp hơn)
