@@ -5,3 +5,4 @@ ví dụ:
 $$
 errro = 0.3FP+0.7FN
 $$
+(đây chỉ là công thức giả sử thôi, trong thực tế ta còn quan tâm đến vấn đề khác nữa chứ không chỉ là FN không (bản chất thì chỉ số Recall đã quan tâm đến FN rồi))
