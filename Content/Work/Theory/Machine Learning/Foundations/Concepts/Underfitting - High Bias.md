@@ -1,8 +1,9 @@
 dịch: chưa khớp, khớp dưới
 
-đây là hiện tượng không khớp với các điểm dữ liệu ở mức phù hợp, ví dụ như các điểm dữ liệu tuân theo một đường cong rõ ràng nhưng model lại chỉ kẻ ra một đường thẳng
+đây là hiện tượng đồ thị mà model vẽ ra không khớp với các điểm dữ liệu, ví dụ như các điểm dữ liệu tuân theo một đường cong rõ ràng nhưng model lại chỉ kẻ ra một đường thẳng
 
-hiện tượng này có thể được nhận biết thông qua tính [[Training Error]] và [[Validation Error - Dev Error]], khi training error cao và validation error cũng cao (hai đại lượng này xấp xỉ nhau) (xem thêm [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree Of Polynominal]])
+Cách nhận biết underfitting:
+- hiện tượng này có thể được nhận biết thông qua tính [[Training Error]] và [[Validation Error - Dev Error]], khi training error sấp xỉ validation error cũng cao (xem thêm [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree Of Polynominal]])
 
 một cách khác để biết mô hình có underfitting không là ta dựa trên [[Baseline Error]], nếu khoảng cách giữa training error và baseline error là lớn (training error > baseline error) thì nghĩa là mô hình ta đang bị underfitting 
 
