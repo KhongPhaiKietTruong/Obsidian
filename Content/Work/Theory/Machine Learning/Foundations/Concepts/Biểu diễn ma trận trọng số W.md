@@ -1,5 +1,5 @@
 
-khi ở dạng vector thì [[Weight (Trọng Số) w]] w được biểu diễn theo cột, khi biểu diễn theo ma trận thì biến các w cột thành w hàng và xếp lên nhau 
+khi ở dạng vector thì [[Weight (Trọng Số) w]] được biểu diễn theo **cột**, khi biểu diễn thành ma trận thì biến các w cột thành **hàng** và xếp lên nhau 
 $$
 W^{[l]} =
 \begin{bmatrix}
@@ -13,13 +13,16 @@ $$
 $$
 W^{[l]} \in \mathbb{R}^{n^{[l]} \times n^{[l-1]}}
 $$
-với l là layer hiện tại, n là số neuron ($n^{[l]}$ là neural tại layer hiện tại)
+với:
+- l là số thứ tự layer 
+- $n^{[l]}$ là số neural tại layer thứ l
 
-nói nôm na là số hàng của ma trận W sẽ là số neural của layer **hiện tại** và số cột của W là số neural của layer **trước**, nghĩa là hình dạng của ma trận w là 
+hiểu đơn giản là **số hàng** của ma trận W sẽ là **số neural của layer hiện tại** và **số cột** là **số neural của layer trước**, nghĩa là hình dạng của ma trận w là 
 $$
 (n^{(l)}, n^{(l-1)})
 $$
-trường hợp ma trận W của layer 1, ta biết rằng layer 0 chính là input ([[Features (Đặc Trưng)]]),  có thể hiểu nôm na hình dạng của W là
+
+trường hợp ma trận W của layer 1, ta biết rằng layer 0 chính là các input ([[Features (Đặc Trưng)]]) thì có thể hiểu hình dạng của W theo kiểu:
 $$
 (\text{số neural hiện tại},  \text{ số đặc trưng lớp trước (số đặc trưng)})
 $$
@@ -27,8 +30,9 @@ trường hợp input là hình ảnh thì ma trận W sẽ là:
 $$
 (\text{số neural hiện tại, W}\times H\times 3)
 $$
-vector trọng số w của mỗi mẫu sẽ biểu diễn theo cột, tuy nhiên, khi đưa vào ma trận, nó sẽ là các hàng 
-lưu ý: có thể hiểu nôm na rằng nỗi neural là một đặc trưng ẩn 
+
+> [!NOTE] lưu ý
+> có thể hiểu nôm na rằng nỗi neural là một đặc trưng ẩn 
 
 
-![[Concepts]]
+
