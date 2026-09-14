@@ -1,0 +1,1 @@
+là hiện tượng mà [[Training Set (Tập Huấn Luyện)]] và [[Test Set]] 

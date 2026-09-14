@@ -5,6 +5,8 @@
 - [[Biểu diễn ma trận trọng số W]]
 - [[Cost Function (Hàm Chi Phí)]]
 - [[Covariate Shift]]
+- [[Data Distribution (Phân Bố Dữ Liệu)]]
+- [[Data Mismatch]]
 - [[Error Analysis]]
 - [[Feature Engineering]]
 - [[Features (Đặc Trưng)]]

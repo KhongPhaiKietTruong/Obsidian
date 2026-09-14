@@ -1,0 +1,1 @@
+là tính chất của dữ liệu trong tập dữ liệu như đặc điểm của dữ liệu (ảnh mèo lông đen/sáng), tuần suất xuất hiện (80% là mèo đen, 20% là mèo sáng)
