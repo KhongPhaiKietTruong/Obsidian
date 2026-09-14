@@ -1,0 +1,1 @@
+là mức lỗi thấp nhất có thể đạt được về mặt lí thuyết trên một bài toán, dù mô hình tô
