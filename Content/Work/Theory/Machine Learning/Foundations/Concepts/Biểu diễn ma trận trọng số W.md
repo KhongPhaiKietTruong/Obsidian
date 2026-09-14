@@ -19,9 +19,13 @@ nói nôm na là số hàng của ma trận W sẽ là số neural của layer *
 $$
 (n^{(l)}, n^{(l-1)})
 $$
-trường hợp ma trận W của layer 1, ta biết rằng layer 0 chính là input ([[Features (Đặc Trưng)]]),  trường hợp input là hình ảnh thì còn có thể hiểu nôm na hình dạng của W là
+trường hợp ma trận W của layer 1, ta biết rằng layer 0 chính là input ([[Features (Đặc Trưng)]]),  có thể hiểu nôm na hình dạng của W là
 $$
 (\text{số neural hiện tại},  \text{ số đặc trưng lớp trước (số đặc trưng)})
+$$
+trường hợp input là hình ảnh thì ma trận W sẽ là:
+$$
+(\text{số neural hiện tại, W}\times H\times 3)
 $$
 vector trọng số w của mỗi mẫu sẽ biểu diễn theo cột, tuy nhiên, khi đưa vào ma trận, nó sẽ là các hàng 
 lưu ý: có thể hiểu nôm na rằng nỗi neural là một đặc trưng ẩn 
