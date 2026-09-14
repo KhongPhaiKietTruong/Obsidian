@@ -1,1 +1,0 @@
-trong các đại lượng để đánh giá một model, ta sẽ chọn ra các 
