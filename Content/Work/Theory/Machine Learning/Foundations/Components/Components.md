@@ -41,6 +41,7 @@
 			- [[RMSE Root Mean Squared Error (Căn Trung Bình Bình Phương Sai Số)]]
 	- [[Avoidable Bias]]
 	- [[Baseline Error]]
+	- [[Bayes's Error]]
 	- [[Bias]]
 	- [[Epoch]]
 	- [[Hyperpamater d - Degree Of Polynomial]]

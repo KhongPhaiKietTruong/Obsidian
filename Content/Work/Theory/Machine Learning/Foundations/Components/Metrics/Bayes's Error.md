@@ -1,0 +1,2 @@
+là một chỉ số giả thuyết cho rằng [[Training Error]] của bất cứ model nào cũng không thể nào thấp hơn qua chỉ số này này được 
+nó là độ lệch nhỏ nhất mà bất kì model nào có thể đạt được, nếu model đó có training error nhỏ hơn mốc này thì chỉ có thể là [[Overfitting - High Variance]]
