@@ -17,6 +17,7 @@
 - [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree Of Polynominal]]
 - [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree of Regularization]]
 - [[Neural]]
+- [[Optimization (Sự Tối Ưu Hóa)]]
 - [[Overfitting - High Variance]]
 - [[Penalty (Mức Phạt)]]
 - [[Pre-activation Value z]]
