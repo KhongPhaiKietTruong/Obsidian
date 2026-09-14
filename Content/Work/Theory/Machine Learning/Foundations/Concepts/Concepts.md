@@ -23,6 +23,7 @@
 - [[Overfitting - High Variance]]
 - [[Penalty (Mức Phạt)]]
 - [[Pre-activation Value z]]
+- [[Pre-training]]
 - [[Predicted Value (Giá Trị Dự Đoán)]]
 - [[Target Leakage (Rò Rỉ Nhãn)]]
 - [[Target variable - Ground Truth (Giá Trị Thực Tế)]]

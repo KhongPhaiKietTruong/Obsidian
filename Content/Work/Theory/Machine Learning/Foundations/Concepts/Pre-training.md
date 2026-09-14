@@ -1,0 +1,1 @@
+là quá trình huấn luyện model trên một tập dữ liệu lớn trước sau đó với thực hiện huấn luyện thêm trên tập dữ liệu liên quan đến bài toán của ta
