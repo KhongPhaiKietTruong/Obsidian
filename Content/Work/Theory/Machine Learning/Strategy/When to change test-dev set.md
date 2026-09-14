@@ -1,0 +1,1 @@
+khi mà cái dev-set không thể hiện được hiệu suất thực sự của model trong thực tế, ví dụ ta xây một model nhận diện mèo với ảnh sắc nét, trên test và dev test thì các metric rất ok, tới khi cho người dùng sử dụng và họ upload ảnh  mèo rất mờ, đó là khi ta nên thay đổi lại dev và test set 
