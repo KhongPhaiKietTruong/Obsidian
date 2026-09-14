@@ -1,4 +1,4 @@
-ví dụ ta có sơ đồ sau: ![[Pasted image 20260127142002.png]]
+ví dụ ta có sơ đồ sau: ![[Pasted image 20260914092610.png]]
 
 có thể dịch nó sang [[Min-max notation]] như sau
 NHANVIEN --(0, 1)-- QUANLI --(1, 1)-- PHONGBAN

@@ -33,9 +33,9 @@
 - [[Disjointness]]
 
 ## ✍️ Ký pháp vẽ (Notations)
-- [[Các cách vẽ/Chen notation|Chen notation]]
-- [[Các cách vẽ/Crow's foot notation|Crow's foot notation]]
-- [[Các cách vẽ/Min-max notation|Min-max notation]]
+- [[Chen notation|Chen notation]]
+- [[Crow's foot notation|Crow's foot notation]]
+- [[Min-max notation|Min-max notation]]
 
 ---
 Tag: #moc #erd #database
