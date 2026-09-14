@@ -1,0 +1,2 @@
+nếu ta làm một model phân loại mèo, tôi train model bằng ảnh mèo việt nam và đánh giá/điều chỉnh model với dev set cho kết quả tốt, nhưng test model trên test set là ảnh mèo ở châu âu thì điều này dẫn đến model sẽ cho ra kết quả tệ trong khi model thật sự tốt với mèo việt nam
+đó là lí do cả ba training set, dev set và test set nên có cùng distribution 
