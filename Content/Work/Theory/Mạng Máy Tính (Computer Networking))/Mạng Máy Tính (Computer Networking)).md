@@ -1,0 +1,38 @@
+%% Begin Waypoint %%
+- **Concepts**
+	- [[Encapsulation (Tính đóng gói)]]
+	- [[Gateway]]
+	- [[HTTP Respone & Request]]
+	- [[Interfaces]]
+	- [[Lease time]]
+	- [[Local Network (Mạng Cục Bộ)]]
+	- [[Network Packet]]
+	- [[Routing Table (Bảng Định Tuyến)]]
+- **Devices**
+	- [[Router]]
+- **Protocol**
+- **[[TCP-IP Model]]**
+	- **1.Applications Layer**
+		- **Concepts**
+			- [[Application Layer]]
+		- **Protocols**
+			- [[DHCP]]
+			- [[DNS]]
+			- [[HTTP-HTTPS]]
+	- **2.Transport Layer**
+		- **Concepts**
+			- [[Port]]
+			- [[TCP Segment]]
+			- [[Transport Layer]]
+		- **Protocols**
+			- [[TCP]]
+			- [[UDP]]
+	- **3. Internet Layer**
+		- **Concept**
+			- [[Subnet Mask]]
+		- **Protocol**
+			- [[IP]]
+			- [[IPv4]]
+	- **4.Network Access**
+
+%% End Waypoint %%
