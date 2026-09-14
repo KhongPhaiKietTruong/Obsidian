@@ -1,4 +1,4 @@
-là một ý tưởng để điều chỉnh một model sao cho, với mỗi các phương pháp ta sử dụng lên model đó thì nó tác động đến duy nhất một vấn
+là một ý tưởng để điều chỉnh một model sao cho, với mỗi các phương pháp ta sử dụng lên model đó thì nó tác động đến duy nhất một vấn đề 
 
 ví dụ khi model ta bị [[Underfitting - High Bias]] với:
 - [[Training Error]] 30%

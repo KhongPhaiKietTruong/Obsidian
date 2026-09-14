@@ -3,4 +3,4 @@ công thức là:
 $$
 W_{new} = W_{old} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon} - \alpha \lambda W_{old}
 $$
-
+phần ở giữa chính là adam, phần sau cùng là weight decay 
