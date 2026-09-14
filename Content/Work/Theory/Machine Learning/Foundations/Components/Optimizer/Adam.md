@@ -14,6 +14,7 @@ $$
 s_t = \beta_2 s_{t-1} + (1-\beta_2)g_t^2
 $$
 - s chính là thành phần của RMSProp 
+
 sau đó ta thực hiện [[Bias Correction]] cho v và s:
 $$
 \hat{v}_t = \frac{v_t}{1-\beta_1^t}
@@ -25,7 +26,7 @@ giá trị của $\beta_{1}$ thường là **0.9** và $\beta_{2}$ là **0.999**
 
 cuối cùng, ta thực hiện update:
 $$
-W_t = W_{t-1} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
+W_{new} = W_{old} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
 $$
 đây chính là công thức update của [[Weight (Trọng Số) w]] khi áp dụng cả momentum và RMSProp 
 
