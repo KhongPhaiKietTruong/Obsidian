@@ -39,6 +39,7 @@
 			- [[MSE Mean Squared Error (Sai Số Bình Phương Trung Bình)]]
 			- [[R2]]
 			- [[RMSE Root Mean Squared Error (Căn Trung Bình Bình Phương Sai Số)]]
+	- [[Avoidable Bias]]
 	- [[Baseline Error]]
 	- [[Bias]]
 	- [[Epoch]]
