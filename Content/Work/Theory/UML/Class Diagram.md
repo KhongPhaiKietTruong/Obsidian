@@ -1,0 +1,1 @@
+là thiết kế hệ thống mang hiên thướng OOP cho sản phẩm của mình 
