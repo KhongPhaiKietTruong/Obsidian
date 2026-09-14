@@ -1,1 +1,1 @@
-tập này được sinh ra khi [[Training Set (Tập Huấn Luyện)]] và [[Training Set (Tập Huấn Luyện)]] có [[Data Distribution (Phân Bố Dữ Liệu)]] khác nhau  
+tập này được sinh ra khi có hiện tượng [[Data Mismatch (Sự Không Khớp Dữ Liệu)]], 

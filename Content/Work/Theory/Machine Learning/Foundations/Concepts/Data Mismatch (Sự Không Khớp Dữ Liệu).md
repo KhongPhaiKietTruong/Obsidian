@@ -1,0 +1,1 @@
+là hiện tượng mà [[Training Set (Tập Huấn Luyện)]] và [[Test Set (Tập Kiểm Thử)]] có [[Data Distribution (Phân Bố Dữ Liệu)]] khác nhau 
