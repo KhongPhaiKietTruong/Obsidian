@@ -10,4 +10,5 @@
 - [ ] bayes' error
 - [ ] forbenius norm 
 - [ ] gray encoding 
-- [ ] 
+
+- [ ] một thuộc tính trong một table chứa giá trị là một list thì không vip phạm 1NF ? 
