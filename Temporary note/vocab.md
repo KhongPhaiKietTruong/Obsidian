@@ -1,5 +1,6 @@
 optimum (n): điểm tối ưu 
-surrogate (v): 
+surrogate (n): vật thay thế
+surrogate (adj): thay thế 
 stale (adj): cũ, lỗi thời 
 regime (n): trạng thái hoạt đọng 
 covariate
@@ -8,7 +9,6 @@ ambit (n): phạm vi, giới hạn
 variation (n): độ biến thiên 
 impute (v): ước lượng giá trị bị thiếu 
 centroid (n): tâm cụm 
-
 optimum (n): điểm tối ưu
 optimum (adj): tối ưu
 stump (n): gốc cây 
