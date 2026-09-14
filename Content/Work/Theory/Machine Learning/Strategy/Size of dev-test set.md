@@ -1,0 +1,1 @@
+dữ liệu càng nhiều thì tỉ lệ chia data cho training set cũng nên càng tăng 
