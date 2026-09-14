@@ -18,6 +18,7 @@
 - [[Loss function (Hàm Mất Mát)]]
 - [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree Of Polynominal]]
 - [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree of Regularization]]
+- [[Multi-task Learning (Học Đa Nhiệm)]]
 - [[Neural]]
 - [[Optimization (Sự Tối Ưu Hóa)]]
 - [[Overfitting - High Variance]]

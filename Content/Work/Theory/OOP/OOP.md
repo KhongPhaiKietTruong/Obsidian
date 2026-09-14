@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
 - **4 Pillars**
 	- [[Abstraction (Tính trừu tượng)]]
-	- [[Encapsulation (Tính đóng gói)]]
+	- [[Content/Work/Theory/OOP/4 Pillars/Encapsulation (Tính đóng gói)]]
 	- [[Inheritance (Tính kế thừa)]]
 	- [[Polymorphism (Tính đa hình)]]
 - **Access Modifier (Phạm vi truy cập)**
