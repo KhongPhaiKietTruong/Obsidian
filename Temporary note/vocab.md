@@ -12,3 +12,4 @@ centroid (n): tâm cụm
 optimum (n): điểm tối ưu
 optimum (adj): tối ưu
 stump (n): gốc cây 
+decouple (v): tách rời l
