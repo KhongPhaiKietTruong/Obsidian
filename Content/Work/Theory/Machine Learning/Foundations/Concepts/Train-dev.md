@@ -1,1 +1,2 @@
-tập này được sinh ra khi có hiện tượng [[Data Mismatch (Sự Không Khớp Dữ Liệu)]], 
+tập này được sinh ra khi có hiện tượng [[Data Mismatch (Sự Không Khớp Dữ Liệu)]]
+nó là một phần nhỏ được lấy ra từ [[Training Set (Tập Huấn Luyện)]] và nó không được sử dụng để training mà được sử dụng để xác định xem model có đang bị 
