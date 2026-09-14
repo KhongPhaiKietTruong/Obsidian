@@ -26,6 +26,7 @@
 - [[Target variable - Ground Truth (Giá Trị Thực Tế)]]
 - [[Test Set]]
 - [[The Error (Độ Lệch)]]
+- [[Train-dev]]
 - [[Training Set (Tập Huấn Luyện)]]
 - [[Transfer Learning (Học Chuyển Giao)]]
 - [[Underfitting - High Bias]]

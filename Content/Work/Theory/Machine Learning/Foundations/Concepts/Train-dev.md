@@ -1,0 +1,1 @@
+tập này được sinh ra khi [[Training Set (Tập Huấn Luyện)]] và [[Training Set (Tập Huấn Luyện)]] của ta khác distribution (có nguồn gốc khác nhau), 
