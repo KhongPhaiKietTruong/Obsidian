@@ -19,7 +19,7 @@ nói nôm na là số hàng của ma trận W sẽ là số neural của layer *
 $$
 (n^{(l)}, n^{(l-1)})
 $$
-ở trường hợp ma trận w của layer 1, ta biết rằng layer 0 chính là input ([[Features (Đặc Trưng)]]) còn có thể hiểu nôm na hình dạng của W là
+trường hợp ma trận W của layer 1, ta biết rằng layer 0 chính là input ([[Features (Đặc Trưng)]]),  trường hợp input là hình ảnh thì còn có thể hiểu nôm na hình dạng của W là
 $$
 (\text{số neural hiện tại},  \text{ số đặc trưng lớp trước (số đặc trưng)})
 $$
