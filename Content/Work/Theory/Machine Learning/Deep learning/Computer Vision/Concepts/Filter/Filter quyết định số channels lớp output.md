@@ -1,4 +1,4 @@
-số lượng [[Filter - Kernel|filter]] ở lớp **hiện tại** sẽ quyết định **số channel** của **ma trận output** của **lớp hiện tại**  
+số lượng [[Filter|filter]] ở lớp **hiện tại** sẽ quyết định **số channel** của **ma trận output** của **lớp hiện tại**  
 
 hiểu đơn giản là mỗi lần ta tính [[Convolve|tích chập]] lên ma trận gốc, nó sẽ cho ra **một** [[Feature Map]] có **số channel là 1**, vậy thì với **n filtler** thì ta có **n feature map** với **channel = 1** 
 
