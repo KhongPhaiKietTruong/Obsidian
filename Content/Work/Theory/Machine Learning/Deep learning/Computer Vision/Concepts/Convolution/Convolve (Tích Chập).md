@@ -8,7 +8,7 @@ Y(i,j) = \sum_m \sum_n X(i+m, j+n)K(m,n)
 $$
 kích thước của các ma trận trong phép tích chập:
 $$
-(n,n)\times(f,f)=\left( \frac{n+2p-f}{s} +1,\frac{n+2p-f}{s} +1 \right)
+(n,n)\times(f,f)=\left( \lfloor \frac{n+2p-f}{s} +1 \rfloor,\lfloor \frac{n+2p-f}{s} +1 \rfloor \right)
 $$
 với:
 - p: [[Padding Size]] 
