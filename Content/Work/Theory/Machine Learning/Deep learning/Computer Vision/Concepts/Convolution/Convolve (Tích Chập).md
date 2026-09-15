@@ -14,3 +14,5 @@ với:
 - p: [[Padding Size]] 
 - s: [[Stride (Bước Trượt)]] 
 ![[Pasted image 20260915135043.png]]
+
+> lưu ý: để thực hiện được phép tính tích chập thì số channels của filter và số channels của ma trận gốc sẽ phải bằng nhau 
