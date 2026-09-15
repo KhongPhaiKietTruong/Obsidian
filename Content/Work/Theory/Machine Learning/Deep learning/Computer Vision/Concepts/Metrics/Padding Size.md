@@ -1,0 +1,1 @@
+là độ dày của phần đệm (đơn vị là pixel)
