@@ -15,4 +15,4 @@ K =
 $$
 filter nảy dùng để phát hiện **cạnh dọc**
 
-cái ma trận K mang ý nghĩa là: "lấy tổng độ sáng của 3 pixels bên trái so sánh"
+cái ma trận K mang ý nghĩa là: "lấy tổng độ sáng của 3 pixels bên trái so sánh với tổng độ sáng 3 thằng bên trái"
