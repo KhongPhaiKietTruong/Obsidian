@@ -19,7 +19,7 @@
 	- [[Height]]
 	- [[Margin]]
 	- [[Opacity]]
-	- [[Padding]]
+	- [[Content/Work/Languages/Frontend/CSS/Theory/Padding]]
 	- [[Width]]
 
 %% End Waypoint %%
