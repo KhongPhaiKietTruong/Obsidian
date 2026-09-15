@@ -5,8 +5,8 @@ I = \begin{bmatrix}
 10 & 0 & -10 \\
 10 & 0 & -10 \\
 \end{bmatrix}
-\text{  }
-K
+\text{ và }
+K = 
 \begin{bmatrix}
 1 & 0 & -1 \\
 1 & 0 & -1 \\
@@ -15,4 +15,4 @@ K
 $$
 filter nảy dùng để phát hiện **cạnh dọc**
 
-bởi vì nó so sánh
+cái ma trận K mang ý nghĩa là: "lấy tổng độ sáng của 3 pixels bên trái so sánh"
