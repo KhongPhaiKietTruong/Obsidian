@@ -4,5 +4,5 @@ là đường viền mà ta sẽ thêm vào ảnh
 - các pixel nằm ở góc và cạnh không được sử dụng nhiều (nó chỉ được sử dụng 1 hoặc vài lần trong phép tích chập tại chính vị trí của nó, trong khi các pixel ở trung tâm thì lại được dùng rất nhiều)
 giả sử ta thêm một pad có độ dày là p=1 thì kích thước ma trận là:
 $$
-I 
+I \in R^{n\times x} \implies I\in R^{(n+2p)\times (n+2p)}
 $$
