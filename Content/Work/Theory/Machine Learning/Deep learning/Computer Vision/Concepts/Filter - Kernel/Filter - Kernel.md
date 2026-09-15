@@ -1,5 +1,7 @@
 %% Begin Waypoint %%
 - [[Bản chất của filter]]
-- [[Feature Map (Bản đồ đặc trưng)]]
+- [[Feature Map]]
+- [[Filter quyết định số channels lớp output]]
+- [[Kích thước filter]]
 
 %% End Waypoint %%
