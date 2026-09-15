@@ -8,6 +8,9 @@ Y(i,j) = \sum_m \sum_n X(i+m, j+n)K(m,n)
 $$
 kích thước của các ma trận trong phép tích chập:
 $$
-(n,n)\times(f,f)=(n-f+1, n-f+1)
+(n,n)\times(f,f)=\left( \frac{n+2p-f}{s} +1,\frac{n+2p-f}{s} +1 \right)
 $$
+với:
+- p: [[Padding Size]] 
+- s: [[Stride (Bước Trượt)]] 
 ![[Pasted image 20260915135043.png]]
