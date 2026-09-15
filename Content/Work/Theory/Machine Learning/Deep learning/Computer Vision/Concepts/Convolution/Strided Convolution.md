@@ -1,0 +1,1 @@
+là loại tích chập với [[Stride (Bước Trượt)]] lớn hơn 1 
