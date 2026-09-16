@@ -8,3 +8,4 @@ hop on (v): nhảy lên, tham gia vào
 terrain (n): địa hình, vùng đất 
 non-trivial (adj): không đơn giản 
 homage (n): sự kính trọng 
+invariance (n): tính bất biến 
