@@ -1,3 +1,4 @@
+kí hiệu: $p^{[l]}$ 
 là đường viền mà ta sẽ thêm vào ảnh
 để giải quyết hai vấn đề chính:
 - qua từng phép [[Convolve (Tích Chập)]], ảnh ngày càng trở nên nhỏ 
