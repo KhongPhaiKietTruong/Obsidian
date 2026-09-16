@@ -1,1 +1,0 @@
-là một thành phần cơ bản trong [[Neural Network (Mạng Neural)]]

@@ -1,4 +1,4 @@
-là [[Matrix (Ma Trận)]] chứa các giá trị output (tức giá trị của [[Activation Function (Hàm Kích Hoạt)]]) của các [[Neural]] trong một [[Layer (Lớp)]]với hình dạng 
+là [[Matrix (Ma Trận)]] chứa các giá trị output (tức giá trị của [[Activation Function (Hàm Kích Hoạt)]]) của các [[Neural]] trong một [[Layer]]với hình dạng 
 $$
 A^{(l)} \in R^{N^{(l)}\times M}
 $$
