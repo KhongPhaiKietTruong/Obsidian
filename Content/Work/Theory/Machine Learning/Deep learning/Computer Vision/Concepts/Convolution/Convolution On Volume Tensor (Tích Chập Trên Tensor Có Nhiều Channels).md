@@ -5,9 +5,12 @@ với $n_{c}$ channels thì khi tính tích chập, ta cũng tính ra được $
 Nếu input có **3 channels** và ta dùng **1 filter có 3 channels**, thì filter đó thực chất gồm 3 “lát”:
 $$K^{(1)}, K^{(2)}, K^{(3)}$$
 Tại một vị trí, ta tính:
-
-$$z_1 = X^{(1)} * K^{(1)} z2=X(2)∗K(2)z_2 = X^{(2)} * K^{(2)} z3=X(3)∗K(3)z_3 = X^{(3)} * K^{(3)}$$
-
+$$
+\begin{aligned}
+z_1 &= X^{(1)} * K^{(1)} \\
+z_2 &= X^{(2)} * K^{(2)} \\
+z_3 &= X^{(3)} * K^{(3)}
+\end{aligned}
+$$
 Mỗi phép trên cho ra **1 giá trị scalar**. Sau đó cộng lại:
-
-z=z1​+z2​+z3​+b
+$$z=z_1​+z_2​+z_3​+b$$
