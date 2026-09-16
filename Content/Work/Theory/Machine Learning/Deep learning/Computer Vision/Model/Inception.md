@@ -1,1 +1,1 @@
-Inception là một dạng kiến 
+Inception là một dạng kiến trúc model giải quyết vấn đề chọn 
