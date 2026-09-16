@@ -1,4 +1,4 @@
-tên khác: output tensor 
+tên khác: feature tensor 
 
 là [[Tensor]] mà được ghép từ nhiều ma trận [[Feature Map]] lại 
 

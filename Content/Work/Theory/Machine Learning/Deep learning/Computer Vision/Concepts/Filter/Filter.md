@@ -4,7 +4,7 @@ tên khác: kernel
 
 là một [[Matrix (Ma Trận)]] được dùng trong [[Convolve (Tích Chập)]] để nhận diện những pattern nhất định trong ảnh (như cạnh dọc, ngang, cong, ...) 
 
-ví dụ, filter xác định cạnh dọc sẽ có dạng:
+ví dụ, filter xác định cạnh dọc trong ảnh xám sẽ có dạng:
 $$
 K = 
 \begin{bmatrix}
@@ -18,5 +18,10 @@ trong thực tế, ta không định nghĩa sẵn các giá trị trong filter, 
 ## Kích Thước 
 
 kí hiệu: $f^{[l]}$ 
-số **channels** của **filter** ở **lớp hiện tại** phải bằng với **số lượng filter** của **lớp trước đó** (cũng tức là **số channels** của [[Feature Tensor Z]] của **lớp trước**)
+ở phần định nghĩa, ta cho ví dụ filter làm một ma trận 2 chiều vì ta xét trên ảnh xám, đối với ảnh tiêu chuẩn hiện nay, tức RGB (3 channels) thì filter sẽ cần có thêm channel nữa.
+**một** filter trong [[Neural Network (Mạng Neural)]] sẽ có kích thước:
+$$
+(f^{[l]}, f^{[l]}, n_{c}^{[l-1]})
+$$
+số **channels** của **filter** ở **lớp hiện tại** phải bằng với **số channels** của [[Output Tensor Z]] do lớp trước tạo ra (cũng chính là số [[Filter]] của lớp trước đó)
 
