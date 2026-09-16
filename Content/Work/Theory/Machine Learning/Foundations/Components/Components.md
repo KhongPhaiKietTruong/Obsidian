@@ -17,7 +17,7 @@
 	- [[Mean Squared Error Cost Function (MSE)]]
 - **Layer**
 	- [[Convolutional Layer (Lớp Tích Chập)]]
-	- [[Linear - Dense - Fully Connected Layer]]
+	- [[Fully Connected Layer]]
 - **Loss function**
 	- **Classification**
 		- [[Binary Cross-entropy Loss (Log loss)]]
