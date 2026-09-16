@@ -1,0 +1,1 @@
+là khái niệm chỉ chiều cao và rộng của [[Tensor]] 

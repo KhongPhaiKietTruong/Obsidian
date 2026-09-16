@@ -48,7 +48,7 @@
 	- [[Avoidable Bias]]
 	- [[Baseline Error]]
 	- [[Bayes's Error]]
-	- [[Bias]]
+	- [[Content/Work/Theory/Machine Learning/Foundations/Components/Metrics/Bias]]
 	- [[Epoch]]
 	- [[Hyperpamater d - Degree Of Polynomial]]
 	- [[Iteration]]

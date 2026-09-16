@@ -12,8 +12,9 @@ K =
 1 & 0 & -1
 \end{bmatrix}
 $$
-trong thực tế, ta không định nghĩa sẵn các giá trị trong filter, mà [[Neural Network (Mạng Neural)]] sẽ học các giá trị đó, từng phần tử trong filter cũng chính là [[Weight (Trọng Số)]] 
-
+cái ma trận K mang ý nghĩa là: "lấy tổng độ sáng của 3 pixels bên trái so sánh với tổng độ sáng 3 thằng bên trái", hiểu đơn giản hơn là "so sánh phần bên trái với phần bên phải"
+![[Pasted image 20260915141858.png|439]]
+cái ma trận K mang ý nghĩa là: "lấy tổng độ sáng của 3 pixels bên trái so sánh với tổng độ sáng 3 thằng bên trái", hiểu đơn giản hơn là "so sánh phần bên trái với phần bên phải"
 ## Kích Thước 
 
 kí hiệu: $f^{[l]}$ 
@@ -32,3 +33,13 @@ số lượng filter ở lớp **hiện tại** sẽ quyết định **số chan
 hiểu đơn giản là mỗi lần ta tính [[Convolve (Tích Chập)|tích chập]] lên ma trận gốc, nó sẽ cho ra **một** [[Feature Map]] có **số channel là 1**, vậy thì với **n filtler** thì ta có **n feature map** với **channel = 1** 
 
 **output tensor** của ta sẽ là **ghép của n feature map** đó lại, tức là, **feature tensor** matrix đó sẽ có **số channels là n** 
+## Hướng chuyển đổi 
+còn một vấn đề nữa là sự sáng và tối giữa biên
+nếu bên trái là sáng qua bên trái là tối thì kết quả trong feature map F sẽ là giá trị dương và nếu ngược lại thì sẽ là âm.
+giá trị là âm hay dương sẽ cho ta biết được hướng của sự chuyển đổi:
+- dương: sáng sang tối
+- âm: tối sang sáng 
+còn |F| cho ta biết cường độ của cái biên đó 
+
+> lưu ý là ta đang xét ở phát hiện cạnh dọc 
+

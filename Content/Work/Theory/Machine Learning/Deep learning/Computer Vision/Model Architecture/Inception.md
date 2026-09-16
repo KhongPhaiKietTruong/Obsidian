@@ -1,0 +1,4 @@
+Inception là một dạng kiến trúc model xử lí một output song song nhiều hướng khác nhau  (filter 3x3, filter 5x5, maxpool, ...)
+tuy nhiên việc tính song song như vậy khiến khối lượng công việc là cực kì nhiều, nên ta áp dụng [[Bottleneck Layer]] để giúp khối lượng tính toán mỗi hướng đi giảm xuống đáng kể
+
+sau khi ta tính ra được output của mỗi hướng đi, ta sẽ thực hiện ghép chúng nó lại trên chiều của channel (để ghép được thì các output phải có cùng [[Spatial Size]], tác là ta sẽ áp dụng [[Same Convolution]] và khi thực hiện [[Pooling Layer]] phải có thêm padding)![[Pasted image 20260916220436.png]]
