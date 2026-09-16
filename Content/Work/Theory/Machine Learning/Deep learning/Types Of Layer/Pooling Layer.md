@@ -11,5 +11,5 @@ các hypterparameter trong lớp pooling không được học bằng [[Gradient
 - [[Content/Work/Theory/Machine Learning/Deep learning/Computer Vision/Concepts/Metrics/Padding|Padding]] thường là 0
 - pooling type: max hay avg
 
-cách tính kích thước của [[Output Tensor Z]] sau một lớp pooling cũng tương tự như cách tính với filter (xem thêm trong [[Feature Map]])
+cách tính kích thước của [[Output Tensor Z]] sau một lớp pooling cũng tương tự như cách tính với filter (xem thêm trong [[Feature Map]]) và pool cũng tính trên từng channel độc lập giống filter 
 
