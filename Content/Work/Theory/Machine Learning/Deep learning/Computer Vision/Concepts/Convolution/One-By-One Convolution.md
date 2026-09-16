@@ -1,3 +1,5 @@
+tên khác: pointwise convolution 
+
 là hành động thực hiện [[Convolve (Tích Chập)]] lên một [[Tensor]] với [[Filter]] có kích thước 1x1x$n_{c}$ (tham khảo thêm [[Convolution On Volume Tensor (Tích Chập Trên Tensor Có Nhiều Channels)]])
 
 tác dụng của nó là để:
