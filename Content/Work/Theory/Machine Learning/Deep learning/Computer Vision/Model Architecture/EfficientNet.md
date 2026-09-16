@@ -1,0 +1,1 @@
+loại kiến trúc này giúp chúng ta có thể kiểm soát độ lớn/nhỏ của model bằng cách điều điều chỉnh các siêu tham số như độ sâu, độ rộng, ... của model 
