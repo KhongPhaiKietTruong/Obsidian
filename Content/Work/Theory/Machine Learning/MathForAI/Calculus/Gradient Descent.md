@@ -15,7 +15,7 @@ với trường hợp đồ thị có nhiều [[Local Minimum (Cực Tiểu Cụ
 ![[Pasted image 20260506203236.png|296]]
 
 # Công dụng trong ML
-gradient descent được áp dụng vào việc cập nhật các tham số của [[Neural Network (Mạng Neural)]] như [[Weight w]], [[Bias]], ... 
+gradient descent được áp dụng vào việc cập nhật các tham số của [[Neural Network (Mạng Neural)]] như [[Weight w]], [[Content/Work/Theory/Machine Learning/Foundations/Components/Metrics/Bias]], ... 
 với mỗi một batch thì ta thực hiện update tham số (xét trường hợp là w) như sau:
 $$
 \begin{align}

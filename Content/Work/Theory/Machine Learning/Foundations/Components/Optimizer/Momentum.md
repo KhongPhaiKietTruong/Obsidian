@@ -33,7 +33,7 @@ W_{t-1}
 -
 \alpha v_{dW}^{(t)}
 $$
-và cũng thực hiện tương tự với [[Bias]]
+và cũng thực hiện tương tự với [[Content/Work/Theory/Machine Learning/Foundations/Components/Metrics/Bias]]
 
 giá trị phổ biến của $\beta$ là 0.9 
 

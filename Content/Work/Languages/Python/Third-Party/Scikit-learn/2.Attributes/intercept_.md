@@ -1,1 +1,1 @@
-dùng để trả về [[Bias]] của model sau khi học xong 
+dùng để trả về [[Content/Work/Theory/Machine Learning/Foundations/Components/Metrics/Bias]] của model sau khi học xong 
