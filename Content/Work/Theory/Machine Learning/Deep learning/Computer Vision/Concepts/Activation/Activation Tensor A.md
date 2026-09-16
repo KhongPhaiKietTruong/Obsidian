@@ -9,3 +9,4 @@ $$
 $$
 (m, n_{h}, n_{w}, n_{c})
 $$
+với m là số mẫu trong một batch
