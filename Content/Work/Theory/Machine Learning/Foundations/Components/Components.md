@@ -54,8 +54,8 @@
 	- [[Iteration]]
 	- [[Learning Rate (Tốc Độ Học)]]
 	- [[Regularization Coefficient (Hệ Số Chuẩn Hóa)]]
-	- [[Weight (Trọng Số) w]]
 	- [[Weight Error (Sai Số Có Trọng Số)]]
+	- [[Weight w]]
 - **Normalization**
 	- [[Batch Norm At Test Time]]
 	- [[Batch Norm]]
