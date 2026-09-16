@@ -1,1 +1,4 @@
-được tạo bằng cách xếp chồng nhiều [[Activation Map]] lên, có kích thước giống hệt với [[Output Tensor Z]] 
+## Định nghĩa
+được tạo bằng cách xếp chồng nhiều [[Activation Map]] lên
+## Kích thước 
+activation tensor được ghép từ 
