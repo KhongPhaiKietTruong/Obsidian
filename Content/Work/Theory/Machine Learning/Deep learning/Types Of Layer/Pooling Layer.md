@@ -1,2 +1,2 @@
 ## Định nghĩa
-là một lớp
+là một lớp dùng để giảm kích
