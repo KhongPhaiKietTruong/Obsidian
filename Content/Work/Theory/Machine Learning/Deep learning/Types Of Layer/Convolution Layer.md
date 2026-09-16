@@ -1,0 +1,1 @@
+là loại layer dùng để lấy ra những đặc trưng trong ảnh bằng cách tính, 
