@@ -14,3 +14,5 @@ z_3 &= X^{(3)} * K^{(3)}
 $$
 Mỗi phép trên cho ra **1 giá trị scalar**. Sau đó cộng lại:
 $$z=z_1​+z_2​+z_3​+b$$
+> [!note]
+> khi thực hiện tích chập một filter có kích thước (n, n, n_c) lên tensor có kích thước (h, w, n_c) ta sẽ nhận được một [[Feature Map]] có kích thước (x, x, 1) (xem trong [[]])

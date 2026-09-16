@@ -2,4 +2,4 @@ chính là giá trị z nằm trong [[Neural]] trước khi được truyền qu
 có dạng:
 $$
 z = wx+b
-$$w
+$$
