@@ -10,4 +10,5 @@ $$
 với:
 - p: [[Padding Size]] 
 - s: [[Stride (Bước Trượt)]] 
-
+## Ý nghĩa
+có thể hiểu rằng, mỗi phần tử trong feature map chính là một "$w_{i}a_{i}$" trong phương trình mạng neural thường thấy 
