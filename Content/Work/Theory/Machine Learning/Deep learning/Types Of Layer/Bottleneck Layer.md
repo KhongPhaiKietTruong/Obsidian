@@ -1,0 +1,1 @@
+là loại layer áp dụng [[One-By-One Convolution]] để giảm chiều dữ liệu 
