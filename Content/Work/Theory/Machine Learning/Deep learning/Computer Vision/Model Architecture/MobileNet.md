@@ -1,1 +1,0 @@
-à là nếu ta có 3 filter thì tích chập bình thường cho ra 3 feature map được tính trên cả 3 channel đồng thời, còn depthwise cũng cho ra 3 feature map, nhưng mỗi feature map đó chỉ được tính trên một channel  
