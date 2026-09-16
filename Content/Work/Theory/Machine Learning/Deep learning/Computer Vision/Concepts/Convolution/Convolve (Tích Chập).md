@@ -5,8 +5,6 @@ là phép toán mà một ma trận được gọi là [[Filter]] sẽ "trượt
 công thức:
 $$
 Y(i,j) = \sum_m \sum_n X(i+m, j+n)K(m,n)
-$$
-
-![[Pasted image 20260915135043.png]]
+$$![[Pasted image 20260915135043.png]]
 
 > lưu ý: để thực hiện được phép tính tích chập thì số channels của filter và số channels của ma trận gốc sẽ phải bằng nhau 
