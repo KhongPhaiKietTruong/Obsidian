@@ -7,5 +7,5 @@ $$
 $$
 đối với trường hợp truyền theo batch thì activation tensor sẽ có kích thước:
 $$
-()
+(m, n_{h}, n_{w}, n_{c})
 $$
