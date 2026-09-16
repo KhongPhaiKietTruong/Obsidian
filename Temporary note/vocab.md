@@ -11,3 +11,4 @@ homage (n): sự kính trọng
 invariance (n): tính bất biến 
 spectrum 
 literature (n): tài liệu nghiên cứu 
+localization (n): sự xác định vị trí 
