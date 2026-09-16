@@ -1,0 +1,1 @@
+là ma trận output của việc truyền [[Feature Map]] vào một [[Activation Function (Hàm Kích Hoạt)]] (theo từng-phần-tử)
