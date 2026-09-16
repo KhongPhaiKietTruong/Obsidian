@@ -1,1 +1,1 @@
-trong CV, sau khi ta thực hiện [[Convolve]] thì sẽ cho ra một [[Feature Map]], ta sẽ thực hiện cộng feature map này với một
+trong CV, sau khi ta thực hiện [[Convolve (Tích Chập)]] thì sẽ cho ra một [[Feature Map]], ta sẽ thực hiện cộng feature map này với một [[Content/Work/Theory/Machine Learning/Foundations/Components/Metrics/Bias|Bias]]  

@@ -1,1 +1,1 @@
-là loại tích chập mà ta áp dụng [[Content/Work/Theory/Machine Learning/Deep learning/Computer Vision/Concepts/Padding|Padding]] có độ dày = 1 lên ma trận gốc xong ta thực hiện [[Convolve]], ta sẽ thu được [[Feature Map]] có kích thước giống ma trận gốc 
+là loại tích chập mà ta áp dụng [[Content/Work/Theory/Machine Learning/Deep learning/Computer Vision/Concepts/Padding|Padding]] có độ dày = 1 lên ma trận gốc xong ta thực hiện [[Convolve (Tích Chập)]], ta sẽ thu được [[Feature Map]] có kích thước giống ma trận gốc 
