@@ -5,6 +5,10 @@ target label:
 $$
 y = \begin{bmatrix}
 p_{c} \\
+b_{x} \\
+b_{y} \\
+b_{h} \\
+b_{w} \\
 
 \end{bmatrix}
 $$
