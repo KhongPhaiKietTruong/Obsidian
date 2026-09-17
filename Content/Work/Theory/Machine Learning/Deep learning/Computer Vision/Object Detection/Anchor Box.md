@@ -1,4 +1,4 @@
-Anchor Box dùng để giải quyết vấn đề trong một ô có đến 2 điểm trung tâm của hai vật thể
+Anchor Box dùng để giải quyết vấn đề trong một ô có đến nhiều điểm trung tâm của nhiều vật thể
 
 ta định nghĩa sẵn n cái anchor box, rồi xét trong cái ô đó, gán anchor box đó cho vật thể có [[IoU - Intersection over Union]] của nó với anchor box cao nhất, giả sử ta có 2 anchor box thì ma trận của mỗi ô sẽ như thế này:
 $$
