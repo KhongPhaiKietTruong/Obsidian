@@ -1,0 +1,1 @@
+là sự hiện thực so sánh / nhận diện một nhãn / người trong khi chỉ có một mẫu duy nhất 
