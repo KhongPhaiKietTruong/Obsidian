@@ -3,3 +3,5 @@ But I would consider **classic Neural Style Transfer less likely than tasks such
 
 mặt giả 
 face verification vs face recognition 
+
+![[Pasted image 20260917211043.png]]
