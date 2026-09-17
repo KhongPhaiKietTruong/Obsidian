@@ -12,3 +12,4 @@ invariance (n): tính bất biến
 spectrum 
 literature (n): tài liệu nghiên cứu 
 localization (n): sự xác định vị trí 
+localize (v): xác định vị trí 
