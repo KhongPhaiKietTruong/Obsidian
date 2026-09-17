@@ -1,0 +1,1 @@
+là loại mạng nhận vào 2 input và so sánh nó, xác định xem độ tương đồng của nó 
