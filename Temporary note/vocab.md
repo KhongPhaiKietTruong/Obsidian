@@ -16,3 +16,4 @@ localize (v): xác định vị trí
 landmark (n): điểm mốc 
 presumably (adv): có lẽ 
 coarse (adj): sơ bộ, không chi tiết 
+infeasibly (adv): không khả thi 
