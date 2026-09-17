@@ -4,3 +4,5 @@ với:
 - A là Anchor: ảnh mẫu
 - P là Positive: ảnh cùng nhãn với ảnh mẫu 
 - N là Negative: ảnh khác nhãn 
+
+nên chọn những "hard triplet" để mạng có thể học được nhiều
