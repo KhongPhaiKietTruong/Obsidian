@@ -19,3 +19,4 @@ coarse (adj): sơ bộ, không chi tiết
 infeasibly (adv): không khả thi 
 finer (adj): chi tiết hơn 
 aspect ratio (n): tỉ lệ khung hình 
+feedforward 
