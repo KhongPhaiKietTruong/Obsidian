@@ -21,3 +21,4 @@ finer (adj): chi tiết hơn
 aspect ratio (n): tỉ lệ khung hình 
 feedforward 
 encoding (n): dạng mã hóa 
+foray (n): sự thử sức 
