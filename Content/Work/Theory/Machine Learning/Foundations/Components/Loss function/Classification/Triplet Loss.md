@@ -6,3 +6,4 @@ với:
 - N là Negative: ảnh khác nhãn 
 
 nên chọn những "hard triplet" để mạng có thể học được nhiều
+![[Pasted image 20260917205648.png|547]]
