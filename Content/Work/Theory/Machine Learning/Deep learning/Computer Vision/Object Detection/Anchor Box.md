@@ -21,3 +21,4 @@ c_{1} \\
 c_{n}
 \end{bmatrix}
 $$
+bình thường thì kích thước của y là (h,w,8) nhưng nếu có n anchor thì kích thước của y sẽ là (h, w, n*8)
