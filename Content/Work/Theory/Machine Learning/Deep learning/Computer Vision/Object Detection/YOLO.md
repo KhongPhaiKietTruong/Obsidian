@@ -1,0 +1,1 @@
+kế thừa ý tưởng từ [[Convolutional Sliding Window]]
