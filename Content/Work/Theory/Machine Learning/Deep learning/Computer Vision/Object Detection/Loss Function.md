@@ -1,3 +1,4 @@
+ta có thể [[SE (Squared Error)]] cho mọi giá trị
 $$
 L(\hat{y},y)
 =
@@ -16,3 +17,5 @@ p_c
 \sum_{i=1}^{3}(\hat{c}_i-c_i)^2
 \right]
 $$
+hoặc dùng các loss khác nhau cho từng loại giá trị khác nhau:
+![[Pasted image 20260917135209.png|417]]
