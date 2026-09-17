@@ -7,3 +7,5 @@ mỗi ô trong ma trận đó trả lời câu hỏi rằng:
 "nếu tâm của object nằm trong ô này thì các tọa độ bounding box sẽ là gì"
 
 điểm cái tiến của YOLO so với convolution sliding window chính là mỗi ô trong ma trận của YOLO có chứa thêm tọa độ bouding box nữa 
+
+YOLO còn áp dụng thêm [[Anchor Box]] và [[NMS - Non-max Suppression]] 
