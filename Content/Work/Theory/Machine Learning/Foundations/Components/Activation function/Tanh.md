@@ -8,3 +8,4 @@ miền giá trị của tanh:
 $$
 -1 < tanh(z) < 1 
 $$
+hàm này có giá trị đầu ra tập trung xung quanh giá trị 0
