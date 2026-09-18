@@ -19,8 +19,8 @@ coarse (adj): sơ bộ, không chi tiết
 infeasibly (adv): không khả thi 
 finer (adj): chi tiết hơn 
 aspect ratio (n): tỉ lệ khung hình 
-feedforward l
+feedforward (adj): truyền thẳng 
 encoding (n): dạng mã hóa 
 foray (n): sự thử sức 
-unidirectional (adj): 
-bidirectional (adj): 
+unidirectional (adj): một chiều 
+bidirectional (adj): hai chiều 
