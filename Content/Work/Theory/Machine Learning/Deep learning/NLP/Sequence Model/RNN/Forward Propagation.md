@@ -1,7 +1,8 @@
 ![[Pasted image 20260918170710.png]]
 công thức [[Forward Propogation (Lan Truyền Xuôi)]] trong RNN là:
 $$
-\begin{align}
+\begin{align} \\
+&x^{(t)}=\hat{y}^{<t-1>} \\
 &a^{(t)}=g_{1}(W_{aa}a^{<t-1>}+W_{ax}x^{<t>}+b_{a}) \\
 &\hat{y}^{<t>}=g_{2}(W_{ya}a^{<t>}+b_{y})
 \end{align}
