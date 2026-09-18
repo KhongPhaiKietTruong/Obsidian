@@ -30,6 +30,7 @@ x^{\langle t \rangle}
 
 $$
 ![[Pasted image 20260919002558.png]]
+## Hàm Loss
 hàm loss được sử dụng trong RNN là [[Category Cross Entropy - Softmax Loss]] 
 có dạng là 
 $$
