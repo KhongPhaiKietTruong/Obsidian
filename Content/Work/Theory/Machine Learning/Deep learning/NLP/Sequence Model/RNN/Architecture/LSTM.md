@@ -4,3 +4,5 @@ là một biến thể của [[RNN unit]], cũng giúp giảm bớt vấn [[Vani
 - forget gate: kiểm soát lượng thông tin được giữ lại 
 - input gate: kiểm soát lượng thông tin mới sẽ đóng góp vào bao nhiêu
 - output gate: kiểm soát lượng thông tin cell state hiện tại xuất ra thành hidden state 
+
+LSTM thường là lựa chọn mặc định do tồn tại đã lâu và có sự linh hoạt cao
