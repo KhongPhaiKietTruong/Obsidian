@@ -1,0 +1,1 @@
+là bước tách cách từ và map nó vào vocabulary 
