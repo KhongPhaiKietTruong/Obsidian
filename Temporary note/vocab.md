@@ -31,3 +31,4 @@ subtleties (n): những chi tiết khó nhận ra
 encoder (n): bộ mã hóa
 decoder (n): bộ giải mã 
 sample (v): lấy ngẫu nhiên theo xác suất 
+tilde (n): dấu ngã 
