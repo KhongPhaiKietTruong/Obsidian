@@ -6,4 +6,6 @@ mỗi cái prediction sẽ bị ảnh hưởng bởi cả hướng, prediction $
 ![[Pasted image 20260919021703.png]]
 các cell trong kiến trúc này cũng có thể dùng [[GRU]], [[LSTM]], ... 
 
-Bidirectional RNN + LSTM là combo phổ biến sử dụng 
+Bidirectional RNN + LSTM là combo phổ biến sử dụng để giải quyết các vấn đề NLP 
+
+một 
