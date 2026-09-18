@@ -1,10 +1,35 @@
 ## Định Nghĩa 
 RNN là một model cho phép ta xử lí dữ liệu tuần tự như văn bản, giọng nói, ... một trong những đặc điểm quan trọng nhất của RNN là nó giữ được thông tin của những input ở trước 
 
-## Forward 
+## Forward Propagation
 ở mỗi timestamp có ý nghĩa là "biết được **tóm tắt thông tin** tất cả những từ **vị trí hiện tại đảo về trước** và **từ target của vị trí trước**, xác suất của tất cả các từ trong vocabulary có thể xuất hiện ở vị trí **tiếp theo** là gì"
 
 ở mỗi timestamp, thì ta truyền vào giá trị:  $x^{<t>}=y^{<t-1>}$ là [[Target Value]] tại timestamp trước, $a^{<t-1>}$ là tóm tắt thông tin của các timestamp trước (hidden state) từ đó ta tính được [[Pre-activation Value z]] của timestamp hiện tại 
+công thức [[Forward Propogation (Lan Truyền Xuôi)]] trong RNN là:
+$$
+\begin{align} \\
+&x^{(t)}=y^{<t-1>} \\
+&a^{(t)}=g_{1}(W_{aa}a^{<t-1>}+W_{ax}x^{<t>}+b_{a}) \\
+&\hat{y}^{<t>}=g_{2}(W_{ya}a^{<t>}+b_{y})
+\end{align}
+$$
+
+![[Pasted image 20260918170710.png]]
+một cách viết ngắn gọn hơn cho $a^{<t>}$:
+$$
+a^{(t)}=g_{1}(W_{a}[a^{<t-1>}+x^{<t>}]+b_{a})
+$$
+$W_{a}$ chính là ghép của hai ma trận $W_{aa}$ và $W_{aw}$ lại theo chiều dọc, còn phần trong ngoặc vuông là ghép hai [[Vector]] lại theo chiều dọc  
+$$
+\begin{align}
+&W_a = \begin{bmatrix} W_{aa} & W_{ax} \end{bmatrix} \\
+&[a^{<t-1>}+x^{<t>}]=\begin{bmatrix}
+a^{\langle t-1 \rangle} \\
+x^{\langle t \rangle}
+\end{bmatrix}
+\end{align}
+
+$$
 
 hàm loss được sử dụng trong RNN là [[Category Cross Entropy - Softmax Loss]] 
 có dạng là 
