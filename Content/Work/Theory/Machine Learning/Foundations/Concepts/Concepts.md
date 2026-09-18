@@ -26,7 +26,7 @@
 - [[Optimization (Sự Tối Ưu Hóa)]]
 - [[Overfitting - High Variance]]
 - [[Penalty (Mức Phạt)]]
-- [[Pre-activation Value z]]
+- [[Pre-activation Value]]
 - [[Pre-training]]
 - [[Predicted Value (Giá Trị Dự Đoán)]]
 - [[Target Leakage (Rò Rỉ Nhãn)]]
