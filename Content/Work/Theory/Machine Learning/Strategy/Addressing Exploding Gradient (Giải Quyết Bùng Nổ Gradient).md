@@ -1,0 +1,1 @@
+dùng gradient clipping 
