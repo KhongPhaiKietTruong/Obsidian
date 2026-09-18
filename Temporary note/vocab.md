@@ -9,7 +9,7 @@ terrain (n): địa hình, vùng đất
 non-trivial (adj): không đơn giản 
 homage (n): sự kính trọng 
 invariance (n): tính bất biến 
-spectrum (n): 
+spectrum (n): dải, phạm vi 
 literature (n): tài liệu nghiên cứu 
 localization (n): sự xác định vị trí 
 localize (v): xác định vị trí 
