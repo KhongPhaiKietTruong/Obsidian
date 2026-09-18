@@ -30,7 +30,7 @@
 - [[Pre-training]]
 - [[Predicted Value (Giá Trị Dự Đoán)]]
 - [[Target Leakage (Rò Rỉ Nhãn)]]
-- [[Target variable - Ground Truth (Giá Trị Thực Tế)]]
+- [[Target Value]]
 - [[Test Set (Tập Kiểm Thử)]]
 - [[The Error (Độ Lệch)]]
 - [[Train-dev]]
