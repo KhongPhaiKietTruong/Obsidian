@@ -3,3 +3,8 @@ mỗi ô có ỹ nghĩa là "biết được thông tin tất cả những từ 
 ở mỗi vị trí, thì ta truyền vào giá trị $y^{<t-1>}$ là [[Target Value]] tại vị trí nằm trước vị trí hiện tại, $a^{<t-1>}$ là tóm tắt thông tin của các timestamp trước từ đó ta tính được [[Pre-activation Value z]] của vị trí hiện tại 
 
 hàm loss được sử dụng trong RNN là [[Category Cross Entropy - Softmax Loss]] 
+có dạng là 
+$$
+L(y^{<t>}, \hat{y}^{<t>})=-\sum_{i=1}^{C} y_{i}^{<t>}\log(y_{i}^{<t>})
+$$
+với $y^{<t>}$ và $\hat{y}^{<t>}$ là các vector 
