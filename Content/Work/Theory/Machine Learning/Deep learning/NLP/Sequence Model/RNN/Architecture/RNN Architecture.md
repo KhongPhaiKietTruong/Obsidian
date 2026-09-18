@@ -5,16 +5,15 @@ RNN là một model cho phép ta xử lí dữ liệu tuần tự như văn bả
 ở mỗi timestamp có ý nghĩa là "biết được **tóm tắt thông tin** tất cả những từ **vị trí hiện tại đảo về trước** và **từ target của vị trí trước**, xác suất của tất cả các từ trong vocabulary có thể xuất hiện ở vị trí **tiếp theo** là gì"
 
 ở mỗi timestamp, thì ta truyền vào giá trị:  $x^{<t>}=y^{<t-1>}$ là [[Target Value]] tại timestamp trước, $a^{<t-1>}$ là tóm tắt thông tin của các timestamp trước (hidden state) từ đó ta tính được [[Pre-activation Value z]] của timestamp hiện tại 
+
 công thức [[Forward Propogation (Lan Truyền Xuôi)]] trong RNN là:
 $$
-\begin{align} \\
+\begin{align} 
 &x^{(t)}=y^{<t-1>} \\
 &a^{(t)}=g_{1}(W_{aa}a^{<t-1>}+W_{ax}x^{<t>}+b_{a}) \\
 &\hat{y}^{<t>}=g_{2}(W_{ya}a^{<t>}+b_{y})
 \end{align}
 $$
-
-![[Pasted image 20260918170710.png]]
 một cách viết ngắn gọn hơn cho $a^{<t>}$:
 $$
 a^{(t)}=g_{1}(W_{a}[a^{<t-1>}+x^{<t>}]+b_{a})
@@ -30,7 +29,7 @@ x^{\langle t \rangle}
 \end{align}
 
 $$
-
+![[Pasted image 20260919002558.png]]
 hàm loss được sử dụng trong RNN là [[Category Cross Entropy - Softmax Loss]] 
 có dạng là 
 $$
