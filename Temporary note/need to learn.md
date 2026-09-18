@@ -5,7 +5,7 @@
 - [x] response, request ? 
 - [ ] private ip vs public ip 
 - [x] back propagation
-- [ ] leakt relu vs relu 
+- [ ] leaky relu vs relu 
 - [ ] activation tanh 
 - [ ] bayes' error
 - [ ] forbenius norm 
