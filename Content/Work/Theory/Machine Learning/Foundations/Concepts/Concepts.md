@@ -38,6 +38,6 @@
 - [[Transfer Learning (Học Chuyển Giao)]]
 - [[Underfitting - High Bias]]
 - [[Validation Set - Dev Set]]
-- [[Vanishing-Exploding Gradient (Tiêu Biến Gradient)]]
+- [[Vanishing Gradient (Tiêu Biến Gradient)]]
 
 %% End Waypoint %%

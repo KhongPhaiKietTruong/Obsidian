@@ -10,5 +10,3 @@ ví dụ: 0.2×0.2×0.2×0.2×0.2=0.00032
 và khi càng nhiều lớp hơn nữa thì giá trị càng càng nhỏ hơn nữa và gần như bằng 0 
 
 do đó [[Gradient]] sẽ cực kì nhỏ 
-
-còn đối với bùng nổ gradient, đây chính là đối lập của tiêu biến gradient khi nhiều số > 1 nhân lại với nhau khiến giá trị ngày càng phình to
