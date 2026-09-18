@@ -1,0 +1,1 @@
+![[Pasted image 20260918170710.png]]dạng này cho ra  $T_{x}=T_{y}$ 
