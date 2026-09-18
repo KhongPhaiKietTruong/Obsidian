@@ -1,4 +1,4 @@
-là một bộ từ vựng mà ta sẽ định nghĩa, có thể là 10k từ, 30k, ... từ phổ biến trong tiếng anh (hoặc ngôn ngữ nào đó), đóng vai trò để cho các từ lấy ra từ [[Training Set (Tập Huấn Luyện)]] map vào đây 
+là một bộ từ vựng mà ta sẽ định nghĩa, có thể là 10k từ, 30k, ... từ phổ biến trong tiếng anh (hoặc ngôn ngữ nào đó), đóng vai trò để cho các từ lấy ra (tokens) từ [[Training Set (Tập Huấn Luyện)]] map vào đây 
 ví dụ:
 $$
 vocab=\begin{bmatrix}
