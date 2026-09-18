@@ -20,7 +20,7 @@
 	- [[Fully Connected Layer]]
 - **Loss function**
 	- **Classification**
-		- [[Binary Cross-entropy Loss (Log loss)]]
+		- [[Binary Cross-entropy Loss]]
 		- [[Category Cross Entropy]]
 	- **Regression**
 		- [[AE (Absolute Error)]]

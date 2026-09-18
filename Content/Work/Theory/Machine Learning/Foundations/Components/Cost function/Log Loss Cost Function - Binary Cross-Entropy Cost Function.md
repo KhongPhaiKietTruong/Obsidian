@@ -3,7 +3,7 @@ tên khác: Binary Cross-Entropy Cost Function
 
 [[Cost Function (Hàm Chi Phí)]] có dạng như sau: 
 $$J(\vec{w},b) = \frac{1}{m} \sum_{i=1}^{m} L\left(f_{\vec{w},b}(\vec{x}^{(i)}), y^{(i)}\right)$$
-với [[Loss function (Hàm Mất Mát)]] là [[Binary Cross-entropy Loss (Log loss)]]
+với [[Loss function (Hàm Mất Mát)]] là [[Binary Cross-entropy Loss]]
 
 hàm này được sử dụng cho bài toán [[Classification]] 
 
