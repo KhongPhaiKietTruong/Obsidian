@@ -1,6 +1,6 @@
-mỗi ô có ỹ nghĩa là "biết được thông tin tất cả những từ ở **vị trí hiện tại** đảo về trước, xác suất của tất cả các từ trong vocabulary có thể xuất hiện ở vị trí **tiếp theo** là gì"
+ở mỗi timestamp có ý nghĩa là "biết được **tóm tắt thông tin** tất cả những từ **vị trí hiện tại đảo về trước** và **từ target của vị trí trước**, xác suất của tất cả các từ trong vocabulary có thể xuất hiện ở vị trí **tiếp theo** là gì"
 
-ở mỗi timestamp, thì ta truyền vào giá trị  $x^{<t>}=y^{<t-1>}$ là [[Target Value]] tại timestamp trước, $a^{<t-1>}$ là tóm tắt thông tin của các timestamp trước (hidden state) từ đó ta tính được [[Pre-activation Value z]] của timestamp hiện tại 
+ở mỗi timestamp, thì ta truyền vào giá trị:  $x^{<t>}=y^{<t-1>}$ là [[Target Value]] tại timestamp trước, $a^{<t-1>}$ là tóm tắt thông tin của các timestamp trước (hidden state) từ đó ta tính được [[Pre-activation Value z]] của timestamp hiện tại 
 
 hàm loss được sử dụng trong RNN là [[Category Cross Entropy - Softmax Loss]] 
 có dạng là 
