@@ -1,0 +1,1 @@
+nhược điểm RNN là nó không nhận được các tham số từ các phần tử đứng sau mà chỉ nhận được từ các từ đến trước 
