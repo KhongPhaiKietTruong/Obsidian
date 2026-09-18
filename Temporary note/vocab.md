@@ -27,3 +27,5 @@ bidirectional (adj): hai chiều
 
 vanilla (adj): cơ bản, nguyên bản 
 bounded (adj): bị giới hạn 
+encoder (n): bộ mã hóa
+decoder (n): bộ giải mã 
