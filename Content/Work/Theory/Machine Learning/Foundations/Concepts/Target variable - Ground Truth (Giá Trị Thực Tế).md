@@ -1,3 +1,4 @@
+
 dịch: biến mục tiêu, giá trị thực tế
 tên khác: label
 kí hiệu: y
