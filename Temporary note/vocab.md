@@ -24,3 +24,6 @@ encoding (n): dạng mã hóa
 foray (n): sự thử sức 
 unidirectional (adj): một chiều 
 bidirectional (adj): hai chiều 
+
+vanilla (adj): cơ bản, nguyên bản 
+bounded (adj): bị giới hạn 
