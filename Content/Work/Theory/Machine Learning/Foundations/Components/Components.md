@@ -21,7 +21,7 @@
 - **Loss function**
 	- **Classification**
 		- [[Binary Cross-entropy Loss]]
-		- [[Category Cross Entropy]]
+		- [[Category Cross Entropy - Softmax Loss]]
 	- **Regression**
 		- [[AE (Absolute Error)]]
 		- [[Huber Loss]]
