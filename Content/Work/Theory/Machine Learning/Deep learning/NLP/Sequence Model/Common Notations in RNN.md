@@ -8,4 +8,5 @@ $T_{y}^{(i)}$: số lượng phần tử của  mẫu sequence thứ i
 $x^{<i>}$ : phần tử thứ i trong mẫu sequence (khá giống $X^{(i)<t>}$) 
 $W_{aa}$: là ma trận trọng số sẽ nhân với a
 $W_{ax}$ : là ma trận trọng số sẽ nhân với x
+$W_{ya}$ : là ma trận trọng số sẽ nhân với a nằm ở lớp output (thường viết tắt là $W_{y}$ thôi)
 
