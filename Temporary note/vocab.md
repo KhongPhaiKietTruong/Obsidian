@@ -23,4 +23,4 @@ feedforward
 encoding (n): dạng mã hóa 
 foray (n): sự thử sức 
 unidirectional (adj): 
-bidirectional (adj): 
+bidirectional (adj): $W_{aa}$
