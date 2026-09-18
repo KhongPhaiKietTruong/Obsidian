@@ -6,4 +6,4 @@ giúp giảm bớt vấn đề [[Vanishing Gradient (Tiêu Biến Gradient)]] b�
 - reset gate $r_{t}$: quyết định xem bao nhiêu phần thông cũ sẽ được sử dụng để tính giá trị mới 
 reset gate này được dùng để tính phần đề xuất (candidate), update gate giúp trộn phần đề xuất đó với thông tin cũ 
 ![[Pasted image 20260919013956.png]]
-phần này mới ghi sự hiểu của mỗi thành phần thôi chứ chưa học rõ công thức, cần tìm hiểu thêm kh 
+phần này mới ghi sự hiểu của mỗi thành phần thôi chứ chưa học rõ công thức, cần tìm hiểu thêm khi có thời gian (course 5 week 1)
