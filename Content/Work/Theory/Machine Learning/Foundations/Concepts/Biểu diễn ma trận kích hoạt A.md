@@ -4,6 +4,6 @@ A^{(l)} \in R^{N^{(l)}\times M}
 $$
 với:
 - N là số lượng neural ở lớp hiện tại
-- M là số lượng mẫu trong [[Training Set (Tập Huấn Luyện)]] 
+- M là số lượng mẫu trong [[Training Set]] 
 
 

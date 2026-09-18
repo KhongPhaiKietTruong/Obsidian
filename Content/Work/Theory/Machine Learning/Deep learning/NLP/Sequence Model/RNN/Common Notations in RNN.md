@@ -1,5 +1,5 @@
 
-$X^{(i)}$: mẫu sequence thứ **i** trong [[Training Set (Tập Huấn Luyện)]]
+$X^{(i)}$: mẫu sequence thứ **i** trong [[Training Set]]
 $X^{(i)<t>}$: phần tử thứ **t** trong mẫu sequence thứ **i** 
 $y^{(j)}$: đáp án của mẫu sequence thứ **j** 
 $X^{(i)<t>}$: đáp án phần tử thứ **t** trong mẫu sequence thứ **j** 

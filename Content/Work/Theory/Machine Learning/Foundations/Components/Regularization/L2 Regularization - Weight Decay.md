@@ -4,7 +4,7 @@ $$
 $$
 với:
 - $\lambda$ là [[Regularization Coefficient (Hệ Số Chuẩn Hóa)]] (khá giống với [[Learning Rate (Tốc Độ Học)]])
-- m là số lượng mẫu trong [[Training Set (Tập Huấn Luyện)]] 
+- m là số lượng mẫu trong [[Training Set]] 
 
 sau khi thêm thành phần phạt vào hàm [[Cost Function (Hàm Chi Phí)]] rồi thì khi thực hiện update [[Weight (Trọng Số)]] bằng [[Gradient Descent]] cũng sẽ khiến việc update đó thay đổi
 trước khi thêm regularization:

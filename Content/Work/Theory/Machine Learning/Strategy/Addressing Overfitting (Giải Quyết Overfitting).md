@@ -1,3 +1,3 @@
-- tăng kích thước [[Training Set (Tập Huấn Luyện)]]
+- tăng kích thước [[Training Set]]
 - khi tập huấn luyện quá ít mà [[Features (Đặc Trưng)]] quá nhiều thì [[Features Selection (Chọn Đặc Trưng)]] là giải pháp tốt 
 -  tăng hệ số regularization 

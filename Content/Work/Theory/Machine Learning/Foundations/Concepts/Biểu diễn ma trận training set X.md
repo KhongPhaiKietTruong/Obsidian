@@ -1,4 +1,4 @@
-người ta thường dùng kí hiệu "X" để biểu diễn cho ma trận [[Training Set (Tập Huấn Luyện)]]
+người ta thường dùng kí hiệu "X" để biểu diễn cho ma trận [[Training Set]]
 
 với từng một mẫu dữ liệu:
 $$

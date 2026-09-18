@@ -1,1 +1,1 @@
-là số lần mà toàn bộ [[Training Set (Tập Huấn Luyện)]] được truyền qua [[Neural Network (Mạng Neural)]]  
+là số lần mà toàn bộ [[Training Set]] được truyền qua [[Neural Network (Mạng Neural)]]  
