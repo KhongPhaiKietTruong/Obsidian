@@ -29,6 +29,8 @@ x^{\langle t \rangle}
 \end{align}
 
 $$
+> Waa và Wax ở mọi timestamp là cùng một ma trận chứ không phải các ma trận khác nhau
+
 ![[Pasted image 20260919002558.png]]
 <center>(đây là RNN đã bị unrolled (trải ra), bình thường thì ta chỉ biểu diễn nó là 1 block và mũi tên thể hiện sự đệ quy thôi)</center>
 ## Hàm Loss
