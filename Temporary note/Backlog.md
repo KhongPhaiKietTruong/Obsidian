@@ -1,6 +1,5 @@
 - [x] tải antigravity trên aur
 - [x] chạy máy ảo test caelestia
-- [ ] promp engineer course
 - [x] clone hoặc tìm chìa khóa xe
 - [x] dang ki du thi AI challenge
 - [x] làm bài ktct
