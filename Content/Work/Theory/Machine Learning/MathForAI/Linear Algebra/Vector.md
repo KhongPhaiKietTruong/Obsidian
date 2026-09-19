@@ -1,1 +1,3 @@
 Một vector là một danh sách các số (tương tự như [[Arrays (Mảng)]] 1 chiều) được sắp xếp theo một thứ tự nhất định. Mỗi số đại diện cho một tọa độ dọc theo một trục không gian.
+
+một vector có n phần tử là một vector có n chiều 
