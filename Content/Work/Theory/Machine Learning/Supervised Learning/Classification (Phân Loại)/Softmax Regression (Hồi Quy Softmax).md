@@ -1,3 +1,3 @@
 đây là dạng mở rộng của [[Logistic Regression (Hồi Quy Logistic)]] dùng trong bài toán phân loại với n nhãn 
 trong dạng này, người ta không còn dùng [[Sigmoid]] nữa mà dùng [[Softmax]] ở lớp output 
-[[Content/Work/Theory/Machine Learning/Foundations/Concepts/Loss function]] mà ta sử dụng sẽ là [[Category Cross Entropy - Softmax Loss]]
+[[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Loss function]] mà ta sử dụng sẽ là [[Category Cross Entropy - Softmax Loss]]
