@@ -12,3 +12,4 @@ E=
 & \vdots &
 \end{bmatrix}
 $$
+ta có thể lấy ra embeding của một token bằng cách nhân embedding matrix với [[One-hot encoding]] của token đó, cách này thường không được dùng 
