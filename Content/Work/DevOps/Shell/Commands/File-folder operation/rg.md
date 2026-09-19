@@ -1,8 +1,8 @@
 dùng để tìm kiếm nội dung trong các file (mặc định là đệ quy)
 
 ```
-rg "kiettruong"
+rg "kiettruong" ./ 
 ```
 
 các option:
-- i: 
+- i: bỏ qua hoa thường 
