@@ -21,6 +21,6 @@ c_{1} \\
 c_{n}
 \end{bmatrix}
 $$
-bình thường thì kích thước của y là (h,w,8) nhưng nếu có n anchor thì kích thước của y sẽ là (h, w, n*8)
+bình thường thì kích thước của y là (h,w,8) nhưng nếu có n anchor thì kích thước của y sẽ là (h, w, n\*8)
 
 > nếu ta sử dụng n anchor box thì với mỗi ô ảnh ta xét sẽ cho ra n bounding box dù cho ô ảnh đó có vật thể cần detect hay không (những bounding box trong ô ảnh không có vật thể sẽ có $p_{c}$ rất thấp)

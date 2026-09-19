@@ -1,0 +1,1 @@
+là loại layer áp dụng [[One-By-One Convolution]] để giảm channels của [[Tensor]] giúp giảm khối lượng tính toán 
