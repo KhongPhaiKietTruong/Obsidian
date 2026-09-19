@@ -12,3 +12,9 @@ tìm folder (directory):
 ```
 fd -t d <pattern>
 ```
+
+tìm file với phần extension cụ thể (phần sau dấu chấm)
+```
+#tim cac file .py 
+fd -e py 
+```
