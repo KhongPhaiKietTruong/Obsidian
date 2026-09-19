@@ -1,1 +1,8 @@
-dùng để tìm kiếm nội dung trong các file
+dùng để tìm kiếm nội dung trong các file (mặc định là đệ quy)
+
+```
+rg "kiettruong"
+```
+
+các option:
+- i: 
