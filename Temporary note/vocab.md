@@ -34,3 +34,4 @@ sample (v): lấy ngẫu nhiên theo xác suất
 tilde (n): dấu ngã 
 utterance (n)
 connote (v): gợi lên 
+prodigy (n): thần đồng 
