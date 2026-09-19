@@ -15,7 +15,7 @@
 	- [[cp]]
 	- [[curl]]
 	- [[grep]]
-	- [[head]]
+	- [[Content/Work/DevOps/Shell/Commands/File-folder operation/head]]
 	- [[ls]]
 	- [[man]]
 	- [[mkdir]]

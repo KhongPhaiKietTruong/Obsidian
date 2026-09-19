@@ -11,7 +11,7 @@
 		- [[button]]
 		- [[div]]
 		- [[h]]
-		- [[head]]
+		- [[Content/Work/Languages/Frontend/HTML/Theory/Normal tag/head]]
 		- [[html]]
 		- [[iframe]]
 		- [[img]]
