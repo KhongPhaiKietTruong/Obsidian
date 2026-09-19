@@ -27,4 +27,4 @@ $$
  - B là kích thước của một batch 
 - $\alpha$ là [[Learning Rate (Tốc Độ Học)]] 
 - J là [[Cost Function (Hàm Chi Phí)]] 
-- $L_{i}$ là [[Loss function (Hàm Mất Mát)]] của mẫu thứ i trong batch 
+- $L_{i}$ là [[Content/Work/Theory/Machine Learning/Foundations/Concepts/Loss function]] của mẫu thứ i trong batch 

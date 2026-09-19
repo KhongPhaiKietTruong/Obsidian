@@ -3,7 +3,7 @@ loss_fn = nn.MSELoss()
 loss = loss_fn(y_pred, y_true) 
 ```
 
-loss_fn làm một [[Function (Hàm)]] và sẽ trả về [[Giá trị trung bình]] của các [[Loss function (Hàm Mất Mát)]] của các mẫu trong từng batch 
+loss_fn làm một [[Function (Hàm)]] và sẽ trả về [[Giá trị trung bình]] của các [[Content/Work/Theory/Machine Learning/Foundations/Concepts/Loss function]] của các mẫu trong từng batch 
 
 nhận vào 2 [[Parameters (Tham số)]] là [[Tensor]] 
 
