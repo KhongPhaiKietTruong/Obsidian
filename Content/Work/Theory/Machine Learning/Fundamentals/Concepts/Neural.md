@@ -14,4 +14,4 @@ z_j^{[l]} = w_{j1}^{[l]}a_1^{[l-1]} + w_{j2}^{[l]}a_2^{[l-1]} + w_{j3}^{[l]}a_3^
 $$
 lí do mà w(j, k) là vì W là một ma trận, truy cập một phần tử trong W sẽ là w(j, k) (xem thêm trong [[Biểu diễn ma trận trọng số W]])  
 
-trong mạng neural, ta còn có thể nói mỗi neural chính là [[Features (Đặc Trưng)]] ẩn được suy ra bằng việc ghép hợp nhiều đặc trưng ở lớp trước lại 
+trong mạng neural, ta còn có thể nói mỗi neural chính là [[Features]] ẩn được suy ra bằng việc ghép hợp nhiều đặc trưng ở lớp trước lại 

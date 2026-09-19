@@ -1,0 +1,1 @@
+là bất cứ thành phần nào khiến [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Cost Function]] tăng lên khi model thực hiện những điều ta không mong muốn 

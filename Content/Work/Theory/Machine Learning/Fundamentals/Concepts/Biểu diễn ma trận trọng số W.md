@@ -22,7 +22,7 @@ $$
 (n^{(l)}, n^{(l-1)})
 $$
 
-trường hợp ma trận W của layer 1, ta biết rằng layer 0 chính là các input ([[Features (Đặc Trưng)]]) thì có thể hiểu hình dạng của W theo kiểu:
+trường hợp ma trận W của layer 1, ta biết rằng layer 0 chính là các input ([[Features]]) thì có thể hiểu hình dạng của W theo kiểu:
 $$
 (\text{số neural hiện tại},  \text{ số đặc trưng lớp trước (số đặc trưng)})
 $$

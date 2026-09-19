@@ -10,7 +10,7 @@ x_{3}^{(1)} \\
 x_{n}^{(1)}
 \end{bmatrix} 
 $$
-với n là số [[Features (Đặc Trưng)]]
+với n là số [[Features]]
 ta xếp các mẫu thành một cột trong X, ta có ma trận training set như sau 
 $$
 X = \begin{bmatrix} 

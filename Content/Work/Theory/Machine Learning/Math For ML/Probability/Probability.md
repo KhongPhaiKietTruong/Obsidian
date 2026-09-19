@@ -43,6 +43,6 @@
 - [[Standardization (Z-score normalization)]]
 - [[Sum of Gaussian]]
 - [[Sum of probabilities]]
-- [[Content/Work/Theory/Machine Learning/MathForAI/Probability/Untitled]]
+- [[Content/Work/Theory/Machine Learning/Math For ML/Probability/Untitled]]
 
 %% End Waypoint %% 

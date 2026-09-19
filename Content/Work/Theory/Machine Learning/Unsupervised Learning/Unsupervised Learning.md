@@ -7,7 +7,7 @@
 	- [[DBSCAN]]
 	- [[K-means]]
 - **Dimensionality Reduction**
-	- [[PCA]]
+	- [[Content/Work/Theory/Machine Learning/Unsupervised Learning/Dimensionality Reduction/PCA]]
 	- [[t-SNE vs UMAP]]
 	- [[t-SNE]]
 	- [[UMAP]]

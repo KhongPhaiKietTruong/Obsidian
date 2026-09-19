@@ -172,7 +172,7 @@
 	- **Numpy**
 		- **Attribute**
 			- [[dtype]]
-			- [[Inverse matrix]]
+			- [[Content/Work/Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix]]
 			- [[ndim]]
 			- [[np.uint8]]
 			- [[shape]]

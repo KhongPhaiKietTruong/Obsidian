@@ -1,7 +1,7 @@
 #### Bước 1: Xác định bài toán
 là học có giám sát hay không, hồi quy hay phân loại, ...
 #### Bước 2: Explore data (EDA)
-df.shape -> có bao nhiêu mẫu và bao nhiêu [[Features (Đặc Trưng)]] 
+df.shape -> có bao nhiêu mẫu và bao nhiêu [[Features]] 
 
    ↓
 Clean / preprocess data

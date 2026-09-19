@@ -1,1 +1,1 @@
-trả về một ma trận giá trị tương quan giữa các [[Features (Đặc Trưng)]]
+trả về một ma trận giá trị tương quan giữa các [[Features]]

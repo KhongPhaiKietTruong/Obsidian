@@ -17,4 +17,4 @@ class LinearRegressionModel():
     ​	return X 
 ```
 
-lưu ý: n phải bằng với [[Features (Đặc Trưng)]] của mỗi mẫu dữ liệu 
+lưu ý: n phải bằng với [[Features]] của mỗi mẫu dữ liệu 

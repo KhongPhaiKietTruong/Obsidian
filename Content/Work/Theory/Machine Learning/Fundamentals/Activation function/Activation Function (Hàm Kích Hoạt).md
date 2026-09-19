@@ -1,5 +1,5 @@
 kí hiệu: g(z)
-làm hàm nằm trong mỗi [[Neural]] và dùng để biến đổi output z của một neural, ta biết rằng, bên trong mỗi neural là một phương trình z tuyến tính, nếu như ta không sử dụng hàm kích hoạt (là một hàm phi tuyến tính) thì dù có bao nhiêu lớp đi nữa, kết quả của [[Neural Network (Mạng Neural)]] đó vẫn là một phương tình tuyến tính (một đường thẳng, mặt phẳng, ...), điều này khiến model hoạt động rất kém vì với dữ liệu phức tạp thì chúng ta cần những đường cong, những mặt phẳng phức tạp để chia tách, học được dữ liệu, do đó hàm kích hoạt giúp chúng ta học được những [[Features (Đặc Trưng)]] phức tạp 
+làm hàm nằm trong mỗi [[Neural]] và dùng để biến đổi output z của một neural, ta biết rằng, bên trong mỗi neural là một phương trình z tuyến tính, nếu như ta không sử dụng hàm kích hoạt (là một hàm phi tuyến tính) thì dù có bao nhiêu lớp đi nữa, kết quả của [[Neural Network (Mạng Neural)]] đó vẫn là một phương tình tuyến tính (một đường thẳng, mặt phẳng, ...), điều này khiến model hoạt động rất kém vì với dữ liệu phức tạp thì chúng ta cần những đường cong, những mặt phẳng phức tạp để chia tách, học được dữ liệu, do đó hàm kích hoạt giúp chúng ta học được những [[Features]] phức tạp 
 
 nhờ vào hàm kích hoạt nên ta mới có thể xây dựng nên các đặc trưng ẩn 
 
