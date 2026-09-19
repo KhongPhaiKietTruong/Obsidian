@@ -1,0 +1,2 @@
+là một cách để biểu diễn các từ thành [[Vector]] số 
+thay vì biểu diễn các từ bằng [[One-hot encoding]], ta đặt ra n feature như giới tính, giá tiền, là là thức ăn?, là động vật?, ... rồi dùng từ đó đặt ra các giá trị cho từng feature này 
