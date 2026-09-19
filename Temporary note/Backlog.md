@@ -15,7 +15,7 @@
 - [x] xóa burpsuit
 - [x] trả ken 400k
 - [x] làm web IOT
-- [ ] mua đồ đeo thẻ mới
+- [x] mua đồ đeo thẻ mới
 - [x] làm tool kiểm tra
 - [x] làm báo cáo KTCT
 - [x] làm báo cáo AI
