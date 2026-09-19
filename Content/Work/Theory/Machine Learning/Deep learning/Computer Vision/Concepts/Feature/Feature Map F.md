@@ -9,7 +9,7 @@ $$
 $$
 với:
 - p: [[Padding Size]] 
-- s: [[Stride (Bước Trượt)]] 
+- s: [[Stride]] 
 ## Ý nghĩa
 
 có thể hiểu rằng, mỗi phần tử trong feature map chính là một [[Pre-activation Value]] "$z=w_{1}a_{1}+w_{2}a_{2}+...w_n a_n$" trong phương trình mạng neural thường thấy 

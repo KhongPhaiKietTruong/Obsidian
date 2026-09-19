@@ -7,7 +7,7 @@ max pooling thì lấy giá trị to nhất và average pooling thì lấy trung
 ![[Pasted image 20260916161334.png|477]]
 các hypterparameter trong lớp pooling không được học bằng [[Gradient Descent]] mà là do ta tự định nghĩa, các hyperparameter gồm:
 - pool size: kích thước của ma trận pool 
-- [[Stride (Bước Trượt)]] 
+- [[Stride]] 
 - [[Content/Work/Theory/Machine Learning/Deep learning/Computer Vision/Concepts/Padding|Padding]] thường là 0 (chỉ có trường hợp ngoại lệ là padding trong [[Content/Work/Theory/Machine Learning/Deep learning/Computer Vision/Technique/Inception]] sẽ khác 0)
 - pooling type: max hay avg
 
