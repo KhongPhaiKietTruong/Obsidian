@@ -1,3 +1,3 @@
 dùng để tìm kiếm trong một file
 
-grep
+đây lệnh truyền thống, khuyên dùng lệnh hiện đại hơn: [[rg]]
