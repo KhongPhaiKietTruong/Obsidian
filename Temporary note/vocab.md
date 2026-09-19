@@ -35,3 +35,4 @@ tilde (n): dấu ngã
 utterance (n)
 connote (v): gợi lên 
 prodigy (n): thần đồng 
+hierarchical (adj): phân cấp 
