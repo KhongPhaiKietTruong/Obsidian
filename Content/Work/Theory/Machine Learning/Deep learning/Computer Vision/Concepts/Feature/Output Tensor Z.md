@@ -1,6 +1,6 @@
 tên khác: feature tensor 
 
-là [[Tensor]] mà được ghép từ nhiều ma trận [[Feature Map]] lại 
+là [[Tensor]] mà được ghép từ nhiều ma trận [[Feature Map F]] lại 
 
 kích thước của output tensor sẽ là $(m, n_{h}^{[l]}, n_{w}^{[l]}, n_c^{[l]})$
 với:

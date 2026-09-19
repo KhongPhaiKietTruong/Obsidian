@@ -1,7 +1,7 @@
 kí hiệu: F 
 dịch: bản đồ đặc trưng
 
-là ma trận kết quả của phép toán [[Convolve (Tích Chập)]] của [[Filter]] lên ảnh Input 
+là ma trận kết quả của phép toán [[Convolution]] của [[Filter]] lên ảnh Input 
 mỗi một phần tử trong ma trận F có thể hiểu là một [[Neural]]
 kích thước của feature map sau phép tích chập:
 $$

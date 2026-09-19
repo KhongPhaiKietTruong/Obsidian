@@ -1,2 +1,2 @@
 
-nếu ta có 3 [[Filter]] thì [[Convolve (Tích Chập)]] bình thường cho ra 3 [[Feature Map]] được tính trên cả 3 channel đồng thời, còn depthwise convolution cũng cho ra 3 feature map, nhưng mỗi feature map đó chỉ được tính trên một channel, nói cách khác, mỗi channel có một filter riêng  
+nếu ta có 3 [[Filter]] thì [[Convolution]] bình thường cho ra 3 [[Feature Map F]] được tính trên cả 3 channel đồng thời, còn depthwise convolution cũng cho ra 3 feature map, nhưng mỗi feature map đó chỉ được tính trên một channel, nói cách khác, mỗi channel có một filter riêng  
