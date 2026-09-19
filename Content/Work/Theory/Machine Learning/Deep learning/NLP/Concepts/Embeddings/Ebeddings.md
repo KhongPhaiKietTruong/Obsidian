@@ -1,3 +1,5 @@
 kí hiệu: e
 
-là một [[Vector]] chứa các giá trị số biểu diễn cho một đối tượng nào đó (như ảnh khuôn mặt, một từ, .. )
+là [[Vector]] chứa các giá trị số biểu diễn cho một đối tượng nào đó (như ảnh khuôn mặt, một từ, .. )
+
+ta có thể tính độ tương đồng giữa hai vector bằng [[Cosine similarity]], [[Euclidean]], ... 

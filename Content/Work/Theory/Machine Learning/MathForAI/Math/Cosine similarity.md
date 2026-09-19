@@ -1,4 +1,4 @@
-dùng để tính độ tương đồng giữa hai vector
+dùng để tính độ tương đồng giữa hai [[Vector]]
 trả về một số thực nằm trong khoảng từ \[-1 ;1]
 
 -1: đối lập nhau
@@ -6,7 +6,9 @@ trả về một số thực nằm trong khoảng từ \[-1 ;1]
 1: giống nhau
 
 công thức tính:
-
+$$
+sim(\vec{a}, \vec{b})=\cos(\theta)=\frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{a}\|\|\mathbf{b}\|}
+$$
 tích vô hướng / tích độ dài 
 
 ```
