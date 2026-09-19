@@ -1,5 +1,5 @@
 là một ý tưởng để điều chỉnh một [[Neural Network]] sao cho, với mỗi các phương pháp ta sử dụng lên model đó thì nó chỉ tác động mạnh đến một vấn đề đó, nghĩa là khi ta điều chỉnh một cái gì đó thì nó không nên tác động đến nhiều thứ.
-ví dụ điển hình nhất là [[Early Stopping (Dừng Sớm)]], trong thực tế thường ít dùng vì khi ta dừng việc huấn luyện sớm, nó tác động đến cả hai mục tiêu là: [[Regularization (Chuẩn Hóa)]] và [[Optimizer]] 
+ví dụ điển hình nhất là [[Early Stopping]], trong thực tế thường ít dùng vì khi ta dừng việc huấn luyện sớm, nó tác động đến cả hai mục tiêu là: [[Regularization]] và [[Optimizer]] 
 
 ví dụ khi model ta bị [[Underfitting - High Bias]] với:
 - [[Train Error]] 30%
