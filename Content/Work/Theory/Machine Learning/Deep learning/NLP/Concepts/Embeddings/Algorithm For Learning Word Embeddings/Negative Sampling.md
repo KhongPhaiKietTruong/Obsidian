@@ -4,4 +4,4 @@ có phương pháp hiệu quả hơn là biến vấn đề đó thành binary c
 ![[Pasted image 20260919164126.png]]khi đó để tính được loss, ta chỉ cần tính [[Binary Cross Entropy Loss (BCE)]]
 
 Hyperparameters:
-- k: số lượng mẫu negative (chọn k = 5-20 nếu [[Training Set]] nhỏ và k = )
+- k: số lượng mẫu negative (chọn k = 5-20 nếu [[Training Set]] nhỏ và k = 2-5 nếu training set  lớn )
