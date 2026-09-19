@@ -5,7 +5,7 @@ in X parlance (n): theo thuật ngữ trong X
 stride (n): bước nhảy 
 pad (v): thêm phần đệm 
 hop on (v): nhảy lên, tham gia vào 
-terrain (n): địa hình, vùng đất 
+terrain (n): địa hình, vùng đất j
 non-trivial (adj): không đơn giản 
 homage (n): sự kính trọng 
 invariance (n): tính bất biến 
