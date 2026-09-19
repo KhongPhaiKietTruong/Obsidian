@@ -1,3 +1,3 @@
 là quá trình sử dụng [[Neural Network]] để thực hiện dự đoán trên mẫu mới
 
-trong quá trình training thì ta thực hiện cả [[Forward Propogation (Lan Truyền Xuôi)]] để cho ra [[Predicted Value]] và [[Backpropagation]] để cho model học được đặc trưng ẩn của [[Training Set]] ẩn, còn trong quá trình inference thì ta sẽ không cần backpropagtion, không cần tính [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Loss function]], không cần tính [[Gradient]], không cần [[Regularization (Chuẩn Hóa)]]  
+trong quá trình training thì ta thực hiện cả [[Forward Propogation]] để cho ra [[Predicted Value]] và [[Backpropagation]] để cho model học được đặc trưng ẩn của [[Training Set]] ẩn, còn trong quá trình inference thì ta sẽ không cần backpropagtion, không cần tính [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Loss function]], không cần tính [[Gradient]], không cần [[Regularization (Chuẩn Hóa)]]  

@@ -1,1 +1,1 @@
-dùng để trả về [[Content/Work/Theory/Machine Learning/Fundamentals/Metrics/Bias]] của model sau khi học xong 
+dùng để trả về [[Content/Work/Theory/Machine Learning/Fundamentals/Quantities/Bias]] của model sau khi học xong 

@@ -14,7 +14,7 @@ với:
 
 lưu ý: với công thức ở trên là tổng quát, hàm cost thực sự có thể triển khai chi tiết ra, ví dụ có 100 mẫu thì ta triển khai cost ra được 100 cái (...)^2, sau đó điền giá trị tất cả mẫu đó vô và chỉ còn 2 biến số là w và b mà thôi, nói điều này là vì tôi từng hiểu lầm rằng đồ thị cost sẽ thay đổi với mỗi cái mẫu trong [[Training Set]] 
 
-ta chia cho 2m là để khi lấy đạo hàm cost function này, số 2 từ mũ của [[The Error (Độ Lệch)]] sẽ đem xuống và tụi nó triệt tiêu nhau giúp phương trình đẹp và tính toán dễ hơn nhưng không làm thay đổi bản chất bài toán
+ta chia cho 2m là để khi lấy đạo hàm cost function này, số 2 từ mũ của [[The Error]] sẽ đem xuống và tụi nó triệt tiêu nhau giúp phương trình đẹp và tính toán dễ hơn nhưng không làm thay đổi bản chất bài toán
 
 nếu ta sử dụng MSE với [[Linear Regression (Hồi Quy Tuyến Tính)]] thì hàm số sẽ là một [[Convex Function]] và ta sẽ dễ dàng tìm được giá trị nhỏ nhất 
 

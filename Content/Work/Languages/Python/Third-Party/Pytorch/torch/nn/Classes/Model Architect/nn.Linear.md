@@ -4,7 +4,7 @@ nn.Linear(in_features, out_features, bias=True)
 đây là một [[Class (Lớp)]] dùng để khởi tạo một [[Fully Connected Layer|linear layer]]  với:
 - in_features là số lượng [[Neural|neural]] đầu vào
 - in_features là số lượng [[Neural|neural]] đầu ra
-- bias: bật tắt [[Content/Work/Theory/Machine Learning/Fundamentals/Metrics/Bias]]
+- bias: bật tắt [[Content/Work/Theory/Machine Learning/Fundamentals/Quantities/Bias]]
 
 code mẫu:
 ```python 

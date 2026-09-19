@@ -6,7 +6,7 @@ RNN là một model cho phép ta xử lí dữ liệu tuần tự như văn bả
 
 ở mỗi timestamp, thì ta truyền vào giá trị:  $x^{<t>}=y^{<t-1>}$ là [[Target Value]] tại timestamp trước, $a^{<t-1>}$ là tóm tắt thông tin của các timestamp trước (hidden state) từ đó ta tính được [[Pre-activation Value]] của timestamp hiện tại 
 
-công thức [[Forward Propogation (Lan Truyền Xuôi)]] trong RNN là:
+công thức [[Forward Propogation]] trong RNN là:
 $$
 \begin{align} 
 &x^{(t)}=y^{<t-1>} \\

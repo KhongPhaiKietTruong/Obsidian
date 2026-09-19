@@ -3,10 +3,10 @@ $$
 \frac{\lambda}{2m} \sum_{i=1}^{m} w_{j}^2
 $$
 với:
-- $\lambda$ là [[Regularization Coefficient (Hệ Số Chuẩn Hóa)]] (khá giống với [[Learning Rate (Tốc Độ Học)]])
+- $\lambda$ là [[Regularization Coefficient]] (khá giống với [[Learning Rate]])
 - m là số lượng mẫu trong [[Training Set]] 
 
-sau khi thêm thành phần phạt vào hàm [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Cost Function]] rồi thì khi thực hiện update [[Weight (Trọng Số)]] bằng [[Gradient Descent]] cũng sẽ khiến việc update đó thay đổi
+sau khi thêm thành phần phạt vào hàm [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Cost Function]] rồi thì khi thực hiện update [[Weight]] bằng [[Gradient Descent]] cũng sẽ khiến việc update đó thay đổi
 trước khi thêm regularization:
 $$
 w = w-\alpha\frac{ \partial J }{ \partial w } 

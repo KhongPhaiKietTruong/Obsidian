@@ -25,7 +25,7 @@ v_{dW}^{(t)}
 +
 (1-\beta)dW_t
 $$
-sau đó update [[Weight (Trọng Số)]] bằng công thức:
+sau đó update [[Weight]] bằng công thức:
 $$
 W_t
 =
@@ -33,7 +33,7 @@ W_{t-1}
 -
 \alpha v_{dW}^{(t)}
 $$
-và cũng thực hiện tương tự với [[Content/Work/Theory/Machine Learning/Fundamentals/Metrics/Bias]]
+và cũng thực hiện tương tự với [[Content/Work/Theory/Machine Learning/Fundamentals/Quantities/Bias]]
 
 giá trị phổ biến của $\beta$ là 0.9 
 

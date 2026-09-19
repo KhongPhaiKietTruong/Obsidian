@@ -1,5 +1,5 @@
 là cách mà ta sẽ đưa toàn bộ mẫu trong [[Training Set]] đi qua [[Neural Network]] trong một lần và thực hiện update 
 
-nghĩa là với một [[Epoch]] thì ta sẽ thực hiện update [[Weight (Trọng Số)]] bằng [[Gradient Descent]] một lần 
+nghĩa là với một [[Epoch]] thì ta sẽ thực hiện update [[Weight]] bằng [[Gradient Descent]] một lần 
 
 cách làm này rất tốn thời gian do nếu ta có số lượng mẫu nhiều, các ma trận A sẽ rất lớn khiến việc [[Matrix multiplication (Nhân Ma Trận)]] (xem lí do ở [[Biểu diễn ma trận trọng số W]]) 
