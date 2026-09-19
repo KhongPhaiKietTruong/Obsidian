@@ -1,0 +1,1 @@
+dùng để tìm kiếm nội dung trong các file
