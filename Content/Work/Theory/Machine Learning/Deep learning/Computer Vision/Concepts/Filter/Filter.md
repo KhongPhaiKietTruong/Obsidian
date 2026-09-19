@@ -19,7 +19,7 @@ cái ma trận K mang ý nghĩa là: "lấy tổng độ sáng của 3 pixels b�
 
 kí hiệu: $f^{[l]}$ 
 ở phần định nghĩa, ta cho ví dụ filter làm một ma trận 2 chiều vì ta xét trên ảnh xám, đối với ảnh tiêu chuẩn hiện nay, tức RGB (3 channels) thì filter sẽ cần có thêm channel nữa.
-**một** filter trong [[Neural Network (Mạng Neural)]] sẽ có kích thước:
+**một** filter trong [[Neural Network]] sẽ có kích thước:
 $$
 (f^{[l]}, f^{[l]}, n_{c}^{[l-1]})
 $$

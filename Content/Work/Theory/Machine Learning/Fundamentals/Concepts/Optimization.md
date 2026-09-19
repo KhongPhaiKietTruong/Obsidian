@@ -1,0 +1,1 @@
+là quá trình cập nhật các [[Parameters (Tham số)]] có thể học được trong [[Neural Network]] như [[Weight (Trọng Số)]], [[Content/Work/Theory/Machine Learning/Fundamentals/Metrics/Bias]], ... để mạng có thể học được các [[Features]] của dữ liệu 

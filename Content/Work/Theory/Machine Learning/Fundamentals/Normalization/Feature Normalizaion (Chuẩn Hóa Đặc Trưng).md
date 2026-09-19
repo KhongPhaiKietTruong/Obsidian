@@ -20,7 +20,7 @@ khiến việc update [[Weight (Trọng Số)]] bằng [[Gradient Descent]] di�
 
 do đó ta phải chuẩn hóa miền giá trị của các đặc trưng lại (biến miền giá trị của x1 và x2 đều trở thành \[0, 1])
 
-Vậy nên, chuẩn hóa đặc trưng sẽ giúp [[Neural Network (Mạng Neural)]] học thông hơn vì tốc độ hội tụ nhanh hơn
+Vậy nên, chuẩn hóa đặc trưng sẽ giúp [[Neural Network]] học thông hơn vì tốc độ hội tụ nhanh hơn
 
 ## 3 cách để chuẩn hóa là:
 ### chia các giá trị cho giá trị lớn nhất
