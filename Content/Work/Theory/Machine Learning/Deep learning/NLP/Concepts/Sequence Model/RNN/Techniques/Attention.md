@@ -30,4 +30,4 @@ $$
 hay:
 ![[Pasted image 20260920171508.png|228]]
 tổng quan kiến trúc RNN khi sử dụng cơ chế attention:
-![[Pasted image 20260920164133.png]]#
+![[Pasted image 20260920164133.png]]
