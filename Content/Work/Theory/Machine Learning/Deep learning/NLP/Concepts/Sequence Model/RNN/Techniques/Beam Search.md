@@ -6,3 +6,4 @@ giả sử ta có b=3,
 
 một điều nữa là để tìm được xác suất từ tiếp theo của mỗi phần tử trong beam thì ta dùng [[Encoder]] và [[Decoder]] (t (t là time step) output ra)
 ![[Pasted image 20260920150602.png]]
+>beam search với beam width = 1 chính là greedy 
