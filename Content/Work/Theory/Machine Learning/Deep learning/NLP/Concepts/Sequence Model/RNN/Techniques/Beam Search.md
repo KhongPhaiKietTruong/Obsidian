@@ -1,1 +1,1 @@
-là một giải pháp thay thế cho greedy, tại mỗi timestamp, ta lưu lại B (Beam Width) 
+là một giải pháp thay thế cho greedy, tại mỗi timestamp, ta lưu lại B (Beam Width) [[Partial Sequences]] có [[Accumulative Score]] cao nhất thay vì chỉ chọn token có xác suất cao nhất 
