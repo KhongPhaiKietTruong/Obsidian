@@ -11,4 +11,6 @@ miền giá trị của sigmoid:
 $$
 0 < \sigma(z) < 1
 $$
-hàm này rất ít khi được sử dụng trừ khi ở layout output bài toán phân loại nhị phân 
+hàm này được sử dụng để:
+- làm lớp output bài toán phân loại nhị phân 
+- làm các gates trong [[LSTM]], [[GRU]], ...

@@ -1,4 +1,4 @@
-đây là một [[Activation Function (Hàm Kích Hoạt)]] được dùng trong **output layer** dạng toán phân loại với n nhãn (n>2)
+đây là một [[Activation Function]] được dùng trong **output layer** dạng toán phân loại với n nhãn (n>2)
 có dạng là:
 $$
 a_{j}=\frac{e^{z_{j}}}{\sum_{k=1}^{K}e^{z_{k}}}

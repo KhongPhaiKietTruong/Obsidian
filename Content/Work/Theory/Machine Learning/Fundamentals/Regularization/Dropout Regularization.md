@@ -9,7 +9,7 @@ d = np.random.rand(*a.shape) < keep_prob
 #output: d = [1, 1, 0, 1, 0, 1, 1, 1, 1, 1] (giả sử shape của a là (1, 10))
 ```
 
-sau đó ta thực hiện "tắt" những neural bị chọn bằng cách nhân giá trị của [[Activation Function (Hàm Kích Hoạt)]] của chúng nó cho 0 
+sau đó ta thực hiện "tắt" những neural bị chọn bằng cách nhân giá trị của [[Activation Function]] của chúng nó cho 0 
 ```python
 a_new = np.multiply(a_old, d)
 ```

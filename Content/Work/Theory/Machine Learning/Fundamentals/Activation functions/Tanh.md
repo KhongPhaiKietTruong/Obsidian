@@ -9,3 +9,5 @@ $$
 -1 < tanh(z) < 1 
 $$
 hàm này có giá trị đầu ra tập trung xung quanh giá trị 0
+
+thường dùng trong [[Vanilla RNN Unit]], [[LSTM]], [[GRU]], ... 
