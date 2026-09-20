@@ -43,3 +43,7 @@ ta thực hiện tính **attention matrix**:
 $$
 A = \operatorname{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)
 $$
+công thức cuối cùng của transformer:
+$$
+\operatorname{Attention}(Q,K,V)=\operatorname{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+$$
