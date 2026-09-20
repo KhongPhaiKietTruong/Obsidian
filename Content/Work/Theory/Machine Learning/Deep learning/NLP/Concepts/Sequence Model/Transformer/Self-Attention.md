@@ -37,4 +37,4 @@ $$
 \frac{QK^T}{\sqrt{d_k}}
 $$
 với $d_{k}$ là số chiều của cả hai vector 
-giá trị sau khi scale gọi là scaled dot product attention 
+giá trị sau khi scale gọi là **scaled dot product attention** 
