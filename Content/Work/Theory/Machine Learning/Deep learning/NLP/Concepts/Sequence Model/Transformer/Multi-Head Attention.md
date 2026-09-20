@@ -8,3 +8,10 @@ head 2: when
 head 3: who
 ...
 
+các head này có thể được tính song song với nhau 
+$$
+\operatorname{head}_i=\operatorname{Attention}(W_i^Q Q,W_i^K K,W_i^V V)
+$$
+$$
+\operatorname{MultiHead}(Q,K,V)=\operatorname{concat}(\operatorname{head}_1,\operatorname{head}_2,\ldots,\operatorname{head}_h)W_O
+$$
