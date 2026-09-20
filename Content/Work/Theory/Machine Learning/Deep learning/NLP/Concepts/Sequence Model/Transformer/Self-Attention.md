@@ -38,3 +38,4 @@ $$
 $$
 với $d_{k}$ là số chiều của cả hai vector 
 giá trị sau khi scale gọi là **scaled dot product attention** 
+ta thực hiện tính **attention matrix**: 
