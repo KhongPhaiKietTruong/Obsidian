@@ -13,5 +13,7 @@ $$
 $$
 giờ thì hiện tượng underflow được giải quyết, nhưng còn một vấn đề nữa là khi câu càng dài, hai hàm này đều cho ra kết quả ngày càng nhỏ (giá trị log của các xác suất là giá trị, nên hàm log ngày càng nhỏ lại, tham khảo [[Log Function]]), trong khi ta muốn tìm giá trị lớn nhất, điều này khiến model có khuynh hướng đưa câu trả lời ngắn nhất, để giải quyết vấn đề này, ta dùng length normalize, chia giá trị hàm cho số lượng từ trong chuỗi output:
 $$
-\frac{1}{T_{y}}f(y)
+\frac{1}{T_{y}^\alpha}f(y)
 $$
+f(y) là hàm tượng trưng cho hai cái hàm ở trên 
+chia cho
