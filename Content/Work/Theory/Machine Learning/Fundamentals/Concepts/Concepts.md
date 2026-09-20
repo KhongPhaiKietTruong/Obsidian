@@ -17,7 +17,7 @@
 - [[Hypothesis]]
 - [[Inference - Test time]]
 - [[Learning Curve]]
-- [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Loss function]]
+- [[Loss Function]]
 - [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree Of Polynominal]]
 - [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree of Regularization]]
 - [[Multi-task Learning]]

@@ -2,7 +2,7 @@ là cách huấn luyện cho model thực hiện nhiều task cùng lúc (xác �
 đáp án của mỗi mẫu trong tập dữ liệu này sẽ có dạng:
 $$y^{(i)} = \begin{bmatrix}1 \\  0 \\  1 \\  0\end{bmatrix}$$
 4 cái số đó là đáp án của 4 task (ví dụ có mèo có chó có gà có hưu)
-[[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Loss function]] sẽ có dạng là
+[[Loss Function]] sẽ có dạng là
 $$
 L^{(i)}=\sum_{j=1}^{t}\lambda_{i} L^{(i)}_{j} 
 $$

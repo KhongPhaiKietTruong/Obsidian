@@ -3,7 +3,7 @@ tên khác: Binary Cross-Entropy Cost Function
 
 [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Cost Function]] có dạng như sau: 
 $$J(\vec{w},b) = \frac{1}{m} \sum_{i=1}^{m} L\left(f_{\vec{w},b}(\vec{x}^{(i)}), y^{(i)}\right)$$
-với [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Loss function]] là [[Binary Cross Entropy Loss (BCE)]]
+với [[Loss Function]] là [[Binary Cross Entropy Loss (BCE)]]
 
 hàm này được sử dụng cho bài toán [[Classification]] 
 
