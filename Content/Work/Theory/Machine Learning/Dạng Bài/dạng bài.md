@@ -9,4 +9,6 @@ co-reference resolution
 parsing 
 sentimenation classification 
 multi-task learning 
+POS tagging 
+NER 
 ![[Pasted image 20260917214131.png|380]]![[Pasted image 20260917211043.png|545]]
