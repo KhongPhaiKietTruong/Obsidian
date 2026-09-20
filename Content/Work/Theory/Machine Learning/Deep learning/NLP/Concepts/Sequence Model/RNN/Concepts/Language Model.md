@@ -1,2 +1,2 @@
-là một model học được những pattern trong ngôn ngữ tự nhiên, nó có thể gán xác suất cho một câu 
+là một khái niệm thể hiện một model có thể học được những pattern trong ngôn ngữ tự nhiên thông qua các phân phối xác suất, nó có thể gán xác suất cho một câu nói, dự đoán từ tiếp theo 
 ![[Pasted image 20260918202938.png]]
