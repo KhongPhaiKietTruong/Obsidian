@@ -1,0 +1,10 @@
+
+$$
+\operatorname{Attention}(Q,K,V)=\operatorname{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
+$$
+với mỗi lần tính công thức này là 1 head, multi-head attention là hành động tính công thức này nhiều lần thay vì chỉ một lần, lí do ta làm điều này là vì mỗi head ta tính sẽ thấy được những đặc trưng khác nhau của chuỗi 
+![[Pasted image 20260921002601.png]]head 1: what
+head 2: when
+head 3: who
+...
+
