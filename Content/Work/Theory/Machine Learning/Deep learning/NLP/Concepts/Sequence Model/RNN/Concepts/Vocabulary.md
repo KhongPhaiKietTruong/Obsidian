@@ -11,4 +11,3 @@ meo \\
 $$
 thì khi từ "meo yeu kiet " được [[Tokenize]], nó sẽ trở thành \[5, 4, 3]
 
-trong vocabulary còn có thể chứa các special token như \<EOS>, \<UNK>, ... để phục vụ cho việc xử lí chuỗi 

@@ -1,0 +1,1 @@
+vocabulary còn có thể chứa các special token như \<EOS>, \<UNK>, \<SOS>... để phục vụ cho việc xử lí chuỗi 
