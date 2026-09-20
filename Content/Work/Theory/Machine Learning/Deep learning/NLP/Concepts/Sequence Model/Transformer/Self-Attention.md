@@ -4,3 +4,31 @@ ví dụ:
 "The cat didn’t cross the street because it was tired.”
 khi xử lí "it", model sẽ gán trọng số attention cao cho "cat" vì hai từ này liên quan đến nhau 
 
+mỗi self-attention gồm 3 thành phần:
+- Q (Query): tôi đang tìm gì ?
+- K (Key): tôi đang chứa thông tin gì ? 
+- V (Value): tôi sẽ đóng góp thông tin gì vào token đang xét nếu tôi có sự liên quan đến token đó 
+cách tính mỗi thành phần:
+$$
+\begin{align}
+&Q=W_{Q}X \\
+&K=W_{K}X \\
+&V=W_{V}X
+\end{align}
+$$
+để biết được mức độ "liên quan" của một từ với những từ khác trong cùng một chuỗi, ta sẽ tính **attention score**, giả sử xét token thứ i=3:
+
+$$
+\begin{align}
+&s_{31}=q_{3} \cdot k_1  \\
+&s_{32}=q_{3} \cdot k_2  \\ 
+&\dots \\
+&s_{T_{X}1}=q_{T_{X}} \cdot k_1 
+\end{align}
+$$
+lưu ý: đây là các phép nhân vô hướng giữa các vector (lười thêm dấu mũi tên dô q với k)
+giá trị của $s_{ij}$ càng cao thì nghĩa là mức độ liên quan của token thứ i đến token thứ j cao 
+công thức tính chung một lượt:
+$$
+
+$$
