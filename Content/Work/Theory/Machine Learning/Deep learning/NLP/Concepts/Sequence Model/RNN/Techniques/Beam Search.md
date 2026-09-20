@@ -1,3 +1,5 @@
+## Định Nghĩa 
+
 là một giải pháp thay thế cho greedy, tại mỗi timestamp, ta lưu lại B (Beam Width) [[Partial Sequences]] có [[Cumulative Score]] cao nhất thay vì chỉ chọn token có xác suất cao nhất  
 
 giả sử ta có b=3, 
@@ -7,3 +9,7 @@ giả sử ta có b=3,
 một điều nữa là để tìm được xác suất từ tiếp theo của mỗi phần tử trong beam thì ta dùng [[Encoder]] và [[Decoder]] (t (t là time step) output ra)
 ![[Pasted image 20260920150602.png]]
 >beam search với beam width = 1 chính là greedy 
+
+## Hyperparameter b
+nếu chọn b to thì ta có được kết quả tốt hơn nhưng chậm hơn
+b nhỏ thì kết quả ít tốt hơn nhưng nó nhanh 
