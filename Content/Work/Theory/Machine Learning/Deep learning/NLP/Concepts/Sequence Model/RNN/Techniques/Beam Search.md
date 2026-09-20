@@ -1,0 +1,1 @@
+là một giải pháp thay thế cho greedy, tại mỗi timestamp, ta lưu lại B (Beam Width) 
