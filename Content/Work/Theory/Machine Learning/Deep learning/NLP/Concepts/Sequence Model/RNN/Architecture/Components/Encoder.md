@@ -1,0 +1,1 @@
+là một thành phần trong model, dùng để đọc chuỗi đầu vào và biến nó thành biểu diễn số 
