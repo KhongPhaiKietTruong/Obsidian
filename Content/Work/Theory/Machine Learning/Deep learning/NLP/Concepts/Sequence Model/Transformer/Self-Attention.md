@@ -16,6 +16,7 @@ $$
 &V=W_{V}X
 \end{align}
 $$
+hiểu trực quan: QK (nhân) cho ta biết mức độ liên quan, trong khi V cho chứa thông tin mà cả hai liên qua về
 để biết được mức độ "liên quan" của một từ với những từ khác trong cùng một chuỗi, ta sẽ tính **attention score**, giả sử xét token thứ i=3:
 
 $$
