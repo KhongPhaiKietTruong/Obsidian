@@ -30,5 +30,5 @@ lưu ý: đây là các phép nhân vô hướng giữa các vector (lười th�
 giá trị của $s_{ij}$ càng cao thì nghĩa là mức độ liên quan của token thứ i đến token thứ j cao 
 công thức tính chung một lượt:
 $$
-
+QK^T = \begin{bmatrix} s_{11} & s_{12} & s_{13} \\ s_{21} & s_{22} & s_{23} \\ s_{31} & s_{32} & s_{33} \end{bmatrix}
 $$
