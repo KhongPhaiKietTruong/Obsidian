@@ -36,3 +36,4 @@ utterance (n)
 connote (v): gợi lên 
 prodigy (n): thần đồng 
 hierarchical (adj): phân cấp 
+seminal (adj): có tính nền tảng, tính khai mở 
