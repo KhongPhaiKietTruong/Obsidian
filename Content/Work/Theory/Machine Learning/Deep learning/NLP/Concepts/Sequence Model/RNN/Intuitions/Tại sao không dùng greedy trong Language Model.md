@@ -1,0 +1,1 @@
+![[Pasted image 20260920142432.png]]trong ảnh, câu dưới dài dòng hơn câu trên, tuy nhiên, nếu ta dùng greedy thì ta sẽ bị chọn câu dưới vì going là một từ rất phổ biến trong tiếng anh, khi ta chỉ lấy từ có xác suất xuất hiện cao nhất không đồng nghĩa với việc ta sẽ có chuỗi output tốt nhất, để giải quyết vấn đề này, ta dùng [[Beam Search]] 
