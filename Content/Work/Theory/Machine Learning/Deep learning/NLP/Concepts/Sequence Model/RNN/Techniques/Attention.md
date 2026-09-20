@@ -1,6 +1,6 @@
 kí hiệu: $\alpha^{<t,t'>}$: giá trị attention mà $y^t$ nên "để ý" tới $a^{t'}$  
 ## Định Nghĩa 
-![[Pasted image 20260920164133.png]]
+
 khi ta dùng [[Sequence To Sequence Model]], mỗi một token được tạo ra phải được truyền vào [[Activations In RNN (Hidden State)]] của cả chuỗi input, điều này hoạt động tốt khi chuỗi input ngắn, nhưng khi chuỗi input dài sẽ khiến model hoạt động kém, attention được sinh ra để giải quyết vấn đề này, ta sẽ gán các trọng số attention cho từng hidden state, mỗi khi tạo ra một token, ta chỉ xem xét những phần quan trọng trong chuỗi input mà không phải cả cái input và xem xét thêm từ mà ta dự đoán ở trước 
 
 ví dụ cụ thể khi ta dùng attention trên [[Bidirectional RNN]], mỗi một token output ta sẽ xem xét cái giá trị:
@@ -28,6 +28,6 @@ $$
 e^{\langle t,t' \rangle}=g\left(s^{\langle t-1 \rangle},a^{\langle t' \rangle}\right)
 $$
 hay:
-![[Pasted image 20260920171508.png|556]]
+![[Pasted image 20260920171508.png|228]]
 tổng quan kiến trúc RNN khi sử dụng cơ chế attention:
 ![[Pasted image 20260920164133.png]]#
