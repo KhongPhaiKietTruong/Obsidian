@@ -25,5 +25,9 @@ $$
 $$
 đây là một hàm [[Softmax]] để đảm bảo tổng các attention sẽ = 1, thành phần $e^{<t, t'>}$ được tính bằng công thức: 
 $$
-
-$$![[Pasted image 20260920164133.png]]#
+e^{\langle t,t' \rangle}=g\left(s^{\langle t-1 \rangle},a^{\langle t' \rangle}\right)
+$$
+hay:
+![[Pasted image 20260920171508.png|556]]
+tổng quan kiến trúc RNN khi sử dụng cơ chế attention:
+![[Pasted image 20260920164133.png]]#
