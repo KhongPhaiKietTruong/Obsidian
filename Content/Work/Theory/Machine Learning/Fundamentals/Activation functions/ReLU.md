@@ -5,3 +5,9 @@ dịch: Hàm tuyến tính chỉnh lưu
 [[Activation Function]] này có dạng:
 $$g(z)=max(0, z)$$
 là một hàm phi tuyến tính 
+## Đạo Hàm 
+hàm ReLU không có đạo hàm tại z=0 nhưng một quy ước thường thấy là
+$$
+g'(0)=0
+$$
+
