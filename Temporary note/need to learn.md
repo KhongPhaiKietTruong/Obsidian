@@ -23,4 +23,4 @@ review kiến thức olp ai:
 - [ ] mô hình 3 lớp trong web là gì 
 - [ ] prepared statement 
 - [ ] connection poding 
-![[Pasted image 20260921155758.png]]
+![[Pasted image 20260921155758.png]]![[Pasted image 20260921161333.png|594]]
