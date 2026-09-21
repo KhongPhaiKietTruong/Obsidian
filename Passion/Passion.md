@@ -1,0 +1,88 @@
+%% Begin Waypoint %% 
+- **Drum**
+	- **Cymbal**
+		- [[Crash cymbal]]
+		- [[Ride cymbal]]
+	- **Hi-hat**
+		- [[Passion/Drum/Tom/MOC]]
+	- **Tom**
+		- [[Passion/Drum/Tom/MOC]]
+	- [[Kick]]
+	- [[Snare-roll]]
+	- [[Snare]]
+- **Fl Studio**
+	- **Effect**
+		- [[Chorus]]
+	- [[Middle C]]
+	- [[Mode]]
+- **Guitar**
+	- [[Fingerpicking]]
+	- [[guitar vst ample sound]]
+	- [[Lick]]
+	- [[Pentatonic scale]]
+	- [[Power chord]]
+	- [[Passion/Guitar/Roadmap]]
+	- [[temporary]]
+- **Music breakdown**
+	- [[prologue - yuika]]
+- **Music theory**
+	- **Accompaniment**
+		- [[Arppegio]]
+		- [[Block chords]]
+		- [[Broken chord]]
+	- **Cadences**
+		- [[Authentic cadence]]
+		- [[Deceptive cadence]]
+		- [[Half cadence]]
+		- [[Passion/Drum/Tom/MOC]]
+		- [[Plagal cadence]]
+	- **Chord progression**
+		- [[Royal road progression]]
+	- **Chuyển tone - modulation**
+		- [[Passion/Drum/Tom/MOC]]
+	- **Hợp âm**
+		- **Hợp âm 3 - triad**
+			- [[Định nghĩa]]
+		- **Hợp âm 7 - 7th chord**
+			- [[Dominant 7 (V7)]]
+			- [[Major 7]]
+			- [[Minor 7]]
+			- [[Passion/Drum/Tom/MOC]]
+		- [[Hợp âm - chord]]
+		- [[Hợp âm 5 - power chord]]
+		- [[Hợp âm add]]
+		- [[Hợp âm đảo - inversion]]
+		- [[Hợp âm giảm - diminished chord]]
+		- [[Hợp âm sus]]
+		- [[Hợp âm tăng - augmented chord]]
+	- **Quãng**
+		- [[Perfect fifth]]
+		- [[Quãng - interval]]
+		- [[Quãng 3]]
+		- [[Quãng đúng - perfect interval]]
+		- [[Quãng tám - octave]]
+	- **Scale**
+		- **Major scale**
+			- [[C major scale]]
+		- **Minor scale**
+			- [[Passion/Drum/Tom/MOC]]
+		- [[Gam - thang âm - âm giai - scale]]
+	- **Substitution**
+		- [[Ác âm phụ - Secondary dominant]]
+		- [[Diatonic substitution]]
+		- [[Tritone substitution]]
+	- [[Bậc]]
+	- [[Bán cung - semitones]]
+	- [[các thành phần của một bài nhạc]]
+	- [[Modes - điệu thức - thang âm thức]]
+	- [[Nốt dẫn - Leading note]]
+	- [[Thang âm thứ tương ứng - relative minor scale]]
+	- [[Tone - tonality]]
+- **Music type**
+	- **Punk**
+		- [[Horror punk]]
+		- [[Noise punk]]
+	- **Rock**
+		- [[Alternative rock]]
+
+%% End Waypoint %%

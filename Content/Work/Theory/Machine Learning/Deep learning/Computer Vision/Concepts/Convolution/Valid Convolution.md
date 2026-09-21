@@ -1,1 +1,0 @@
-là loại tích chập mà ma trận gốc không có thêm [[Content/Work/Theory/Machine Learning/Deep learning/Computer Vision/Concepts/Padding|Padding]], khiến [[Feature Map F]] bị nhỏ hơn ma trận gốc 

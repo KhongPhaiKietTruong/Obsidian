@@ -1,0 +1,1 @@
+là bất cứ thành phần nào khiến [[Cost Function|Cost Function]] tăng lên khi model thực hiện những điều ta không mong muốn 

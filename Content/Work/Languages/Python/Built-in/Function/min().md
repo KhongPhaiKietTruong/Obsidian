@@ -1,1 +1,0 @@
-tương tự [[Content/Work/Languages/Python/Built-in/Function/max()]]

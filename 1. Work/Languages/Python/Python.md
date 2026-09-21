@@ -1,0 +1,441 @@
+%% Begin Waypoint %%
+- **Built-in**
+	- **Function**
+		- [[callable()]]
+		- [[dir()]]
+		- [[enumerate()]]
+		- [[format()]]
+		- [[getattr()]]
+		- [[help()]]
+		- [[input()]]
+		- [[int()]]
+		- [[isinstance(a, b)]]
+		- [[json()]]
+		- [[map()]]
+		- [[1. Work/Languages/Python/Built-in/Function/max()]]
+		- [[1. Work/Languages/Python/Built-in/Function/min()]]
+		- [[print()]]
+		- [[replace()]]
+		- [[round()]]
+		- [[str()]]
+		- [[1. Work/Languages/Python/Built-in/Function/strip()]]
+		- [[1. Work/Languages/Python/Built-in/Function/sum()]]
+		- [[tuple()]]
+		- [[zip()]]
+	- **Iterable**
+		- **[[Dictionary]]**
+			- [[1. Work/Languages/Python/Built-in/Iterable/List/clear()]]
+			- [[1. Work/Languages/Python/Built-in/Library/copy/deepcopy()]]
+			- [[dictionary comprehesion]]
+			- [[get()]]
+			- [[items()]]
+			- [[keys()]]
+			- [[popitem()]]
+			- [[setdefault()]]
+			- [[tạo dictionary]]
+			- [[values]]
+		- **[[List]]**
+			- [[append()]]
+			- [[1. Work/Languages/Python/Built-in/Iterable/List/clear()]]
+			- [[1. Work/Languages/Python/Built-in/Iterable/List/count()]]
+			- [[extend()]]
+			- [[1. Work/Languages/Python/Built-in/Iterable/List/index()]]
+			- [[insert()]]
+			- [[list comprehension]]
+			- [[nhân list với một số nguyên]]
+			- [[nối list]]
+			- [[pop()]]
+			- [[1. Work/Languages/Python/Built-in/Iterable/Set/remove()]]
+			- [[reverse()]]
+			- [[sort()]]
+			- [[sorted()]]
+		- **[[Set]]**
+			- [[add()]]
+			- [[difference_update()]]
+			- [[difference()]]
+			- [[discard()]]
+			- [[1. Work/Languages/Python/Built-in/Iterable/Set/phép trừ]]
+			- [[1. Work/Languages/Python/Built-in/Iterable/Set/remove()]]
+			- [[set comprehension]]
+			- [[symmetric_difference_update]]
+			- [[symmetric_difference]]
+			- [[union()]]
+			- [[update()]]
+		- **String**
+			- [[f-string]]
+			- [[find(str, start, end)]]
+			- [[isalnum()]]
+			- [[isalpha()]]
+			- [[isnumeric()]]
+			- [[join()]]
+			- [[replace(a, b)]]
+			- [[split(sep, maxsplit)]]
+			- [[startswith & endswith]]
+			- [[1. Work/Languages/Python/Built-in/Function/strip()]]
+		- **[[Tuple]]**
+			- [[1. Work/Languages/Python/Built-in/Iterable/List/count()]]
+			- [[1. Work/Languages/Python/Built-in/Iterable/List/index()]]
+			- [[nhân tuple]]
+			- [[nối tuple]]
+			- [[packing]]
+			- [[unpacking]]
+	- **Library**
+		- **copy**
+			- [[1. Work/Languages/Python/Built-in/Library/copy/deepcopy()]]
+		- **math**
+			- [[exp()]]
+			- [[fabs()]]
+			- [[log()]]
+			- [[math.e]]
+			- [[math.pi]]
+		- **os**
+			- [[genenv()]]
+		- **random**
+			- [[randint()]]
+			- [[random()]]
+			- [[uniform()]]
+	- **Type Hint**
+		- [[Giá trị trả về của một hàm số]]
+		- [[Kiểu dữ liệu biến]]
+		- [[Kiểu dữ liệu iterable]]
+- **Recipe**
+	- [[Hiển thị các package trong môi trường python]]
+	- [[Hiển thị các phương thức của một đối tượng]]
+	- [[Hiển thị các thuộc tính của một đối tượng]]
+	- [[Tạo môi trường python]]
+- **Theory**
+	- **Async**
+	- **Concept**
+		- [[Alembic]]
+		- [[Pyodbc]]
+		- [[SQLAlchemy]]
+	- **Data Types & Memory**
+		- [[Data types]]
+		- [[Deep copy]]
+		- [[Immutable (bất biến)]]
+		- [[Shallow copy]]
+	- **Error Handling**
+		- [[Try Except]]
+	- **Functions**
+		- [[args]]
+		- [[Generator Function]]
+		- [[Keyword-only parameter marker]]
+		- [[kwargs]]
+		- [[lambda function]]
+		- [[Positional-only parameter marker]]
+	- **Làm việc với file**
+		- [[đọc file]]
+		- [[ghi file]]
+		- [[nối file]]
+	- **Modules & Packages**
+		- [[__init__.py]]
+		- [[Module]]
+		- [[Package]]
+	- **OOP**
+		- [[1. Work/Languages/Python/Theory/OOP/Abstract Class (Lớp trừu tượng)]]
+		- [[1. Work/Languages/Python/Theory/OOP/Getter]]
+		- [[Override method]]
+		- [[1. Work/Languages/Python/Theory/OOP/Setter]]
+		- [[Super()]]
+		- [[Tạo class]]
+		- [[Tạo constructor]]
+		- [[Tạo instance]]
+	- **Runtime & Execution**
+		- [[file .pyc]]
+		- [[Python Virtual Machine]]
+	- **Syntax & Operators**
+		- [[1. Work/Languages/Python/Theory/Syntax & Operators/Độ ưu tiên toán tử]]
+		- [[e-notation]]
+		- [[Overflow]]
+		- [[Quy tắc đặt tên biến]]
+		- [[Right-associative]]
+		- [[Underflow]]
+		- [[With]]
+		- [[yield]]
+- **Third-Party**
+	- **Dotenv**
+		- [[load_dotenv()]]
+	- **FastAPI**
+
+	- **Matplotlib**
+		- [[plt.bar()]]
+		- [[plt.grid()]]
+		- [[plt.Hist()]]
+		- [[plt.legend()]]
+		- [[plt.pie()]]
+		- [[plt.plot()]]
+		- [[plt.scatter()]]
+		- [[plt.subplots()]]
+		- [[plt.title()]]
+		- [[plt.xlabel() & plt.ylabel()]]
+		- [[plt.xticks() & plt.yticks]]
+	- **Numpy**
+		- **Attribute**
+			- [[dtype]]
+			- [[1. Work/Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix]]
+			- [[ndim]]
+			- [[np.uint8]]
+			- [[1. Work/Languages/Python/Third-Party/Numpy/Attribute/shape]]
+			- [[1. Work/Languages/Python/Third-Party/Numpy/Attribute/size]]
+		- **Method**
+			- **linalg**
+				- [[linalg.det()]]
+				- [[linalg.inv()]]
+				- [[linalg.norm()]]
+				- [[linalg.solve()]]
+			- **random**
+				- [[random.rand()]]
+				- [[random.randint()]]
+				- [[random.randn()]]
+				- [[random.random_sample()]]
+			- [[arange()]]
+			- [[argmax()]]
+			- [[argmin()]]
+			- [[array()]]
+			- [[astype()]]
+			- [[clip()]]
+			- [[empty()]]
+			- [[eye()]]
+			- [[flatten()]]
+			- [[full_like()]]
+			- [[full()]]
+			- [[hstack()]]
+			- [[identity()]]
+			- [[linspace()]]
+			- [[matmul()]]
+			- [[1. Work/Languages/Python/Third-Party/Numpy/Method/mean()]]
+			- [[1. Work/Languages/Python/Built-in/Function/min()]]
+			- [[np.dot()]]
+			- [[np.multiply()]]
+			- [[ones()]]
+			- [[random.normal()]]
+			- [[repeat()]]
+			- [[1. Work/Languages/Python/Third-Party/Numpy/Method/reshape()]]
+			- [[1. Work/Languages/Python/Built-in/Function/sum()]]
+			- [[trace()]]
+			- [[transpose()]]
+			- [[vstack()]]
+			- [[where()]]
+			- [[zeros()]]
+		- **Theory**
+			- [[Access a matrix element (Truy cập phần tử mảng)]]
+			- [[boolean array indexing]]
+			- [[Broadcasting]]
+			- [[integer array indexing]]
+			- [[Scalar Multiplication (Nhân vô hướng)]]
+			- [[Vectorization]]
+		- [[Numpy MOC]]
+	- **OpenCV**
+		- **Attribute**
+			- [[1. Work/Languages/Python/Third-Party/Numpy/Attribute/shape]]
+		- **Method**
+			- [[absdiff()]]
+			- [[apply_along_axis()]]
+			- [[bilateralBlur()]]
+			- [[blur()]]
+			- [[Canny()]]
+			- [[circle()]]
+			- [[cvtColor()]]
+			- [[dilate()]]
+			- [[drawContours()]]
+			- [[erode()]]
+			- [[findContours()]]
+			- [[flip()]]
+			- [[GaussianBlur()]]
+			- [[getRotationMatrix2D()]]
+			- [[imread()]]
+			- [[imshow()]]
+			- [[imwrite()]]
+			- [[line()]]
+			- [[mask()]]
+			- [[medianBlur()]]
+			- [[merge()]]
+			- [[putText()]]
+			- [[rectangle()]]
+			- [[resize()]]
+			- [[split()]]
+			- [[threshold()]]
+			- [[waitKey()]]
+			- [[warpAffine()]]
+		- [[OpenCV MOC]]
+	- **Pandas**
+		- **[[DataFrame]]**
+			- **Attribute**
+				- [[iloc]]
+				- [[loc]]
+				- [[1. Work/Languages/Python/Third-Party/Numpy/Attribute/shape]]
+			- **Method**
+				- **Manipulation**
+					- [[apply()]]
+					- [[dropna()]]
+					- [[fillna()]]
+				- **Stat & Info**
+					- [[corr()]]
+					- [[describe()]]
+					- [[head()]]
+					- [[info()]]
+					- [[isnull()]]
+					- [[1. Work/Languages/Python/Third-Party/Numpy/Method/mean()]]
+					- [[median()]]
+					- [[mode()]]
+					- [[1. Work/Languages/Python/Built-in/Function/sum()]]
+					- [[tail()]]
+		- **Function**
+			- [[read_csv()]]
+			- [[read_json()]]
+		- **[[Series]]**
+			- **Method**
+				- [[nunique()]]
+				- [[unique()]]
+		- [[Pandas MOC]]
+	- **Pathlib**
+		- **1.Classed**
+			- **Path**
+				- **Methods**
+					- [[exist()]]
+					- [[glob()]]
+					- [[is_dir()]]
+					- [[is_file()]]
+					- [[mkdir()]]
+					- [[1. Work/Languages/Python/Third-Party/Pathlib/Recipe/Nối đường dẫn]]
+		- **Recipe**
+			- [[1. Work/Languages/Python/Third-Party/Pathlib/Recipe/Nối đường dẫn]]
+			- [[Tạo đường dẫn]]
+		- [[các thuộc tính]]
+	- **Poetry**
+		- **Commands**
+			- [[activate environment]]
+			- [[add new dependency]]
+			- [[add pypi account to poetry]]
+			- [[add token to account]]
+			- [[create project]]
+			- [[install all dependencies]]
+			- [[publish to pypi]]
+			- [[show environment info]]
+		- **Theory**
+			- [[pyproject.toml]]
+		- [[guide publish package to pypi]]
+		- [[Poetry MOC]]
+	- **Pytorch**
+		- **1.Theory**
+			- [[Tensor]]
+		- **2.Recipe**
+			- [[huẩn luyện model trên gpu]]
+			- [[Lấy số mẫu trong tập X]]
+			- [[Lưu trọng số vào file]]
+			- [[Tải tham số vào model]]
+			- [[Tạo kiến trúc model - mạng neural]]
+			- [[Tạo Loss function]]
+			- [[Tạo Optimizer]]
+			- [[Testing loop]]
+			- [[Thực hiện forward pass]]
+			- [[Training loop]]
+		- **3.Datatypes**
+			- [[datatypes]]
+			- [[float32]]
+		- **torch**
+			- **1.Classes**
+				- **torch.device**
+					- [[1.torch.device()]]
+				- **torch.relu**
+					- [[2.torch.relu()]]
+				- **torch.Tensor**
+					- **1.Methods**
+						- [[backward()]]
+						- [[item()]]
+						- [[size()]]
+					- **2.Attributes**
+						- [[1. Work/Languages/Python/Third-Party/Numpy/Attribute/shape]]
+			- **2.Functions**
+				- **Lưu-tải model**
+					- [[torch.load()]]
+					- [[torch.save()]]
+				- **Object Tensor**
+					- [[1. Work/Languages/Python/Built-in/Function/max()]]
+					- [[1. Work/Languages/Python/Third-Party/Numpy/Method/mean()]]
+					- [[1. Work/Languages/Python/Built-in/Function/min()]]
+					- [[numpy()]]
+					- [[1. Work/Languages/Python/Third-Party/Numpy/Method/reshape()]]
+					- [[1. Work/Languages/Python/Built-in/Function/sum()]]
+					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2.Functions/Object Tensor/to()]]
+				- **Tạo tensor ngẫu nhiên**
+					- [[torch.arange()]]
+					- [[torch.rand()]]
+					- [[torch.randn()]]
+				- [[torch.from_numpy()]]
+				- [[torch.inference_mode()]]
+				- [[torch.manual_seed()]]
+				- [[torch.matmul()]]
+				- [[torch.ones_like()]]
+				- [[torch.ones()]]
+				- [[torch.permute()]]
+				- [[torch.squeeze()]]
+				- [[torch.stack()]]
+				- [[torch.Tensor.numpy()]]
+				- [[torch.unsqueeze()]]
+				- [[torch.zeros_like()]]
+				- [[torch.zeros()]]
+			- **cuda**
+				- **Methods**
+					- [[torch.cuda.is_available()]]
+			- **nn**
+				- **Classes**
+					- **Loss**
+						- [[nn.MSELoss]]
+					- **Model Architect**
+						- [[nn.Linear]]
+						- [[nn.Module]]
+						- [[nn.Parameter]]
+						- [[nn.Sequential]]
+					- **nn.Module**
+						- **Method**
+							- [[eval()]]
+							- [[load_state_dict()]]
+							- [[parameters()]]
+							- [[state_dict()]]
+							- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2.Functions/Object Tensor/to()]]
+							- [[train()]]
+			- **optim**
+				- **Optimizer (base class)**
+					- **1.Class**
+						- [[optim.Adam()]]
+					- **2.Method**
+						- [[optimizer.step()]]
+						- [[optimizer.zero_grad()]]
+			- **utils**
+				- **data**
+					- **1.Classes**
+						- **Dataset**
+							- [[torch.utils.data.Dataset]]
+							- [[torch.utils.data.ImageFolder]]
+							- [[torch.utils.data.TensorDataset]]
+						- [[DataLoader]]
+	- **Scikit-learn**
+		- **1.Concepts**
+			- [[Estimator]]
+			- [[Transformer]]
+		- **2.Attributes**
+			- [[coef_]]
+			- [[intercept_]]
+		- **3.Common API**
+			- [[fit()]]
+			- [[predict()]]
+			- [[score()]]
+		- **4.Modules**
+			- **Linear_model**
+				- **1.Classes**
+					- [[LinearRegression]]
+			- **preprocessing**
+	- **Seaborn**
+		- **Common Parameters**
+			- [[hue]]
+			- [[kde]]
+			- [[1. Work/Languages/Python/Third-Party/Numpy/Attribute/size]]
+		- [[sns.barplot()]]
+		- [[sns.heatmap()]]
+		- [[sns.histplot()]]
+		- [[sns.joinplot()]]
+		- [[sns.kdeplot()]]
+		- [[sns.scatterplot()]]
+
+%% End Waypoint %%
