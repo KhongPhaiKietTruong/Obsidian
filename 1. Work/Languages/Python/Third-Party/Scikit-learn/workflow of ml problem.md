@@ -3,5 +3,5 @@
 3 preprocessing 
 4 chọn model 
 5 train  
-6 predit 
+6 predict 
 7 evaluation 
