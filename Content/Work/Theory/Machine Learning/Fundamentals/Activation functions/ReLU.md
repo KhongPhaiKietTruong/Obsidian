@@ -12,7 +12,7 @@ g'(0)=0
 $$
 miền giá trị của đạo hàm
 $$
-0\leq g'(z)< +\infty
+g'(z) \in {0, 1}
 $$
 ## Trường Hợp Sử Dụng
 - là hàm kích hoạt thông dụng nhất cho [[Hidden Layer]]

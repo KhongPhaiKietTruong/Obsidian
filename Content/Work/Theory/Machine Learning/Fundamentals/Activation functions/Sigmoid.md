@@ -1,6 +1,6 @@
-tên khác: Fogistic Function
+tên khác: Logistic Function
 ## Định Nghĩa
-là một hàm số nhận vào một số tự nhiên và trả về giá trị nằm trong khoảng \(0, 1)
+là một hàm số nhận vào một số thực và trả về giá trị nằm trong khoảng \(0, 1)
 $$
 \sigma(z) = \frac{1}{1 + e^{-z}} 
 $$

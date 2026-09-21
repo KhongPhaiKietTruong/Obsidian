@@ -1,0 +1,1 @@
+giá trị đạo hàm của ReLU là {0, 1} 

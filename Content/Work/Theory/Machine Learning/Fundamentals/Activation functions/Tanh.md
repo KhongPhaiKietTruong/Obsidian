@@ -10,8 +10,6 @@ miền giá trị của tanh:
 $$
 -1 < tanh(z) < 1 
 $$
-người ta quy ước rằng:
-$$tanh(0)=0$$
 hàm này có giá trị đầu ra tập trung xung quanh giá trị 0 (tham khảo thêm [[Tại sao muốn giá trị kích hoạt zero-centered]])
 ## Đạo Hàm 
 công thức đạo hàm:
