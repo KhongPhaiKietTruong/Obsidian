@@ -19,6 +19,6 @@
 - [x] làm báo cáo KTCT
 - [x] làm báo cáo AI
 - [x] làm báo cáo CNXH
-
+- tìm hiểu paddle OCR ?
 
 
