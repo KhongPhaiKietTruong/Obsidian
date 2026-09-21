@@ -1,0 +1,3 @@
+```python
+df.isna().sum()
+```
