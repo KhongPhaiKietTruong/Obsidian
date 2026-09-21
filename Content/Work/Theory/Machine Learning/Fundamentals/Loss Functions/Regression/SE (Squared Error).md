@@ -6,3 +6,5 @@ $$SE = (y_i - \hat{y}_i)^2$$
 - $y_i$: [[Target Value]]
 - $\hat{y}_i$: [[Predicted Value]] từ mô hình.
 - $(y_i - \hat{y}_i)$: Sai số của từng mẫu.
+
+đây thường là lựa chọn default 
