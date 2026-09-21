@@ -1,4 +1,5 @@
-đây là một [[Activation Function]] được dùng trong **output layer** dạng toán phân loại với n lớp (n>2), giúp biến đổi các số thực thành phân phối xác suất 
+# Định Nghĩa
+đây là một [[Activation Function]] được dùng trong **output layer** dạng toán phân loại với n lớp (n>2) ([[Multi-class Classification]]), giúp biến đổi các số thực thành phân phối xác suất 
 có dạng là:
 $$
 a_{j}=\frac{e^{z_{j}}}{\sum_{k=1}^{K}e^{z_{k}}}
@@ -7,7 +8,6 @@ với :
 - K: số lượng lớp  
 - j: số thứ tự của neural đang tính
 
-là một hàm giúp chuẩn hóa xác xuất
 ví dụ như khi mà ta cho model phân biệt giữa 3 con vật: mèo, chó, gà
 model cho ra "điểm số" của từng con như sau:
 - mèo: z1=2.0
