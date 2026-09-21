@@ -1,0 +1,1 @@
+là điểm mà có [[Gradient]] = 0 
