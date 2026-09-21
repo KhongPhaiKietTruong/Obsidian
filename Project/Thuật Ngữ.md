@@ -1,1 +1,1 @@
-hệ thống ERP: 
+hệ thống ERP: là một phần mềm giúp doanh nghiệp quản lí những hoạt động kinh dong cốt lõi
