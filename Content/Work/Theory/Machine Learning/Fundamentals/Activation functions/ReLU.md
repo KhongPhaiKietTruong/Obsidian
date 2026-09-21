@@ -23,3 +23,4 @@ $$
 - sparse activation: giúp có hiệu ứng [[Regularization]] nhẹ, tăng [[Generalization]]
 ## Nhược Điểm 
 - dying Relu: là hiện tượng mà [[Neuron]] cho ra giá trị [[Activation Function]] = 0 với gần như mọi input (do các trọng số học được khiến cho [[Pre-activation Value]] < 0)
+- exploding activations: 
