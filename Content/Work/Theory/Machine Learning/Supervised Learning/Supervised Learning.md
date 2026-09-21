@@ -12,7 +12,7 @@
 	- [[Decision Boundary (Ranh Giới Quyết Định)]]
 	- [[Logistic Regression (Hồi Quy Logistic)]]
 	- [[Multi-class Classification]]
-	- [[Multi-label Classification]]
+	- [[Multi-Label Classification]]
 	- [[Softmax Regression (Hồi Quy Softmax)]]
 - **Ensemble Learning**
 	- **Concepts**
