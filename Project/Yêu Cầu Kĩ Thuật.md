@@ -10,4 +10,4 @@ data warehouse ?
 
 công việc không được dừng lại ở cá nhân hay phòng ban nào mà chảy xuyên suốt từ điểm chạm đầu tiên với khách hàng cho đến khi ghi nhận doanh thu 
 
-tích hợp agentic ai (không cần nhân viên xem kho hết hàng thì mới nhập hàng mà để AI phân tích, đối chiếu lịch sử tiêu thụ, tự động gửi email đặt hàng, ...)
+tích hợp agentic ai (không cần nhân viên xem kho hết hàng thì mới nhập hàng mà để AI phân tích, đối chiếu lịch sử tiêu thụ, tự động gửi email đặt hàng, ..., xóa tài khoản có nợ xấu)
