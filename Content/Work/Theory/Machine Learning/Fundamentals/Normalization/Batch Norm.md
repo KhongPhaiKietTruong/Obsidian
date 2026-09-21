@@ -7,7 +7,7 @@ $$
 với:
 - $\gamma$ và $\beta$ là hai tham số mà [[Neural Network]] sẽ học được trong quá trình huấn luyện cũng bằng phương pháp [[Gradient Descent]] 
 - $\gamma^2$ sẽ quy định [[Variance (Phương Sai)]] 
-- $\beta$ sẽ quy định [[Mean value (Giá Trị Trung Bình)]], giá trị này cũng khiến [[Content/Work/Theory/Machine Learning/Fundamentals/Quantities/Bias]] trở nên "thừa" do khi chuẩn hóa Z-score thì ta trừ [[Pre-activation Value]] cho giá trị trung bình rồi, khi đó $\beta$ sẽ thay thế bias trở thành bias mới 
+- $\beta$ sẽ quy định [[Mean value (Giá Trị Trung Bình)]], giá trị này cũng khiến [[Bias]] trở nên "thừa" do khi chuẩn hóa Z-score thì ta trừ [[Pre-activation Value]] cho giá trị trung bình rồi, khi đó $\beta$ sẽ thay thế bias trở thành bias mới 
 
 
 ​
