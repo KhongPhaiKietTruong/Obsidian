@@ -10,3 +10,5 @@ SME nên có EA tinh gọn thay vì copy EA từ một tập đoàn lớn về
 
 GIGO: garbage in garbage out
 SOS: source of truth 
+
+vòng đời CODE: capture -> organize -> distill -> express 
