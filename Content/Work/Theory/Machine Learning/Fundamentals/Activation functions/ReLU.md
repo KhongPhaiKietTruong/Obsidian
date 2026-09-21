@@ -17,3 +17,5 @@ là hàm kích hoạt thông dụng nhất cho [[Hidden Layer]]
 - chi phí tính toán thấp
 - giảm thiểu [[Vanishing Gradient]] (do đạo hàm của z>0 )(chỉ với trường hợp z là số dương)
 - sparse activation: giúp có hiệu ứng [[Regularization]] nhẹ, tăng [[Generalization]]
+## Nhược Điểm 
+- dying Relu: nếu [[Predicted Value]] c
