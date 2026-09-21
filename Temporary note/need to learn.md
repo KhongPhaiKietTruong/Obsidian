@@ -18,3 +18,4 @@
 - [ ] mô hình 3 lớp trong web là gì 
 - [ ] prepared statement 
 - [ ] connection poding 
+![[Pasted image 20260921155758.png]]
