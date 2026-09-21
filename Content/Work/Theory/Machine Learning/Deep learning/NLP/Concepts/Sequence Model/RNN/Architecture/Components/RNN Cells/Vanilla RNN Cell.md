@@ -1,4 +1,4 @@
- ![[Pasted image 20260919005957.png|437]]
+ ![[Pasted image 20260919005957.png|260]]
 ## Định Nghĩa 
 mỗi một RNN cell có công thức như sau:
 $$
