@@ -1,7 +1,7 @@
 review kiến thức olp ai:
 - [x] activation functions 
 - [x] batches 
-- [ ] 
+- [x] loss 
 
 
 - [x] XML file là gì ?
