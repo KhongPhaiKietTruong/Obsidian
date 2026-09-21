@@ -1,4 +1,6 @@
 ## Bỏ hàng có giá trị thiếu 
 ```python
-df.dropna()
+df = df.dropna()
 ```
+
+## Ước lượng giá trị thiếu 
