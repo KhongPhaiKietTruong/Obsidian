@@ -23,8 +23,8 @@ $$
 0<\tanh'(z)\leq{1}
 $$
 ## Trường Hợp Sử Dụng 
-thường dùng trong [[Vanilla RNN Cell]], [[LSTM]], [[GRU]], ... 
-- dùng để tính candidate hidden state trong [[GRU]] 
+- dùng làm [[Activation Function]] trong [[Vanilla RNN Cell]] 
+- dùng để tính candidate [[Activations In RNN (Hidden State)|Hidden State]] trong [[GRU]] 
 - tạo candidate cell state và hidden state trong [[LSTM]]
 ## Ưu Điểm
 giá trị của tanh là zero-centered (tham khảo thêm [[Tại sao muốn giá trị kích hoạt zero-centered]]) 
