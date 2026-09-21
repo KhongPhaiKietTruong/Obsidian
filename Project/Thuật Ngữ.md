@@ -12,3 +12,5 @@ GIGO: garbage in garbage out
 SOS: source of truth 
 
 vòng đời CODE: capture -> organize -> distill -> express 
+
+SOP: quy trình thao tác để thực hiện một task nào đó 

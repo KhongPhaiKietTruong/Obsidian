@@ -22,6 +22,13 @@ có changelog, bug tracker
 
 nhóm không gian H: mục 4.2.1 giáo trình 
 nhóm không gian P: mục 4.2.2 
-nhóm không gian P: mục 4.2.3
-nhóm không gian P: mục 4.2.4 
+nhóm không gian D: mục 4.2.3
+nhóm không gian I: mục 4.2.4 
 
+quản trị tri thức wiki 
+
+vượt ngưỡng không gian I 
+knowledge graph - neo4j, machine learning, LLM, LangGraph/crewAI, MCP Gateway, 
+
+DX-lab:
+frontend, backend, dashboard, ai engien 
