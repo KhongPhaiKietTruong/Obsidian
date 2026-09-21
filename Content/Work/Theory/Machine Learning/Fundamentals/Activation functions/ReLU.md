@@ -15,5 +15,5 @@ là hàm kích hoạt thông dụng nhất cho [[Hidden Layer]]
 
 ## Ưu Điểm 
 - chi phí tính toán thấp
-- giảm thiểu [[Vanishing Gradient]] (do đạo hàm của z>0 là 1, z<0 là 0)
-- s
+- giảm thiểu [[Vanishing Gradient]] (do đạo hàm của z>0 )(chỉ với trường hợp z là số dương)
+- sparse activation 
