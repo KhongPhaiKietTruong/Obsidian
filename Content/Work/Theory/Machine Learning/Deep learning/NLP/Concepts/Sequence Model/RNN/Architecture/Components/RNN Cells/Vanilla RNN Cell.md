@@ -8,8 +8,9 @@ $$
 &\hat{y}^{<t>}=g_{2}(W_{ya}a^{<t>}+b_{y})
 \end{align}
 $$
+ta dùng [[Activation Function]] là [[Tanh]] do có có bounded value ()
 ## Ưu Điểm 
-không chỉ xét $x^{<t>}$ (từ hiện tại) mà còn xét cả [[Activations In RNN (Hidden State)]] của lớp trước 
+không chỉ xét $x^{<t>}$ (từ hiện tại) mà còn xét cả [[Activations In RNN (Hidden State)]] của lớp trước $h^{<t-1>}$ 
 ## Nhược Điểm 
 - sẽ xảy ra hiện tượng [[Vanishing Gradient]], do trong cell có sử dụng [[Tanh]] 
 
