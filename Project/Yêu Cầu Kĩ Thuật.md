@@ -1,1 +1,1 @@
-có tính module (dễ dàng tháo lắp)
+có tính module (dễ dàng tháo lắp) bằng cách sử dụng API 
