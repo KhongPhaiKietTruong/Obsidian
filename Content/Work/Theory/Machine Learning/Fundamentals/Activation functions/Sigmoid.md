@@ -17,6 +17,7 @@ dễ có hiện tượng bão hòa (saturation) khi [[Pre-activation Value]] z r
 ## Trường Hợp Sử Dụng 
 hàm này được sử dụng để:
 - làm lớp output bài toán phân loại nhị phân 
+- làm lớp output cho bài toán [[Multi-Label Classification]] 
 - làm các gates trong [[LSTM]], [[GRU]], ...
 ## Trường Hợp Không Nên Sử Dụng 
 không nên sử dụng sigmoid trong [[Hidden Layer]] vì như đã nói đã trên, nó dễ gây ra tiêu biến [[Gradient]] 
