@@ -16,3 +16,4 @@ monotonic (adj): đơn điệu
 mild (adj): nhẹ 
 
 logits (n): 
+multinominal (adj):
