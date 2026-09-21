@@ -16,3 +16,5 @@
 - [ ] teacher forcing ?
 
 - [ ] mô hình 3 lớp trong web là gì 
+- [ ] prepared statement 
+- [ ] connection poding 
