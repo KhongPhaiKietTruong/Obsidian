@@ -11,8 +11,9 @@ $$
 miền giá trị của sigmoid:
 $$
 0 < \sigma(z) < 1
-$$
-![[Pasted image 20260921091239.png|338]]
+$$![[Pasted image 20260921091239.png|338]]
+## Nhược Điểm 
+dễ
 ## Trường Hợp Sử Dụng 
 hàm này được sử dụng để:
 - làm lớp output bài toán phân loại nhị phân 
