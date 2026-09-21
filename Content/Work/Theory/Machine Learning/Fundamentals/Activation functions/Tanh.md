@@ -20,7 +20,7 @@ $$
 $$
 miền giá trị đạo hàm 
 $$
-0<\tanh'(z)\leq_{1}
+0<\tanh'(z)\leq{1}
 $$
 ## Trường Hợp Sử Dụng 
 thường dùng trong [[Vanilla RNN Unit]], [[LSTM]], [[GRU]], ... 
