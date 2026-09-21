@@ -1,6 +1,6 @@
 là một đơn vị nằm trong các [[Layer]] nằm trong [[Neural Network]], nói cách khác là một layer sẽ chứa nhiều neural và mạng neural sẽ chứa nhiều layer 
 
-bên trong neural là một hàm số [[Sigmoid]] ([[Activation Function]]) nhận vào tham số là z với z là [[Linear equation|phương trình tuyến tính]] có dạng:
+bên trong neural là một [[Activation Function]] nhận vào tham số là z với z là [[Linear equation|phương trình tuyến tính]] có dạng:
 $$
 z_j^{[l]} = \sum_k w_{jk}^{[l]} a_k^{[l-1]} + b_j^{[l]}
 $$
