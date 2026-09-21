@@ -20,5 +20,6 @@ dùng docker để đóng gòi phần mềm để đóng gói DX-LAB
 
 có changelog, bug tracker 
 
-nhóm không gian H:
+nhóm không gian H: mục 4.2.1 giáo trình 
+nhom
 
