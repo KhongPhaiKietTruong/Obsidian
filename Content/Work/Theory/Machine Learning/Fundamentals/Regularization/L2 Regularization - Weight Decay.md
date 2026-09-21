@@ -6,7 +6,7 @@ với:
 - $\lambda$ là [[Regularization Coefficient]] (khá giống với [[Learning Rate]])
 - m là số lượng mẫu trong [[Training Set]] 
 
-sau khi thêm thành phần phạt vào hàm [[Content/Work/Theory/Machine Learning/Fundamentals/Concepts/Cost Function]] rồi thì khi thực hiện update [[Weight]] bằng [[Gradient Descent]] cũng sẽ khiến việc update đó thay đổi
+sau khi thêm thành phần phạt vào hàm [[Cost Function]] rồi thì khi thực hiện update [[Weight]] bằng [[Gradient Descent]] cũng sẽ khiến việc update đó thay đổi
 trước khi thêm regularization:
 $$
 w = w-\alpha\frac{ \partial J }{ \partial w } 
