@@ -1,5 +1,4 @@
-tên khác: logistic function
-
+tên khác: Fogistic Function
 ## Định Nghĩa
 là một hàm số nhận vào một số tự nhiên và trả về giá trị nằm trong khoảng \(0, 1)
 $$
