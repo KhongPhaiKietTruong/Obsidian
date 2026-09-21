@@ -16,4 +16,4 @@ tư duy lưu trữ: vòng đời CODE và cấu trúc PARA cấp doanh nghiệp
 tư duy xử lí: trạng thái tỉnh thức GTD và MoSCoW  
 tư duy giám sát: 5 rõ 
 
-open-core
+
