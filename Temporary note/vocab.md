@@ -38,3 +38,4 @@ prodigy (n): thần đồng
 hierarchical (adj): phân cấp 
 seminal (adj): có tính nền tảng, tính khai mở 
 akin (adj): tương tự
+monotonic (adj): đơn điệu 
