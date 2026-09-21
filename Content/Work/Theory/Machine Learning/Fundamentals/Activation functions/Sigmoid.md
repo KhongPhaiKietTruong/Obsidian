@@ -13,7 +13,7 @@ $$
 0 < \sigma(z) < 1
 $$![[Pasted image 20260921091239.png|338]]
 ## Nhược Điểm 
-dễ có hiện tượng bão hòa (saturation) khi x rất lớn hoặc rất nhỏ khiến cho đạo hàm tại điểm đó rất phẳng, tức g'(z) 
+dễ có hiện tượng bão hòa (saturation) khi [[Pre-activation Value]] z rất lớn hoặc rất nhỏ khiến cho đạo hàm tại điểm đó rất phẳng, tức g'(z) $\approx$ 0 gây ra [[Vanishing Gradient]] 
 ## Trường Hợp Sử Dụng 
 hàm này được sử dụng để:
 - làm lớp output bài toán phân loại nhị phân 
