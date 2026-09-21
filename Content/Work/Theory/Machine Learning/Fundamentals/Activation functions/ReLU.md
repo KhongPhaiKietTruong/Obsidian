@@ -10,4 +10,5 @@ hàm ReLU không có đạo hàm tại z=0 nhưng một quy ước thường th�
 $$
 g'(0)=0
 $$
-
+## Trường Hợp Sử Dụng
+là hàm kích hoạt thông dụng nhất cho [[Hidden Layer]]
