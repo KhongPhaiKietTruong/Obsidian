@@ -23,7 +23,7 @@ $$
 0<\tanh'(z)\leq{1}
 $$
 ## Trường Hợp Sử Dụng 
-thường dùng trong [[Vanilla RNN Unit]], [[LSTM]], [[GRU]], ... 
+thường dùng trong [[Vanilla RNN Cell]], [[LSTM]], [[GRU]], ... 
 
 ## Ưu Điểm
 giá trị của tanh là zero-centered (tham khảo thêm [[Tại sao muốn giá trị kích hoạt zero-centered]]) 
