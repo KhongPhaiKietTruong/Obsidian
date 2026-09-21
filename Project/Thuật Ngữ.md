@@ -9,3 +9,4 @@ SME nên có EA tinh gọn thay vì copy EA từ một tập đoàn lớn về
 "5 Rõ": người thực thi, trách nhiệm, quy trình, tiêu chuẩn (thế nào là xong), công cụ
 
 GIGO: garbage in garbage out
+SOS: source of truth 
