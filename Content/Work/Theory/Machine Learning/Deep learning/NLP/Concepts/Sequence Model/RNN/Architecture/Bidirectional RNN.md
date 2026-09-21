@@ -1,4 +1,4 @@
-thực hiện hai lần [[Forward Propagation]] của RNN
+thực hiện hai lần [[Forward Propagation In RNN]] của RNN
 
 một cái theo chiều trái qua phải và một cái theo chiều ngược lại 
 
