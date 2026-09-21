@@ -1,3 +1,4 @@
-xây dựng một portal trung tâm (web hoặc app) để điều phối tất cả các không gian (HPDI) với nhau
+xây dựng một portal trung tâm (web hoặc app) để điều phối tất cả các không gian (HPDI) với nhau (team nên làm luôn một web cho một doanh nghiệp ví dụ rồi tới lúc thông báo đề tài thì )
+
 tìm kiếm các project mã nguồn mở và ghép nối chúng lại với nhau thành một hệ thống hoàn chỉnh cho doanh nghiệp 
 ![[Pasted image 20260921235629.png]]
