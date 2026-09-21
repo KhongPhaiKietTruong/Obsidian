@@ -16,7 +16,8 @@ $$
 0 < \sigma'(x) \le \frac{1}{4}
 $$
 ## Nhược Điểm 
-dễ có hiện tượng [[Saturation]] khi dùng sigmoid trong hidden layer 
+- dễ có hiện tượng [[Saturation]] khi dùng sigmoid trong hidden layer 
+- giá trị output không phải zero-centered (tham thảo thêm [[Tại sao muốn giá trị kích hoạt zero-centered]]) 
 ## Trường Hợp Sử Dụng 
 hàm này được sử dụng để:
 - làm lớp output bài toán phân loại nhị phân 
