@@ -1,6 +1,6 @@
-dropout regularization giúp ta giảm [[Overfitting - High Variance]] ngăn ngừa hiện tượng [[Neural Network]] phụ thuộc nhiều vào một số [[Neural]] nhất định bằng cách tắt ngẫu nhiên mỗi lần đưa mẫu vào, giúp các neural học đa dạng hơn
+dropout regularization giúp ta giảm [[Overfitting - High Variance]] ngăn ngừa hiện tượng [[Neural Network]] phụ thuộc nhiều vào một số [[Neuron]] nhất định bằng cách tắt ngẫu nhiên mỗi lần đưa mẫu vào, giúp các neural học đa dạng hơn
 
-với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100\%$ đi số [[Neural]] mỗi lớp, nghĩa là xét mỗi neural, có $(\text{keep\_prob})*100\%$  ta sẽ giữ neural đó lại và $(1-\text{keep\_prob})*100\%$ ta sẽ bỏ neural đó đi
+với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100\%$ đi số [[Neuron]] mỗi lớp, nghĩa là xét mỗi neural, có $(\text{keep\_prob})*100\%$  ta sẽ giữ neural đó lại và $(1-\text{keep\_prob})*100\%$ ta sẽ bỏ neural đó đi
 
 giả sử ta đang xét ở layer l 
 đầu tiên ta tính ma trận mask:

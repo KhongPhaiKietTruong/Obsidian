@@ -1,6 +1,6 @@
 #### ta có thể chia cách tính toán của neural thành 3 cấp độ:
 ##### 1. Ở mức 1 neural
-ở mức này thì ta từng từng neural một (xem ở [[Neural]])
+ở mức này thì ta từng từng neural một (xem ở [[Neuron]])
 ##### 2. Ở mức layer 
 ở mức độ này, cách ta tính sẽ dựa tên các [[Vector]] khi mà các giá trị trong vector này đại diện cho các giá trị của từng neural trong [[Layer]] đó, hiểu nôm na là một vector = 1  layer 
 ví dụ:

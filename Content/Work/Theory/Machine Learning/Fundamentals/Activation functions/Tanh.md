@@ -1,4 +1,4 @@
-giúp đưa miền giá trị của [[Neural]] z ([[Pre-activation Value]]) về đoạn (-1; 1)
+giúp đưa miền giá trị của [[Neuron]] z ([[Pre-activation Value]]) về đoạn (-1; 1)
 
 hàm tanh có công thức như sau:
 $$

@@ -8,7 +8,7 @@ với:
 - l là số của layer hiện tại 
 - k là số neural của lớp trước 
 - j là số neural lớp hiện tại 
-giả sử lớp trước của ta có 3 [[Neural]] thì công thức này triển khai thành
+giả sử lớp trước của ta có 3 [[Neuron]] thì công thức này triển khai thành
 $$
 z_j^{[l]} = w_{j1}^{[l]}a_1^{[l-1]} + w_{j2}^{[l]}a_2^{[l-1]} + w_{j3}^{[l]}a_3^{[l-1]} + b_j^{[l]}
 $$

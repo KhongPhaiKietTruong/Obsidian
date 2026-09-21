@@ -1,6 +1,6 @@
 dịch: đặc trưng ẩn
 ## Định Nghĩa
-đặc trưng ẩn là [[Features]] mà [[Neural Network]] học được bằng cách kết hợp nhiều đặc trưng lại với nhau, mỗi đặc trưng ẩn chính là mỗi [[Neural]] nằm trong [[Hidden Layer]] 
+đặc trưng ẩn là [[Features]] mà [[Neural Network]] học được bằng cách kết hợp nhiều đặc trưng lại với nhau, mỗi đặc trưng ẩn chính là mỗi [[Neuron]] nằm trong [[Hidden Layer]] 
 
 ## Ví Dụ
 ví dụ như ta đang thực hiện bài toán dự đoán xem mặt hàng này có bán được hay không dựa vào các features là 

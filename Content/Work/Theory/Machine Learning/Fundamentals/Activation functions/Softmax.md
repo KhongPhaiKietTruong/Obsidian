@@ -13,7 +13,7 @@ model cho ra "điểm số" của từng con như sau:
 - mèo: z1=2.0
 - chó: z2=1.0
 - gà: z3=0.1
-lưu ý: ở output layer, số lượng [[Neural]] trong layer đó sẽ bằng với số nhãn
+lưu ý: ở output layer, số lượng [[Neuron]] trong layer đó sẽ bằng với số nhãn
 
 nếu để những con số như này như ta khó dùng và khó hình dung được
 nên ta dùng softmax để chuẩn hóa nó về xác suất

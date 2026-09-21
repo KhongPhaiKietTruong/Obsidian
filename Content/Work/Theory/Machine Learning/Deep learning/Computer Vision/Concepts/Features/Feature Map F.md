@@ -2,7 +2,7 @@ kí hiệu: F
 dịch: bản đồ đặc trưng
 
 là ma trận kết quả của phép toán [[Convolution]] của [[Filter]] lên ảnh Input 
-mỗi một phần tử trong ma trận F có thể hiểu là một [[Neural]]
+mỗi một phần tử trong ma trận F có thể hiểu là một [[Neuron]]
 kích thước của feature map sau phép tích chập:
 $$
 (n_h ,n_w, n_c)\times(f,f, n_c)=\left( \lfloor \frac{n_h+2p-f}{s} +1 \rfloor, \lfloor \frac{n_w+2p-f}{s} +1 \rfloor, 1 \right) 

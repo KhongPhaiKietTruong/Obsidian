@@ -13,4 +13,4 @@ $$
 
 lưu ý: W = $R^{N^{[l]}, N^{[l-1]}}$ thì $\frac{ \partial J_{batch} }{ \partial W }$(model.weight.grad) cũng có hình dạng giống vậy
 với:
-- $N^{[l]}$ là số [[Neural]] của lớp thứ l trong mạng 
+- $N^{[l]}$ là số [[Neuron]] của lớp thứ l trong mạng 
