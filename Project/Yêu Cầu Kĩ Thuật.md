@@ -13,4 +13,5 @@ công việc không được dừng lại ở cá nhân hay phòng ban nào mà 
 tích hợp agentic ai (không cần nhân viên xem kho hết hàng thì mới nhập hàng mà để AI phân tích, đối chiếu lịch sử tiêu thụ, tự động gửi email đặt hàng, ..., xóa tài khoản có nợ xấu)
 
 tư duy lưu trữ: vòng đời CODE và cấu trúc PARA cấp doanh nghiệp 
-tư duy xử lí: trạng thái tỉnh thức GTD và MoSCoW 
+tư duy xử lí: trạng thái tỉnh thức GTD và MoSCoW  
+tư duy giám sát: 5 rõ 
