@@ -18,4 +18,4 @@ là hàm kích hoạt thông dụng nhất cho [[Hidden Layer]]
 - giảm thiểu [[Vanishing Gradient]] (do đạo hàm của z>0 )(chỉ với trường hợp z là số dương)
 - sparse activation: giúp có hiệu ứng [[Regularization]] nhẹ, tăng [[Generalization]]
 ## Nhược Điểm 
-- dying Relu: nếu [[Predicted Value]] c
+- dying Relu: là hiện tượng mà [[Neuron]] cho ra giá trị [[Activation Function]] = 0 với gần như mọi input (do các trọng số học được khiến cho [[Predicted Value]] < 0)
