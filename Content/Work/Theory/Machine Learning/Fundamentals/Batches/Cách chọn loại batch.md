@@ -1,2 +1,2 @@
-nếu [[Training Set]] nhỏ (khoảng <2000 mẫu) thì dùng [[Batch Gradient Descent]]
+nếu [[Training Set]] nhỏ (khoảng <2000 mẫu) thì dùng [[Batch Gradient Descent (Batch GD)]]
 nếu tập huấn luyện lớn thì dùng [[Mini-batch Gradient Descent]] với kích thước mini-batch thông thường là từ $2^6$ đến $2^9$ 
