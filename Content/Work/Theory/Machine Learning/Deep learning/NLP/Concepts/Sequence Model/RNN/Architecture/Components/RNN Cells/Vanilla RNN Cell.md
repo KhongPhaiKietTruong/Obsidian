@@ -1,4 +1,4 @@
- ![[Pasted image 20260919005957.png|260]]
+
 ## Định Nghĩa 
 mỗi một RNN cell có công thức như sau:
 $$
@@ -8,7 +8,9 @@ $$
 &\hat{y}^{<t>}=g_{2}(W_{ya}a^{<t>}+b_{y})
 \end{align}
 $$
+## Ưu Điểm 
+không chỉ xét $x^{<t>}$ (từ hiện tại) mà còn xét cả [[Activations In RNN (Hidden State)]] của lớp trước 
 ## Nhược Điểm 
 - sẽ xảy ra hiện tượng [[Vanishing Gradient]], do trong cell có sử dụng [[Tanh]] 
 
- 
+ ![[Pasted image 20260921153536.png|226]]
