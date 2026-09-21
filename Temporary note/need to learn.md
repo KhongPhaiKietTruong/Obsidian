@@ -1,5 +1,6 @@
 review kiến thức olp ai:
 - [x] activation functions 
+- [x] batches 
 - [ ] 
 
 
