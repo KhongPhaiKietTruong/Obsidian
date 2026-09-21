@@ -1,0 +1,1 @@
+là lớp nằm giữa input layer và output layer 
