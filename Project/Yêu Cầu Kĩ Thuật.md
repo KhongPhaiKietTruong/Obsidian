@@ -16,4 +16,7 @@ tư duy lưu trữ: vòng đời CODE và cấu trúc PARA cấp doanh nghiệp
 tư duy xử lí: trạng thái tỉnh thức GTD và MoSCoW  
 tư duy giám sát: 5 rõ 
 
+dùng docker để đóng gòi phần mềm để đóng gói DX-LAB 
+
+có changelog, bug tracker 
 
