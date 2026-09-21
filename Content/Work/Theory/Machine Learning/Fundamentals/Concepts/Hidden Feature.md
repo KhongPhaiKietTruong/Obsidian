@@ -1,0 +1,4 @@
+dịch: đặc trưng ẩn
+## Định Nghĩa
+đặc trưng ẩn là đặc trưng  được tạo nên bằng cách kết
+ví dụ như ta đang thực hiện bài toán dự đoán xem mặt hàng này có bán được hay không dựa vào các feature là (marketing, giá, chi phí vận chuyển, vật liệu), ta có thể đoán được một trong các đặc trưng ẩn sẽ là "khả năng mua được của khách hàng" được tạo nên bởi 2 đặc trưng là ("giá", "chi phí vận chuyển"), và sẽ có những neural thể hiện đặc trưng này, khi trải qua nhiều lần [[Epoch]] huấn luyện, trọng số của hai feature ("marketing", "vật liệu") sẽ giảm dần (đang xét ở neural thể hiện đặc trưng ẩn là "khả năng mua được của khách hàng" nên hai feature này không có đóng góp nhiều) tới một mức độ mà output của nerual đó có giá trị nhỏ dần đều và gần như tắt
