@@ -32,4 +32,5 @@ giá trị của tanh là zero-centered (tham khảo thêm [[Tại sao muốn gi
 - dễ xảy ra hiện tượng [[Saturation]] -> gây ra [[Vanishing Gradient]] khi dùng làm [[Activation Function]] cho [[Hidden Layer]] 
 
 ## Mối Quan Hệ Với [[Sigmoid]]
-tanh về cơ bản là một hàm sigmoid được scale và dịch để ouput là zero-centered 
+tanh về cơ bản là một hàm sigmoid được scale và dịch để ouput là zero-centered:
+<center>tanh(x)=2σ(2x)−1</center>
