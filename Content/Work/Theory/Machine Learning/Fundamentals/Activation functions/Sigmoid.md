@@ -16,7 +16,7 @@ $$
 0 < \sigma'(x) \le \frac{1}{4}
 $$
 ## Nhược Điểm 
-dễ có hiện tượng bão hòa (saturation) khi [[Pre-activation Value]] z rất lớn hoặc rất nhỏ khiến cho đạo hàm tại điểm đó rất phẳng, tức g'(z) $\approx$ 0 gây ra [[Vanishing Gradient]] 
+dễ có hiện tượng [[Saturation]] khi dùng sigmoid trong hidden layer 
 ## Trường Hợp Sử Dụng 
 hàm này được sử dụng để:
 - làm lớp output bài toán phân loại nhị phân 
