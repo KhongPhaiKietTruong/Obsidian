@@ -1,5 +1,6 @@
 giải thích <khái_niệm> một cách đơn giản 
-nó giải quyết vấn đề gì (tại sao nó được tạo ra)
+nó làm gì ? 
+tại sao nó được tạo ra & được sử dụng ? 
 được sử dụng trong những trường hợp nào và không được sử dụng trong những trường hợp nào ? 
 nhược điểm ? ưu điểm ?
 nó có sự liên hệ gì với những kiến thức tôi đã học ?
