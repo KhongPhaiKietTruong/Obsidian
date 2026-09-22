@@ -9,7 +9,7 @@ người sử dụng: quản lí, nhân viên, người khác vào xem
 những điều mà ở tầng H của portal chúng ta sẽ có:
 - Calendar (xem lịch họp, sự kiện, chia sẻ sự kiện, ..)![[Pasted image 20260923005437.png]]
 ## tầng P 
-là tầng xử lí 
+là tầng xử lí, kết nối các task ở tầng H lại với nhau 
 ví dụ nhân viên gửi giấy xin nghỉ => tự động check các ràng buộc -> forward tới sếp chờ duyệ 
 
-## tầng 
+## tầng D 
