@@ -6,6 +6,6 @@ với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100
 ## Đặc Điểm 
 - ma trận mask sẽ được khởi tạo lại (ngẫu nhiên) mỗi sample / mini-batch được truyền vào
 ## Vị Trí Sử Dụng
-- Thường nằm đằng sau [[Activation Layer]] 
+- Thường nằm đằng sau [[Activation Layer]] và trước [[Fully Connected Layer (FC)]] 
 ## Drop Out ở Test Time 
 giả sử mạng neural ta có thực hiện dropout với prob_keep = 75% thì mỗi layer cho ra 0.75A thì mà [[Weight]] mà ta học được cũng tương ứng theo giá trị A đó, khi ta thực hiện [[Inference - Test time]] thì sẽ không có thành phần dropout thì mỗi layer cho ra A, điều này dẫn đến ta áp dụng các trọng số học được từ 0.75A lên A (từ lớp trước truyền đến) gây ra sự **không khớp** khiến mô hình dự đoán rất tệ do đó ta sẽ tắt drop out ở test time
