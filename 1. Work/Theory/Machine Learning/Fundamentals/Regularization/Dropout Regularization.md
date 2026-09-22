@@ -7,4 +7,4 @@ với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100
 dropout **không** được sử dụng ở **mọi** lớp, nhất là lớp output
 và ma trận mask sẽ được khởi tạo lại (ngẫu nhiên) mỗi sample / mini-batch được truyền vào
 
-giả sử mạng neural ta có thực hiện dropout với prob_keep = 25% thì mỗi layer cho ra 0.75A và dựa trên những layer cho ra ~0.75A đó mà [[Weight]] ta học được cũng tương ứng theo giá trị layer đó, khi ta thực hiện [[Inference - Test time]] thì sẽ không có thành phần dropout thì mỗi layer cho ra A, điều này dẫn đến ta áp dụng các trọng số học được từ 0.75A lên A (từ lớp trước truyền đến) gây ra sự **không khớp** khiến mô hình dự đoán rất tệ 
+giả sử mạng neural ta có thực hiện dropout với prob_keep = 25% thì mỗi layer cho ra 0.75A thì mà [[Weight]] mà ta học được cũng tương ứng theo giá trị A đó, khi ta thực hiện [[Inference - Test time]] thì sẽ không có thành phần dropout thì mỗi layer cho ra A, điều này dẫn đến ta áp dụng các trọng số học được từ 0.75A lên A (từ lớp trước truyền đến) gây ra sự **không khớp** khiến mô hình dự đoán rất tệ 
