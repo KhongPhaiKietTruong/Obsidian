@@ -7,4 +7,4 @@ hiện tượng này còn được gọi là high variance bởi vì nếu như 
 
 một cách khác để biết mô hình có overfitting không là ta dựa trên [[Baseline Error]], nếu khoảng cách giữa training error và baseline error là nhỏ (training error ~ baseline error) và validation error nằm cách xa training error thì mô hình đang bị overfit 
 
-giải pháp: [[Addressing Overfitting (Giải Quyết Overfitting)]]
+giải pháp: [[Addressing Overfitting]]
