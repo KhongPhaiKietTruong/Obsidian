@@ -8,9 +8,11 @@ người sử dụng: quản lí, nhân viên, người khác vào xem
 ## tầng H (nơi làm việc)
 những điều mà ở tầng H của portal chúng ta sẽ có:
 - Calendar (xem lịch họp, sự kiện, chia sẻ sự kiện, ..), lịch riêng của cá nhân đang sử dụng và lịch chung cả công ty 
-- dashboard: xem lịch trình của hôm nay, số task được giao, thông báo 
+- dashboard: xem lịch trình của hôm nay, thông báo, ghi note, ...
 - knowledge: lưu trữ các quy trình chuẩn của doanh nghiệp, lưu trữ tri thức của doanh nghiệp để nhân viên mới vào là làm được ngay 
-- File: lưu trữ file của doanh nghiệp dùng chung (file báo cáo doanh thu, ...)![[Pasted image 20260923005437.png]]
+- File: lưu trữ file của doanh nghiệp dùng chung (file báo cáo doanh thu, ...)
+- task: số task được giao, đang làm, đã hoàn thành (MoSCoW)
+- idenity: cái này không cần làm cái widget, làm cái nút đăng nhập ở trên là được , phải đảm bảo đăng nhập một lần và truy cập được tất cả những tiện ích ở tầng H![[Pasted image 20260923005437.png]]
 ## tầng P 
 là tầng xử lí, kết nối các task ở tầng H lại với nhau 
 ví dụ nhân viên gửi giấy xin nghỉ => tự động check các ràng buộc -> forward tới sếp chờ duyệ 
