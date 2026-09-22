@@ -9,7 +9,7 @@ người sử dụng: quản lí, nhân viên, người khác vào xem
 những điều mà ở tầng H của portal chúng ta sẽ có:
 - Calendar (xem lịch họp, sự kiện, chia sẻ sự kiện, ..), lịch riêng của cá nhân đang sử dụng và lịch chung cả công ty 
 - dashboard: xem lịch trình của hôm nay, thông báo, ghi note, ...
-- knowledge: lưu trữ các quy trình chuẩn của doanh nghiệp, lưu trữ tri thức của doanh nghiệp để nhân viên mới vào là làm được ngay 
+- knowledge: lưu trữ các quy trình chuẩn, chính sách của doanh nghiệp, lưu trữ tri thức của doanh nghiệp để nhân viên mới vào là làm được ngay 
 - File: lưu trữ file của doanh nghiệp dùng chung (file báo cáo doanh thu, ...)
 - task: số task được giao, đang làm, đã hoàn thành (MoSCoW) (Vikunja)
 - idenity: cái này không cần làm cái widget, làm cái nút đăng nhập ở trên là được , phải đảm bảo đăng nhập một lần và truy cập được tất cả những tiện ích ở tầng H, thực hiện RBAC (từng role có access riêng) (dùng keycloak)
