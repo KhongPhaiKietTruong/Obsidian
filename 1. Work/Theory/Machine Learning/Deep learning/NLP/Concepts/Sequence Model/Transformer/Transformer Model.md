@@ -6,3 +6,4 @@ mỗi một token có thể nhìn tới các token khác trong cùng một chu�
 transformer có thể tính toán song song ([[Multi-Head Attention]])
 ## Đặc Điểm 
 - trước khi được đưa vào encoder, các token được thêm thông tin về vị trí (positional encoding) 
+- 
