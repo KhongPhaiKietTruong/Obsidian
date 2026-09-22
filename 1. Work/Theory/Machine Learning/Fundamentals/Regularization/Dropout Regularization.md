@@ -3,23 +3,6 @@ dropout regularization giúp ta giảm [[Overfitting - High Variance]] ngăn ng�
 
 với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100\%$ đi số [[Neuron]] mỗi lớp, nghĩa là xét mỗi neural, có $(\text{keep\_prob})*100\%$  ta sẽ giữ neural đó lại và $(1-\text{keep\_prob})*100\%$ ta sẽ bỏ neural đó đi
 
-giả sử ta đang xét ở layer l 
-đầu tiên ta tính ma trận mask:
-```python
-d = np.random.rand(*a.shape) < keep_prob 
-#output: d = [1, 1, 0, 1, 0, 1, 1, 1, 1, 1] (giả sử shape của a là (1, 10))
-```
-
-sau đó ta thực hiện "tắt" những neural bị chọn bằng cách nhân giá trị của [[Activation Function]] của chúng nó cho 0 
-```python
-a_new = np.multiply(a_old, d)
-```
-
-sau đó ta chia a_new cho keep_prob
-```python
-a_new = a_new / keep_prob 
-```
-
 dropout **không** được sử dụng ở **mọi** lớp, nhất là lớp output
 và ma trận mask sẽ được khởi tạo lại (ngẫu nhiên) mỗi sample / mini-batch được truyền vào
 
