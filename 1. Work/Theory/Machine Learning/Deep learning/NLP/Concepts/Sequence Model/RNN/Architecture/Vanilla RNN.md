@@ -4,6 +4,7 @@ Dịch: mạng neural hồi quy
 RNN là một mô hình cho phép ta xử lí dữ liệu tuần tự như văn bản, giọng nói, ...  
 ![[Pasted image 20260921153206.png]]
 ## Đặc Điểm 
+- Sử dụng cơ chế Recurrence (lặp lại), hidden state của time step trước được đưa trở lại để tính toán ở hiện tại 
 - RNN sử dụng cùng một ma trận [[Weight]] W cho tất cả các time step 
 - Mỗi một cell chứa một vector [[Activations In RNN (Hidden State)]] (RNN cell $\neq$ [[Neuron]])
 - Sử dụng Backpropagation through time để training 
