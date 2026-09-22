@@ -1,0 +1,3 @@
+khi ta có [[Training Set]] nhỏ, ta có thể cho model học trên một tập dữ liệu lớn trước (có thể dữ liệu đó sẽ không liên quan đến bài toán hiện tại (nhưng cũng phải có sự tương quan nhất đinh, như kiểu đang giải dạng ảnh thì phải là dataset về ảnh) nhưng sẽ giúp model học được những đặc điểm cơ bản), ta thực hiện thay thế [[Output Layer]] của mạng ban đầu thành một hoặc một vài lớp output phù hợp với bài toán ta đang giải, tiếp theo ta sẽ có 2 options:
+- thực hiện train model trên lớp output hoặc một vài lớp cuối cùng  (nghĩa là trọng số của lớp hidden cũ bị đóng băng và trọng số lớp output được khởi tạo lại ngẫu nhiên và thực hiện train trên lớp output), điều này thường thực hiện khi ta có [[Training Set]] nhỏ 
+- [[Fine-Tuning]] 
