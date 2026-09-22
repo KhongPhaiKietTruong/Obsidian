@@ -3,3 +3,5 @@ xây dựng một portal trung tâm (web hoặc app) để điều phối tất 
 tìm kiếm các project mã nguồn mở và ghép nối chúng lại với nhau thành một hệ thống hoàn chỉnh cho doanh nghiệp 
 ![[Pasted image 20260921235629.png]]
 thực hiện những cái tác vụ ở tầng human như take note, lập lịch thì tự làm hay dùng project open source khác (nextcloud)
+
+những điều mà ở tầng H của portal chúng ta sẽ có:
