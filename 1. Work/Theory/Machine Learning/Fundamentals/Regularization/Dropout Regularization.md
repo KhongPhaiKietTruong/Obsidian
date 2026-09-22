@@ -3,7 +3,7 @@ dropout regularization giúp ta giảm [[Overfitting - High Variance]] ngăn ng�
 
 với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100\%$ đi số [[Neuron]] mỗi lớp, nghĩa là xét mỗi neural, có $(\text{keep\_prob})*100\%$  ta sẽ giữ neural đó lại và $(1-\text{keep\_prob})*100\%$ ta sẽ bỏ neural đó đi
 
-## Drop Out ở T
+## Drop Out ở Test Time 
 dropout **không** được sử dụng ở **mọi** lớp, nhất là lớp output
 và ma trận mask sẽ được khởi tạo lại (ngẫu nhiên) mỗi sample / mini-batch được truyền vào
 
