@@ -1,1 +1,0 @@
-Là loại cell mà input sẽ nhận vào [[Activations In RNN (Hidden State)]] của 
