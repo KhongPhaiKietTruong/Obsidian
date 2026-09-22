@@ -1,0 +1,1 @@
+Là loại cell mà input 
