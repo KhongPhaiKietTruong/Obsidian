@@ -1,0 +1,1 @@
+là loại layer nằm ở cuối [[Neural Network]], dùng để xuất ra kết quả cuối cùng của bài toán mà ta đang giải quyết, [[Cách chọn hàm kích hoạt]] 

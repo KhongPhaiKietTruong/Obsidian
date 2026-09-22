@@ -1,0 +1,1 @@
+là một [[Neural Network]] mà chỉ gồm các [[Fully Connected Layer (FC)]] kết nối với nhau 
