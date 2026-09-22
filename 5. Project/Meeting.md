@@ -15,8 +15,8 @@ những điều mà ở tầng H của portal chúng ta sẽ có:
 - idenity: cái này không cần làm cái widget, làm cái nút đăng nhập ở trên là được , phải đảm bảo đăng nhập một lần và truy cập được tất cả những tiện ích ở tầng H, thực hiện RBAC (từng role có access riêng) (dùng keycloak)
 ## tầng P 
 là tầng xử lí, kết nối các task ở tầng H lại với nhau 
-ví dụ nhân viên gửi giấy xin nghỉ => tự động check các ràng buộc -> forward tới sếp chờ duyệ 
-
+ví dụ nhân viên gửi giấy xin nghỉ => tự động check các ràng buộc -> forward tới sếp chờ duyệt 
+sử dụng nền tảng low code hoặc no code (thêm hàng vào databse)
 ## tầng D 
 lưu trữ dữ liệu (single source of truth) (dùng postgreSQL)
 đem tất cả dữ liệu từ tầng H về đây, xử lí, chuẩn hóa, sắp xếp, quản lí ở cùng một chỗ 
