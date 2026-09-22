@@ -7,16 +7,20 @@ thực hiện những cái tác vụ ở tầng human như take note, lập lị
 người sử dụng: quản lí, nhân viên, người khác vào xem 
 ## tầng H (nơi làm việc)
 những điều mà ở tầng H của portal chúng ta sẽ có:
-- Calendar (xem lịch họp, sự kiện, chia sẻ sự kiện, ..)![[Pasted image 20260923005437.png]]
+- Calendar (xem lịch họp, sự kiện, chia sẻ sự kiện, ..), lịch riêng của cá nhân đang sử dụng và lịch chung cả công ty 
+- dashboard: xem lịch trình của hôm nay, số task được giao, thông báo 
+- knowledge: lưu trữ các quy trình chuẩn của doanh nghiệp, lưu trữ tri thức của doanh nghiệp để nhân viên mới vào là làm được ngay 
+- File: lưu trữ file của doanh nghiệp dùng chung (file báo cáo doanh thu, ...)![[Pasted image 20260923005437.png]]
 ## tầng P 
 là tầng xử lí, kết nối các task ở tầng H lại với nhau 
 ví dụ nhân viên gửi giấy xin nghỉ => tự động check các ràng buộc -> forward tới sếp chờ duyệ 
 
 ## tầng D 
-lưu trữ dữ liệu (single source of truth)
+lưu trữ dữ liệu (single source of truth) (dùng postgreSQL)
 đem tất cả dữ liệu từ tầng H về đây, xử lí, chuẩn hóa, sắp xếp, quản lí ở cùng một chỗ 
-show ra những daskboard thể hiện được các chỉ số của doanh nghiệp như doanh thu, lợi nhuận, ...
+show ra những daskboard thể hiện được các chỉ số của doanh nghiệp như doanh thu, lợi nhuận, ... (apache superset imbed thẳng vào portal hoặc redirect qua web của nó)
 ví dụ: số task đã hoàn thành, số giấy xin nghỉ đợi được duyệt  
 
 ## tầng I
-AI đọc tất cả data từ tầng D và thực hiện gợi ý, trả lời câu hỏi, tự động thực hiện các task (task nhạy cảm thì phải có sự phê duyệt của con người)
+- AI đọc tất cả data từ tầng D và thực hiện gợi ý, trả lời câu hỏi (RAG, LLM)
+- tự động thực hiện các task (task nhạy cảm thì phải có sự phê duyệt của con người) (Agentic AI)
