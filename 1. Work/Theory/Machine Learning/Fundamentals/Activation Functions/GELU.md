@@ -1,0 +1,1 @@
+![[Pasted image 20260922172424.png]]thường dùng trong [[BERT]] và [[GPT]] 
