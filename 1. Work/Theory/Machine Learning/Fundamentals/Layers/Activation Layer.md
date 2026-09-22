@@ -1,0 +1,1 @@
+là loại layer chứa các [[Activation Function]] 
