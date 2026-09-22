@@ -9,7 +9,7 @@ $$
 $$
 ta dùng [[Activation Function]] là [[Tanh]] do có có bounded value (-1, 1) 
 ## Đặc Điểm 
-- Mỗi một cell chứa một vector [[Activations In RNN (Hidden State)]] 
+- Mỗi một cell chứa một vector [[Activations In RNN (Hidden State)]] (RNN cell $\neq$ [[Neuron]])
 ## Ưu Điểm 
 không chỉ xét $x^{<t>}$ (từ hiện tại) mà còn xét cả [[Activations In RNN (Hidden State)]] của lớp trước $h^{<t-1>}$ 
 ## Nhược Điểm 
