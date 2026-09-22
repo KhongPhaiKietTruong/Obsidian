@@ -10,6 +10,6 @@ với:
 - $\gamma^2$ sẽ quy định [[Variance (Phương Sai)]] 
 - $\beta$ sẽ quy định [[Mean value (Giá Trị Trung Bình)]], giá trị này cũng khiến [[Bias]] trở nên "thừa" do khi chuẩn hóa Z-score thì ta trừ [[Pre-activation Value]] cho giá trị trung bình rồi, khi đó $\beta$ sẽ thay thế bias trở thành bias mới 
 ## Đặc Điểm 
-- thường được sử dụng trước 
+- thường được sử dụng trước lớp activation 
 
 ​
