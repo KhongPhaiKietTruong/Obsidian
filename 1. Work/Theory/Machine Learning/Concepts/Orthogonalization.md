@@ -2,7 +2,7 @@ là một ý tưởng để điều chỉnh một [[Neural Network]] sao cho, v�
 ví dụ điển hình nhất là [[Early Stopping]], trong thực tế thường ít dùng vì khi ta dừng việc huấn luyện sớm, nó tác động đến cả hai mục tiêu là: [[Regularization]] và [[Optimizer]] 
 
 ví dụ khi model ta bị [[Underfitting - High Bias]] với:
-- [[Train Error]] 30%
+- [[Training Error]] 30%
 - [[Val Error - Dev Error]] 34% 
 
 đầu tiên, ta sẽ cố điều chỉnh training error, phương pháp mà ta thực hiện để giải quyết vấn đề này sẽ là:

@@ -1,4 +1,4 @@
-đây là một đồ thị gồm 2 đường đồ thị của [[Train Error]] và [[Val Error - Dev Error]]
+đây là một đồ thị gồm 2 đường đồ thị của [[Training Error]] và [[Val Error - Dev Error]]
 với trục y là độ lệch của model và trục x là số lượng mẫu trong [[Training Set]]
 
 dựa trên learning curve mà ta có thể đánh giá mô hình đang bị [[Overfitting - High Variance]] hay [[Underfitting - High Bias]] 
@@ -10,5 +10,5 @@ càng nhiều mẫu thì model học tốt hơn điều đó khiến validation 
 với underfitting thì:
 ![[Pasted image 20260901190642.png]]
 
-có thể thấy trong cả hai trường hợp thì [[Train Error]] đều tăng, điều đó là bình thường bởi vì số lượng mẫu càng tăng thì ta có nhiều độ lệch hơn và cộng vào khiến nó tăng lên 
+có thể thấy trong cả hai trường hợp thì [[Training Error]] đều tăng, điều đó là bình thường bởi vì số lượng mẫu càng tăng thì ta có nhiều độ lệch hơn và cộng vào khiến nó tăng lên 
 trong deep learning thì trục x của đồ thị đường cong học tập sẽ là [[Iteration]] chứ không phải số lượng mẫu trong training set
