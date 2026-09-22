@@ -1,3 +1,4 @@
+## Định Nghĩa 
 là một kĩ thuật giúp đưa giá trị [[Pre-activation Value]] về mức ổn định $\hat{z}$ trước khi truyền vào [[Activation Function]], nghĩa là $\hat{z}$ sẽ luôn có giá trị trung bình và phương sai gần như cố định mặc dù [[Weight]]  thay đổi do [[Gradient Descent]] thế nào đi nữa 
 
 đầu tiên ta thực hiện [[Standardization (Z-score normalization)]] để các giá trị trong batch trở thành $\hat{z}$ có $\mu \approx 0$ và $\sigma^2 \approx 1$ , sau đó ta thực hiện chuẩn hóa:
