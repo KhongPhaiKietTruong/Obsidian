@@ -4,9 +4,9 @@
 		- [[Crash cymbal]]
 		- [[Ride cymbal]]
 	- **Hi-hat**
-		- [[Passion/Drum/Tom/MOC]]
+		- [[6. Passion/Drum/Tom/MOC]]
 	- **Tom**
-		- [[Passion/Drum/Tom/MOC]]
+		- [[6. Passion/Drum/Tom/MOC]]
 	- [[Kick]]
 	- [[Snare-roll]]
 	- [[Snare]]
@@ -21,7 +21,7 @@
 	- [[Lick]]
 	- [[Pentatonic scale]]
 	- [[Power chord]]
-	- [[Passion/Guitar/Roadmap]]
+	- [[6. Passion/Guitar/Roadmap]]
 	- [[temporary]]
 - **Music breakdown**
 	- [[prologue - yuika]]
@@ -34,12 +34,12 @@
 		- [[Authentic cadence]]
 		- [[Deceptive cadence]]
 		- [[Half cadence]]
-		- [[Passion/Drum/Tom/MOC]]
+		- [[6. Passion/Drum/Tom/MOC]]
 		- [[Plagal cadence]]
 	- **Chord progression**
 		- [[Royal road progression]]
 	- **Chuyển tone - modulation**
-		- [[Passion/Drum/Tom/MOC]]
+		- [[6. Passion/Drum/Tom/MOC]]
 	- **Hợp âm**
 		- **Hợp âm 3 - triad**
 			- [[Định nghĩa]]
@@ -47,7 +47,7 @@
 			- [[Dominant 7 (V7)]]
 			- [[Major 7]]
 			- [[Minor 7]]
-			- [[Passion/Drum/Tom/MOC]]
+			- [[6. Passion/Drum/Tom/MOC]]
 		- [[Hợp âm - chord]]
 		- [[Hợp âm 5 - power chord]]
 		- [[Hợp âm add]]
@@ -65,7 +65,7 @@
 		- **Major scale**
 			- [[C major scale]]
 		- **Minor scale**
-			- [[Passion/Drum/Tom/MOC]]
+			- [[6. Passion/Drum/Tom/MOC]]
 		- [[Gam - thang âm - âm giai - scale]]
 	- **Substitution**
 		- [[Ác âm phụ - Secondary dominant]]
