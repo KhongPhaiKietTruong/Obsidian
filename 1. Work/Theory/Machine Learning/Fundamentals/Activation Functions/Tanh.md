@@ -21,14 +21,14 @@ $$
 0<\tanh'(z)\leq{1}
 $$
 ## Trường Hợp Sử Dụng 
-- dùng làm [[Activation Function]] trong [[Vanilla RNN Cell]] 
+- dùng làm [[Activations]] trong [[Vanilla RNN Cell]] 
 - dùng để tính candidate [[Activations In RNN (Hidden State)|Hidden State]] trong [[GRU cell]] 
 - tạo candidate cell state và hidden state trong [[LSTM cell]]
 ## Ưu Điểm
 giá trị của tanh là zero-centered (tham khảo thêm [[Tại sao muốn giá trị kích hoạt zero-centered]]) 
 
 ## Nhược Điểm 
-- dễ xảy ra hiện tượng [[Saturation]] -> gây ra [[Vanishing Gradient]] khi dùng làm [[Activation Function]] cho [[Hidden Layer]] 
+- dễ xảy ra hiện tượng [[Saturation]] -> gây ra [[Vanishing Gradient]] khi dùng làm [[Activations]] cho [[Hidden Layer]] 
 
 ## Mối Quan Hệ Với [[Sigmoid]]
 tanh về cơ bản là một hàm sigmoid được scale và dịch để ouput là zero-centered:

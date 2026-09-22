@@ -1,4 +1,4 @@
- khi ta chọn [[Activation Function]] là [[Sigmoid]] cho các hiddent layer, khi ta tính [[Gradient Descent]]:
+ khi ta chọn [[Activations]] là [[Sigmoid]] cho các hiddent layer, khi ta tính [[Gradient Descent]]:
 $$
 w = w-\alpha \frac{ \partial J }{ \partial w } 
 $$
