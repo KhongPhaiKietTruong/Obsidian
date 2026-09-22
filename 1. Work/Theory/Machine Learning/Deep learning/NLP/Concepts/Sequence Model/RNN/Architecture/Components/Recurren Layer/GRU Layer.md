@@ -1,0 +1,1 @@
+là [[Layer]] có các [[GRU cell]]

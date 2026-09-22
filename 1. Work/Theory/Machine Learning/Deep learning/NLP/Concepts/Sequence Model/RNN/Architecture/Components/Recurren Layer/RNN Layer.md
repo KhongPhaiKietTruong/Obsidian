@@ -1,0 +1,1 @@
+là loại [[Layer]] các [[Vanilla RNN Cell]] 

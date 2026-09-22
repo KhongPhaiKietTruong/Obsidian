@@ -1,1 +1,1 @@
-là lớp chứa [[Vanilla RNN Cell]], [[GRU cell]] hoặc [[LSTM cell]]  
+tham khảo [[1. Work/Theory/Machine Learning/Deep learning/NLP/Concepts/Sequence Model/RNN/Architecture/Components/Recurren Layer/Recurrent Layer|Recurrent Layer]] 
