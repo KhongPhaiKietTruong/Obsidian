@@ -5,3 +5,4 @@ tìm kiếm các project mã nguồn mở và ghép nối chúng lại với nha
 thực hiện những cái tác vụ ở tầng human như take note, lập lịch thì tự làm hay dùng project open source khác (nextcloud)
 
 những điều mà ở tầng H của portal chúng ta sẽ có:
+- Calendar (xem lịch họp, sự kiện, chia sẻ sự kiện, ..)
