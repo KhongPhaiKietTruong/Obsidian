@@ -19,7 +19,7 @@ review kiến thức olp ai:
 
 - [ ] một thuộc tính trong một table chứa giá trị là một list thì không vip phạm 1NF ? 
 - [ ] graph database ? 
-- [ ] teacher forcing ?
+- [x] teacher forcing ?
 
 - [ ] mô hình 3 lớp trong web là gì 
 - [ ] prepared statement 

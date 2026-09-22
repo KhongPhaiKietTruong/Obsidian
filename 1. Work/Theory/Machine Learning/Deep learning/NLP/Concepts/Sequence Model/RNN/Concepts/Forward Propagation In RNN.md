@@ -1,6 +1,6 @@
 ở mỗi time step có ý nghĩa là "biết được **tóm tắt thông tin** tất cả những từ ở **vị trí hiện tại đảo về trước** và **target của vị trí trước**, xác suất của tất cả các từ trong vocabulary có thể xuất hiện ở vị trí **tiếp theo** là gì"
 
-ở mỗi timestamp, thì ta truyền vào giá trị:  $x^{<t>}=y^{<t-1>}$ là [[Target Value]] tại time step trước, $a^{<t-1>}$ là tóm tắt thông tin của các time step trước ([[Activations In RNN (Hidden State)]]) từ đó ta tính được [[Pre-activation Value]] của time step hiện tại 
+ở mỗi timestamp, thì ta truyền vào giá trị:  $x^{<t>}=y^{<t-1>}$ là [[Target Value - Ground Truth]] tại time step trước, $a^{<t-1>}$ là tóm tắt thông tin của các time step trước ([[Activations In RNN (Hidden State)]]) từ đó ta tính được [[Pre-activation Value]] của time step hiện tại 
 
 công thức [[Forward Propogation]] trong RNN là:
 $$

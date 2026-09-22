@@ -16,7 +16,7 @@ g'(z) \in {0, 1}
 $$
 ## Trường Hợp Sử Dụng
 - là hàm kích hoạt thông dụng nhất cho [[Hidden Layer]]
-- dùng cho lớp output của bài toán hồi quy (khi [[Target Value]] là số không âm)
+- dùng cho lớp output của bài toán hồi quy (khi [[Target Value - Ground Truth]] là số không âm)
 ## Ưu Điểm 
 - chi phí tính toán thấp
 - giảm thiểu [[Vanishing Gradient]] (do đạo hàm của z>0 )(chỉ với trường hợp z là số dương)

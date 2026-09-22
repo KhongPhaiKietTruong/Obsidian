@@ -30,7 +30,7 @@
 - [[Pre-training]]
 - [[Predicted Value]]
 - [[Target Leakage]]
-- [[Target Value]]
+- [[Target Value - Ground Truth]]
 - [[Test Set]]
 - [[The Error]]
 - [[Train-dev]]
