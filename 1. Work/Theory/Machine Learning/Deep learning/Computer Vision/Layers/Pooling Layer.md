@@ -1,5 +1,5 @@
 ## Định nghĩa
-là một lớp dùng để giảm kích thước không gian của [[Output Tensor Z]] lại 
+là một lớp dùng để giảm [[Spatial Size]] của [[Output Tensor Z]] lại 
 cách hoạt động cũng gần giống như [[Filter]] khi mà ta có một ma trận trượt
 
 tùy vào loại pooling mà ta áp dụng hành động tương ứng lên cái vùng trong ma trận trượt
