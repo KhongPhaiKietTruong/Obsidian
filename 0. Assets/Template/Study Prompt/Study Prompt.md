@@ -4,6 +4,7 @@ tại sao nó được tạo ra & được sử dụng ?
 được sử dụng trong những trường hợp nào và không được sử dụng trong những trường hợp nào ? 
 nhược điểm ? ưu điểm ?
 nó có sự liên hệ gì với những kiến thức tôi đã học ?
+nó nằm ở đâu trong cái bản đồ của chủ đề to 
 
 I want to learn .
 
