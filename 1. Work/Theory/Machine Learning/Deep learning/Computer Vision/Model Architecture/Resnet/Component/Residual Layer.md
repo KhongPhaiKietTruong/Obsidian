@@ -1,0 +1,1 @@
+là các layer thực hiện tính toán để cho ra [[Residual Function]] 
