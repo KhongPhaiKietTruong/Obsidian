@@ -1,0 +1,1 @@
+xem ở [[Batch Norm Layer]]
