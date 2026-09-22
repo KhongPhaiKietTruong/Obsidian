@@ -4,6 +4,6 @@ Dịch: mạng neural hồi quy
 RNN là một mô hình cho phép ta xử lí dữ liệu tuần tự như văn bản, giọng nói, ...  
 ![[Pasted image 20260921153206.png]]
 ## Ưu Điểm 
-một trong những đặc điểm quan trọng nhất của RNN là nó giữ được thông tin của những input ở trước
+một trong những đặc điểm quan trọng nhất của RNN là nó giữ được thông tin của những input ở trước, nó có "trí nhớ" đối với những phần tử nằm trước thông qua [[Activations In RNN (Hidden State)]] 
 ## Nhược Điểm 
 
