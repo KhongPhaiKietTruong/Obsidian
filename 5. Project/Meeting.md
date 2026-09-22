@@ -13,3 +13,7 @@ là tầng xử lí, kết nối các task ở tầng H lại với nhau
 ví dụ nhân viên gửi giấy xin nghỉ => tự động check các ràng buộc -> forward tới sếp chờ duyệ 
 
 ## tầng D 
+lưu trữ dữ liệu (single source of truth)
+đem tất cả dữ liệu từ tầng H về đây, xử lí, chuẩn hóa, sắp xếp, quản lí ở cùng một chỗ 
+show ra những daskboard thể hiện được các chỉ số của doanh nghiệp như doanh thu, lợi nhuận, ...
+ví dụ: số task đã hoàn thành, số giấy xin nghỉ đợi được duyệt  
