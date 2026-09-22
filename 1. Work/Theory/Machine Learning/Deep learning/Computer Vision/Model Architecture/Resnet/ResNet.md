@@ -17,4 +17,4 @@ ta sẽ học để F(x)=0, từ đó ta có được hàm đồng nhất H(x)=x
 
 ## Tác Dụng 
 - giúp ta không cần phải xác định chính xác độ sâu của [[Neural Network]], bởi vì resnet cho phép ta dùng thừa [[Layer]] mà không làm model kém hiệu quả đi 
-- giúp ta train được mạng neural rất sâu 
+- giúp ta train được mạng neural rất sâu do đường đi của input "nhảy cóc" mà không phải đi qua tất cả layer nên việc tính gradient của nó sẽ nhanh hơn 
