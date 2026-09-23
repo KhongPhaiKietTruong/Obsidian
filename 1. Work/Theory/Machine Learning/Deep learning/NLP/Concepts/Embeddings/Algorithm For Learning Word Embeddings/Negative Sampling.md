@@ -9,5 +9,7 @@ Hyperparameters:
 ## Ưu Điểm 
 - giúp giảm chi phí tính toán đi nhiều 
 
+## Nhược 
+
 ## Nơi Sử Dụng
 được dùng trong skip-gram của seq2seq 
