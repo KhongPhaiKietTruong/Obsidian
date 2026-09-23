@@ -1,0 +1,3 @@
+![[Pasted image 20260919024222.png]]
+do cấu trúc này tính toán rất nhiều nên số lượng [[1. Work/Theory/Machine Learning/Deep learning/NLP/Concepts/Sequence Model/RNN/NLP Model Architecture/Components/Recurren Layer/Recurrent Layer]] sẽ khong nhiều và nối với nó và các deep net con 
+các cell cũng có thể tùy chọn thành cell như [[GRU cell]], [[LSTM cell]], ...
