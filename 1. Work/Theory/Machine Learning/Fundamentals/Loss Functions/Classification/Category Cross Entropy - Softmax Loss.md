@@ -14,6 +14,9 @@ với:
 - $a_{j}$ là kết quả dự đoán 
 - $y_{j}$ là đáp áp thực tế  
 
+> [!note]
+> Log ở đây thường là ln
+
 miền giá trị của hàm này là:
 $$
 Loss \in [0, +\infty)
