@@ -17,7 +17,7 @@
 - **Ensemble Learning**
 	- **Concepts**
 		- [[Weak Learner]]
-	- **[[Decision Tree (Cây Quyết Định)]]**
+	- **[[Decision Tree]]**
 		- [[Decision Stump]]
 		- [[Entropy (Mức độ hỗn loạn)]]
 		- [[Information Gain]]

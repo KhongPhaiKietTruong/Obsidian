@@ -1,1 +1,0 @@
-là [[Decision Tree (Cây Quyết Định)]] nhưng chỉ có độ sâu là 1, cũng chính là một [[Weak Learner]] 
