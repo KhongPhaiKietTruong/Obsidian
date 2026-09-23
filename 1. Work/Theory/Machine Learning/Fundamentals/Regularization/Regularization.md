@@ -7,3 +7,7 @@ $$J_{new} = J_{old} + penalty$$
 nếu chọn $\lambda$ quá lớn sẽ khiến cho mô hình bị [[Underfitting - High Bias]] khi mà các trọng số w sẽ rất nhỏ để hàm chi phí đạt giá trị nhỏ nhất
 còn nếu $\lambda$ quá nhỏ sẽ khiến cho mô hình bị [[Overfitting - High Variance]] khi mà các hệ số w có thể tăng lên rất cao mà không bị kiềm hãm bởi vì hệ số đi kèm của nó (tức $\lambda$) khiến cho mức độ đóng góp của hệ số vào hàm chi phí trở nên nhỏ
 ![[Pasted image 20260515181101.png|437]]
+## Tác Dụng 
+- giúp giảm [[Overfitting - High Variance]] 
+- tăng tính [[Generalization]] 
+- 
