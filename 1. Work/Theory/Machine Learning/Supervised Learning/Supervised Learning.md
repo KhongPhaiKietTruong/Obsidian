@@ -10,10 +10,10 @@
 		- [[Kernel SVM - Kernel Support Vecotr Machine]]
 		- [[Linear SVM - Linear Support Vector Machine]]
 	- [[Decision Boundary (Ranh Giới Quyết Định)]]
-	- [[Logistic Regression (Hồi Quy Logistic)]]
+	- [[Logistic Regression]]
 	- [[Multi-Class Classification]]
 	- [[Multi-Label Classification]]
-	- [[Softmax Regression (Hồi Quy Softmax)]]
+	- [[Softmax Regression]]
 - **Ensemble Learning**
 	- **Concepts**
 		- [[Weak Learner]]
