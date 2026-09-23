@@ -10,4 +10,4 @@ còn nếu $\lambda$ quá nhỏ sẽ khiến cho mô hình bị [[Overfitting - 
 ## Tác Dụng 
 - giúp giảm [[Overfitting - High Variance]] 
 - tăng tính [[Generalization]] 
-- 
+- giảm sự học đối với các noise và ngoại lệ trong dữ liệu (do đường trơn hơn)
