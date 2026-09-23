@@ -1,10 +1,17 @@
 ## Định Nghĩa
-dropout regularization giúp ta giảm [[Overfitting - High Variance]] ngăn ngừa hiện tượng [[Neural Network]] phụ thuộc nhiều vào một số [[Neuron]] nhất định bằng cách tắt ngẫu nhiên mỗi lần đưa mẫu vào, giúp các neural học đa dạng hơn
+dropout layer là lớp tắt ngẫu nhiên các neuron, giúp các neural học đa dạng hơn
 
 với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100\%$ đi số [[Neuron]] mỗi lớp, nghĩa là xét mỗi neural, có $(\text{keep\_prob})*100\%$  ta sẽ giữ neural đó lại và $(1-\text{keep\_prob})*100\%$ ta sẽ bỏ neural đó đi
 
 ## Đặc Điểm 
 - ma trận mask sẽ được khởi tạo lại (ngẫu nhiên) mỗi sample / mini-batch được truyền vào
+## Tác Dụng 
+- có tác dụng [[Regularization]] lên mô hình
+- giúp ta giảm [[Overfitting - High Variance]] ngăn ngừa hiện tượng [[Neural Network]] phụ thuộc nhiều vào một số [[Neuron]] 
+- tăng tính [[Generalization]] do giảm overfit 
+
+## Nhược Điểm 
+- nếu prob_keep quá thấp có thể khiến mô hình bị [[Underfitting - High Bias]] do tắt quá nhiều neuron
 ## Vị Trí Sử Dụng
 - Thường nằm đằng sau [[Activation Layer]] và trước [[Fully Connected Layer (FC)]] 
 ## Drop Out ở Test Time 

@@ -11,3 +11,5 @@ còn nếu $\lambda$ quá nhỏ sẽ khiến cho mô hình bị [[Overfitting - 
 - giúp giảm [[Overfitting - High Variance]] 
 - tăng tính [[Generalization]] 
 - giảm sự học đối với các noise và ngoại lệ trong dữ liệu (do đường trơn hơn)
+## Nhược Điểm 
+- áp dụng regularization quá mức sẽ khiến mô hình [[Underfitting - High Bias]] 
