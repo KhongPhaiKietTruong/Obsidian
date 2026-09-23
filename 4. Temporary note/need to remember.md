@@ -15,4 +15,6 @@ công thức tính ecludian ?
 cách tính kích thước ma trận sau tích chập 
 khi thực hiện [[Same Convolution]] thì padding phải thêm là bao nhiêu 
 
-có một optimizer tên là SGD nữa (trùng tên với phương pháp batch )
+có một optimizer tên là SGD nữa (trùng tên với phương pháp batch)
+công thức tính entropy
+công thức tính IG 
