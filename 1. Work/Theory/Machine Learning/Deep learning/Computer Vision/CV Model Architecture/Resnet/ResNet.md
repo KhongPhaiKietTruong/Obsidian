@@ -1,5 +1,4 @@
 là viết tắt của: Residual Network 
-
 ## Định Nghĩa 
 ResNet là một kiến trúc model dùng để giải quyết [[Optimization Degradation]] 
 tất cả là nhờ vào [[Skip Connection]], trong mạng neural bình thường, việc học các tham số để các [[Neuron]] ở lớp thừa sẽ rất khó, do đó,  ta cho sẵn nó là x luôn rồi học để biến cái phần thừa đi kèm x bằng 0 (để tất cả trở thành [[Idenity Function]])
@@ -18,3 +17,6 @@ ta sẽ học để F(x)=0, từ đó ta có được hàm đồng nhất H(x)=x
 ## Tác Dụng 
 - giúp ta không cần phải xác định chính xác độ sâu của [[Neural Network]], bởi vì resnet cho phép ta dùng thừa [[Layer]] mà không làm model kém hiệu quả đi 
 - giúp ta train được mạng neural rất sâu do đường đi của input "nhảy cóc" mà không phải đi qua tất cả layer nên việc tính gradient của nó sẽ hiệu quả hơn và còn giảm [[Vanishing Gradient]] nữa 
+
+## Sử dụng 
+Resnet50 thường là mô hình phổ biến nhất để làm [[Backbone]] trong các bài toán CV
