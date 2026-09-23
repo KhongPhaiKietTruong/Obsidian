@@ -1,1 +1,4 @@
 viết tắt của: Gaussian Error Linear Unit ![[Pasted image 20260922172424.png]]thường dùng trong [[BERT]] và [[GPT]] 
+
+## Đặc điểm
+- smooth hơn [[ReLU]] 
