@@ -1,1 +1,1 @@
-Plain model là model có các layer được sắp xếp nối tiếp nhau một cách "thảng", dữ liệu truyền đi không bị đứt đoạn hay nhảy 
+Plain model là model có các [[Layer]] được sắp xếp nối tiếp nhau một cách "thẳng", dữ liệu truyền đi không bị đứt đoạn hay nhảy 
