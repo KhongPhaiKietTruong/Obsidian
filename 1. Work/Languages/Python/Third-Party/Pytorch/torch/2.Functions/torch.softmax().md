@@ -1,0 +1,15 @@
+là [[Function (Hàm)]] nhận vào [[Vector]] các [[Logits]] và trả ra xác suất của chúng 
+![[Pasted image 20260923172753.png]]![[Pasted image 20260923172816.png]]
+```python
+
+import torch
+logits = torch.tensor([2.0, 1.0, 0.0])
+
+probs = torch.softmax(logits, dim=0)
+
+print(probs)
+# tensor([0.6652, 0.2447, 0.0900])
+
+print(probs.sum())
+# tensor(1.)
+```
