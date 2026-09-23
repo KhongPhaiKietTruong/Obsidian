@@ -1,4 +1,4 @@
-dạng này thường bị nhầm lẫn sang [[Multi-class Classification]]
+dạng này thường bị nhầm lẫn sang [[Multi-Class Classification]]
 
 dự đoán xem một input có bao nhiêu label 
 

@@ -11,7 +11,7 @@
 		- [[Linear SVM - Linear Support Vector Machine]]
 	- [[Decision Boundary (Ranh Giới Quyết Định)]]
 	- [[Logistic Regression (Hồi Quy Logistic)]]
-	- [[Multi-class Classification]]
+	- [[Multi-Class Classification]]
 	- [[Multi-Label Classification]]
 	- [[Softmax Regression (Hồi Quy Softmax)]]
 - **Ensemble Learning**

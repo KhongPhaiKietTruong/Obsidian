@@ -1,5 +1,5 @@
 # Định Nghĩa
-đây là một [[Activations]] được dùng trong **output layer** dạng toán phân loại với n lớp (n>2) ([[Multi-class Classification]]), giúp biến đổi các số thực thành phân phối xác suất 
+đây là một [[Activations]] được dùng trong **output layer** dạng toán phân loại với n lớp (n>2) ([[Multi-Class Classification]]), giúp biến đổi các số thực thành phân phối xác suất 
 có dạng là:
 $$
 a_{j}=\frac{e^{z_{j}}}{\sum_{k=1}^{K}e^{z_{k}}}
