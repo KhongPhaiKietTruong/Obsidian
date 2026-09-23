@@ -1,0 +1,1 @@
+thực hiện học ở tất cả các [[Layer]]
