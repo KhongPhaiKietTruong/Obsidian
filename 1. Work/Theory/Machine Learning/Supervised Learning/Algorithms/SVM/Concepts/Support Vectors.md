@@ -1,0 +1,1 @@
+là các điểm nằm gần với [[Decision Boundary]] nhất thuộc các class khác nhau 

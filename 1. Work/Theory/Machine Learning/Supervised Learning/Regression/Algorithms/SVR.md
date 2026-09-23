@@ -1,5 +1,7 @@
+viết tắt của support vector regression 
 
-là một dạng của 
+là phương pháp áp dụng [[SVM]] vào bài toán hồi quy 
+
 ý tưởng của SVR là chấp nhận những dự đoán trong khoảng sai số nhất định $\varepsilon$ so với giá trị thực sự 
 ```
     •  ← bị phạt

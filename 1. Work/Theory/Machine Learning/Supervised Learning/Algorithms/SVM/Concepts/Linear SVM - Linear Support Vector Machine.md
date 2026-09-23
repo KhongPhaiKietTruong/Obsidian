@@ -1,0 +1,1 @@
+là [[SVM]] có [[Decision Boundary]] là đường thẳng 

@@ -9,7 +9,7 @@
 			- [[Support Vectors]]
 		- [[Kernel SVM - Kernel Support Vecotr Machine]]
 		- [[Linear SVM - Linear Support Vector Machine]]
-	- [[Decision Boundary (Ranh Giới Quyết Định)]]
+	- [[Decision Boundary]]
 	- [[Logistic Regression]]
 	- [[Multi-Class Classification]]
 	- [[Multi-Label Classification]]
@@ -33,8 +33,8 @@
 	- [[Elastic Net Regression]]
 	- [[Lasso Regression]]
 	- [[Linear Regression]]
-	- [[Polynomial Regression (Hồi Quy Đa Thức)]]
+	- [[Polynomial Regression]]
 	- [[Ridge Regression]]
-	- [[SVR - Support Vector Regression]]
+	- [[SVR]]
 
 %% End Waypoint %%
