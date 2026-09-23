@@ -1,0 +1,1 @@
+thường chỉ gồm [[Output Layer]] những cũng có thể có thêm vài lớp để phục vụ cho bài toán đang giải 
