@@ -1,0 +1,1 @@
+dùng để khai báo [[cross]]
