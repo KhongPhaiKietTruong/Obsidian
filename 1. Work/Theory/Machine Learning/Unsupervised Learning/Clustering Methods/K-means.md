@@ -1,6 +1,5 @@
 chọn ngẫu nhiên vị trí của k điểm tâm cụm bằng cách chọn ngẫu nhiên k mẫu (nghĩa là lấy mẫu làm tâm cụm)
 
-
 duyệt qua từng mẫu và gán mẫu đo vào cụm của tâm cụm nào gần nó nhất
 xong lấy trung bình cộng các điểm của trọng cụm của từng tâm cụm xong di chuyển tâm cụm sang vị trí đó 
 lặp lại từ đầu 
