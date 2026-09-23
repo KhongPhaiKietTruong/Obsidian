@@ -10,3 +10,5 @@ Negative Sampling -> tạo các pair
 Hierachical Softmax classifier -> tạo cây 
 CBOW: dự đoán center dựa trên xung quanh
 Skip-gram: dự đoán xung quanh dựa trên center 
+
+công thức tính ecludian ? 
