@@ -2,7 +2,7 @@
 là một lớp dùng để giảm [[Spatial Size]] của [[Output Tensor Z]] lại 
 cách hoạt động cũng gần giống như [[Filter]] khi mà ta có một ma trận trượt
 
-tùy vào loại pooling mà ta áp dụng hành động tương ứng lên cái vùng trong ma trận trượt
+tùy vào loại vocapooling mà ta áp dụng hành động tương ứng lên cái vùng trong ma trận trượt
 **max pooling** thì lấy giá trị to nhất và **average pooling** thì lấy trung bình
 ![[Pasted image 20260916161334.png|477]]
 các hypterparameter trong lớp pooling không được học bằng [[Gradient Descent]] mà là do ta tự định nghĩa, các hyperparameter gồm:
