@@ -1,4 +1,4 @@
-logits (n): 
+logits (n): điểm số thô, giá trị đầu ra chưa chuẩn hóa 
 multinominal (adj):
 model (v): mô hình hóa 
 stochastic 
