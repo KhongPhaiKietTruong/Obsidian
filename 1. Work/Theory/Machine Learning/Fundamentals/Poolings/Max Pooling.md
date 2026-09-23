@@ -1,0 +1,1 @@
+lấy phần tử lớn nhất trong ma trận pool 
