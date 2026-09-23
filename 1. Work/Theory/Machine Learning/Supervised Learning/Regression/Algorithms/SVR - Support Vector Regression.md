@@ -1,3 +1,5 @@
+
+là một dạng của 
 ý tưởng của SVR là chấp nhận những dự đoán trong khoảng sai số nhất định $\varepsilon$ so với giá trị thực sự 
 ```
     •  ← bị phạt

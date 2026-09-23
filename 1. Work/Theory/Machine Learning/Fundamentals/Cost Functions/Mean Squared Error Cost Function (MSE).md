@@ -16,7 +16,7 @@ lưu ý: với công thức ở trên là tổng quát, hàm cost thực sự c�
 
 ta chia cho 2m là để khi lấy đạo hàm cost function này, số 2 từ mũ của [[The Error]] sẽ đem xuống và tụi nó triệt tiêu nhau giúp phương trình đẹp và tính toán dễ hơn nhưng không làm thay đổi bản chất bài toán
 
-nếu ta sử dụng MSE với [[Linear Regression (Hồi Quy Tuyến Tính)]] thì hàm số sẽ là một [[Convex Function]] và ta sẽ dễ dàng tìm được giá trị nhỏ nhất 
+nếu ta sử dụng MSE với [[Linear Regression]] thì hàm số sẽ là một [[Convex Function]] và ta sẽ dễ dàng tìm được giá trị nhỏ nhất 
 
 tuy nhiên, ta không thể dùng MSE cho bài toán phân loại bởi vì đồ thị của nó không phải là dạng đồ thị lồi mà là một dạng đồ thị có rất nhiều [[Local Minimum (Cực Tiểu Cục Bộ)]] khiến cho việc tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] rất khó khăn
 

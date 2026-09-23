@@ -29,10 +29,10 @@
 			- [[XGBoost]]
 		- [[Bagging - Sampling with replacement]]
 		- [[Random Forest]]
-- **[[Regression (Hồi Quy)]]**
+- **[[Regression]]**
 	- [[Elastic Net Regression]]
 	- [[Lasso Regression]]
-	- [[Linear Regression (Hồi Quy Tuyến Tính)]]
+	- [[Linear Regression]]
 	- [[Polynomial Regression (Hồi Quy Đa Thức)]]
 	- [[Ridge Regression]]
 	- [[SVR - Support Vector Regression]]
