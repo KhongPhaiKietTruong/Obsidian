@@ -27,4 +27,4 @@ review kiến thức olp ai:
 ![[Pasted image 20260921155758.png]]![[Pasted image 20260921161333.png|594]]Các kĩ thuật fine-tuning?
 backbone là gì 
 cấu tạo residual block 
-ViT là gì 
+- [ ] ViT là gì 
