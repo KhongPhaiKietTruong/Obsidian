@@ -5,3 +5,4 @@ loại kiến trúc này giúp chúng ta có thể kiểm soát độ lớn/nh�
 - sử dụng compound scaling 
 ## Công Dụng 
 - thường dùng làm [[Backbone]] trong dạng bài phân loại 
+- tăng độ chính xác mà không làm tăng chi phí tính toán quá nhiều 
