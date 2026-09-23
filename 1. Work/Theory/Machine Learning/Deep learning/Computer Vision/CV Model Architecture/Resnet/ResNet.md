@@ -21,4 +21,4 @@ ta sẽ học để F(x)=0, từ đó ta có được hàm đồng nhất H(x)=x
 ## Sử dụng 
 Resnet50 thường là mô hình phổ biến nhất để làm [[Backbone]] trong các bài toán CV
 
-![[Pasted image 20260924001218.png]]
+![[Pasted image 20260924001411.png]]
