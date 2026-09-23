@@ -18,3 +18,4 @@ khi thực hiện [[Same Convolution]] thì padding phải thêm là bao nhiêu
 có một optimizer tên là SGD nữa (trùng tên với phương pháp batch)
 công thức tính entropy
 công thức tính IG 
+công thức tính softmax 
