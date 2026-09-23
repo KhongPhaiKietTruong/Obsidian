@@ -6,14 +6,14 @@ review kiến thức olp ai:
 
 - [x] XML file là gì ?
 - [ ] the architecture for a servlet/JSP application
-- [x] viet ung dung web dau tien va dua len hosting (mon lap trinh web)
+- [ ] viet ung dung web dau tien va dua len hosting (mon lap trinh web)
 - [ ] stateless 
 - [x] response, request ? 
 - [ ] private ip vs public ip 
 - [x] back propagation
-- [ ] leaky relu vs relu 
-- [ ] activation tanh 
-- [ ] bayes' error
+- [x] leaky relu vs relu 
+- [x] activation tanh 
+- [x] bayes' error
 - [ ] forbenius norm 
 - [ ] gray encoding 
 
@@ -24,7 +24,7 @@ review kiến thức olp ai:
 - [ ] mô hình 3 lớp trong web là gì 
 - [ ] prepared statement 
 - [ ] connection poding 
-![[Pasted image 20260921155758.png]]![[Pasted image 20260921161333.png|594]]Các kĩ thuật fine-tuning?
-backbone là gì 
-cấu tạo residual block 
+![[Pasted image 20260921155758.png]]![[Pasted image 20260921161333.png|594]]- [ ] Các kĩ thuật fine-tuning?
+- [x] backbone là gì 
+- [x] cấu tạo residual block 
 - [ ] ViT là gì 
