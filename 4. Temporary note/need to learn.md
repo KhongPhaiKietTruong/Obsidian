@@ -24,7 +24,8 @@ review kiến thức olp ai:
 - [ ] mô hình 3 lớp trong web là gì 
 - [ ] prepared statement 
 - [ ] connection poding 
-![[Pasted image 20260921155758.png]]![[Pasted image 20260921161333.png|594]]- [ ] Các kĩ thuật fine-tuning?
+![[Pasted image 20260921155758.png]]![[Pasted image 20260921161333.png|594]] 
+- [x] Các kĩ thuật fine-tuning?
 - [x] backbone là gì 
 - [x] cấu tạo residual block 
 - [ ] ViT là gì 
