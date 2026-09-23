@@ -29,3 +29,4 @@ review kiến thức olp ai:
 - [x] backbone là gì 
 - [x] cấu tạo residual block 
 - [ ] ViT là gì 
+- [ ] mô hình BERT, GPT 
