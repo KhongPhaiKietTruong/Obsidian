@@ -12,3 +12,4 @@ CBOW: dự đoán center dựa trên xung quanh
 Skip-gram: dự đoán xung quanh dựa trên center 
 
 công thức tính ecludian ? 
+cách tính kích thước ma trận sau tích chập 
