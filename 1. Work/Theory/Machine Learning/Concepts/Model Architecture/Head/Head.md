@@ -1,1 +1,1 @@
-thường chỉ gồm [[Output Layer]] những cũng có thể có thêm vài lớp để phục vụ cho bài toán đang giải 
+thường chỉ gồm [[Output Layer]] những cũng có thể có thêm vài lớp để phục vụ cho bài toán đang giải do đó cũng có nhiều loại head khác nhau 
