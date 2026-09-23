@@ -7,9 +7,10 @@ có phương pháp hiệu quả hơn là biến vấn đề đó thành binary c
 Hyperparameters:
 - k: số lượng mẫu negative (chọn k = 5-20 nếu [[Training Set]] nhỏ và k = 2-5 nếu training set  lớn )
 ## Ưu Điểm 
-- giúp giảm chi phí tính toán đi nhiều 
+- giúp giảm chi phí tính toán đi nhiều so với dùng [[Softmax]] truyền thống 
 
-## Nhược 
+## Nhược Điểm 
+- các pair có thể quá dễ khiến việc học không tốt 
 
 ## Nơi Sử Dụng
 được dùng trong skip-gram của seq2seq 
