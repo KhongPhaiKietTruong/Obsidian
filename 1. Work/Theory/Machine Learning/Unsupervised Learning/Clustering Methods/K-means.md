@@ -1,3 +1,7 @@
+## Định Nghĩa
+là một thuật toán trong học không giám sát giúp chia dữ liệu thành k cụm tương ứng với k class
+
+## Cách Hoạt Động 
 chọn ngẫu nhiên vị trí của k điểm tâm cụm bằng cách chọn ngẫu nhiên k mẫu (nghĩa là lấy mẫu làm tâm cụm)
 
 duyệt qua từng mẫu và gán mẫu đo vào cụm của tâm cụm nào gần nó nhất
@@ -12,6 +16,8 @@ có k cluster
 $c^{(i)}$ là một con số (1...K) thể hiện cluster mà mẫu thứ i thuộc về 
 $\mu_{k}$ là tọa độ tâm cụm của cụm thứ k 
 $\mu_{c^{(i)}}$ là tạo độ tâm cụm của cụm 
+
+## Cost Function Trong K-Means 
 
 cost function của K-means còn được gọi là distortion fucntion mà nó hoàn toàn có thể mắc kẹt ở cực tiểu cục bộ, hai cái dưới chính là cực tiểu cục bộ 
 giải pháp: chạy k-means nhiều lần và chọn cái mà có cost function nhỏ nhất (thường chạy 100 lần)
