@@ -7,7 +7,7 @@
 		- **Concepts**
 			- [[Margin Boundary]]
 			- [[Support Vectors]]
-		- [[Kernel SVM - Kernel Support Vecotr Machine]]
+		- [[Kernel SVM - Nonlinear SVM]]
 		- [[Linear SVM - Linear Support Vector Machine]]
 	- [[Decision Boundary]]
 	- [[Logistic Regression]]
