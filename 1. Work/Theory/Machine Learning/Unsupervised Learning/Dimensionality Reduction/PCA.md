@@ -12,5 +12,12 @@ C=w_{1}A+w_{2}​B
 $$
 mục đích chính của PCA để huấn luyện mô hình nhanh hơn, loại bớt các [[Features]] thừa
 
-## Đặc Điểm 
-- PCA rất nhạy cảm với ngoại lệ 
+## Công Dụng 
+- giảm chiều dữ liệu 
+- giảm noise dữ liệu
+- giúp minh họa dữ liệu
+- giúp train nhanh hơn do dữ liệu ít chiều hơn 
+
+## Nhược Điểm
+- nhạy cảm với ngoại lệ 
+- 
