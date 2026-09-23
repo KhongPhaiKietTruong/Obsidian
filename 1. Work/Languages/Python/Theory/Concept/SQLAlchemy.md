@@ -1,4 +1,4 @@
-là một thư viện giúp chuyển database, [[Table (Bảng)]] thành các [[Class (Lớp)]] trong python để ta có thể dễ dàng làm việc với database đó mà không cần viết các câu truy vấn sql phức tạp 
+là một thư viện giúp chuyển database, [[Table (Bảng)]] thành các [[1. Work/Theory/OOP/Theory/Class]] trong python để ta có thể dễ dàng làm việc với database đó mà không cần viết các câu truy vấn sql phức tạp 
 ví dụ
 ```
 # cach truyen thong

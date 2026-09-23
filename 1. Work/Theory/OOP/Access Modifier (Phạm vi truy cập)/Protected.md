@@ -1,1 +1,1 @@
-Các [[Attribute (Thuộc tính)]] được gán với phạm vi protected thì attribute đó chỉ được truy cập trong nội bộ [[Class (Lớp)|Class (Lớp)]] định nghĩa ra chúng và trong các class con có [[Inheritance]] từ class đó
+Các [[Attribute (Thuộc tính)]] được gán với phạm vi protected thì attribute đó chỉ được truy cập trong nội bộ [[1. Work/Theory/OOP/Theory/Class|Class (Lớp)]] định nghĩa ra chúng và trong các class con có [[Inheritance]] từ class đó

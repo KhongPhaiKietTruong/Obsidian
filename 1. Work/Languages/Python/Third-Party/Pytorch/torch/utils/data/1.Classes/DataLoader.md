@@ -11,7 +11,7 @@ for epoch in range(epochs):
 ​	​	...
 ```
 với các tham số:
-- với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng các lớp con của [[torch.utils.data.Dataset]] (như TensorDataset) hoặc tự khởi tạo một custom Dataset object bằng cách tạo một [[Class (Lớp)]] kế thừa từ torch.utils.data.Dataset  
+- với dataset_object là một [[Object (Đối tượng)]] được khởi tạo bằng các lớp con của [[torch.utils.data.Dataset]] (như TensorDataset) hoặc tự khởi tạo một custom Dataset object bằng cách tạo một [[1. Work/Theory/OOP/Theory/Class]] kế thừa từ torch.utils.data.Dataset  
 - shuffle: xáo trộn các mẫu trước khi tạo các batch 
 - pin_memory: bật tham số này giúp việc đem Tensor/Model qua GPU nhanh hơn, giúp việc training nhanh (xem thêm ở [[huẩn luyện model trên gpu]])
 

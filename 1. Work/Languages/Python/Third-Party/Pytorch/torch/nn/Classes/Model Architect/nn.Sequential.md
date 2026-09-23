@@ -1,4 +1,4 @@
-đây là một [[class]] dùng để tạo ra một container chứa các [[Layer]] kế thừa từ [[nn.Module]], khác ở chỗ là class này đã tự định nghĩa hàm [[Forward Propogation]] thay vì phải tự định nghĩa như nn.Module, hàm [[Forward Propogation]] của class này sẽ xử lí tuần tự từng layer từ trái qua phải và không có các logic phức tạp để bỏ qua layer nào
+đây là một [[1. Work/Languages/Frontend/HTML/Theory/Attribute/class]] dùng để tạo ra một container chứa các [[Layer]] kế thừa từ [[nn.Module]], khác ở chỗ là class này đã tự định nghĩa hàm [[Forward Propogation]] thay vì phải tự định nghĩa như nn.Module, hàm [[Forward Propogation]] của class này sẽ xử lí tuần tự từng layer từ trái qua phải và không có các logic phức tạp để bỏ qua layer nào
 ```python
 x = torch.tensor([200.0, 17.0])
 model = nn.Sequential(

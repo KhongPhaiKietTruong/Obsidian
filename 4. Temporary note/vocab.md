@@ -9,3 +9,4 @@ stay tuned (v): hãy tiếp tục theo dõi
 probe (v): dò tìm 
 discrimanitive (adj): phân biệt 
 penultimate (adj): gần cuối 
+negate (v)

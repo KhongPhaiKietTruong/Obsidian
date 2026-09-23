@@ -1,7 +1,7 @@
 %% Begin Waypoint %%
 - **Theory**
 	- **Attribute**
-		- [[class]]
+		- [[1. Work/Languages/Frontend/HTML/Theory/Attribute/class]]
 		- [[id]]
 		- [[lang]]
 		- [[style]]

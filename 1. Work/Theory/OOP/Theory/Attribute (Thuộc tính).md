@@ -1,1 +1,1 @@
-là các [[Variables (Biến)]] thể hiện cho đặc điểm của [[Class (Lớp)]] hiện tại 
+là các [[Variables (Biến)]] thể hiện cho đặc điểm của [[1. Work/Theory/OOP/Theory/Class]] hiện tại 
