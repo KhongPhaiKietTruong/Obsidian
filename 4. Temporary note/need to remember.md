@@ -23,3 +23,6 @@ công thức tính softmax
 he initialization là dành riêng cho relu và biến thể của nó 
 Momentum -> hướng 
 RMSProp-> độ lớn 
+
+skip connection trong resnet là phép cộng theo element-wise 
+skip connect triong u-net là phép nối theo channel-wise 
