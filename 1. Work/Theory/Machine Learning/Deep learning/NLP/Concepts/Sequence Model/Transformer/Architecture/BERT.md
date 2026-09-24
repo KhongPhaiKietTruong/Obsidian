@@ -10,3 +10,10 @@ BERT có thể học để hiểu được ngôn ngữ
 - Question Awnsering 
 - Semantic Similarity and Information Retrivial 
 - Masked Language Modeling 
+
+## Pretraining 
+### MLM (Masked Language Model)
+cho các từ xung quanh, dự đoán từ ở giữa 
+
+### NSP (Next Sentence Prediction)
+xem xem câu tiếp theo có liên quan với câu ở phía trước không 
