@@ -26,3 +26,5 @@ ví dụ: số task đã hoàn thành, số giấy xin nghỉ đợi được du
 ## tầng I
 - AI đọc tất cả data từ tầng D và thực hiện gợi ý, trả lời câu hỏi (RAG, LLM)
 - tự động thực hiện các task (task nhạy cảm thì phải có sự phê duyệt của con người) (Agentic AI)
+
+## 
