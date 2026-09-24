@@ -11,7 +11,7 @@
 		- [[Marginal distribution]]
 	- [[Binomial distribution]]
 	- [[Cumulative distribution function]]
-	- [[Normal distribution (Gaussian distribution)]]
+	- [[Normal Distribution (Gaussian distribution)]]
 	- [[Uniform distribution (Phân Phối Đều)]]
 - **Measures**
 	- [[Binomial coefficient]]

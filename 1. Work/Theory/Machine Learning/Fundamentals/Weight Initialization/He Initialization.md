@@ -7,7 +7,7 @@ $$
 W \sim N\left( 0,  \frac{2}{n_{in}}  \right) 
 $$
 với:
-- N là [[Normal distribution (Gaussian distribution)]] 
+- N là [[Normal Distribution (Gaussian distribution)]] 
 
 triển khai trong code
 ```python

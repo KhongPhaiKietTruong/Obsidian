@@ -1,6 +1,6 @@
 dịch: định lí giới hạn trung tâm
 
-định lí này nói rằng, giả sử ta có một [[Population | quần thể]], ta lấy rất nhiều [[Sample | mẫu]] có kích thước n đủ lớn (n>30)  từ quần thể đó và tính [[Sample mean | trung bình mẫu]] của từng mẫu, vẽ biểu đồ tuần suất của các trung bình mẫu này thì ta sẽ có được [[Normal distribution (Gaussian distribution) | phân phối chuẩn]]
+định lí này nói rằng, giả sử ta có một [[Population | quần thể]], ta lấy rất nhiều [[Sample | mẫu]] có kích thước n đủ lớn (n>30)  từ quần thể đó và tính [[Sample mean | trung bình mẫu]] của từng mẫu, vẽ biểu đồ tuần suất của các trung bình mẫu này thì ta sẽ có được [[Normal Distribution (Gaussian distribution)| phân phối chuẩn]]
 
 định lí này có tính chất là:
 - trung bình của các trung bình mẫu sẽ bằng với trung bình của quần thể gốc
