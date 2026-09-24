@@ -15,3 +15,4 @@ latent (adj): ẩn, tiềm ẩn
 revocation (n): sự thu hồi 
 reproducibility (n): 
 affinity (n): sự tương đồng 
+stratify (v): phân tầng 
