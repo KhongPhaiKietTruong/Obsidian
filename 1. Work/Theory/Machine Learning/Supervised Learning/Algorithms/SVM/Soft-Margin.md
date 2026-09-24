@@ -1,0 +1,1 @@
+mềm hơn [[Hard-Margin]] khi cho phép xâm phạm (một vài mẫu của class này có thể nằm ở class kia )

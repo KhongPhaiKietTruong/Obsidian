@@ -1,1 +1,1 @@
-đảm bảo cái class phải được chia ra rõ ràng , không có mẫu nào nằm ở phía kia 
+đảm bảo cái class phải được chia ra rõ ràng , không có mẫu nào nằm ở phía kia còn lại (không cho phép xâm phạm)
