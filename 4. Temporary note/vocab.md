@@ -11,3 +11,4 @@ discrimanitive (adj): phân biệt
 penultimate (adj): gần cuối 
 negate (v)
 invariant (adj): không thay đổi 
+latent (adj): ẩn, tiềm ẩn 
