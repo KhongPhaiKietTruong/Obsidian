@@ -10,3 +10,4 @@ probe (v): dò tìm
 discrimanitive (adj): phân biệt 
 penultimate (adj): gần cuối 
 negate (v)
+invariant (adj): không thay đổi 
