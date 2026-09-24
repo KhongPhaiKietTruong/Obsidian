@@ -11,10 +11,10 @@ BERT có thể học để hiểu được ngôn ngữ
 - Semantic Similarity and Information Retrivial 
 - Masked Language Modeling 
 
-## Pretraining 
+## Pretraining (Pass 1)
 trong pretraining của BERT sẽ có hai mục tiêu huấn luyện là MLM và NSP để trả lời BERT trả lời được hai câu hỏi: "ngôn ngữ là gì", "bối cảnh là gì"
 ### MLM (Masked Language Model)
 cho các từ xung quanh, dự đoán từ ở giữa 
 
 ### NSP (Next Sentence Prediction)
-xem xem câu tiếp theo có liên quan với câu ở phía trước không 
+xem xem câu tiếp theo có liên quan với câu ở phía trước không (dạng phân loại nhị phân)
