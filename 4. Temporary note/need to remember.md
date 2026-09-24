@@ -19,3 +19,7 @@ có một optimizer tên là SGD nữa (trùng tên với phương pháp batch)
 công thức tính entropy
 công thức tính IG 
 công thức tính softmax 
+
+he initialization là dành riêng cho relu và biến thể của nó 
+Momentum -> hướng 
+RMSProp-> độ lớn 
