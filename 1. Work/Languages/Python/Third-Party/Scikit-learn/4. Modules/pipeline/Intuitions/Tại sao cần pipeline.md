@@ -1,0 +1,1 @@
+khi làm việc với bài toán machine learning, ta phải trải qua nhiều công đoạn, như điền giá trị thiếu, chuẩn hóa dữ liệu, thực hiện học, ... pipeline giúp ta gom các công đoạn đó lại thành một object duy nhất để dễ dàng làm việc 
