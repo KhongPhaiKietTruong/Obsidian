@@ -14,3 +14,4 @@ invariant (adj): không thay đổi
 latent (adj): ẩn, tiềm ẩn 
 revocation (n): sự thu hồi 
 reproducibility (n): 
+affinity (n): sự tương đồng 
