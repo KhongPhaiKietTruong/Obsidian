@@ -1,4 +1,4 @@
-viết tắt của: Gaussian Error Linear Unit ![[Pasted image 20260922172424.png]]thường dùng trong [[BERT]] và [[GPT]] 
+viết tắt của: Gaussian Error Linear Unit ![[Pasted image 20260922172424.png]]thường dùng trong [[1. Work/Theory/Machine Learning/Deep learning/NLP/Concepts/Sequence Model/Transformer/Architecture/BERT]] và [[1. Work/Theory/Machine Learning/Deep learning/NLP/Concepts/Sequence Model/Transformer/Architecture/GPT]] 
 
 ## Đặc điểm
 - smooth hơn [[ReLU]] 
