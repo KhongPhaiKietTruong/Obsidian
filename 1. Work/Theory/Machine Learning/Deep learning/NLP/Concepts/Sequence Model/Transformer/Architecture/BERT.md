@@ -12,6 +12,7 @@ BERT có thể học để hiểu được ngôn ngữ
 - Masked Language Modeling 
 
 ## Pretraining 
+trong pretraining của BERT sẽ có hai mục tiêu huấn luyện là MLM và NSP để trả lời BERT trả lời được hai câu hỏi: "ngôn ngữ là gì", "bối cảnh là gì"
 ### MLM (Masked Language Model)
 cho các từ xung quanh, dự đoán từ ở giữa 
 
