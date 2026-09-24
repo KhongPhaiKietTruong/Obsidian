@@ -1,1 +1,0 @@
-là một Decoder-Only Model 
