@@ -5,7 +5,7 @@
 - [[Augmented matrix (Ma Trận Mở Rộng)]]
 - [[Basis (cơ sở)]]
 - [[Covariance matrix (Ma Trận Hiệp Phương Sai)]]
-- [[Cross product]]
+- [[Cross Product]]
 - [[Determinant of a product]]
 - [[Determinant]]
 - [[Dot product (Tích Vô Hướng)]]
