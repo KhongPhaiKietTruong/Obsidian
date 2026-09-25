@@ -1,1 +1,1 @@
-dùng để thực hiện [[Normalization]]  
+dùng để thực hiện [[Feature Normalization]]   
