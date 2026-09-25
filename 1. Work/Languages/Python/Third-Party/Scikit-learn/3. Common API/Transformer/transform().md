@@ -1,0 +1,1 @@
+thực hiện biến đổi dữ liệu theo các thông số đã học được 

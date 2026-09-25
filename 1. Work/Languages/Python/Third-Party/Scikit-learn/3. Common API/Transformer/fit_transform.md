@@ -1,0 +1,1 @@
+thực hiện [[fit()]] để học các thông số từ dữ liệu và thực hiện [[transform()]] để biến đổi dữ liệu 
