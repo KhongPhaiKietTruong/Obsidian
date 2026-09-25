@@ -10,7 +10,7 @@
 	- [[Public]]
 - **Theory**
 	- [[1. Work/Theory/OOP/Theory/Abstract Class (Lớp trừu tượng)]]
-	- [[Attribute (Thuộc tính)]]
+	- [[Attribute]]
 	- [[1. Work/Theory/OOP/Theory/Class]]
 	- [[Constructor (Hàm khởi tạo)]]
 	- [[1. Work/Theory/OOP/Theory/Getter]]
