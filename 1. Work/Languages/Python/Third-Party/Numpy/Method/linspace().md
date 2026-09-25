@@ -1,4 +1,7 @@
 giúp tạo ma trận 1 chiều với số lượng điểm và khoảng ta quy định, nó sẽ tự động tính bước nhảy
+```python
+np.linspace(start, end, number_of_elements)
+```
 
 ```python
 a = np.linspace(0, 10, 5)
