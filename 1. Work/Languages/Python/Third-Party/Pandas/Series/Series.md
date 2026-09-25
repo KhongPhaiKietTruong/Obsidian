@@ -1,4 +1,4 @@
-Là một [[Object (Đối tượng)]] trong pandas tương tự như [[Dictionary]] gồm các key và value, nếu [[DataFrame]] là một cái bảng thì Series là một cột hoặc hàng trong bảng đó
+Là một [[1. Work/Theory/OOP/Theory/Object]] trong pandas tương tự như [[Dictionary]] gồm các key và value, nếu [[DataFrame]] là một cái bảng thì Series là một cột hoặc hàng trong bảng đó
 
 thế thì tại sao người ta tạo ra object này ? sao không dùng list luôn
 đó là vì khi làm việc với dữ liệu, list không có những tính chất có thể đáp ứng được nhu cầu đó của chúng ta, ví dụ :

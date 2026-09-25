@@ -1,1 +1,1 @@
-là một bản thảo dùng để tạo ra các [[Object (Đối tượng)]], bao gồm [[Constructor (Hàm khởi tạo)]], các [[Method (Phương thức)]] và [[Attribute]] 
+là một bản thảo dùng để tạo ra các [[1. Work/Theory/OOP/Theory/Object]], bao gồm [[Constructor (Hàm khởi tạo)]], các [[Method (Phương thức)]] và [[Attribute]] 

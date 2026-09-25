@@ -13,7 +13,7 @@
 	- [[boolean]]
 	- [[null]]
 	- [[number]]
-	- [[object]]
+	- [[1. Work/Languages/Javascript/Data type/object]]
 	- [[string]]
 	- [[undefined]]
 - **Theory**

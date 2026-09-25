@@ -1,0 +1,1 @@
+là tên gọi của từng cột trong [[DataFrame]]

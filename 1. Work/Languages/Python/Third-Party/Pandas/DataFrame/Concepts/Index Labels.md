@@ -1,0 +1,1 @@
+là nhãn của từng hàng, thường được đánh số từ 0 đến n

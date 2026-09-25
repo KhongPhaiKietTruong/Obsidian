@@ -1,4 +1,4 @@
-là một [[Object (Đối tượng)]], cũng là một [[Iterator]] đặc biệt, khi mà mỗi lần gọi next() trên generator thì nó chạy đến yield tiếp theo 
+là một [[1. Work/Theory/OOP/Theory/Object]], cũng là một [[Iterator]] đặc biệt, khi mà mỗi lần gọi next() trên generator thì nó chạy đến yield tiếp theo 
 
 lưu ý: ở giữa các yield sẽ có thể có nhiều dòng code 
 ví dụ:

@@ -1,5 +1,5 @@
 ## Định Nghĩa
-dùng để tạo ra pipeline gồm nhiều [[Object (Đối tượng)]] khác nằm ở trong
+dùng để tạo ra pipeline gồm nhiều [[1. Work/Theory/OOP/Theory/Object]] khác nằm ở trong
 ```python
 pipe = Pipeline([
     ('scaler', StandardScaler()),

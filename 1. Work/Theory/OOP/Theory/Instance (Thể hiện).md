@@ -1,1 +1,1 @@
-A là instance của [[1. Work/Languages/Frontend/HTML/Theory/Attribute/class]] B nếu như A là một [[Object (Đối tượng)]] được khởi tạo từ lớp B
+A là instance của [[1. Work/Languages/Frontend/HTML/Theory/Attribute/class]] B nếu như A là một [[1. Work/Theory/OOP/Theory/Object]] được khởi tạo từ lớp B

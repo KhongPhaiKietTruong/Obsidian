@@ -1,1 +1,1 @@
-là một [[Object (Đối tượng)]] có thể nhận vào dữ liệu và biến đổi nó thành một dạng khác 
+là một [[1. Work/Theory/OOP/Theory/Object]] có thể nhận vào dữ liệu và biến đổi nó thành một dạng khác 

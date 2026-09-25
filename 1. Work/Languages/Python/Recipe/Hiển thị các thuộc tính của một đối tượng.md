@@ -1,4 +1,4 @@
-hiển thị các [[Attribute]] của một [[Object (Đối tượng)]] 
+hiển thị các [[Attribute]] của một [[1. Work/Theory/OOP/Theory/Object]] 
 ```python 
 attributes = []
 for name in dir(a):

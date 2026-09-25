@@ -1,1 +1,1 @@
-là một đối [[Object (Đối tượng)]] có thể học hỏi từ dữ liệu ta truyền vào 
+là một đối [[1. Work/Theory/OOP/Theory/Object]] có thể học hỏi từ dữ liệu ta truyền vào 
