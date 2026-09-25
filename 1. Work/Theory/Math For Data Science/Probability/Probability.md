@@ -30,7 +30,7 @@
 	- [[Continuous random variable]]
 	- [[Discrete random variable]]
 - [[Complement of probability]]
-- [[Conditional probability (xác suất có điều kiện)]]
+- [[Conditional probability]]
 - [[Disjoint events (mutually exclusive)]]
 - [[Experiment]]
 - [[Independent events]]
