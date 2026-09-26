@@ -4,4 +4,5 @@ cú pháp:
 transforms.Resize(<kích_thước>)
 ```
 với:
-- kích thước: có thể là một tuple hoặc một số nguyên (thay đổi chiều cao về kích thước chỉ định và giữ nguyên tỉ lệ giữa cao và rộng )
+- kích thước: có thể là một tuple (có thể bị vỡ ảnh nếu tỉ lệ trước và sau không giống nhau) hoặc một số nguyên (thay đổi chiều cao về kích thước chỉ định và giữ nguyên tỉ lệ giữa cao và rộng)
+
