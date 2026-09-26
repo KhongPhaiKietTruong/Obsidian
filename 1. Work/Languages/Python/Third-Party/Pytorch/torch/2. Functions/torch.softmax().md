@@ -1,7 +1,6 @@
-là [[Function (Hàm)]] nhận vào [[Vector]] các [[Logits]] và trả ra xác suất của chúng 
-![[Pasted image 20260923172753.png]]![[Pasted image 20260923172816.png]]
+![[Pasted image 20260923172816.png]]là [[Function]] nhận vào [[Tensor]] gồm các [[Logits]] và trả ra xác suất của chúng 
+tham khảo thêm công thức tính softmax: [[Softmax]] 
 ```python
-
 import torch
 logits = torch.tensor([2.0, 1.0, 0.0])
 
@@ -13,3 +12,5 @@ print(probs)
 print(probs.sum())
 # tensor(1.)
 ```
+
+![[Pasted image 20260923172816.png]]

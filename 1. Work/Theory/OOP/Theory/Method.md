@@ -1,1 +1,1 @@
-là các [[Function (Hàm)]] của một [[1. Work/Theory/OOP/Theory/Class]] cụ thể và các function được định nghĩa trong class thì chỉ có class đó mới có và có thể sử dụng function đó
+là các [[Function]] của một [[1. Work/Theory/OOP/Theory/Class]] cụ thể và các function được định nghĩa trong class thì chỉ có class đó mới có và có thể sử dụng function đó
