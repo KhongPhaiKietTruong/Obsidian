@@ -1,1 +1,1 @@
-dùng để tính 
+dùng để tính giá trị của [[Sigmoid]] (hàm sigmoid nhận vào một)
