@@ -7,3 +7,5 @@ b.shape
 
 # outptut: torch.Size([3, 4, 6])
 ```
+
+squeeze(-1) sẽ xóa chiều không gian cuối cùng nếu như kích thước của nó = 1 (nếu không thước không phải 1 thì không làm gì cả)
