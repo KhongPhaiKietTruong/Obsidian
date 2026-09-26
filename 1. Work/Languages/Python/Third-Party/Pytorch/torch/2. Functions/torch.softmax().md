@@ -1,4 +1,4 @@
-![[Pasted image 20260923172816.png]]là [[Function]] nhận vào [[Tensor]] gồm các [[Logits]] và trả ra xác suất của chúng 
+là [[Function]] nhận vào [[Tensor]] gồm các [[Logits]] và trả ra xác suất của chúng 
 tham khảo thêm công thức tính softmax: [[Softmax]] 
 ```python
 import torch
