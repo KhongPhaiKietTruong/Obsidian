@@ -1,0 +1,1 @@
+dùng để hiện trục y và x hoặc tắt nó 
