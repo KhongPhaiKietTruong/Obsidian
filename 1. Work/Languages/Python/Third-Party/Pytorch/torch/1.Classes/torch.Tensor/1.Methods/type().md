@@ -1,0 +1,1 @@
+dùng để đổi kiểu dữ liệu của [[Tensor]]
