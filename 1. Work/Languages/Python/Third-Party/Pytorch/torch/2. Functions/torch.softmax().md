@@ -8,9 +8,10 @@ probs = torch.softmax(logits, dim=0)
 
 print(probs)
 # tensor([0.6652, 0.2447, 0.0900])
-
 print(probs.sum())
 # tensor(1.)
 ```
+với:
+- dim=0 là tính theo cột, dim=1 là tính theo hàng 
 
 ![[Pasted image 20260923172816.png]]
