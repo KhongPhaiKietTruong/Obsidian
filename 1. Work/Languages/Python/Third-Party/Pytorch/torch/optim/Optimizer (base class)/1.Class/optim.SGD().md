@@ -1,0 +1,1 @@
+dùng để khởi tạo optimizer [[Gradient Descent]] (cái cơ bản nhất ấy)
