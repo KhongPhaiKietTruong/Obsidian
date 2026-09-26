@@ -21,6 +21,6 @@
 	- [[1. Work/Theory/OOP/Theory/Object]]
 	- [[1. Work/Theory/OOP/Theory/Setter]]
 	- [[Special method - Magic method - Dunder method]]
-	- [[Subclass (Lớp con)]]
+	- [[Subclass]]
 
 %% End Waypoint %%

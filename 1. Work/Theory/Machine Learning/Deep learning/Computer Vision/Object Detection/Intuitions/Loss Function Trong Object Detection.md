@@ -1,4 +1,4 @@
-ta có thể [[SE (Squared Error)]] cho mọi giá trị
+ta có thể [[SE Loss (Squared Error)]] cho mọi giá trị
 $$
 L(\hat{y},y)
 =
