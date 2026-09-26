@@ -354,7 +354,7 @@
 					- [[1. Work/Languages/Python/Built-in/Function/max()]]
 					- [[1. Work/Languages/Python/Third-Party/Numpy/Method/mean()]]
 					- [[1. Work/Languages/Python/Built-in/Function/min()]]
-					- [[numpy()]]
+					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2. Functions/Object Tensor/numpy()]]
 					- [[1. Work/Languages/Python/Third-Party/Numpy/Method/reshape()]]
 					- [[1. Work/Languages/Python/Built-in/Function/sum()]]
 					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2. Functions/Object Tensor/to()]]

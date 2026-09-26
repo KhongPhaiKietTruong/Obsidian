@@ -1,0 +1,1 @@
+dùng để chuyển [[Tensor]] **đang ở cpu** thành một numpy [[array]]
