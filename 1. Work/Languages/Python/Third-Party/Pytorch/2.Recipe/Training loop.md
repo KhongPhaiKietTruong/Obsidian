@@ -1,7 +1,7 @@
 ```python
 for epoch in range(epochs):
 
-​	model.train() #1. đưa model vào chế độ training (tùy chọn)
+​	model.train() #1. đưa model vào chế độ training
 
 ​	for X_batch, y_batch in train_loader:
 
