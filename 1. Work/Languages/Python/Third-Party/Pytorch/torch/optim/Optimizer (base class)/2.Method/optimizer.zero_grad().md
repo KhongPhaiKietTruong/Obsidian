@@ -1,1 +1,1 @@
-dùng để reset lại [[Gradient]], thường chạy [[Method (Phương thức)]] này với mỗi [[Mini-Batch Stochastic Gradient Descent (Mini-batch SGD)]] (pytorch mặc định sẽ tích lũy gradient) 
+dùng để reset lại [[Gradient]], thường chạy [[Method]] này với mỗi [[Mini-Batch Stochastic Gradient Descent (Mini-batch SGD)]] (pytorch mặc định sẽ tích lũy gradient) 

@@ -1,1 +1,1 @@
-cũng khá giống với một [[1. Work/Theory/OOP/Theory/Object]] trong OOP bình thường, chúng ta có thể định nghĩa các [[Attribute]] và các [[Method (Phương thức)]]
+cũng khá giống với một [[1. Work/Theory/OOP/Theory/Object]] trong OOP bình thường, chúng ta có thể định nghĩa các [[Attribute]] và các [[Method]]

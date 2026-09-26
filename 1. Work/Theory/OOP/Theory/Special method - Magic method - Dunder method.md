@@ -1,6 +1,6 @@
 kí hiệu: \_\_<tên_method>\_\_()
 
-là những [[Method (Phương thức)]] đặc biệt được tự động gọi tùy trường hợp
+là những [[Method]] đặc biệt được tự động gọi tùy trường hợp
 những method này định nghĩa những cách mà [[1. Work/Theory/OOP/Theory/Class]] đó phản ứng đối với hành động của ngôn ngữ lập trình
 
 ví dụ như cộng hai số, ta sẽ phải định nghĩa method là \_\_add__() (method này dành cho hành động "+")  cho datatype int (là một class), khi đó ta cộng hai số có kiểu int thì nó sẽ gọi đến magic method này và trả về cho ta tổng của hai số dó

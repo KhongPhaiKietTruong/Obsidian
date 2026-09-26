@@ -17,7 +17,7 @@
 	- [[Instance (Thể hiện)]]
 	- [[Interface (Giao diện)]]
 	- [[Interface vs Abstract Class]]
-	- [[Method (Phương thức)]]
+	- [[Method]]
 	- [[1. Work/Theory/OOP/Theory/Object]]
 	- [[1. Work/Theory/OOP/Theory/Setter]]
 	- [[Special method - Magic method - Dunder method]]
