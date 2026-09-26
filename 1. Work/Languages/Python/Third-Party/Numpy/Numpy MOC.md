@@ -64,6 +64,6 @@
 - [[1. Work/Languages/Python/Third-Party/Numpy/Method/sum()|sum()]] - Tính tổng các phần tử
 - [[1. Work/Languages/Python/Third-Party/Numpy/Method/mean()|mean()]] - Tính giá trị trung bình
 - [[1. Work/Languages/Python/Third-Party/Numpy/Method/min()|min()]] - Tìm giá trị nhỏ nhất
-- [[argmax()]] - Tìm chỉ số của phần tử lớn nhất
+- [[1. Work/Languages/Python/Third-Party/Numpy/Method/argmax()]] - Tìm chỉ số của phần tử lớn nhất
 - [[argmin()]] - Tìm chỉ số của phần tử nhỏ nhất
 - [[where()]] - Lọc phần tử theo điều kiện

@@ -189,7 +189,7 @@
 				- [[random.randn()]]
 				- [[random.random_sample()]]
 			- [[arange()]]
-			- [[argmax()]]
+			- [[1. Work/Languages/Python/Third-Party/Numpy/Method/argmax()]]
 			- [[argmin()]]
 			- [[array()]]
 			- [[astype()]]
