@@ -1,0 +1,1 @@
+dùng để làm tròn về số nguyên gần nhất 
