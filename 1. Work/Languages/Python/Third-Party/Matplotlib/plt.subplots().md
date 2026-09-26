@@ -2,7 +2,5 @@ subplots(r, c)
 với:
 - r là số hàng
 - c là số cột
-hàm này trả về hai [[1. Work/Languages/Javascript/Data type/object]] lần lượt là fig và ax 
-có thể hiểu đơn giản, fig là bức tranh tổng thể, ax là những ô trong bức tranh mà ta đã chia 
-dùng để tạo ra các biểu đồ con trên bảng vẽ
+hàm này trả về hai [[1. Work/Theory/OOP/Theory/Object|Object]] lần lượt là [[Figure]] và [[Axes]] 
 ![[Pasted image 20260826193338.png]]
