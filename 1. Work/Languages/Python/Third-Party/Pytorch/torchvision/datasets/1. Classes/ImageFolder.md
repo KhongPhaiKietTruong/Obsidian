@@ -12,7 +12,7 @@ dataset/
 code đọc ảnh từ folder "datasets"
 ```python
 datasets = datasets.ImageFolder(
-​	root='./datasets'
-​	transform =
+​	root = './datasets'
+​	transform = transform 
 )
 ```
