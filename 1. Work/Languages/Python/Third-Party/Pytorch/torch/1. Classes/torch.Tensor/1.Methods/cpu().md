@@ -1,0 +1,1 @@
+hàm này dùng để chuyển [[Tensor]] sang cpu 

@@ -357,7 +357,7 @@
 					- [[numpy()]]
 					- [[1. Work/Languages/Python/Third-Party/Numpy/Method/reshape()]]
 					- [[1. Work/Languages/Python/Built-in/Function/sum()]]
-					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2.Functions/Object Tensor/to()]]
+					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2. Functions/Object Tensor/to()]]
 				- **Tạo tensor ngẫu nhiên**
 					- [[torch.arange()]]
 					- [[torch.rand()]]
@@ -393,7 +393,7 @@
 							- [[load_state_dict()]]
 							- [[parameters()]]
 							- [[state_dict()]]
-							- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2.Functions/Object Tensor/to()]]
+							- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2. Functions/Object Tensor/to()]]
 							- [[train()]]
 			- **optim**
 				- **Optimizer (base class)**
