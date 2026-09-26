@@ -1,1 +1,1 @@
-dùng Ctrl+M 
+dùng Ctrl+m 
