@@ -1,0 +1,1 @@
+là một [[1. Work/Theory/OOP/Theory/Object|Object]] thể hiện cho những khu vực con nằm bên trong [[Figure]] 
