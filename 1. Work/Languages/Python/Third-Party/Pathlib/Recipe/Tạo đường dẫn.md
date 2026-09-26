@@ -1,1 +1,1 @@
-bằng cách tạo một [[Instance (Thể hiện)]] của class Path 
+bằng cách tạo một [[Instance]] của class Path 

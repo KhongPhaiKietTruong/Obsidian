@@ -1,1 +1,1 @@
-kiểm tra xem a có phải là một [[Instance (Thể hiện)]] của lớp b hoặc là một instance của lớp con mà kế thừa từ lớp b hay không  
+kiểm tra xem a có phải là một [[Instance]] của lớp b hoặc là một instance của lớp con mà kế thừa từ lớp b hay không  

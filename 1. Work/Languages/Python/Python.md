@@ -320,7 +320,7 @@
 		- **1.Theory**
 			- [[Tensor]]
 		- **2.Recipe**
-			- [[huẩn luyện model trên gpu]]
+			- [[huấn luyện model trên gpu]]
 			- [[Lấy số mẫu trong tập X]]
 			- [[Lưu trọng số vào file]]
 			- [[Tải tham số vào model]]

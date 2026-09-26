@@ -14,7 +14,7 @@
 	- [[1. Work/Theory/OOP/Theory/Class]]
 	- [[Constructor (Hàm khởi tạo)]]
 	- [[1. Work/Theory/OOP/Theory/Getter]]
-	- [[Instance (Thể hiện)]]
+	- [[Instance]]
 	- [[Interface (Giao diện)]]
 	- [[Interface vs Abstract Class]]
 	- [[Method]]
