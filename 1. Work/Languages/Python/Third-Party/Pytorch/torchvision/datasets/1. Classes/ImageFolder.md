@@ -16,3 +16,9 @@ datasets = datasets.ImageFolder(
 ​	transform = transform 
 )
 ```
+
+## Giá trị trả về 
+trả về một datasets [[1. Work/Theory/OOP/Theory/Object|Object]] (cũng là một  [[Iterable]]), mỗi một phần tử là một [[Tuple]] (img, class) với img là [[Tensor]] ảnh
+```python
+img, class = datasets[0]
+```
