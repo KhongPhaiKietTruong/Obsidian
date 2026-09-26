@@ -9,3 +9,10 @@ dataset/
 ​	​	dog1.jpg
 ​	​	dog2.jpg
 ```
+code đọc ảnh từ folder "datasets"
+```python
+datasets = datasets.ImageFolder(
+​	root='./datasets'
+​	transform =
+)
+```
