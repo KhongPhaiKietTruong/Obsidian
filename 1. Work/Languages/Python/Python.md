@@ -252,7 +252,7 @@
 			- [[merge()]]
 			- [[putText()]]
 			- [[rectangle()]]
-			- [[resize()]]
+			- [[1. Work/Languages/Python/Third-Party/OpenCV/Method/resize()]]
 			- [[split()]]
 			- [[threshold()]]
 			- [[waitKey()]]

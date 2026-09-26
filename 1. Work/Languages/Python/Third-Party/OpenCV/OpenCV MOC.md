@@ -10,7 +10,7 @@
 - [[waitKey()|waitKey()]] - Tạm dừng chương trình và chờ người dùng nhập phím (đơn vị miligiây)
 
 ## 3. Biến đổi Hình học (Geometric Transformations)
-- [[resize()|resize()]] - Thay đổi kích thước ảnh (bằng dsize hoặc hệ số tỉ lệ fx, fy)
+- [[1. Work/Languages/Python/Third-Party/OpenCV/Method/resize()|resize()]] - Thay đổi kích thước ảnh (bằng dsize hoặc hệ số tỉ lệ fx, fy)
 - [[flip()|flip()]] - Lật ảnh theo chiều dọc, chiều ngang hoặc cả hai
 - [[getRotationMatrix2D()|getRotationMatrix2D()]] - Tính toán ma trận biến đổi 2D dùng để xoay ảnh
 - [[warpAffine()|warpAffine()]] - Áp dụng phép biến đổi Affine để dịch chuyển hoặc xoay ảnh từ ma trận biến đổi
