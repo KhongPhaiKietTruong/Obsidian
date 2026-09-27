@@ -1,1 +1,0 @@
-tham khảo [[1. Work/Theory/Machine Learning/Deep learning/Computer Vision/Layers/Convolution Layer|Convolution Layer]] 

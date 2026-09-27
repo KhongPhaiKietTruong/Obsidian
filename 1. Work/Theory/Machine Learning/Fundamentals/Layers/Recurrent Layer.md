@@ -1,1 +1,0 @@
-tham khảo [[1. Work/Theory/Machine Learning/Deep learning/NLP/Concepts/Sequence Model/RNN/NLP Model Architecture/Components/Recurren Layer/Recurrent Layer|Recurrent Layer]] 

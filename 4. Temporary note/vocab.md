@@ -20,3 +20,4 @@ monolothic (adj): nguyên khối
 corrode (v):
 corrosion 
 touch down (v): hạ cánh 
+Penultimate (adj): áp chót 
