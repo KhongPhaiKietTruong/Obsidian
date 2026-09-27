@@ -1,1 +1,1 @@
-dùng để lấy giá trị tiếp theo
+dịch vị trí của [[Iterator]] sang 1 vị trí và lấy giá trị tại vị trí đó 
