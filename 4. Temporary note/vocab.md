@@ -16,3 +16,5 @@ revocation (n): sự thu hồi
 reproducibility (n): 
 affinity (n): sự tương đồng 
 stratify (v): phân tầng 
+monolothic (adj): nguyên khối 
+
