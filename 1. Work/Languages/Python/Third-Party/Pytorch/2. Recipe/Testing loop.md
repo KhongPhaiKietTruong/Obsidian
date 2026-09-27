@@ -1,1 +1,5 @@
-được thực hiện sau mỗi epoch 
+```python
+model.eval()
+with torch.no_grad():
+​	
+```
