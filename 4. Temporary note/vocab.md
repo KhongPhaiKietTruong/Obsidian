@@ -19,3 +19,4 @@ stratify (v): phân tầng
 monolothic (adj): nguyên khối 
 corrode (v):
 corrosion 
+touch down (v): hạ cánh 
