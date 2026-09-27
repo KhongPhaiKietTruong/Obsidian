@@ -27,3 +27,4 @@ bare-bones (adj): tối giản
 replicate (v): sao chép 
 halve (v)
 whilst
+registry (n): sổ đăng kí, hệ thống lưu trữ thông tin 
