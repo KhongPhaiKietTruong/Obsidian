@@ -1,0 +1,1 @@
+dùng các phím từ 1 đến 6 trên một markdown cell 
