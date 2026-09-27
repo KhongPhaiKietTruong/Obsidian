@@ -22,4 +22,4 @@ corrosion
 touch down (v): hạ cánh 
 Penultimate (adj): áp chót 
 Deterministic (adj): mang tính xác định 
-bare
+bare-bones (adj): tối giản 
