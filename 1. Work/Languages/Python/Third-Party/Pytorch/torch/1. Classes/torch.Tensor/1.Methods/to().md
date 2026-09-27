@@ -1,1 +1,0 @@
-dùng để chuyển [[Tensor]] từ cpu sang gpu 

@@ -1,1 +1,0 @@
-dùng để tìm giá trị trung bình của [[Tensor]] (chỉ dùng được với tensor có kiểu dữ liệu là float)

@@ -1,1 +1,0 @@
-dùng để thay đổi hình dạng của một [[Tensor]]

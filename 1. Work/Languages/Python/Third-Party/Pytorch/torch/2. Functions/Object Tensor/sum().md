@@ -1,1 +1,0 @@
-dùng để tìm tổng của các giá trị trong tensor
