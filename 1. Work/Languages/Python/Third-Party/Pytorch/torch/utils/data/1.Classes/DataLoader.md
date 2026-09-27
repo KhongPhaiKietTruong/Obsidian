@@ -15,6 +15,6 @@ với các tham số:
 - shuffle: xáo trộn các mẫu trước khi tạo các batch 
 - pin_memory: bật tham số này giúp việc đem Tensor/Model qua GPU nhanh hơn, giúp việc training nhanh (xem thêm ở [[huấn luyện model trên gpu]])
 
-DataLoader là một [[Iterable]] mà sẽ trả về 2 [[Tensor]] mỗi lần duyệt qua, chính là X_batch và y_batch 
+DataLoader là một [[Iterable]] mà sẽ trả về 2 [[Tensor]] mỗi lần duyệt qua, chính là X_batch (các mẫu) và y_batch (class của các mẫu)
 
 
