@@ -17,4 +17,8 @@ với các tham số:
 
 train_loader là một [[Iterable]] mà sẽ trả về 2 [[Tensor]] mỗi lần duyệt qua, chính là X_batch (các mẫu) và y_batch (class của các mẫu)
 
+> [!note]
+> len(train_loader) sẽ trả về số lượng batch 
+
+
 
