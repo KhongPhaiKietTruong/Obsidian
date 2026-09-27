@@ -29,3 +29,4 @@ halve (v)
 whilst
 registry (n): sổ đăng kí, hệ thống lưu trữ thông tin 
 hygiene (n): vệ sinh 
+quantize (v): lượng tử hóa 
