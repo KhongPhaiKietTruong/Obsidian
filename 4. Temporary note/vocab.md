@@ -32,3 +32,5 @@ hygiene (n): vệ sinh
 quantize (v): lượng tử hóa 
 Stochastic (adj): mang tính ngẫu nhiên 
 excavate (v): đào, khai quật 
+repulsive (adj): ghê tởm 
+trousers (n): quần tây dài 
