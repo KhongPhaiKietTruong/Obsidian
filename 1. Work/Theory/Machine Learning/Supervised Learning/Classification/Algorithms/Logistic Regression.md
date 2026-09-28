@@ -6,7 +6,7 @@ $$
 f_{\vec{w}, b}(\vec{x})=\frac{1}{1+e^{-(\vec{w}\vec{x}+b)}}
 $$
 hàm này là sự kết hợp giữa [[Linear Combination (Tổ Hợp Tuyến Tính)]] và [[Sigmoid]]
-giá trị của hàm chính là P(y=1 | $\vec{x};\vec{w};b$) ([[Conditional probability]] của nhãn = 1 khi biết $\vec{x}$ (các feature), $\vec{w}$ (các trọng số) và [[Bias|Bias]]) này sẽ nằm trong khoảng (0, 1) (vì đây thực chất là một sigmoid function) và giá trị này cũng chính là xác suất dự đoán (>=0,5 thì là nhãn 1 và ngược lại)
+giá trị của hàm chính là P(y=1 | $\vec{x};\vec{w};b$) ([[Conditional Probability - Bayes's Rule]] của nhãn = 1 khi biết $\vec{x}$ (các feature), $\vec{w}$ (các trọng số) và [[Bias|Bias]]) này sẽ nằm trong khoảng (0, 1) (vì đây thực chất là một sigmoid function) và giá trị này cũng chính là xác suất dự đoán (>=0,5 thì là nhãn 1 và ngược lại)
 
 ## Cách hoạt động
 logistric regression và [[Linear Regression]] hoạt động tương tự một [[Neural Network]] có 1 [[Neuron]], cũng thực hiện các bước [[Forward Propogation]], tính [[Loss Function]], tính [[Gradient]] và thực hiện [[Backpropagation]]

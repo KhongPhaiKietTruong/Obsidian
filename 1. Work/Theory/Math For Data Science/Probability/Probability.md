@@ -30,7 +30,7 @@
 	- [[Continuous random variable]]
 	- [[Discrete random variable]]
 - [[Complement of probability]]
-- [[Conditional probability]]
+- [[Conditional Probability - Bayes's Rule]]
 - [[Disjoint events (mutually exclusive)]]
 - [[Experiment]]
 - [[Independent events]]
