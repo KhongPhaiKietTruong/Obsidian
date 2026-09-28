@@ -1,0 +1,1 @@
+feature extraction trong NLP là quá trình biến một dạng văn bảng thành biểu diễn số ?
