@@ -11,7 +11,7 @@
 - [ ] forbenius norm 
 - [ ] gray encoding 
 
-- [ ] một thuộc tính trong một table chứa giá trị là một list thì không vip phạm 1NF ? 
+- [x] một thuộc tính trong một table chứa giá trị là một list thì không vip phạm 1NF ? 
 - [ ] graph database ? 
 - [x] teacher forcing ?
 
@@ -29,3 +29,4 @@
 - [ ] tìm hiểu paddle OCR ? 
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] MLA-C02
+- [ ] ![[Pasted image 20260928201514.png]]
