@@ -1,0 +1,1 @@
+dùng các kĩ thuật [[1. Work/Theory/Machine Learning/Fundamentals/Transfer Learning/Fine-Tuning/Feature Extraction|Feature Extraction]] để biến câu cần phân loại thành một [[Vector]] các [[Features]] rồi thực hiện [[1. Work/Theory/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression|Logistic Regression]] để train model phân loại 

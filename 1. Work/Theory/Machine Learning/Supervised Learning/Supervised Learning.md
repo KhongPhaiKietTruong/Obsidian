@@ -10,7 +10,7 @@
 		- [[Kernel SVM - Nonlinear SVM]]
 		- [[Linear SVM - Linear Support Vector Machine]]
 	- [[Decision Boundary]]
-	- [[Logistic Regression]]
+	- [[1. Work/Theory/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression]]
 	- [[Multi-Class Classification]]
 	- [[Multi-Label Classification]]
 	- [[Softmax Regression]]
