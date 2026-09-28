@@ -5,4 +5,4 @@ rg "kiettruong" ./
 ```
 
 các option:
-- i: bỏ qua hoa thường 
+- i: bỏ qua hoa thường ​	
