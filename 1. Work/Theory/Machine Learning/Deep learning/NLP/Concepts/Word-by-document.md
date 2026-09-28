@@ -1,0 +1,1 @@
+biểu diễn mỗi document là một [[Vector]] 
