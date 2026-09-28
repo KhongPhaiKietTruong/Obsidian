@@ -1,0 +1,1 @@
+là một chuỗi gồm n chữ 
