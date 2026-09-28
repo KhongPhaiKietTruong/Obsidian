@@ -1,3 +1,3 @@
-là một hệ điều hành (mã nguồn mở) được phát triển để thay thế unix (mã nguồn đóng)
+là một bộ các công cụ, thư viện ở không gian người dùng (như gcc, ls, bash, rm, cp, ... )
 
 cũng chính là thứ tạo nên linux ngày nay (Linux/GNU)
