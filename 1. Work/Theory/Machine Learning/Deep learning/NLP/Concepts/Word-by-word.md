@@ -1,3 +1,3 @@
 là một ý tưởng biểu diễn mỗi từ là một [[Vector]] 
 
-[[matrix]]
+[[Co-occurence Matrix]] là một dạng của ý tưởng này 
