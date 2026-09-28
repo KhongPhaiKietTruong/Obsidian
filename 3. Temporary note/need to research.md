@@ -27,3 +27,4 @@
 ![[Pasted image 20260924133110.png]]
 - [ ]  KV Cahche 
 - [ ] tìm hiểu paddle OCR ? 
+- [ ] AWS Certified AI practitioner (AIF-C01)
