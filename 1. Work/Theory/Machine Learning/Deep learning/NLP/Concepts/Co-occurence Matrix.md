@@ -1,0 +1,1 @@
+là một ma trận ghi lại tần suất xuất hiện của các từ xuất hiện cạnh nhau trong cùng một corpus 
