@@ -1,3 +1,3 @@
-là một ý tưởng để biến văn bản thành các [[Vector]] và biểu diễn nó trong không gian vector 
+là một không gian chứa các [[Vector]] biểu diễn các văn bản
 
 hai văn bản có ý nghĩa giống nhau thì cũng nằm gần nhau trong không gian vector
