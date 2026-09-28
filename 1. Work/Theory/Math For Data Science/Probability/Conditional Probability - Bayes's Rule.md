@@ -1,4 +1,4 @@
-dịch: xác suất có điều kiện
+kdịch: xác suất có điều kiện
 
 xác suất để xảy ra A khi B đã xảy ra là
 $$P(A|B) = \frac{P(A \cap B)}{P(B)}$$
