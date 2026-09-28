@@ -38,3 +38,4 @@ afterthought (n): ý nghĩa nảy ra sau (không được tính toán từ đầ
 dynamic (n):
 in a moment 
 cupboard 
+populate (v): điền vào, lắp vào 
