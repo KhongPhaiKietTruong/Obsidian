@@ -28,3 +28,4 @@
 - [ ]  KV Cahche 
 - [ ] tìm hiểu paddle OCR ? 
 - [ ] AWS Certified AI practitioner (AIF-C01)
+- [ ] MLA-C02
