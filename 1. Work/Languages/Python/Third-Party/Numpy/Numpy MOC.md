@@ -49,7 +49,7 @@
 - [[np.dot()]] - Phép nhân dot product / nhân ma trận
 - [[np.dot()|np]] - Hàm tính dot product
 - [[matmul()]] - Nhân hai ma trận
-- [[Content/Work/Languages/Python/Third-Party/Numpy/Theory/Matrix Multiplication (Nhân ma trận)]] - Phép nhân ma trận
+- [[Content/Work/Languages/Python/Third-Party/Numpy/Theory/Matrix Multiplication]] - Phép nhân ma trận
 - [[Scalar Multiplication (Nhân vô hướng)]] - Phép nhân vô hướng (scalar multiplication)
 - [[trace()]] - Tính tổng các phần tử trên đường chéo chính
 

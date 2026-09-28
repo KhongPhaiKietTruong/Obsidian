@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **Matrix operations**
-	- [[Matrix multiplication (Nhân Ma Trận)]]
+	- [[1. Work/Theory/Math For Data Science/Linear Algebra/Matrix operations/Matrix multiplication]]
 	- [[Matrix subtraction]]
 - [[Augmented matrix (Ma Trận Mở Rộng)]]
 - [[Basis (cơ sở)]]
