@@ -24,4 +24,4 @@
 - [x] cấu tạo residual block 
 - [ ] ViT là gì 
 - [ ] mô hình BERT, GPT 
-![[Pasted image 20260924133110.png]]- KV Cahche 
+![[Pasted image 20260924133110.png]]- [ ]  KV Cahche 
