@@ -1,0 +1,1 @@
+là một mô hình mô tả một hệ thống chuyển từ trạng thái này sang trạng thái khác với giả định rằng trạng thái hiện tại chỉ phụ thuộc duy nhất vào trạng thái ngay trước nó (không phụ thuộc vào toàn bộ lịch sử các trạng thái cũ)
