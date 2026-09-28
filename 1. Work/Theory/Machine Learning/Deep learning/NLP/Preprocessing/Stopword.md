@@ -1,0 +1,1 @@
+loại bỏ các **từ không mang lại nhiều ý nghĩa** (bao gồm cả **dấu câu**)
