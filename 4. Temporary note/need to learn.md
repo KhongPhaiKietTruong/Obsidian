@@ -1,9 +1,3 @@
-review kiến thức olp ai:
-- [x] activation functions 
-- [x] batches 
-- [x] loss 
-
-
 - [x] XML file là gì ?
 - [ ] the architecture for a servlet/JSP application
 - [ ] viet ung dung web dau tien va dua len hosting (mon lap trinh web)
