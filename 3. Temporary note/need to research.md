@@ -23,5 +23,7 @@
 - [x] backbone là gì 
 - [x] cấu tạo residual block 
 - [ ] ViT là gì 
-- [ ] mô hình BERT, GPT 
-![[Pasted image 20260924133110.png]]- [ ]  KV Cahche 
+- [x] mô hình BERT, GPT 
+![[Pasted image 20260924133110.png]]
+- [ ]  KV Cahche 
+- [ ] tìm hiểu paddle OCR ? 
