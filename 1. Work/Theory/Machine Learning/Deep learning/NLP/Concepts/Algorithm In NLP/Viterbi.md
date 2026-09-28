@@ -1,0 +1,1 @@
+là một thuật toán dùng kĩ thuật quy hoạch động để tìm ra chuỗi POS có xác xuất cao nhất 

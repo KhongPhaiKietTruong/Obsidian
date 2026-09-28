@@ -39,3 +39,4 @@ dynamic (n):
 in a moment 
 cupboard 
 populate (v): điền vào, lắp vào 
+auxiliary (adj): phụ trợ, bổ trợ 
