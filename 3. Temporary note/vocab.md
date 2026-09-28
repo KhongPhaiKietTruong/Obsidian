@@ -35,3 +35,4 @@ excavate (v): đào, khai quật
 repulsive (adj): ghê tởm 
 trousers (n): quần tây dài 
 afterthought (n): ý nghĩa nảy ra sau (không được tính toán từ đầu)
+dynamic (n):
