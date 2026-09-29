@@ -1,0 +1,1 @@
+là con số được gán cho một [[Token]], dùng để xác định tính duy nhất của nó 
