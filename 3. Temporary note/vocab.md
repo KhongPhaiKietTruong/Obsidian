@@ -42,3 +42,4 @@ populate (v): điền vào, lắp vào
 auxiliary (adj): phụ trợ, bổ trợ 
 lexicon (n):
 lexical (adj): 
+byproduct (n): sản phẩm phụ 
