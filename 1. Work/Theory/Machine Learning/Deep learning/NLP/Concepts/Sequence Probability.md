@@ -10,3 +10,7 @@ giả sử với trigram
 $$
 P('TruongAnhKietDepTrai') \approx P(Trai|KietDep)
 $$
+công thức tổng quát:
+$$
+P(w_1^n) \approx \prod_{i=1}^{n} P(w_i \mid w_{i-1})
+$$
