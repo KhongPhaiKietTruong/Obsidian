@@ -1,0 +1,1 @@
+là một hiện tượng khi ta gặp một từ mới mà không nằm trong [[Vocabulary]] 
