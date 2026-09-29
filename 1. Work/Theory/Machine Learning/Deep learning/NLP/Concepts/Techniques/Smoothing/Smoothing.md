@@ -1,0 +1,1 @@
+là một kí thuật dùng để ngăn ngừa việc một [[N-gram]] chưa từng xuất hiện trong corpus có xác suất bằng 0, thay vào đó ta sẽ phân bổ một lượng xác suất nhỏ cho nó 
