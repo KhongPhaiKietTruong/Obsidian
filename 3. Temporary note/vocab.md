@@ -40,6 +40,6 @@ in a moment
 cupboard 
 populate (v): điền vào, lắp vào 
 auxiliary (adj): phụ trợ, bổ trợ 
-lexicon (n):
+lexicon (n):s
 lexical (adj): 
 byproduct (n): sản phẩm phụ 
