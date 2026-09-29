@@ -1,0 +1,1 @@
+nằm trong mỗi embedding layer chính là [[Embedding Matrix]]
