@@ -10,3 +10,4 @@ công thức tính:
 $$
 PP(W)=P(w_1,w_2,\ldots,w_N)^{-\frac{1}{N}}
 $$
+![[Pasted image 20260929134550.png|393]]
