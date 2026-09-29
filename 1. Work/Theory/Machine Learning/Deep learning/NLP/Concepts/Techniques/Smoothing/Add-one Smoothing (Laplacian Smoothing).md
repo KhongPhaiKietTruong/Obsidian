@@ -1,1 +1,1 @@
-thay thì cho các [[N-gram]] chưa từng xuất hiện có tần suất = 0 thì ta cho nó xuất hiện ít nhất 1 lần 
+thay vì cho các [[N-gram]] chưa từng xuất hiện có tần suất = 0 thì ta cho nó xuất hiện ít nhất 1 lần 
