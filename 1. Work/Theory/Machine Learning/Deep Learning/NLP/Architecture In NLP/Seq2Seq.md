@@ -1,0 +1,1 @@
+là một mô hình dùng để ánh xạ một chuỗi đầu vào thành một chuỗi đầu ra mà không nhất thiết độ dài hai chuỗi phải bằng nhau 
