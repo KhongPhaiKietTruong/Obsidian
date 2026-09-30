@@ -1,5 +1,5 @@
 ## Định Nghĩa
-Batch Gradient Descent là cách mà ta sẽ đưa toàn bộ mẫu trong [[Training Set]] đi qua [[Neural Network]] trong một lần và thực hiện update 
+Batch Gradient Descent là cách mà ta sẽ đưa toàn bộ mẫu trong [[Training Set]] đi qua [[Neural Network (Mạng Neural)]] trong một lần và thực hiện update 
 
 nghĩa là với một [[Epoch]] thì ta sẽ thực hiện update [[Weight]] bằng [[Gradient Descent]] một lần 
 

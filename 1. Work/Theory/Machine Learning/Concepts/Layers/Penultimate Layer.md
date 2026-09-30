@@ -1,6 +1,6 @@
 dịch: lớp áp chót
 ## Định Nghĩa 
-là [[Layer]] nằm gần cuối trong một [[Neural Network]], chứa các biểu diễn của input 
+là [[Layer]] nằm gần cuối trong một [[Neural Network (Mạng Neural)]], chứa các biểu diễn của input 
 
 ## Tác Dụng
 dùng để biến các đặc trưng học được thành một [[Vector]] để truyền vào lớp output 

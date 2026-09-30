@@ -1,5 +1,5 @@
 ## Định Nghĩa
- SGD mỗi lần chỉ đưa một mẫu trong [[Training Set]] vào [[Neural Network]], tức là với mỗi [[Epoch]] thì ta sẽ cập nhật [[Weight]] bằng [[Gradient Descent]] M lần (với M là số mẫu trong tập huấn luyện) 
+ SGD mỗi lần chỉ đưa một mẫu trong [[Training Set]] vào [[Neural Network (Mạng Neural)]], tức là với mỗi [[Epoch]] thì ta sẽ cập nhật [[Weight]] bằng [[Gradient Descent]] M lần (với M là số mẫu trong tập huấn luyện) 
 
 ## Ưu Điểm
 - tốc độ nhanh (khi thực hiện [[Forward Propogation]] và [[Backpropagation]]) do chỉ xử lí một mẫu mỗi lần 

@@ -1,7 +1,7 @@
 tên khác: perceptron, node
 
 ## Định Nghĩa
-là một đơn vị nằm trong các [[Layer]] nằm trong [[Neural Network]], nói cách khác là một layer sẽ chứa nhiều neural và mạng neural sẽ chứa nhiều layer 
+là một đơn vị nằm trong các [[Layer]] nằm trong [[Neural Network (Mạng Neural)]], nói cách khác là một layer sẽ chứa nhiều neural và mạng neural sẽ chứa nhiều layer 
 
 bên trong neural là một [[Activations]] nhận vào tham số là z với z là [[Linear equation|phương trình tuyến tính]] có dạng:
 $$

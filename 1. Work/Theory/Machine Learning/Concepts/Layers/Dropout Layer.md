@@ -7,7 +7,7 @@ với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100
 - ma trận mask sẽ được khởi tạo lại (ngẫu nhiên) mỗi sample / mini-batch được truyền vào
 ## Tác Dụng 
 - có tác dụng [[Regularization]] lên mô hình
-- giúp ta giảm [[Overfitting - High Variance]] ngăn ngừa hiện tượng [[Neural Network]] phụ thuộc nhiều vào một số [[Neuron]] 
+- giúp ta giảm [[Overfitting - High Variance]] ngăn ngừa hiện tượng [[Neural Network (Mạng Neural)]] phụ thuộc nhiều vào một số [[Neuron]] 
 - tăng tính [[Generalization]] do giảm overfit 
 
 ## Nhược Điểm 
