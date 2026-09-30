@@ -43,5 +43,6 @@ auxiliary (adj): phụ trợ, bổ trợ
 lexicon (n):s
 lexical (adj): 
 byproduct (n): sản phẩm phụ 
+stationary point (n): 
 
 
