@@ -30,3 +30,4 @@
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] MLA-C02
 - [ ] decoupled learning rate ? 
+- [ ] adaGrad 
