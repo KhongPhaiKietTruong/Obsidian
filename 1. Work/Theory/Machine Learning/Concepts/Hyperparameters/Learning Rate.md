@@ -1,5 +1,6 @@
-## Định Nghĩa
-là một hyperparameter quy định độ lớn của bước nhảy khi thực hiện cập nhật các tham số 
+kí hiệu: $\alpha$ hoặc $\eta$ 
+## Định Nghĩa 
+là một [[Hyperparameter (Siêu Tham Số)]] quy định độ lớn của bước nhảy khi thực hiện cập nhật các tham số 
 
 các giá trị learning rate có thể thử: 0.001 -> 0.003 -> 0.01 -> 0.03 -> 0.1 -> 0.3 -> 1
 

@@ -1,0 +1,1 @@
+siêu tham số là những tham số được chọn thủ công trước khi quá trình huấn luyện bắt đầu 
