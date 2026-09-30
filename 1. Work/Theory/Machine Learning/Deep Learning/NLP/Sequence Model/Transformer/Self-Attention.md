@@ -1,5 +1,6 @@
 kí hiệu: $A^{t}$ 
-là trọng số attention của một token đối với tất cả token trong cùng một chuỗi ba gồm cả chính nó, cơ chế này cho phép một token "nhìn" với các token khác 
+
+Self-attention là trọng số attention của một [[Token]] đối với tất cả token trong cùng một chuỗi ba gồm cả chính nó, cơ chế này cho phép một token "nhìn" với các token khác 
 ví dụ:
 "The cat didn’t cross the street because it was tired.”
 khi xử lí "it", model sẽ gán trọng số attention cao cho "cat" vì hai từ này liên quan đến nhau 
@@ -16,7 +17,7 @@ $$
 &V=W_{V}X
 \end{align}
 $$
-hiểu trực quan: QK (nhân) cho ta biết mức độ liên quan, trong khi V cho chứa thông tin mà cả hai liên qua về
+hiểu trực quan: QK (nhân) cho ta biết mức độ liên quan, trong khi V cho chứa thông tin mà cả hai liên quan về
 để biết được mức độ "liên quan" của một từ với những từ khác trong cùng một chuỗi, ta sẽ tính **attention score**, giả sử xét token thứ i=3:
 
 $$
