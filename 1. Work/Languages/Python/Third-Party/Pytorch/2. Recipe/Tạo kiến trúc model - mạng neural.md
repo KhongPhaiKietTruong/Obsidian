@@ -1,5 +1,5 @@
 
-khởi tạo một kiến trúc model với [[Weight]] và [[Bias]] cùng với hàm định nghĩa của [[Forward Propogation]] 
+khởi tạo một kiến trúc model với [[Weight (Trọng Số)]] và [[Bias]] cùng với hàm định nghĩa của [[Forward Propogation]] 
 trong [[Constructor (Hàm khởi tạo)]], ta sẽ định nghĩa [[Neural Network (Mạng Neural)]] này sẽ có những layer gì, trong function forward thì ta định nghĩa các mà batch được truyền qua từng layer 
 
 ```python

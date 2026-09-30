@@ -5,7 +5,7 @@ $$
 với:
 - $F_{i}(x)$ là model hiện tại 
 - $h_{{i+1}}(x)$ là cây mới thêm 
-- $\eta$ là [[Learning Rate]]
+- $\eta$ là [[Effective Learning Rate (Tốc Độ Học)]]
 
 tổng quát: 
 $$

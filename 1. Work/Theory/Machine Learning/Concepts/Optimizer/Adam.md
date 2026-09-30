@@ -34,7 +34,7 @@ cuối cùng, ta thực hiện update:
 $$
 W_{new} = W_{old} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
 $$
-đây chính là công thức update [[Weight]] của adam khi áp dụng cả momentum và RMSProp 
+đây chính là công thức update [[Weight (Trọng Số)]] của adam khi áp dụng cả momentum và RMSProp 
 
 lí do mà adam cần bias correction trong khi 2 cái kia không cần là vì adam dùng tận hai cái EWA một lượt nên sai số sẽ x2 
 
