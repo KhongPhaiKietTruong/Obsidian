@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - [[Contour Plot]]
-- [[Convex Function]]
+- [[Convex Function (Hàm Lồi)]]
 - [[Derivative's notation]]
 - [[Global Minimum (Cực Tiểu Toàn Cục)]]
 - [[Gradient Descent]]

@@ -7,4 +7,4 @@ với [[Loss Function]] là [[Binary Cross Entropy (BCE)]]
 
 hàm này được sử dụng cho bài toán [[Classification]] 
 
-log loss cost function sẽ là một [[Convex Function]] 
+log loss cost function sẽ là một [[Convex Function (Hàm Lồi)]] 
