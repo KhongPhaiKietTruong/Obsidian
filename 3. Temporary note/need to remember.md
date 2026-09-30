@@ -27,3 +27,5 @@ RMSProp-> độ lớn
 skip connection trong resnet là phép cộng theo element-wise 
 skip connect triong u-net là phép nối theo channel-wise 
 
+[[L1 Regularization]] -> thưa thớt 
+L2 
