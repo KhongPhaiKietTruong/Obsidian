@@ -1,3 +1,6 @@
+## Định Nghĩa
+là một hyperparameter quy định độ lớn của bước nhảy khi thực hiện cập nhật các tham số 
+
 các giá trị learning rate có thể thử: 0.001 -> 0.003 -> 0.01 -> 0.03 -> 0.1 -> 0.3 -> 1
 
 nếu đã đặt giá trị learning ở mức rất nhỏ rồi nhưng mà [[Learning Curve]] vẫn có xu hướng tăng lên thì rất có thể là do bug trong code 
