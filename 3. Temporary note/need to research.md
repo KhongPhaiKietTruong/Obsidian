@@ -29,4 +29,4 @@
 - [ ] tìm hiểu paddle OCR ? 
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] MLA-C02
-- [ ] ![[Pasted image 20260928201514.png]]
+- [ ] decoupled learning rate ? 
