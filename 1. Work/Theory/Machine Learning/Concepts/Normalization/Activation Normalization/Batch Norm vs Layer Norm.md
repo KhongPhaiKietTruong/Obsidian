@@ -1,0 +1,1 @@
+[[Batch Norm]] thì chuẩn hóa các giá trị trên từng hàng dọc ([[Features]]) còn [[Layer Norm]] thì chuẩn hóa trên từng hàng (từng mẫu)
