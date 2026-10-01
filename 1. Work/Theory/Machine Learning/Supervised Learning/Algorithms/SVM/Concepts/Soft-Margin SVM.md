@@ -1,0 +1,1 @@
+mềm hơn [[Hard-Margin SVM]] khi cho phép xâm phạm (một vài mẫu của class này có thể nằm ở class kia )

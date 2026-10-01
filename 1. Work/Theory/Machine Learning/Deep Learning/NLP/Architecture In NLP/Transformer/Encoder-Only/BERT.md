@@ -1,7 +1,7 @@
 viết tắt của: Bidirectional Encoder Representation from Transformer 
 ![[Pasted image 20260924205606.png|284]]
 ## Định Nghĩa
-là một Encoder-Only Model được tạo bằng ghép nhiều encoder của [[Transformer]] lại 
+là một Encoder-Only Model được tạo bằng ghép nhiều [[Encoder]] của [[Transformer]] lại 
 BERT có thể học để hiểu được ngôn ngữ 
 
 ## Công Dụng
@@ -11,7 +11,6 @@ BERT có thể học để hiểu được ngôn ngữ
 - Semantic Similarity and Information Retrivial 
 - Masked Language Modeling 
 
-## 
 ## Pretraining 
 trong pretraining của BERT sẽ có hai mục tiêu huấn luyện là MLM và NSP để trả lời BERT trả lời được hai câu hỏi: "ngôn ngữ là gì", "bối cảnh là gì"
 - MLM (Masked Language Model): cho các từ xung quanh, dự đoán từ ở giữa 

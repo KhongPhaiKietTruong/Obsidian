@@ -3,4 +3,4 @@ là phương pháp mà tách một từ thành các n-gram kí tự
 
 vector('where') = vector('<wh') + ... vector('re>)
 
-phương pháp này mạnh trong việc xử lí OOV (out of vocab) (các từ không nằm trong vocab)
+phương pháp này mạnh trong việc xử lí [[OOV]] (out of [[Vocabulary]]) (các từ không nằm trong vocab)

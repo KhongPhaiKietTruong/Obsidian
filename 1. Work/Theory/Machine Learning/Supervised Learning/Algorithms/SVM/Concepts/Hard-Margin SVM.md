@@ -1,0 +1,3 @@
+đảm bảo cái class phải được chia ra rõ ràng , không có mẫu nào nằm ở phía kia còn lại (không cho phép xâm phạm)
+
+trong hard-margin svm, [[Support Vectors]] phải nằm ngay trên [[Margin Boundary]] 

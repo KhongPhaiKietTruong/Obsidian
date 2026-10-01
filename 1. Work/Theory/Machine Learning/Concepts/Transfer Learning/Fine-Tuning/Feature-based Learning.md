@@ -1,0 +1,2 @@
+## Định Nghĩa 
+Feature-based Learning là phương pháp học khi ta cho input vào một model pre-trained, sau đó lấy ouptut cho ra từ model đó (tức các [[Ebeddings]]) cho vào một model nhỏ hơn phục vụ cho task cụ thể  
