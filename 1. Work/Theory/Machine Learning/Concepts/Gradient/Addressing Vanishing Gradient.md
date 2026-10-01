@@ -11,5 +11,5 @@ các [[Activations]] như [[Sigmoid]] hay [[Tanh]] rất dễ gây ra [[Vanishin
 - sử dụng [[Skip Connection]] như [[ResNet]] 
 - sử dụng cơ chế cổng cho mỗi [[Neuron]] như [[GRU cell]], [[LSTM cell]] 
 
-## Sử dụng optimizer phù hợp 
+## Sử dụng Optimizer phù hợp 
 sử dụng các [[Optimizer]] có dùng kĩ thuật [[Adaptive Learning Rate]] như [[Adam]], [[AdamW]], [[RMSProp]], ... 

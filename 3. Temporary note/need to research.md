@@ -31,3 +31,4 @@
 - [ ] MLA-C02
 - [ ] decoupled learning rate ? 
 - [ ] adaGrad 
+- [ ] batch norm vs layer norm 
