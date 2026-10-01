@@ -1,1 +1,1 @@
-xem ở [[Dropout Layer]] 
+xem ở [[Vanilla Dropout Layer]] 
