@@ -12,4 +12,4 @@ với:
 - in_channels: là số lớp nhận vào (sẽ bằng với out_channels của lớp trước)
 - out_channels: số lượng [[Filter]] 
 - kernel_size: kích thước [[Filter]] 
-- padding: có thể nhận giá trị số hoặc "same" để thực hiện [[Same Convolution]] (nó sẽ tự tính độ dày [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision/Concepts/Padding|Padding]])
+- padding: có thể nhận giá trị số hoặc "same" để thực hiện [[Same Convolution]] (nó sẽ tự tính độ dày [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Padding|Padding]])
