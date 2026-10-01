@@ -30,7 +30,7 @@
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] MLA-C02
 - [ ] decoupled learning rate ? 
-- [ ] adaGrad 
+- [x] adaGrad 
 - [x] batch norm vs layer norm 
 - [ ] ConvNeXt 
 - [ ] ViT 
