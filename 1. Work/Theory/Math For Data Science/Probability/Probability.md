@@ -20,7 +20,7 @@
 	- [[Expected value (Giá Trị Kỳ Vọng)]]
 	- [[Interquartile range]]
 	- [[Kurtosis]]
-	- [[Median value]]
+	- [[Median]]
 	- [[Mode value]]
 	- [[Quantile]]
 	- [[Skewness]]
