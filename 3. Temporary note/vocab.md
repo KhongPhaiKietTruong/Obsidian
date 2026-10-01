@@ -46,5 +46,6 @@ byproduct (n): sản phẩm phụ
 stationary point (n): 
 Plateau (n): 
 Salient (adj): nổi bật 
-
+Intrinsic (adj): nội tại, vốn có  
+Manifolds (n): đa tạp 
 
