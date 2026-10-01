@@ -31,6 +31,6 @@
 - [ ] MLA-C02
 - [ ] decoupled learning rate ? 
 - [ ] adaGrad 
-- [ ] batch norm vs layer norm 
+- [x] batch norm vs layer norm 
 - [ ] ConvNeXt 
 - [ ] ViT 
