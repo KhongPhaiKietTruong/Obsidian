@@ -9,6 +9,7 @@ với:
 - H(x) là hàm ta mong muốn 
 - F(x) là [[Residual Function]] 
 - x là input 
+
 ta sẽ học để F(x)=0, từ đó ta có được hàm đồng nhất H(x)=x (tham khảo thêm ở [[Optimization Degradation]] để biết vì sao ta cần cái này)
 
 > [!note]
