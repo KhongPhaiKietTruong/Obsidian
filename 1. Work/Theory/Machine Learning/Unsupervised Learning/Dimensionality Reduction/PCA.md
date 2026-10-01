@@ -1,10 +1,10 @@
-viết tắt của Principal Component Analysis
+viết tắt của: Principal Component Analysis
 dịch: Phân tích thành phần chính
 
 ## Định Nghĩa 
 tham khảo PCA ở gốc độ đại số tuyến tính: [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]]
 
-là phương pháp dùng để giảm số chiều của dữ liệu (gộp các [[Features]] theo trọng số) lại nhưng vẫn cố gắng giữ lại tối đa thông tin 
+PCA là một phương pháp dùng để giảm số chiều của dữ liệu (gộp các [[Features]] theo trọng số) lại nhưng vẫn cố gắng giữ lại tối đa thông tin (giữ lại chiều có [[Variance (Phương Sai)]] to nhất)
 
 ví dụ gộp đặc trưng A và B lại thành C:
 $$
@@ -17,7 +17,6 @@ mục đích chính của PCA để huấn luyện mô hình nhanh hơn, loại 
 - giảm noise dữ liệu
 - giúp minh họa dữ liệu
 - giúp train nhanh hơn do dữ liệu ít chiều hơn 
-
 ## Nhược Điểm
 - nhạy cảm với ngoại lệ 
 - 
