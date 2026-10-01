@@ -32,3 +32,5 @@
 - [ ] decoupled learning rate ? 
 - [ ] adaGrad 
 - [ ] batch norm vs layer norm 
+- [ ] ConvNeXt 
+- [ ] ViT 
