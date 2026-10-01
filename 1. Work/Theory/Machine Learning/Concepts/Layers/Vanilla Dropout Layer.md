@@ -14,5 +14,5 @@ với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100
 - nếu prob_keep quá thấp có thể khiến mô hình bị [[Underfitting - High Bias]] do tắt quá nhiều neuron
 ## Vị Trí Sử Dụng
 - Thường nằm đằng sau [[Activation Layer]] và trước [[Fully Connected Layer (FC)]] 
-## Drop Out ở Test Time 
-giả sử [[Neural Network (Mạng Neural)]] ta có thực hiện dropout với prob_keep = 75% thì mỗi layer cho ra ~ 0.75A thì [[Weight (Trọng Số)]] mà ta học được cũng tương ứng theo giá trị 0.75A đó, khi ta thực hiện [[Inference - Test time]] thì sẽ không có thành phần dropout thì mỗi layer cho ra A, điều này dẫn đến ta áp dụng các trọng số học được từ 0.75A lên A (từ lớp trước truyền đến) gây ra sự **không khớp** khiến mô hình dự đoán rất tệ do đó ta phải nhân các activations lúc inference cho một hệ số scale nữa, gây tăng chi phí tính toán, do đó ta dùng [[Inverted Dropout Layer]] để giải quyết vấn đề này 
+## Vanilla drop Out ở Test Time 
+Giả sử [[Neural Network (Mạng Neural)]] ta có thực hiện dropout với prob_keep = 75% thì mỗi layer cho ra ~ 0.75A thì [[Weight (Trọng Số)]] mà ta học được cũng tương ứng theo giá trị 0.75A đó, khi ta thực hiện [[Inference - Test time]] thì sẽ không có thành phần dropout thì mỗi layer cho ra A, điều này dẫn đến ta áp dụng các trọng số học được từ 0.75A lên A (từ lớp trước truyền đến) gây ra sự **không khớp** khiến mô hình dự đoán rất tệ do đó ta phải nhân các activations lúc inference cho một hệ số scale nữa, gây tăng chi phí tính toán, do đó ta dùng [[Inverted Dropout Layer]] để giải quyết vấn đề này 
