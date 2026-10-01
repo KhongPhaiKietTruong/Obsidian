@@ -1,3 +1,4 @@
+kí hiệu: $||g||_{2}$
 tên khác: euclidean norm 
 ## Định Nghĩa
 L2 norm là độ dài của một [[Vector]]
