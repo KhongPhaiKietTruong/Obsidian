@@ -1,6 +1,6 @@
 tên khác: Kaiming Initialization 
 
-He initialization là một kĩ thuật khởi tạo tham số được sử dụng khi [[Neural Network (Mạng Neural)]] có hàm activation [[ReLU]] hoặc **biến thể** của nó, dùng để giảm tình trạng [[Vanishing Gradient]] hoặc [[Exploding Gradient]], nó giúp [[Activations|giá trị kích hoạt]] và [[Gradient]] khi lan truyền các [[Layer]] mà không bị giảm hoặc tăng theo cấp số mũ thay vào đó thì các giá trị kích hoạt vẫn giữ được sấp xỉ giá trị của nó dù đi qua nhiều [[Layer]]
+He initialization là một kĩ thuật khởi tạo tham số được sử dụng khi [[Neural Network (Mạng Neural)]] có hàm activation [[ReLU]] hoặc **biến thể** của nó, dùng để giảm tình trạng [[Vanishing Gradient]] hoặc [[Exploding Gradient]], nó giúp [[Activations|giá trị kích hoạt]] và [[Gradient]] khi lan truyền các [[Layer]] mà không bị giảm nhanh hoặc tăng theo cấp số mũ thay vào đó thì các giá trị kích hoạt vẫn giữ được sấp xỉ giá trị của nó dù đi qua nhiều [[Layer]]
 
 He initialization có dạng như sau: 
 $$
