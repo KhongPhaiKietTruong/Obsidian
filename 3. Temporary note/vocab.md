@@ -45,5 +45,6 @@ lexical (adj):
 byproduct (n): sản phẩm phụ 
 stationary point (n): 
 Plateau (n): 
+Salient (adj): nổi bật 
 
 
