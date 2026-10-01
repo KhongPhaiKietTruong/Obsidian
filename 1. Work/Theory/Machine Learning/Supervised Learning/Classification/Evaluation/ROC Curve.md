@@ -1,2 +1,2 @@
-là một đồ thị dùng để đánh giá một model **phân loại** với các **ngưỡng quyết định** khác nhau bằng hai đại lượng là **False Positive Rate** (báo động giả) và **True Positve Rate** (báo động đúng)
+là một đồ thị dùng để đánh giá một model **phân loại nhị phân** với các **ngưỡng quyết định** khác nhau bằng hai đại lượng là **False Positive Rate** (báo động giả) và **True Positve Rate** (báo động đúng)
 ![[Pasted image 20260913161307.png|492]]
