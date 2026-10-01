@@ -32,5 +32,6 @@
 - [x] decoupled learning rate ? 
 - [x] adaGrad 
 - [x] batch norm vs layer norm 
+- [ ] torch.nn.utils.clip_grad_norm_ 
 - [ ] ConvNeXt 
 - [ ] ViT 
