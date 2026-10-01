@@ -2,7 +2,7 @@ logits (n): điểm số thô, giá trị đầu ra chưa chuẩn hóa
 multinominal (adj): đa thức 
 model (v): mô hình hóa 
 stochastic (adj): ngẫu nhiên, có tính xác suất 
-Sufficiently ()
+Sufficiently (adv): đủ 
 degrade & family words 
 reproduce
 stay tuned (v): hãy tiếp tục theo dõi 
