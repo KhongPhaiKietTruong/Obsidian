@@ -3,13 +3,13 @@ multinominal (adj): đa thức
 model (v): mô hình hóa 
 stochastic (adj): ngẫu nhiên, có tính xác suất 
 Sufficiently (adv): đủ 
-degrade & family words 
-reproduce
+degrade (v): suy giảm 
+degradation (n): sự suy giảm 
+reproduce (v): sao chép, tái hiện, sinh sản 
 stay tuned (v): hãy tiếp tục theo dõi 
 probe (v): dò tìm 
-discrimanitive (adj): phân biệt 
 penultimate (adj): gần cuối 
-negate (v)
+negate (v): làm vô hiệu hóa, phủ nhận, đảo ngược giá trị  
 invariant (adj): không thay đổi 
 latent (adj): ẩn, tiềm ẩn 
 revocation (n): sự thu hồi 
