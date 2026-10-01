@@ -9,18 +9,15 @@ Adam là một [[Optimizer]] sinh ra để sửa chữa cho việc này, ở tr�
 - giúp tốc độ hội tụ nhanh 
 
 ## Định Nghĩa 
-adam là một [[Optimizer]] có sự kết hợp giữa [[Momentum]] và [[RMSProp]] với các giá trị :
-
+Adam là một [[Optimizer]] có sự kết hợp giữa [[Momentum]] và [[RMSProp]] với các giá trị :
+- v chính là thành phần của momentum: 
 $$
 v_t = \beta_1 v_{t-1} + (1-\beta_1)g_t
 $$
-- v chính là thành phần của momentum 
-
+- s chính là thành phần của RMSProp: 
 $$
 s_t = \beta_2 s_{t-1} + (1-\beta_2)g_t^2
 $$
-- s chính là thành phần của RMSProp 
-
 sau đó ta thực hiện [[Bias Correction]] cho v và s:
 $$
 \hat{v}_t = \frac{v_t}{1-\beta_1^t}
@@ -36,6 +33,4 @@ W_{new} = W_{old} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon}
 $$
 đây chính là công thức update [[Weight (Trọng Số)]] của adam khi áp dụng cả momentum và RMSProp 
 
-lí do mà adam cần bias correction trong khi 2 cái kia không cần là vì adam dùng tận hai cái EWA một lượt nên sai số sẽ x2 
-
-adam gần như là lựa chọn mặc định trong các model
+lí do mà adam cần bias correction trong khi [[RMSProp]] hay [[Momentum]] không cần là vì adam dùng tận hai cái EWA một lượt nên sai số sẽ x2 tạo nên sai số rất to 
