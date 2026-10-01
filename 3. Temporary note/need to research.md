@@ -29,7 +29,7 @@
 - [ ] tìm hiểu paddle OCR ? 
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] MLA-C02
-- [ ] decoupled learning rate ? 
+- [x] decoupled learning rate ? 
 - [x] adaGrad 
 - [x] batch norm vs layer norm 
 - [ ] ConvNeXt 
