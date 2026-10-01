@@ -11,7 +11,7 @@ c_{1} \\
 c_{n}
 \end{bmatrix}
 $$
-$p_{c}$: sác xuất vật thể ta đang detect trong ảnh 
+$p_{c}$: xác suất vật thể ta đang detect trong ảnh 
 $b_{x}, b_{y}$: tọa độ tâm bounding box 
 $b_{h}, b_{w}$: chiều cao và rộng vật thể 
 c1...cn: nhãn của vật thể (dùng [[One-hot encoding]]) 
