@@ -15,7 +15,7 @@ latent (adj): ẩn, tiềm ẩn
 revocation (n): sự thu hồi 
 reproducibility (n): 
 affinity (n): sự tương đồng 
-affine (): 
+affine (adj): có mối liên kết, 
 stratify (v): phân tầng 
 monolothic (adj): nguyên khối 
 corrode (v):
