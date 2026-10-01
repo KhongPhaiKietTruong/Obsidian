@@ -2,7 +2,7 @@
 - **Classification (Phân Loại)**
 	- **Evaluation**
 		- [[Confusion Matrix]]
-		- [[ROC curve]]
+		- [[ROC Curve]]
 	- **SVC - Support Vector Classification**
 		- **Concepts**
 			- [[Margin Boundary]]
