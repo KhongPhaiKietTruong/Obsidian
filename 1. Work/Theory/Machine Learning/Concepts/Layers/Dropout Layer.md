@@ -1,5 +1,5 @@
 ## Định Nghĩa
-dropout layer là lớp tắt ngẫu nhiên các neuron, giúp các neural học đa dạng hơn
+Dropout layer là lớp tắt ngẫu nhiên các neuron, giúp các neural học đa dạng hơn
 
 với mỗi [[Layer]], ta sẽ thực hiện bỏ đi $(1-\text{keep\_prob})*100\%$ đi số [[Neuron]] mỗi lớp, nghĩa là xét mỗi neural, có $(\text{keep\_prob})*100\%$  ta sẽ giữ neural đó lại và $(1-\text{keep\_prob})*100\%$ ta sẽ bỏ neural đó đi
 
