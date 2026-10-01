@@ -4,7 +4,7 @@ dịch: Phân tích thành phần chính
 ## Định Nghĩa 
 tham khảo PCA ở gốc độ đại số tuyến tính: [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]]
 
-PCA là một phương pháp dùng để giảm số chiều của dữ liệu (gộp các [[Features]] theo trọng số) lại nhưng vẫn cố gắng giữ lại tối đa thông tin (giữ lại chiều có [[Variance (Phương Sai)]] to nhất)
+PCA là một phương pháp dùng để giảm số chiều của dữ liệu theo cách **tuyến tính** (gộp các [[Features]] theo trọng số) lại nhưng vẫn cố gắng giữ lại tối đa thông tin (giữ lại chiều có [[Variance (Phương Sai)]] to nhất)
 
 ví dụ gộp đặc trưng A và B lại thành C:
 $$
