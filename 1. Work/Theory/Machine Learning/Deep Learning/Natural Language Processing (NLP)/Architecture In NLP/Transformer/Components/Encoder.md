@@ -1,5 +1,5 @@
 ## Định Nghĩa 
-Encoder là một thành phần nằm trong kiến trúc model, dùng để đọc dữ liệu đầu vào và biến nó thành dạng biểu diễn số 
+Encoder là một thành phần nằm trong kiến trúc model, dùng để đọc dữ liệu đầu vào và biến nó thành các [[Ebeddings]] 
 
 có nhiều loại encoder khác nhau
 - vanilla RNN encoder: ![[Pasted image 20260920140135.png]]
