@@ -1,1 +1,0 @@
-là loại tích chập mà ta áp dụng thêm [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Padding|Padding]] có độ dày = $\frac{K-1}{2}$ lên ma trận gốc xong ta thực hiện [[Convolution]], ta sẽ thu được [[Feature Map F]] có kích thước giống ma trận gốc 
