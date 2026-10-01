@@ -19,5 +19,5 @@ $$
 gradient được tạo bởi các [[Partial Derivative (Đạo Hàm Riêng)]] của hàm số theo từng biến
 ví dụ một hàm số có n biến thì vector gradient của hàm số đó sẽ có n phần tử
 
-giả sử ta đang nằm ở một điểm trên đồ thị, tại điểm đó, có vô tận hướng mà điểm đó có thể di chuyển, gradient chính là vector chỉ đến hướng mà khiến hàm số của ta tăng nhanh nhất trong những hướng ta xét và [[L2-norm (Euclidean Norm)]] của gradient là tốc độ tăng của hàm số 
+giả sử ta đang nằm ở một điểm trên đồ thị, tại điểm đó, có vô tận hướng mà điểm đó có thể di chuyển, gradient chính là vector chỉ đến hướng mà khiến hàm số của ta tăng nhanh nhất trong những hướng ta xét và [[L2-norm]] của gradient là tốc độ tăng của hàm số 
 

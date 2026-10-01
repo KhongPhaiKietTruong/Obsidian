@@ -17,7 +17,7 @@
 - [[Identity matrix]]
 - [[1. Work/Theory/Math For Data Science/Linear Algebra/Inverse matrix]]
 - [[L1-norm (Taxicab Norm)]]
-- [[L2-norm (Euclidean Norm)]]
+- [[L2-norm]]
 - [[Linear Combination (Tổ Hợp Tuyến Tính)]]
 - [[Linear dependence]]
 - [[Linear equation]]
