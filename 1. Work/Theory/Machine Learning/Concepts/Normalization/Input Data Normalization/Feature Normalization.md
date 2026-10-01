@@ -21,19 +21,3 @@ khiến việc update [[Weight (Trọng Số)]] bằng [[Gradient Descent]] di�
 do đó ta phải chuẩn hóa miền giá trị của các đặc trưng lại (biến miền giá trị của x1 và x2 đều trở thành \[0, 1])
 
 Vậy nên, chuẩn hóa đặc trưng sẽ giúp [[Neural Network (Mạng Neural)]] học thông hơn vì tốc độ hội tụ nhanh hơn
-
-## 3 cách để chuẩn hóa là:
-### chia các giá trị cho giá trị lớn nhất
-​	​	giả sử miền giá trị của x1 là \[1000, 5000], ta thực hiện chia các giá trị đó cho giá trị lớn nhất, tức miền giá trị mới của x1 là \[1000/5000, 5000/5000] = \[0,2, 1]
-### mean normalization
-có công thức là $$X' = \frac{X - \mu}{X_{\max} - X_{\min}}$$
-với $\mu$ là [[Mean value (Giá Trị Trung Bình)]] của feature X 
-
-### z-score normalization 
-công thức:
-$$
-X = \frac{X-\mu_{X}}{\sigma} 
-$$
-![[Pasted image 20260904225147.png|515]]
-lưu ý: với mỗi đặc trưng ta sẽ có một chỉ số tỉ lệ riêng cho nó, điều này nghĩa là đồ thị biểu diễn [[Training Set]] sẽ thay đổi (trở nên đồng đều hơn sau scaling) chứ không phải hình dạng như cũ và chỉ bị "thu nhỏ" thôi
-
