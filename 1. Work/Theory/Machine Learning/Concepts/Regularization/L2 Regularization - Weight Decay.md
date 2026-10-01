@@ -1,10 +1,11 @@
-công thức của thành phần phạt là:
-$$
-\frac{\lambda}{2m} \sum_{i=1}^{m} w_{j}^2
-$$
+## Định Nghĩa 
+L2 Regularization là loại một loại [[Regularization]] với công thức của thành phần phạt là:
+$$\frac{\lambda}{2} \Vert{}\mathbf{w}\Vert{}_2^2 = \mathcal{L}_0 + \frac{\lambda}{2} \sum_{j} w_j^2$$
+
 với:
 - $\lambda$ là [[Regularization Coefficient]] (khá giống với [[Effective Learning Rate (Tốc Độ Học)]])
 - m là số lượng mẫu trong [[Training Set]] 
+
 
 sau khi thêm thành phần phạt vào hàm [[Cost Function]] rồi thì khi thực hiện update [[Weight (Trọng Số)]] bằng [[Gradient Descent]] cũng sẽ khiến việc update đó thay đổi
 trước khi thêm regularization:
