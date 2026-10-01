@@ -1,1 +1,1 @@
-là kết hợp của [[Linear Regression]], [[L1 Regularization]] và [[L2 Regularization - Weight Decay]] 
+là kết hợp của [[Linear Regression]], [[L1 Regularization]] và [[L2 Regularization]] 

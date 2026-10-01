@@ -4,4 +4,4 @@ $$\theta_{t+1} = (1 - \alpha\lambda)\theta_t$$
 với: 
 - $\theta$ là [[Learnable Parameters (Tham Số Có Thể Học)]] 
 - $\alpha$ là [[Base Learning Rate]] 
-- $\lambda$ là [[]]
+- $\lambda$ là [[Weight Decay Factor]] 
