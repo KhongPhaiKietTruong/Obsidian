@@ -34,6 +34,6 @@ công thức:
 $$
 X = \frac{X-\mu_{X}}{\sigma} 
 $$
-![[Pasted image 20260904225147.png|402]]
+![[Pasted image 20260904225147.png|515]]
 lưu ý: với mỗi đặc trưng ta sẽ có một chỉ số tỉ lệ riêng cho nó, điều này nghĩa là đồ thị biểu diễn [[Training Set]] sẽ thay đổi (trở nên đồng đều hơn sau scaling) chứ không phải hình dạng như cũ và chỉ bị "thu nhỏ" thôi
 
