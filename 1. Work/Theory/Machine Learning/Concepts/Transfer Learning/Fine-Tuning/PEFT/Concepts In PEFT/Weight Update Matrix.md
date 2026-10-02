@@ -1,3 +1,3 @@
 kí hiệu: $\Delta W$
 ## Định Nghĩa
-$\Delta W$ là ma tr
+$\Delta W$ là ma trận đại diện cho lượng thay đổi lên [[Weight Matrix]] gốc trong mo
