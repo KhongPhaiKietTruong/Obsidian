@@ -12,6 +12,6 @@ quy trình hoạt động cốt lõi:
 - nắm bắt được thông tin toàn cảnh ngay từ đầu 
 ## Công Dụng
 - Phân Loại 
-- Nhận Diện '
+- Nhận Diện
 - Phát Hiện 
 - Phân Đoạn 
