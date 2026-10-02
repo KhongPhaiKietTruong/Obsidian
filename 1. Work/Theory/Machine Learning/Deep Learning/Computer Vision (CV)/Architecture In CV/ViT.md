@@ -5,4 +5,6 @@ ViT là một kiến trúc model dựa trên [[Transformer]] (vốn dành cho v�
 quy trình hoạt động cốt lõi:
 - chia ảnh thành nhiều patch
 - thêm token CLS và positional embedding (để lưu thông tin ngữ nghĩa về vị trí)
+- đưa các path vào [[Encoder]] 
+- đưa output của encoder vào [[1. Work/Theory/Machine Learning/Concepts/Model Architecture/Head/Head|Head]] và ra kết quả 
 ![[Pasted image 20261002131457.png]]
