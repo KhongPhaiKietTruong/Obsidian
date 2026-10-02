@@ -4,7 +4,9 @@ gồm các thành phần:
 - [[Backbone]] 
 - Transformer [[Encoder]]
 - Transformer [[Decoder]] 
-- Prediction Head 
+- Prediction Head k
+
+## Ứng Dụng 
 
 ## Ưu Điểm 
 
