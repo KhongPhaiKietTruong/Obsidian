@@ -1,1 +1,1 @@
-kiểm tra xem đối tượng có phải là thư mục không
+kiểm tra xem đối tượng có phải là thư mục không (nhưng thật chất là dùng để xem coi folder có tồn tại không)
