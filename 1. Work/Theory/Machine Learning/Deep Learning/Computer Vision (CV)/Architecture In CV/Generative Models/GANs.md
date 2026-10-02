@@ -1,0 +1,1 @@
+viết tắt của: Generative Adverarial 
