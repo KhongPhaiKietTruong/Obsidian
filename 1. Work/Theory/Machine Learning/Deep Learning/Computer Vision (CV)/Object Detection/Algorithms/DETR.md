@@ -6,5 +6,7 @@ gồm các thành phần:
 - Transformer [[Decoder]] 
 - Prediction Head 
 
+## Ưu Điểm 
+
 ## Nhược Điểm 
 - Hội tụ chậm, cần rất nhiều epoch 
