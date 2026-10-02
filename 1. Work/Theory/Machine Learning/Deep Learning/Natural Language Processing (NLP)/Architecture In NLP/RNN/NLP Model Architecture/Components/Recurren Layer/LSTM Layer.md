@@ -1,1 +1,1 @@
-là loại [[Layer]] có các [[LSTM cell]] 
+là loại [[Layer]] có các [[LSTM Cell]] 
