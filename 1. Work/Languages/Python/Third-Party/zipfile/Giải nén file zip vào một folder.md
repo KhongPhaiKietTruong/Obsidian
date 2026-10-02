@@ -1,5 +1,5 @@
 ```python
-with zipfile.Zipfile('<zipfile_name>', 'r') as zf:
+with zipfile.ZipFile('<zipfile_name>', 'r') as zf:
 ​	zf.extractall(path='<folder_name>')
 ```
 với:

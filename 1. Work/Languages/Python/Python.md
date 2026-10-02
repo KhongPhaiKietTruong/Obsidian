@@ -89,7 +89,7 @@
 			- [[math.e]]
 			- [[math.pi]]
 		- **os**
-			- [[genenv()]]
+			- [[os.genenv()]]
 		- **random**
 			- [[randint()]]
 			- [[random()]]

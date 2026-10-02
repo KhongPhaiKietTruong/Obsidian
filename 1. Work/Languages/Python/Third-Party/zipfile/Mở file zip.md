@@ -1,5 +1,5 @@
 ```python 
-with zipfile.Zipfile('<file_name>', mode='r') as zf:
+with zipfile.ZipFile('<file_name>', mode='r') as zf:
 ​	... 
 ```
 các đối số mà mode có thể nhận:

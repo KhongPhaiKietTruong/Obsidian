@@ -1,4 +1,4 @@
 ```python
-with zipfile.Zipfile('submission.zip', 'r', compression=zipfile.ZIP_DEFLATED) as zf:
+with zipfile.ZipFile('submission.zip', 'r', compression=zipfile.ZIP_DEFLATED) as zf:
 ​	zf.write()
 ```
