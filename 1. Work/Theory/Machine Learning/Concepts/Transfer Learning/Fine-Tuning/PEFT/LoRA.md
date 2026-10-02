@@ -1,3 +1,4 @@
 viết tắt của: Low-Rank Adaption 
 
-là
+## Định Nghĩa 
+LoRA là một phương pháp [[Fine-Tuning]] trên một phần tham số thay vì tất cả tham số trong một [[Neural Network]] 

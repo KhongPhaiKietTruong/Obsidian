@@ -1,4 +1,4 @@
-[[Method]] này dùng để tính [[Partial Derivative (Đạo Hàm Riêng)]] của hàm số đối với từng [[Parameters (Tham số)]] học được trong [[Neural Network (Mạng Neural)]]
+[[Method]] này dùng để tính [[Partial Derivative (Đạo Hàm Riêng)]] của hàm số đối với từng [[Parameters (Tham số)]] học được trong [[Neural Network]]
 
 ví dụ: loss=n thì loss.backward() sẽ tính 
 $$

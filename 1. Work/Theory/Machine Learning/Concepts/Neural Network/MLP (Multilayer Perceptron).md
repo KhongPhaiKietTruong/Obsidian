@@ -1,1 +1,1 @@
-là một [[Neural Network (Mạng Neural)]] mà chỉ gồm các [[Fully Connected Layer (FC)]] kết nối với nhau 
+là một [[Neural Network]] mà chỉ gồm các [[Fully Connected Layer (FC)]] kết nối với nhau 

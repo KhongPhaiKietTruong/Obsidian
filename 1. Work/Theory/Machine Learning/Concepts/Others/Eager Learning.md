@@ -6,4 +6,4 @@ các ví dụ điển hình của model loại này là:
 - [[1. Work/Theory/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression]] 
 - [[SVM]] 
 - [[Decision Tree]] 
-- [[Neural Network (Mạng Neural)]]
+- [[Neural Network]]

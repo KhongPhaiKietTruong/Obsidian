@@ -1,1 +1,1 @@
-là vector số của một ảnh sau khi đưa qua [[Neural Network (Mạng Neural)]] 
+là vector số của một ảnh sau khi đưa qua [[Neural Network]] 

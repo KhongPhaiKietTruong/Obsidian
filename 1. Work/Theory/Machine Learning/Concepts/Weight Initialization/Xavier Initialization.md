@@ -1,5 +1,5 @@
 ## Định Nghĩa 
-Xavier Initialization là một kĩ thuật khởi tạo dùng cho [[Neural Network (Mạng Neural)]] sử dụng các hàm [[Activations]] như [[Sigmoid]] hay [[Tanh]] 
+Xavier Initialization là một kĩ thuật khởi tạo dùng cho [[Neural Network]] sử dụng các hàm [[Activations]] như [[Sigmoid]] hay [[Tanh]] 
 $$
 W \sim N\left( 0,  \frac{2}{n_{in}+n_{out}}  \right) 
 $$
