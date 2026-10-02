@@ -1,6 +1,6 @@
 ```python
-with zipfile.Zipfile(<zipfile_name>, 'r') as zf:
-​	zf.extractall(path=<folder_name>)
+with zipfile.Zipfile('<zipfile_name>', 'r') as zf:
+​	zf.extractall(path='<folder_name>')
 ```
 với:
 - zipfile_name: là file zip mà ta muốn giải nén 
