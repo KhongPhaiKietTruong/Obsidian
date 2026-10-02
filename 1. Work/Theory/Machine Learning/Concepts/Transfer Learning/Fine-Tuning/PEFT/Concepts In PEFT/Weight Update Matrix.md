@@ -1,1 +1,1 @@
-kí hiệu: $\nabla $
+kí hiệu: $\delt$
