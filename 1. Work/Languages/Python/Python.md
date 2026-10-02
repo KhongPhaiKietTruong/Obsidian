@@ -292,7 +292,7 @@
 		- **1.Classed**
 			- **Path**
 				- **Methods**
-					- [[exist()]]
+					- [[exists()]]
 					- [[glob()]]
 					- [[is_dir()]]
 					- [[is_file()]]
