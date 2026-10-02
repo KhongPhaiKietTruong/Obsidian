@@ -9,6 +9,9 @@ quy trình hoạt động cốt lõi:
 - đưa output của encoder vào [[1. Work/Theory/Machine Learning/Concepts/Model Architecture/Head/Head|Head]] và ra kết quả 
 ![[Pasted image 20261002131457.png]]
 ## Ưu Điểm 
+- nắm bắt được thông tin toàn cảnh ngay từ đầu 
 ## Công Dụng
 - Phân Loại 
-- Nhận Diện 
+- Nhận Diện '
+- Phát Hiện 
+- Phân Đoạn 
