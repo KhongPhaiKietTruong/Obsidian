@@ -1,3 +1,3 @@
-```
-nohup [process_name] > /dev/null 2>&1 & 
+```python
+nohup <process_name> > /dev/null 2>&1 & 
 ```
