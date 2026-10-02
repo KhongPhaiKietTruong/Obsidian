@@ -7,7 +7,7 @@ gồm các thành phần:
 - Prediction Head k
 
 ## Ứng Dụng 
-
+- RT-DETR: dùng cho các tác vụ real time 
 ## Ưu Điểm 
 
 ## Nhược Điểm 
