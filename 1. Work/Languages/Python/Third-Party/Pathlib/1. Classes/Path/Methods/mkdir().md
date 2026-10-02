@@ -8,7 +8,7 @@ MODEL_PATH.mkdir()
 ví dụ cụ thể:
 ```python
 MODEL_PATH = Path("./test")
-MODEL_PATH.mkdir(parents=True, exist_ok = True)
+MODEL_PATH.mkdir(parents=True, exist_ok=True)
 ```
 cái phần "./" thì class Path đã mặt định luôn rồi nên có thể có hoặc không 
 
