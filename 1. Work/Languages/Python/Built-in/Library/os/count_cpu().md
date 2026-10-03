@@ -1,0 +1,1 @@
+trả về số lượng cpu của máy 

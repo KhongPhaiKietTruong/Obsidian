@@ -4,6 +4,7 @@ train_loader = DataLoader(
 ​	<Dataset_Object>,
 ​	batch_size = <kích_thước_batch>,
 ​	shuffle = False,
+​	num_workers=os.count_cpu(),
 ​	pin_memory = False 
 )
 
