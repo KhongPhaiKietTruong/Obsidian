@@ -1,0 +1,1 @@
+hoạt động tương tự như một [[Function]], trả về tần suất xuất hiện của từng đối tượng 
