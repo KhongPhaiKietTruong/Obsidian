@@ -1,0 +1,1 @@
+trả về kích thước của ảnh 
