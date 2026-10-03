@@ -1,1 +1,1 @@
- là một thực thể gồm các [[Attribute]] và [[Method]]
+là một thực thể gồm các [[Attribute]] và [[Method]]
