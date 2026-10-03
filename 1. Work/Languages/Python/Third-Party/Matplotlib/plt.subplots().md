@@ -1,4 +1,6 @@
-subplots(r, c)
+```python
+plt.subplots(r, c)
+```
 với:
 - r là số hàng
 - c là số cột
