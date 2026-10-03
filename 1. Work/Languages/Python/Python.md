@@ -297,9 +297,9 @@
 					- [[is_dir()]]
 					- [[is_file()]]
 					- [[mkdir()]]
-					- [[1. Work/Languages/Python/Third-Party/Commom Utils Libraries/Pathlib/Recipe/Nối đường dẫn]]
+					- [[1. Work/Languages/Python/Third-Party/Pathlib/Recipe/Nối đường dẫn]]
 		- **Recipe**
-			- [[1. Work/Languages/Python/Third-Party/Commom Utils Libraries/Pathlib/Recipe/Nối đường dẫn]]
+			- [[1. Work/Languages/Python/Third-Party/Pathlib/Recipe/Nối đường dẫn]]
 			- [[Tạo đường dẫn]]
 		- [[các thuộc tính]]
 	- **Poetry**
