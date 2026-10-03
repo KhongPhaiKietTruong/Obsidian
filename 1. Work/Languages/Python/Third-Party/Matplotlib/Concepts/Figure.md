@@ -1,1 +1,1 @@
-là bảng vẽ, chứa các 
+là bảng vẽ, chứa các [[Axes]]
