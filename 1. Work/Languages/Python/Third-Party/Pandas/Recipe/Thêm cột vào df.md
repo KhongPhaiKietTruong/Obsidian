@@ -1,3 +1,3 @@
 ```python
-df['hehe'] = y
+df['new_col'] = 2
 ```
