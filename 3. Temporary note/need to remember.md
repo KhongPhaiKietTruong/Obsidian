@@ -22,6 +22,7 @@ Adam ?
 AdamW ?
 skip connection là gì ?
 skip connection trong resnet vs trong u-net
+TF-IDF 
 skip connection trong resnet là phép cộng theo element-wise 
 skip connect triong u-net là phép nối theo channel-wise 
 [[L1 Regularization]] -> thưa thớt (đưa trọng số về 0)
