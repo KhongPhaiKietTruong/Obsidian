@@ -3,3 +3,5 @@
 for param in model.features.parameters():
     param.requires_grad = False
 ```
+
+code này chưa hề đóng băng [[1. Work/Theory/Machine Learning/Concepts/Model Architecture/Head/Head|Head]] 
