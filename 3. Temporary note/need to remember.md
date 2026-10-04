@@ -13,6 +13,10 @@ Ridge là L2 regularization
 Trong SGD, L2 trở thành weight decay 
 L1 $\approx$ [[Features Selection]] 
 ElasticNet là sự kết hợp của linear regression, L1 và cả L2 
+Decision gồm 3 loại node là root node, decision node, leaf node 
+[[Normalization]] sẽ không có tác dụng đối với các thuật toán dạng cây 
+Miền giá trị của [[Entropy (Mức độ hỗn loạn)]] là \[0, 1]
+
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
 - GloVe -> ma trận co-occurence 
