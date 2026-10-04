@@ -1,8 +1,3 @@
-những bài giải (now):
-- regression 
-- classification 
-- K-means ()
-
 ## CV
 - classification
 - detection (vừa vẽ vừa phân loại) (1 và nhiều vật thể)
@@ -20,4 +15,4 @@ parsing
 sentimenation classification 
 multi-task learning  
 image captioning (attention ?) 
-![[Pasted image 20260917214131.png|380]]![[Pasted image 20260917211043.png|545]]![[Pasted image 20260921180920.png]]
+![[Pasted image 20260917214131.png|380]]![[Pasted image 20260917211043.png|545]]
