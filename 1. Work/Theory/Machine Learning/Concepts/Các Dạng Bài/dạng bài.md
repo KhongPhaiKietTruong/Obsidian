@@ -8,7 +8,13 @@ những bài giải (now):
 - detection (vừa vẽ vừa phân loại) (1 và nhiều vật thể)
 - segmentation (semantic và instance)
 - 
-But I would consider **classic Neural Style Transfer less likely than tasks such as classification, detection, segmentation, video recognition, or image-to-image prediction**.
+## NLP 
+- classification 
+- token classification (NER, POS)
+- text summarization 
+- question & awnsering 
+- information extraction 
+- suy luận mối quan hệ giữa hai đâu (kéo theo, mâu thuẫn, không có liên hệ)
 
 mặt giả 
 face verification vs face recognition 
