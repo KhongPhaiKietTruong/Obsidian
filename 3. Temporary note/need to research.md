@@ -35,3 +35,4 @@
 - [ ] torch.nn.utils.clip_grad_norm_ 
 - [ ] ConvNeXt 
 - [ ] ViT 
+- [ ] AdaptiveAvgPool2d 
