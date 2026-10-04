@@ -1,6 +1,6 @@
 ```python
 # Dong bang tat ca tham so trong mang neural 
-for param in model.features.parameters():
+for param in model.features.parameters(): # hoat model.parameters tuy kien truc 
     param.requires_grad = False
 ```
 
