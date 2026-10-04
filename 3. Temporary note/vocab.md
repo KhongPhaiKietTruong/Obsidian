@@ -4,3 +4,4 @@ throughtout  (adv):
 garment 
 decal 
 collate (v): thu thập và đối chiếu 
+breezy (adj):
