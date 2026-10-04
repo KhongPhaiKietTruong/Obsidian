@@ -30,7 +30,7 @@
 		- [[Bagging - Sampling with replacement]]
 		- [[Random Forest]]
 - **[[Regression]]**
-	- [[Elastic Net Regression]]
+	- [[ElasticNet Regression]]
 	- [[Lasso Regression]]
 	- [[Linear Regression]]
 	- [[Polynomial Regression]]

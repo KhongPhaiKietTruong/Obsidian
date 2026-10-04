@@ -8,6 +8,11 @@ L1 loss là AE
 L2 loss là SE 
 Log Loss là gì 
 Miền giá trị của Cross-Entropy Loss 
+Lasso là L1 regularization 
+Ridge là L2 regularization 
+Trong SGD, L2 trở thành weight decay 
+L1 $\approx$ [[Features Selection]] 
+ElasticNet là sự kết hợp của linear regression, L1 và cả L2 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
 - GloVe -> ma trận co-occurence 
