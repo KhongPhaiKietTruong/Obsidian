@@ -3,7 +3,11 @@ những bài giải (now):
 - classification 
 - K-means ()
 
-classification & localization with multiple object 
+## CV
+- classification
+- detection (vừa vẽ vừa phân loại) (1 và nhiều vật thể)
+- segmentation 
+- & localization with multiple object 
 But I would consider **classic Neural Style Transfer less likely than tasks such as classification, detection, segmentation, video recognition, or image-to-image prediction**.
 
 mặt giả 
