@@ -20,6 +20,7 @@ Miền giá trị của [[Entropy (Mức độ hỗn loạn)]] là \[0, 1]
 [[Gini Impurity]] là một đại lượng giống với [[Entropy (Mức độ hỗn loạn)]], được dùng do tính toán nhanh hơn nhiều so với entropy 
 IG là lượng [[Entropy (Mức độ hỗn loạn)]] giảm sau khi thực hiện chia 
 [[Random Forest]] áp dụng [[Bagging - Sampling with replacement]] 
+catboost giúp không cần dùng [[One-hot Encoding]] và còn giúp giảm [[Data Leakage]] 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
