@@ -1,7 +1,7 @@
 dịch: mức độ vẩn đục Gini 
 kí hiệu: $I_{G}$
 ## Định Nghĩa 
-Gini Impurity là một chỉ số khác giống với [[Entropy (Mức độ hỗn loạn)]] dùng để đo mức độ "không tinh khiết" của một tập dữ liệu 
+Gini Impurity là một chỉ số khá giống với [[Entropy (Mức độ hỗn loạn)]] dùng để đo mức độ "không tinh khiết" của một tập dữ liệu 
 ## Công Thức 
 $$
 I_G(p) = 1 - \sum_{i=1}^{C} p_i^2
@@ -14,4 +14,4 @@ $$
 - 0: hoàn toàn thuần khiết 
 - 0.5: hỗn loạn đạt đỉnh 
 ## Ưu Điểm 
-- chi phí tính toán thấp, tốc độ nhanh 
+- chi phí tính toán thấp, tốc độ nhanh hơn so với việc tính entropy 

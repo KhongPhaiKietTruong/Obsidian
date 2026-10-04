@@ -17,6 +17,7 @@ Decision gồm 3 loại node là root node, decision node, leaf node
 [[Normalization]] sẽ không có tác dụng đối với các thuật toán dạng cây 
 Miền giá trị của [[Entropy (Mức độ hỗn loạn)]] là \[0, 1]
 [[Entropy (Mức độ hỗn loạn)]] đạt cực đại khi phân phối xác suất các lớp là [[Uniform distribution (Phân Phối Đều)]] (số mẫu chia đều ra cho số lớp)
+[[Gini Impurity]] là một đại lượng giống với [[Entropy (Mức độ hỗn loạn)]], được dùng do tính toán nhanh hơn nhiều so với entropy 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
