@@ -1,1 +1,1 @@
-hầu hết các [[Loss Function]] trong pytorch đều sẽ nhận vào hai tham số là input và target (theo đúng thứ tự) với input là cái ta [[Predicted Value]] và target là [[Target Value - Ground Truth]] 
+hầu hết các [[Loss Function]] trong pytorch đều sẽ nhận vào hai tham số là input và target (theo đúng thứ tự) với input là cái ta [[Predicted Value]] và target là [[Ground Truth]] 

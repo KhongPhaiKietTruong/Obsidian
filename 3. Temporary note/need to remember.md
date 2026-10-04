@@ -1,3 +1,7 @@
+[[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
+[[Linear Regression]] + [[MSE Cost Function]] = [[Convex Function (Hàm Lồi)]] 
+[[1. Work/Theory/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression|Logistic Regression]] + [[MSE Cost Function]] = hàm không lồi 
+MAE bền vững trước outlier 
 giá trị đạo hàm của ReLU ?
 Dropout hoạt động như thế nào ở test time
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?

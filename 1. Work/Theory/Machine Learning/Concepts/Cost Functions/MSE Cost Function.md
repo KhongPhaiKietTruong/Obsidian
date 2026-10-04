@@ -1,7 +1,8 @@
 viết tắt của: Mean Squared Error Cost Function
 dịch: hàm chi phí bình phương sai số
 
-có công thức như sau:
+## Định Nghĩa 
+MSE cost function có công thức như sau:
 $$
 \begin{aligned}
 J(w, b)&=\frac{1}{2m} \sum_{i=1}^{m}(y^{(i)}-\hat{y}^{(i)})^2  	\\
@@ -9,16 +10,20 @@ J(w, b)&=\frac{1}{2m} \sum_{i=1}^{m}(y^{(i)}-\hat{y}^{(i)})^2  	\\
 \end{aligned}
 $$
 với:
-- y là [[Target Value - Ground Truth]]
+- y là [[Ground Truth]]
 - $\hat{y}$ là [[Predicted Value]]
 - m là số lượng mẫu trong [[Training Set]]
 
-lưu ý: với công thức ở trên là tổng quát, hàm cost thực sự có thể triển khai chi tiết ra, ví dụ có 100 mẫu thì ta triển khai cost ra được 100 cái (...)^2, sau đó điền giá trị tất cả mẫu đó vô và chỉ còn 2 biến số là w và b mà thôi, nói điều này là vì tôi từng hiểu lầm rằng đồ thị cost sẽ thay đổi với mỗi cái mẫu trong [[Training Set]] 
+## Đặc Điểm 
+- MSE rất nhạy cảm với các outlier do nó là bình phương của sai số 
+- nếu ta sử dụng MSE với [[Linear Regression]] thì hàm số sẽ là một [[Convex Function (Hàm Lồi)]] và ta sẽ dễ dàng tìm được giá trị nhỏ nhất 
+- ta không dùng MSE cho bài toán phân loại bởi vì đồ thị của nó không phải là dạng đồ thị lồi mà là một dạng đồ thị có rất nhiều [[Local Minimum (Cực Tiểu Cục Bộ)]] khiến cho việc tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] rất khó khăn
 
-ta chia cho 2m là để khi lấy đạo hàm cost function này, số 2 từ mũ của [[The Error]] sẽ đem xuống và tụi nó triệt tiêu nhau giúp phương trình đẹp và tính toán dễ hơn nhưng không làm thay đổi bản chất bài toán
 
-nếu ta sử dụng MSE với [[Linear Regression]] thì hàm số sẽ là một [[Convex Function (Hàm Lồi)]] và ta sẽ dễ dàng tìm được giá trị nhỏ nhất 
+> [!NOTE] Notes
+> lưu ý: với công thức ở trên là tổng quát, hàm cost thực sự có thể triển khai chi tiết ra, ví dụ có 100 mẫu thì ta triển khai cost ra được 100 cái (...)^2, sau đó điền giá trị tất cả mẫu đó vô và chỉ còn 2 biến số là w và b mà thôi, nói điều này là vì tôi từng hiểu lầm rằng đồ thị cost sẽ thay đổi với mỗi cái mẫu trong [[Training Set]] 
 
-tuy nhiên, ta không thể dùng MSE cho bài toán phân loại bởi vì đồ thị của nó không phải là dạng đồ thị lồi mà là một dạng đồ thị có rất nhiều [[Local Minimum (Cực Tiểu Cục Bộ)]] khiến cho việc tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] rất khó khăn
+> [!NOTE] Notes
+> ta chia cho 2m là để khi lấy đạo hàm cost function này, số 2 từ mũ của [[The Error]] sẽ đem xuống và tụi nó triệt tiêu nhau giúp phương trình đẹp và tính toán dễ hơn nhưng không làm thay đổi bản chất bài toán
 
-![[Pasted image 20260826211333.png]]
+![[Pasted image 20260826211333.png|693]]
