@@ -14,7 +14,7 @@ $$
 $p_{c}$: xác suất vật thể ta đang detect trong ảnh 
 $b_{x}, b_{y}$: tọa độ tâm bounding box 
 $b_{h}, b_{w}$: chiều cao và rộng vật thể 
-c1...cn: nhãn của vật thể (dùng [[One-hot encoding]]) 
+c1...cn: nhãn của vật thể (dùng [[One-hot Encoding]]) 
 
 các giá trị liên quan đến tọa độ sẽ chứa giá trị là tỉ lệ của nó so với cái ô đang xét (giá trị của b_h và b_w cũng có thể lớn hơn một nếu vật thể to hơn ô đang xét)
 ![[Pasted image 20260917160112.png|378]]

@@ -1,1 +1,1 @@
-dùng để thực hiện [[One-hot encoding]] lên tập dữ liệu 
+dùng để thực hiện [[One-hot Encoding]] lên tập dữ liệu 

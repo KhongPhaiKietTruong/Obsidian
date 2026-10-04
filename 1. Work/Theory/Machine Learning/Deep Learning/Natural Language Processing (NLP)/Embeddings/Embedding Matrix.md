@@ -18,12 +18,12 @@ E=
 & \vdots &
 \end{bmatrix}
 $$
-ta có thể lấy ra embedding của một token bằng cách nhân embedding matrix với [[One-hot encoding]] của token đó, cách này không còn được dùng thời nay nữa
+ta có thể lấy ra embedding của một token bằng cách nhân embedding matrix với [[One-hot Encoding]] của token đó, cách này không còn được dùng thời nay nữa
 $$
 e = E \times o
 $$
 - e: embedding của từ cần tính
 - E: embedding matrix 
-- o: [[One-hot encoding]]
+- o: [[One-hot Encoding]]
 
 >Embedding Matrix cũng khá giống với ma trận [[Weight (Trọng Số)]] khi các giá trị trong nó sẽ được học bởi [[Neural Network]]

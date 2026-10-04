@@ -21,7 +21,7 @@
 		- [[Decision Stump]]
 		- [[Entropy (Mức độ hỗn loạn)]]
 		- [[Information Gain]]
-		- [[One-hot encoding]]
+		- [[One-hot Encoding]]
 	- **[[Tree Ensemble]]**
 		- **[[Gradient Boosting]]**
 			- [[CatBoost]]
