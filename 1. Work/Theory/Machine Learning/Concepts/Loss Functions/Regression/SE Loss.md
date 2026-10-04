@@ -1,5 +1,6 @@
 viết tắt của: Squared Error Loss 
 dịch: trung bình sai số bình phương
+tên khác: L2 Loss 
 
 thường được dùng trong bài toán hồi quy, có công thức:
 $$SE = (y_i - \hat{y}_i)^2$$
