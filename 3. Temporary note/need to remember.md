@@ -14,7 +14,7 @@ mini-batch SGD vs SGD
 công thức tính entropy
 công thức tính Information Gain 
 công thức tính Softmax 
-he initialization là gì 
+he initialization là gì Canonically
 xavier initialization là gì 
 Momentum GD ?
 RMSProp GD ?
