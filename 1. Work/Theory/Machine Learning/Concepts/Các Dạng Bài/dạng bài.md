@@ -6,8 +6,8 @@ những bài giải (now):
 ## CV
 - classification
 - detection (vừa vẽ vừa phân loại) (1 và nhiều vật thể)
-- segmentation 
-- & localization with multiple object 
+- segmentation (semantic và instance)
+- 
 But I would consider **classic Neural Style Transfer less likely than tasks such as classification, detection, segmentation, video recognition, or image-to-image prediction**.
 
 mặt giả 
