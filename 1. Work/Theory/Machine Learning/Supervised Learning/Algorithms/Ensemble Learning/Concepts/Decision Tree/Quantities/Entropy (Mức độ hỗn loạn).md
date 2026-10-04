@@ -19,5 +19,4 @@ với:
 $$
 H(p) = -p\log_2(p) - (1-p)\log_2(1-p)
 $$
-
-lí do mà ta lấy log cơ số hai là để giá trị lớn nhất của entropy sẽ là 1 
+lí do mà ta lấy log cơ số 2 là để giá trị lớn nhất của entropy sẽ là 1 
