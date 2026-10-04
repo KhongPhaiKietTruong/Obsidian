@@ -1,3 +1,4 @@
+viết tắt của: Absolute Error Loss
 dịch: Squared Error (sai số tuyệt đối)
 
 thường được dùng trong bài toán hồi quy, có công thức:

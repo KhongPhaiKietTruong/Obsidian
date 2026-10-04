@@ -1,1 +1,1 @@
-dùng để tạo [[AE Loss (Absolute Error)]] loss functino 
+dùng để tạo [[AE Loss]] loss functino 

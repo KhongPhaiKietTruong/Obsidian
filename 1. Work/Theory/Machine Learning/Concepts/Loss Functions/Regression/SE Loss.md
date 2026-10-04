@@ -1,4 +1,5 @@
-dịch: Squared Error (sai số bình phương)
+viết tắt của: Squared Error Loss 
+dịch: trung bình sai số bình phương
 
 thường được dùng trong bài toán hồi quy, có công thức:
 $$SE = (y_i - \hat{y}_i)^2$$

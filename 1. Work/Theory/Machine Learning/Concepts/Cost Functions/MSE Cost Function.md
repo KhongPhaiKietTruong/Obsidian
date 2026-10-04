@@ -1,3 +1,4 @@
+viết tắt của: Mean Squared Error Cost Function
 dịch: hàm chi phí bình phương sai số
 
 có công thức như sau:
