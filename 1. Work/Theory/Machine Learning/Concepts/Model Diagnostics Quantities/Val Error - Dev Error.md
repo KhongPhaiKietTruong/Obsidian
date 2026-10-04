@@ -1,1 +1,0 @@
-cũng giống [[Test Error]] nhưng mà nằm trên [[Validation Set - Dev Set]]

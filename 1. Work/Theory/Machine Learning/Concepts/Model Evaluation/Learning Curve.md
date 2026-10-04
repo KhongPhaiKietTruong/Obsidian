@@ -1,4 +1,4 @@
-đây là một đồ thị gồm 2 đường đồ thị của [[Training Error]] và [[Val Error - Dev Error]]
+đây là một đồ thị gồm 2 đường đồ thị của [[Training Error]] và [[Val Error]]
 với trục y là độ lệch của model và trục x là số lượng mẫu trong [[Training Set]]
 
 dựa trên learning curve mà ta có thể đánh giá mô hình đang bị [[Overfitting - High Variance]] hay [[Underfitting - High Bias]] 

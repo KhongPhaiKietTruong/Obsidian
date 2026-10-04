@@ -1,3 +1,5 @@
+tên khác: dev set 
+
 khi ta huấn luyện một mô hình, ta sẽ thử mô hình đó với nhiều [[Linear equation |phương trình tuyến tính]] khác nhau trong mỗi [[Neuron]] ([[Polynomial Regression]]) thay vì chỉ dạng cơ bản là 
 $$
 z = \vec{x}\vec{w}+b
@@ -11,7 +13,7 @@ $$
 y = w_1x_1 + w_2x_2 + w_3x_1^2 + w_4x_1x_2 + w_5x_2^2
 + w_6x_1^3 + w_7x_1^2x_2 + w_8x_1x_2^2 + w_9x_2^3 + b
 $$
-với mỗi lần thử ta tính ra [[Val Error - Dev Error]] (điểm số của mô hình trên [[Validation Set - Dev Set]]), sau đó dựa trên model có điểm số nhỏ nhất ta chọn được [[Degree Of Polynomial]] (con số đại diện cho phương trình ta chọn).
+với mỗi lần thử ta tính ra [[Val Error]] (điểm số của mô hình trên [[Val Set]]), sau đó dựa trên model có điểm số nhỏ nhất ta chọn được [[Degree Of Polynomial]] (con số đại diện cho phương trình ta chọn).
 sau khi chọn ra được hyperparamter d (mô hình tốt nhất hiện có của chúng ta hiện tại) thì ta tiếp tục đánh giá tính [[Generalization]] của mô hình đó trên [[Test Set]] để biết mô hình này có tốt hay không 
 
 
