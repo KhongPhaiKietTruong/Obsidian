@@ -1,7 +1,9 @@
+viết tắt của: Binary Cross Entropy Loss
 tên khác: log loss
 
-hàm loss này thực chất cũng chỉ là một dạng cụ thể của [[Category Cross Entropy - Softmax Loss]] với số lớp = 2 mà thôi 
-có công thức:
+## Định Nghĩa 
+BCE Loss một dạng cụ thể của [[Category Cross Entropy - Softmax Loss]] với số lớp = 2 
+BCE Loss có công thức:
 $$L\left(f_{\vec{w},b}(\vec{x}^{(i)}), y^{(i)}\right) = \begin{cases} -\log\left(f_{\vec{w},b}(\vec{x}^{(i)})\right) & \text{if } y^{(i)} = 1 \\ -\log\left(1 - f_{\vec{w},b}(\vec{x}^{(i)})\right) & \text{if } y^{(i)} = 0 \end{cases}$$
 dạng gộp:
 $$L\left(f_{\vec{w},b}(\vec{x}^{(i)}), y^{(i)}\right) = -y^{(i)} \log\left(f_{\vec{w},b}(\vec{x}^{(i)})\right) - (1 - y^{(i)}) \log\left(1 - f_{\vec{w},b}(\vec{x}^{(i)})\right)$$
