@@ -21,6 +21,8 @@ Miền giá trị của [[Entropy (Mức độ hỗn loạn)]] là \[0, 1]
 IG là lượng [[Entropy (Mức độ hỗn loạn)]] giảm sau khi thực hiện chia 
 [[Random Forest]] áp dụng [[Bagging - Sampling with replacement]] 
 catboost giúp không cần dùng [[One-hot Encoding]] và còn giúp giảm [[Data Leakage]] 
+[[LightGBM]] phát triển cây theo lá 
+[[AUC]] là diện tích nằm dưới [[]]
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
