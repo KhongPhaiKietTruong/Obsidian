@@ -6,6 +6,8 @@ giá trị đạo hàm của ReLU ?
 Dropout hoạt động như thế nào ở test time
 L1 loss là AE 
 L2 loss là SE 
+Log Loss là gì 
+Miền giá trị của Cross-Entropy Loss 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
 - GloVe -> ma trận co-occurence 
