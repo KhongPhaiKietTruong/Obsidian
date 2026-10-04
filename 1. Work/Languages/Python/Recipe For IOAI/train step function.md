@@ -12,7 +12,7 @@ def train_step(model, dataloader, device):
         logits = model(X_batch)
         # calc loss 
         loss = loss_fn(logits, y_batch)
-        train_loss += loss 
+        train_loss += loss.item()
         # calc grad
         optimizer.zero_grad()
         loss.backward()
