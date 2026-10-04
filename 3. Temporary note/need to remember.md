@@ -2,7 +2,7 @@
 [[Linear Regression]] + [[MSE Cost Function]] = [[Convex Function (Hàm Lồi)]] 
 [[1. Work/Theory/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression|Logistic Regression]] + [[MSE Cost Function]] = hàm không lồi 
 MAE bền vững trước outlier 
-giá trị đạo hàm của ReLU ?
+giá trị đạo hàm của ReLU là {0, 1} 
 Dropout hoạt động như thế nào ở test time
 L1 loss là AE 
 L2 loss là SE 
@@ -24,6 +24,10 @@ catboost giúp không cần dùng [[One-hot Encoding]] và còn giúp giảm [[D
 [[LightGBM]] phát triển cây theo lá 
 [[AUC]] là diện tích nằm dưới [[ROC Curve]] 
 [[ROC Curve]] dựa trên báo động giả và báo động đúng 
+[[Hard-Margin SVM Supervised Learning]] không cho phép xâm phạm, [[Support Vectors]] trong hard-margin phải ngay trên margin 
+[[Kernel SVM - Nonlinear SVM]] có [[Decision Boundary]] là đường cong, sử dụng một hàm chuyển đổi giúp map các điểm dữ liệu 
+[[Soft-Margin SVM]] cho phép xâm phạm 
+[[Support Vectors]] là điểm dữ liệu nằm gần hoặc trên [[Margin Boundary]]
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:

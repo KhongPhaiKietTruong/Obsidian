@@ -9,4 +9,4 @@ $$
 với:
 - m là số lượng mẫu trong [[Training Set]] 
 ## Đặc Điểm 
-- khác với [[MSE Cost Function]] thì MAE rất bền vững với các outliers 
+- khác với [[MSE Cost Function]] thì MAE rất bền vững với các [[Outliers]]

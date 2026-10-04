@@ -13,6 +13,6 @@ Trong đó:
 - Khoảng $68\%$ dữ liệu sẽ có z-score nằm trong khoảng từ $-1$ đến $+1$.
 - Khoảng $95\%$ dữ liệu sẽ có z-score nằm trong khoảng từ $-2$ đến $+2$.
 - Khoảng $99.7\%$ dữ liệu sẽ có z-score nằm trong khoảng từ $-3$ đến $+3$.
-- _Nếu z-score lớn hơn $+3$ hoặc nhỏ hơn $-3$, giá trị đó được coi là ngoại lai (outlier) cực kỳ hiếm gặp._
+- _Nếu z-score lớn hơn $+3$ hoặc nhỏ hơn $-3$, giá trị đó được coi là ngoại lai ([[Outliers]]) cực kỳ hiếm gặp._
 
 ![[Pasted image 20260516081740.png]]

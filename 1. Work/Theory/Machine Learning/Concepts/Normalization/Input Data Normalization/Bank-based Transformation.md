@@ -1,2 +1,2 @@
 chuẩn hóa dữ liệu dựa trên các [[Quantile]] 
-![[Pasted image 20260925101310.png|458]]giúp xử lí outliers tốt hơn [[Feature Normalization]] 
+![[Pasted image 20260925101310.png|458]]giúp xử lí [[Outliers]] tốt hơn [[Feature Normalization]] 
