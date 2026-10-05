@@ -5,3 +5,4 @@ collate (v): thu thập và đối chiếu
 breezy (adj): mát mẻ, có gió nhẹ 
 cinnamon (n): quế (cây quế, vỏ quế, ...) 
 seasonal (adj): thời vụ, theo mùa 
+worn (adj): bị mòn 
