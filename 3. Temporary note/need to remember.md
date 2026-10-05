@@ -36,6 +36,7 @@ DBSCAM thực hiện phân cụm dựa trên mật độ các điểm
 Các phương pháp để tìm số cụm: [[Elbow Method]], [[Silhouette Score]]
 Các phương pháp giảm chiều dữ liệu là [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]], [[t-SNE]], [[UMAP]] 
 [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] cố gắng giữ tối đa phương sai của dữ liệu 
+[[Silhouette Score]] có miền giá trị từ -1 tới 1 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
