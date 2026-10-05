@@ -41,3 +41,4 @@
 - [ ] SVD 
 - [ ] GMM 
 - [ ] LDA 
+- [ ] SwiGLU 
