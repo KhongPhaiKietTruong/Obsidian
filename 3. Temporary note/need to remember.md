@@ -29,6 +29,7 @@ catboost giúp không cần dùng [[One-hot Encoding]] và còn giúp giảm [[D
 [[Soft-Margin SVM]] cho phép xâm phạm 
 [[Support Vectors]] là điểm dữ liệu nằm gần hoặc trên [[Margin Boundary]]
 [[R2]] mang ý nghĩa thể hiện tỉ lệ phương sai biến mục tiêu 
+[[feature]] scaling rất quan trọng đối với [[KNN]]
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
