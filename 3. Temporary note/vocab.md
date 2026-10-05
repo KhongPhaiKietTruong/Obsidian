@@ -1,6 +1,6 @@
 overlay (n): lớp phủ 
 overlay (v): phủ lên 
-throughtout  (adv):
+throughtout  (adv): suốt (thời gian), khắp (không gian)
 garment 
 decal 
 collate (v): thu thập và đối chiếu 
