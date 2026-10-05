@@ -30,7 +30,7 @@ catboost giúp không cần dùng [[One-hot Encoding]] và còn giúp giảm [[D
 [[Support Vectors]] là điểm dữ liệu nằm gần hoặc trên [[Margin Boundary]]
 [[R2]] mang ý nghĩa thể hiện tỉ lệ phương sai biến mục tiêu 
 Feature scaling rất quan trọng đối với [[KNN]]
-Clustering thực hiện phân cụm dựa trên khoảng cách (chạy )
+Clustering thực hiện phân cụm dựa trên khoảng cách (chạy nhiều lần và so sánh [[Cost Function]] của mỗi lần để tránh [[Local Minimum (Cực Tiểu Cục Bộ)]])
 DBSCAM thực hiện phân cụm dựa trên mật độ các điểm 
 [[K-means]] dựa trên khoảng cách ([[Euclidean]])
 
