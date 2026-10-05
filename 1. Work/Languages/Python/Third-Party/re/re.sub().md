@@ -1,4 +1,4 @@
-là một hàm dùng để tìm pattern và thay thế pattern đó 
 ```python
-re.sub()
+re.sub(pattern, replace, string)
 ```
+tìm pattern trong string và thay thế pattern đó cho replace 
