@@ -43,6 +43,7 @@ trước khi thực hiện [[1. Work/Theory/Math For Data Science/Linear Algebra
 t-SNE thường được dùng để trực quan hóa dữ liệu 
 [[AutoEncoder]] gồm hai thành phần chính là [[Encoder]] và [[Decoder]] 
 [[UMAP]] là nâng cấp của [[t-SNE]], tính toán nhanh hơn 
+[[Mini-Batch Stochastic Gradient Descent (Mini-batch SGD)]] giúp giảm phương sai của [[Gradient]] 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
