@@ -1,0 +1,1 @@
+là một method dùng để duyệt qua các hàng (mẫu) trong [[DataFrame]] 
