@@ -1,6 +1,6 @@
 viết tắt của: Byte Pair Encoding 
 ## Định Nghĩa
-BPE là một thuật toán dùng để [[Tokenize]] [[Corpus]] thành các subword bằng việc bắt đầu với một bộ [[Vocabulary]] gồm các kí tự xuất hiện trong corpus, rồi dựa trên tuần suất mà chúng nó xuất hiện kế nhau mà hợp 2 token lại thành 1 
+BPE là một thuật toán dùng để [[Tokenize]] [[Corpus]] thành các subword bằng việc bắt đầu với một bộ [[Vocabulary]] gồm các kí tự xuất hiện trong corpus, rồi dựa trên tuần suất mà chúng nó xuất hiện kế nhau mà hợp 2 token lại thành 1 (tiếp cận theo hướng bottom-up merge)
 
 Giả sử chúng ta có một corpus rất nhỏ với tần suất các từ như sau:
 l o w </w> : 5 lần
