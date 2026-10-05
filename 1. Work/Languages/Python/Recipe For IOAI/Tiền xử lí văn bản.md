@@ -7,7 +7,5 @@ def clean_text(txt: str):
     txt = re.sub(r'[^\w\s!.,?]', ' ', txt)
     # xu li khoang trang thua
     txt = re.sub(r'\s+', ' ', txt)
-    # viet thuong
-    txt = txt.lower()
-    return txt
+    return txt.strip().lower()
 ```
