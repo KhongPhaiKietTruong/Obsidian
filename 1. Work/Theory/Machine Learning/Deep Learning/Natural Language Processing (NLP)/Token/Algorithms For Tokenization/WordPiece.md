@@ -1,5 +1,5 @@
 ## Định Nghĩa 
-thực hiện chia sao cho phần chữ lấy ra là dài nhất khớp với từ trong [[Vocabulary]]
+thực hiện chia sao cho phần chữ lấy ra là dài nhất khớp với từ trong [[Vocabulary]], đây cũng là hướng tiếp cận bottum up 
 
 **Ví dụ 1**: Chia từ "playing"
 Cỗ máy sẽ cố gắng nuốt trọn cả chữ trước, nếu không được mới nhả dần ra.
