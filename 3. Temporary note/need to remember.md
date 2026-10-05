@@ -38,6 +38,7 @@ Các phương pháp giảm chiều dữ liệu là [[1. Work/Theory/Math For Dat
 [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] cố gắng giữ tối đa phương sai của dữ liệu 
 [[Silhouette Score]] có miền giá trị từ -1 tới 1 
 [[DBSCAN]] phát hiện nhiễu 
+các thành phần chính trong [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] trực giao (vuông góc) với nhau 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
