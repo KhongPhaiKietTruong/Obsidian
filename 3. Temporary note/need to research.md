@@ -39,3 +39,4 @@
 - [ ] SMOTE 
 - [ ] OOB
 - [ ] SVD 
+- [ ] GMM 
