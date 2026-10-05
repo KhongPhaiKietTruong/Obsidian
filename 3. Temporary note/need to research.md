@@ -15,16 +15,12 @@
 - [ ] mô hình 3 lớp trong web là gì 
 - [ ] prepared statement 
 - [ ] connection poding 
-![[Pasted image 20260921155758.png]]![[Pasted image 20260921161333.png|594]] 
 - [x] Các kĩ thuật fine-tuning?
 - [x] backbone là gì 
 - [x] cấu tạo residual block 
-- [ ] ViT là gì 
 - [x] mô hình BERT, GPT 
-![[Pasted image 20260924133110.png]]
-- [ ]  KV Cahche
-- [ ] Swin Transformer 
-- [ ] tìm hiểu paddle OCR ? 
+- [ ] KV Cache
+- [ ] Paddle OCR  
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] MLA-C02
 - [x] decoupled learning rate ? 
@@ -34,9 +30,15 @@
 - [ ] ConvNeXt 
 - [ ] ViT 
 - [ ] AdaptiveAvgPool2d 
-- [ ] SMOTE 
 - [ ] OOB
 - [ ] SVD 
 - [ ] GMM 
 - [ ] LDA 
 - [ ] SwiGLU 
+- [ ] GELU
+- [ ] SiLU, Swish 
+- [ ] SwiGLU, GeGLU  
+- [ ] GELU
+- [ ] SiLU, Swish 
+- [ ] SwiGLU, GeGLU  
+- [ ] Swin Transformer
