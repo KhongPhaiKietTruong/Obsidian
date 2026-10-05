@@ -36,3 +36,4 @@
 - [ ] ConvNeXt 
 - [ ] ViT 
 - [ ] AdaptiveAvgPool2d 
+- [ ] SMOTE 
