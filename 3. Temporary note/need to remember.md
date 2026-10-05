@@ -34,6 +34,8 @@ Clustering thực hiện phân cụm dựa trên khoảng cách (chạy nhiều 
 DBSCAM thực hiện phân cụm dựa trên mật độ các điểm 
 [[K-means]] dựa trên khoảng cách ([[Euclidean]])
 Các phương pháp để tìm số cụm: [[Elbow Method]], [[Silhouette Score]]
+Các phương pháp giảm chiều dữ liệu là [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]], [[t-SNE]], [[UMAP]] 
+[[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] cố gắng giữ tối đa phương sai của dữ liệu 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
