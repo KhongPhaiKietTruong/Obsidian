@@ -42,3 +42,4 @@
 - [ ] Swin Transformer
 - [ ] Focal Loss 
 - [ ] Hinge Loss 
+- [ ] Label Smoothing 
