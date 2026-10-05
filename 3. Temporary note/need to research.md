@@ -37,3 +37,4 @@
 - [ ] ViT 
 - [ ] AdaptiveAvgPool2d 
 - [ ] SMOTE 
+- [ ] OOB 
