@@ -39,6 +39,8 @@ Các phương pháp giảm chiều dữ liệu là [[1. Work/Theory/Math For Dat
 [[Silhouette Score]] có miền giá trị từ -1 tới 1 
 [[DBSCAN]] phát hiện nhiễu 
 các thành phần chính trong [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] trực giao (vuông góc) với nhau 
+trước khi thực hiện [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] thì gần như bắt buộc phải thực hiện [[Standardization (Z-score normalization)]] 
+t-SNE thường được dùng để trực quan hóa dữ liệu 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
