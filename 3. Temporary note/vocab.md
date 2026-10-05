@@ -9,3 +9,4 @@ worn (adj): bị mòn
 Provided that: miễn là 
 turnout (n):
 on behalf of 
+seating (n): số lượng chỗ ngồi 
