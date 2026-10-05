@@ -33,7 +33,7 @@ Feature scaling rất quan trọng đối với [[KNN]]
 Clustering thực hiện phân cụm dựa trên khoảng cách (chạy nhiều lần và so sánh [[Cost Function]] của mỗi lần để tránh [[Local Minimum (Cực Tiểu Cục Bộ)]])
 DBSCAM thực hiện phân cụm dựa trên mật độ các điểm 
 [[K-means]] dựa trên khoảng cách ([[Euclidean]])
-
+Các phương pháp để tìm số cụm: [[Elbow Method]], [[Silhouette Score]]
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
