@@ -7,3 +7,4 @@ cinnamon (n): quế (cây quế, vỏ quế, ...)
 seasonal (adj): thời vụ, theo mùa 
 worn (adj): bị mòn 
 Provided that: miễn là 
+turnout (n):
