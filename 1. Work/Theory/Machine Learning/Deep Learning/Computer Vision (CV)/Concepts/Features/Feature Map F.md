@@ -2,7 +2,7 @@ kí hiệu: F
 dịch: bản đồ đặc trưng
 
 ## Định Nghĩa 
-là ma trận kết quả của phép toán [[Convolution]] của [[Filter]] lên ảnh Input 
+Feature Map là ma trận kết quả của phép toán [[Convolution]] của [[Filter]] lên ảnh Input 
 mỗi một phần tử trong ma trận F có thể hiểu là một [[Neuron]]
 kích thước của feature map sau phép tích chập:
 $$
