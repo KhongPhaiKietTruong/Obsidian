@@ -44,7 +44,7 @@ t-SNE thường được dùng để trực quan hóa dữ liệu
 [[AutoEncoder]] gồm hai thành phần chính là [[Encoder]] và [[Decoder]] 
 [[UMAP]] là nâng cấp của [[t-SNE]], tính toán nhanh hơn 
 [[Mini-Batch Stochastic Gradient Descent (Mini-batch SGD)]] giúp giảm phương sai của [[Gradient]] 
-
+[[AdaGrad]] khiến tốc độ học suy giảm rất nhanh do nó tích lũy bình phương và ngày càng tăng dần 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
 - GloVe -> ma trận co-occurence 
