@@ -12,9 +12,7 @@
 - [x] một thuộc tính trong một table chứa giá trị là một list thì không vip phạm 1NF ? 
 - [ ] graph database  
 - [x] teacher forcing ?
-- [ ] mô hình 3 lớp trong web là gì 
-- [ ] prepared statement 
-- [ ] connection poding 
+- [ ] mô hình 3 lớp trong web là gì  
 - [x] Các kĩ thuật fine-tuning?
 - [x] backbone là gì 
 - [x] cấu tạo residual block 
