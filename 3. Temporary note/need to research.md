@@ -40,3 +40,5 @@
 - [ ] SiLU, Swish 
 - [ ] SwiGLU, GeGLU  
 - [ ] Swin Transformer
+- [ ] Focal Loss 
+- [ ] Hinge Loss 
