@@ -71,6 +71,7 @@ Thực hiện transpose convolution trên giấy lại
 Để thực hiện được [[Convolution]] lên một [[Output Tensor Z]] thì số channel của [[Filter]] phải bằng với số channel của output tensor đó (cũng nghĩa là bằng với số lượng filter của lớp trước đó)
 Kích thước của output sau khi thực hiện [[Convolution]] (xem ở [[Feature Map F]])
 
+
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
 - GloVe -> ma trận co-occurence 
