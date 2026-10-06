@@ -10,3 +10,4 @@ Provided that: miễn là
 turnout (n): số lượng người tham gia, sản lượng 
 on behalf of (adv): thay mặt cho 
 seating (n): số lượng chỗ ngồi 
+counter (n): quầy, k
