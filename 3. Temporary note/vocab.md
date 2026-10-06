@@ -7,6 +7,6 @@ cinnamon (n): quế (cây quế, vỏ quế, ...)
 seasonal (adj): thời vụ, theo mùa 
 worn (adj): bị mòn 
 Provided that: miễn là 
-turnout (n):
-on behalf of 
+turnout (n): số lượng người tham gia, sản lượng 
+on behalf of (adv): thay mặt cho 
 seating (n): số lượng chỗ ngồi 
