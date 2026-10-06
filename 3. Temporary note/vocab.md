@@ -14,3 +14,4 @@ counter (n): quầy, k
 forecasts
 Orient (v): định hướng 
 Orientatin (n): sự định hướng 
+topology (n): cấu trúc liên kết 

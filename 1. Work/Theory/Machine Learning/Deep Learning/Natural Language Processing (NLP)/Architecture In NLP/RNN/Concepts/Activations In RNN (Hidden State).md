@@ -1,6 +1,6 @@
 kí hiệu: $h_{t}$ hoặc $a^{<t>}$ (Andrew)
 
-là một [[Vector]] chứa tóm tắt thông tin của các timestamps trước được tính bằng công thức 
+là một [[Vector]] chứa tóm tắt thông tin của các time step trước được tính bằng công thức 
 $$
 a^{(t)}=g_{1}(W_{aa}a^{<t-1>}+W_{ax}x^{<t>}+b_{a})
 $$

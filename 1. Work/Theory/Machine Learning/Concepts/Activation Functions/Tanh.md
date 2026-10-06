@@ -16,7 +16,7 @@ miền giá trị đạo hàm
 $$
 0<\tanh'(z)\leq{1}
 $$
-## Trường Hợp Sử Dụng 
+## Sử Dụng 
 - dùng làm [[Activations]] trong [[Vanilla RNN Cell]] 
 - dùng để tính candidate [[Activations In RNN (Hidden State)|Hidden State]] trong [[GRU cell]] 
 - tạo candidate cell state và hidden state trong [[LSTM Cell]]

@@ -78,6 +78,7 @@ IoU được tính bằng diện tích trùng chia cho diện tích hợp
 Viterbi là một thuật toán quy hoạch động để tìm ra chuỗi có đại lượng nào đó cao nhất (chuỗi POS, ...)
 POS = gán từ loại 
 NER = xác định thực thể (người, tổ chức, ...)
+[[Activations]] được sử dụng trong [[RNN]] là [[Tanh]] 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
