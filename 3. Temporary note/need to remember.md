@@ -66,6 +66,7 @@ Trong InceptionNet có thực hiện [[One-By-One Convolution]] để giảm s�
 [[Depthwise Convolution]] là mỗi channel có một [[Filter]] riêng 
 [[One-By-One Convolution]] là [[Convolution]] có kích thước [[Filter]] 1x1 
 [[Same Convolution]] có [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (K-1)/2 
+Thực hiện transpose convolution trên giấy lại 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
