@@ -87,6 +87,7 @@ LSTM hoạt động dựa trên cơ chế cell state
 [[Teacher Forcing]] là cơ chế đem [[Ground Truth]] của time step trước làm input cho time step hiện tại 
 [[Bidirectional RNN]] không dùng được cho vấn đề real-time 
 BiRNN không thể dùng cho dạng bài sinh chuỗi được 
+RNN sử dụng cùng một ma trận [[Weight (Trọng Số)]] cho tất cả time step 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
