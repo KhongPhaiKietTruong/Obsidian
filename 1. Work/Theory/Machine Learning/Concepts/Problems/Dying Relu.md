@@ -4,4 +4,3 @@ Dying Relu là hiện tượng xảy ra khi ta sử dụng [[ReLU]] và giá tr�
 ## Nguyên Nhân 
 - [[Base Learning Rate]] quá lớn khiến cho giá trị update cũng lớn theo (trọng số trừ đi cho giá trị update) (xem thêm ở [[Gradient Descent]]) 
 - Dữ liệu chưa được thực hiện [[Normalization]] khiến nó có phương sai lớn -> [[Exploding Gradient]] 
-- 
