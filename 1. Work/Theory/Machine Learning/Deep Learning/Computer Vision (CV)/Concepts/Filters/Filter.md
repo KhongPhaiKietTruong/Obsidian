@@ -1,6 +1,5 @@
 tên khác: kernel
 ## Định nghĩa 
-
 là một [[Matrix (Ma Trận)]] được dùng trong [[Convolution]] để nhận diện những pattern nhất định trong ảnh (như cạnh dọc, ngang, cong, ...) 
 
 ví dụ, filter xác định cạnh dọc trong ảnh xám sẽ có dạng:
@@ -16,7 +15,6 @@ cái ma trận K mang ý nghĩa là: "lấy tổng độ sáng của 3 pixels b�
 ![[Pasted image 20260915141858.png|439]]
 cái ma trận K mang ý nghĩa là: "lấy tổng độ sáng của 3 pixels bên trái so sánh với tổng độ sáng 3 thằng bên trái", hiểu đơn giản hơn là "so sánh phần bên trái với phần bên phải"
 ## Kích Thước 
-
 kí hiệu: $f^{[l]}$ 
 ở phần định nghĩa, ta cho ví dụ filter làm một ma trận 2 chiều vì ta xét trên ảnh xám, đối với ảnh tiêu chuẩn hiện nay, tức RGB (3 channels) thì filter sẽ cần có thêm channel nữa.
 **một** filter trong [[Neural Network]] sẽ có kích thước:
