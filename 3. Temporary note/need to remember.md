@@ -85,6 +85,7 @@ Nhược điểm của RNN: dễ bị [[Vanishing Gradient]], phải tính toán
 [[LSTM Cell]] gồm 3 cổng: forget, input, output gate 
 LSTM hoạt động dựa trên cơ chế cell state 
 [[Teacher Forcing]] là cơ chế đem [[Ground Truth]] của time step trước làm input cho time step hiện tại 
+[[Bidirectional RNN]] không dùng được cho vấn đề real-time 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
