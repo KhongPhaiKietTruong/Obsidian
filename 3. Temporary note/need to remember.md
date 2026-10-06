@@ -62,6 +62,7 @@ AutoEncoder được sử dụng để phát hiện bất thường, khử nhi�
 EfficientNet giúp mở rộng quy mô mạng mà vẫn tối ưu được chi phí tính toán 
 InceptionNet là thực hiện với nhiều hướng, sau đó gộp lại 
 Trong [[InceptionNet]], [[Pooling Layer]] phải được thực hiện với padding 
+Trong InceptionNet có thực hiện [[One-By-One Convolution]] để giảm số kênh 
 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
