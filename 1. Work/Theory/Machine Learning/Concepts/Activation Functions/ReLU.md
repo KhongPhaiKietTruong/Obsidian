@@ -2,9 +2,9 @@ viết tắt của: Rectified Linear Units
 dịch: Hàm tuyến tính chỉnh lưu 
 
 ## Định Nghĩa 
-[[Activations]] này có dạng:
+ReLu là một hàm [[Activations]] phi tuyến có dạng:
 $$g(z)=\max(0, z)$$
-là một hàm phi tuyến tính 
+![[Pasted image 20261006141824.png|347]]
 ## Đạo Hàm 
 hàm ReLU không có đạo hàm tại z=0 nhưng một quy ước thường thấy là
 $$
