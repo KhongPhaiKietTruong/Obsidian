@@ -12,4 +12,4 @@ có nhiều biến thể khác nhau của vanilla RNN khi ta thực hiện thay 
 ## Đặc Điểm 
 - sử dụng cơ chế Backpropagation Through Time  
 ## Nhược Điểm 
-- Dễ bị [[Vanishing Gradient]]
+- Dễ bị [[Vanishing Gradient]] (do dùng [[Tanh]]) 
