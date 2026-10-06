@@ -32,10 +32,9 @@
 - [ ] SVD 
 - [ ] GMM 
 - [ ] LDA 
-- [ ] SwiGLU 
-- [ ] GELU
-- [ ] SiLU, Swish 
-- [ ] SwiGLU, GeGLU  
+- [ ] ~~SwiGLU~~ 
+- [x] GELU
+- [ ] ~~SwiGLU, GeGLU~~  
 - [x] GELU
 - [x] SiLU, Swish 
 - [ ] SwiGLU, GeGLU  
