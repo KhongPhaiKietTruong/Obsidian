@@ -10,5 +10,6 @@ có nhiều biến thể khác nhau của vanilla RNN khi ta thực hiện thay 
 - **Many-to-many (2), Tx≠Ty**: dịch máy 
 ![[Pasted image 20260918202104.png|464]]
 ## Đặc Điểm 
-
+- sử dụng cơ chế Backpropagation Through Time  
 ## Nhược Điểm 
+- Dễ bị [[Vanishing Gradient]]
