@@ -1,4 +1,5 @@
-có dạng
+## Định Nghĩa
+Linear Activation có dạng như một [[Idenity Function]]: 
 $$
 g(z)= z
 $$
