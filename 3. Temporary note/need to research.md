@@ -36,8 +36,8 @@
 - [ ] GELU
 - [ ] SiLU, Swish 
 - [ ] SwiGLU, GeGLU  
-- [ ] GELU
-- [ ] SiLU, Swish 
+- [x] GELU
+- [x] SiLU, Swish 
 - [ ] SwiGLU, GeGLU  
 - [ ] Swin Transformer
 - [ ] Focal Loss 
