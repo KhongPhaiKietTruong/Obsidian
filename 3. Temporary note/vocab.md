@@ -12,3 +12,5 @@ on behalf of (adv): thay mặt cho
 seating (n): số lượng chỗ ngồi 
 counter (n): quầy, k
 forecasts
+Orient (v): định hướng 
+Orientatin (n): sự định hướng 
