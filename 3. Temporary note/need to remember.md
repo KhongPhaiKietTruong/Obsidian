@@ -68,7 +68,7 @@ Trong InceptionNet có thực hiện [[One-By-One Convolution]] để giảm s�
 [[Same Convolution]] có [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (K-1)/2 
 Thực hiện transpose convolution trên giấy lại 
 [[Valid Convolution]] là convolution không có [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (có [[Stride]] vẫn được)
-Để thực hiện được [[Convolution]] lên một [[Output Tensor Z]] thì số channel của [[Filter]] phải bằng với số channel của output tensor đó 
+Để thực hiện được [[Convolution]] lên một [[Output Tensor Z]] thì số channel của [[Filter]] phải bằng với số channel của output tensor đó (cũng nghĩa là bằng với số lượng filter của lớp trước đó)
 Kích thước của output sau khi thực hiện [[Convolution]] (xem ở [[Feature Map F]])
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
