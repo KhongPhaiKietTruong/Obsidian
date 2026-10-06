@@ -7,4 +7,4 @@ B2: xóa tất cả những bounding box có [[IoU - Intersection over Union]] >
 B3: nếu vẫn còn bounding box chưa được xác định là kết quả cuối cùng thì quay bước 1 tiếp 
 
 > [!NOTE] Notes
-> Contents
+> trong bài toán detect n nhãn vật thể thì sẽ thực hiện thực toán này n lần với mục tiêu của mỗi lần là bounding box của nhãn vật thể đó 
