@@ -82,6 +82,7 @@ NER = xác định thực thể (người, tổ chức, ...)
 trong [[GRU cell]], tanh được dùng để tính trạng thái ứng viên 
 2 cổng của GRU là reset gate (lượng tt cũ được dùng để tính tt mới) và update gate (lượng thông tin cũ được giữ lại)  (mỗi gate dùng một [[Sigmoid]])
 Nhược điểm của RNN: dễ bị [[Vanishing Gradient]], phải tính toán tuần tự, mất mát thông tin khi nén thông tin vào một vector [[Activations In RNN (Hidden State)]] duy nhất 
+[[LSTM Cell]] gồm 3 cổng: forget, input, output gate 
 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
