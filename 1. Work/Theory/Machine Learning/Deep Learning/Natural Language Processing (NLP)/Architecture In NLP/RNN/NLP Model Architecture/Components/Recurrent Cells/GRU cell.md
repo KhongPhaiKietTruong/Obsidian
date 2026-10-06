@@ -1,8 +1,8 @@
-viết tắt của Gated Recurrent Unit 
+viết tắt của: Gated Recurrent Unit 
 
-là một biến thể của [[Vanilla RNN Cell]], hoặc cũng có thể gọi là biến thể của [[Vanilla RNN]], GRU thường nhẹ và nhanh hơn [[LSTM Cell]] do ít gate hơn (tính toán ít hơn) nhưng đánh đổi lại là "lượng nhớ" những thông tin cũ sẽ không bằng 
+là một biến thể của [[Vanilla RNN Cell]], GRU thường nhẹ và nhanh hơn [[LSTM Cell]] do ít gate hơn (tính toán ít hơn) nhưng đánh đổi lại là "lượng nhớ" những thông tin cũ sẽ không bằng 
 
-giúp giảm bớt vấn đề [[Vanishing Gradient]] bằng cách cho thêm 2 gates vào mỗi unit, mỗi gate để kiểm soát một vấn đề nhất định:
+GRU giúp giảm bớt vấn đề [[Vanishing Gradient]] bằng cách cho thêm 2 gates vào mỗi unit, mỗi gate để kiểm soát một vấn đề nhất định:
 - update gate $z_{t}$: quyết định xem bao nhiêu phần thông tin cũ được giữ lại và mức độ sử dụng thông tin mới 
 - reset gate $r_{t}$: quyết định xem bao nhiêu phần thông cũ sẽ được sử dụng để tính giá trị mới 
 reset gate này được dùng để tính phần đề xuất (candidate), update gate giúp trộn phần đề xuất đó với thông tin cũ 
