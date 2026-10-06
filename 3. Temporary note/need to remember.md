@@ -45,6 +45,8 @@ t-SNE thường được dùng để trực quan hóa dữ liệu
 [[UMAP]] là nâng cấp của [[t-SNE]], tính toán nhanh hơn 
 [[Mini-Batch Stochastic Gradient Descent (Mini-batch SGD)]] giúp giảm phương sai của [[Gradient]] 
 [[AdaGrad]] khiến tốc độ học suy giảm rất nhanh do nó tích lũy bình phương và ngày càng tăng dần 
+Các tham số trong [[Pooling Layer]] là [[Hyperparameter (Siêu Tham Số)]] (do ta tự định nghĩa mfa không được học bởi model)
+
 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
