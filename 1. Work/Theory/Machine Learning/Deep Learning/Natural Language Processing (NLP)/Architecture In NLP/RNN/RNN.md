@@ -8,4 +8,7 @@ có nhiều biến thể khác nhau của vanilla RNN khi ta thực hiện thay 
 - **One-to-many**: sequence generation (image captioning)
 - **Many-to-many (1), Tx=Ty**: sequence labeling (POS tagging)
 - **Many-to-many (2), Tx≠Ty**: dịch máy 
-![[Pasted image 20260918202104.png|656]]
+![[Pasted image 20260918202104.png|464]]
+## Đặc Điểm 
+
+## Nhược Điểm 
