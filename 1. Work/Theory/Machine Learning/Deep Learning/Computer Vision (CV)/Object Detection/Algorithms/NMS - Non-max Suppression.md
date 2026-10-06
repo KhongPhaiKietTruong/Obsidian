@@ -3,7 +3,7 @@ non-max suppression là một thuật toán giúp ta chọn ra được cái bou
 
 các bước của thuật toán này là
 B1: chọn ra bounding box có $p_{c}$ lớn nhất ($p_{c}$ là xác xuất của object cần detect có tồn tại trong ô hay không)  
-B2: xóa tất cả những bounding box có [[IoU - Intersection over Union]] > threshold (0.5 hoặc 0.6) so với cái mà ta tìm được ơ B1
+B2: xóa tất cả những bounding box có [[IoU - Intersection over Union]] > threshold (0.5 hoặc 0.6) so với cái mà ta tìm được ở
 B3: nếu vẫn còn bounding box chưa được xác định là kết quả cuối cùng thì quay bước 1 tiếp 
 
 > [!NOTE] Notes
