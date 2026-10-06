@@ -5,5 +5,5 @@ Loại kiến trúc này giúp chúng ta có thể kiểm soát độ lớn/nh�
 ## Đặc Điểm
 - sử dụng compound scaling (scale chiều rộng, chiều sâu, độ phân giải ảnh)
 ## Công Dụng 
-- thường dùng làm [[Backbone]] trong dạng bài phân loại 
+- thường dùng làm [[Backbone]] trong dạng bài phân loại và phân vùng 
 - tăng độ chính xác mà không làm tăng chi phí tính toán quá nhiều 
