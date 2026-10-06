@@ -76,6 +76,8 @@ Kích thước của output sau khi thực hiện [[Convolution]] (xem ở [[Fea
 mAP là một chỉ số để đánh giá một detection model (kết hợp giữa cả classification và localization)
 IoU được tính bằng diện tích trùng chia cho diện tích hợp 
 Viterbi là một thuật toán quy hoạch động để tìm ra chuỗi có đại lượng nào đó cao nhất (chuỗi POS, ...)
+POS = gán từ loại 
+NER = xác định thực thể (người, tổ chức, ...)
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
