@@ -13,5 +13,6 @@ có nhiều biến thể khác nhau của vanilla RNN khi ta thực hiện thay 
 - sử dụng cơ chế Backpropagation Through Time  
 ## Nhược Điểm 
 - Dễ bị [[Vanishing Gradient]] (do dùng [[Tanh]]) 
+- Dù ít hơn n
 - Phải thực hiện tính toán tuần tự mà không phải song song gây mất thời gian 
 - Thông tin bị lại thành một vector hidden state duy nhất gây mất mát thông tin 
