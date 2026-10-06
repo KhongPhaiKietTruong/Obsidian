@@ -17,7 +17,7 @@ Decision gồm 3 loại node là root node, decision node, leaf node
 [[Normalization]] sẽ không có tác dụng đối với các thuật toán dạng cây 
 Miền giá trị của [[Entropy (Mức độ hỗn loạn)]] là \[0, 1]
 [[Entropy (Mức độ hỗn loạn)]] đạt cực đại khi phân phối xác suất các lớp là [[Uniform distribution (Phân Phối Đều)]] (số mẫu chia đều ra cho số lớp)
-[[Gini Impurity]] là một đại lượng giống với [[Entropy (Mức độ hỗn loạn)]], được dùng do tính toán nhanh hơn nhiều so với entropy 
+[[Gini Impurity]] là một đại lượng giống với [[Entropy (Mức độ hỗn loạn)]], được dùng do tính toán nhanh hơn nhiều so với entropy AutoEncoder
 IG là lượng [[Entropy (Mức độ hỗn loạn)]] giảm sau khi thực hiện chia 
 [[Random Forest]] áp dụng [[Bagging - Sampling with replacement]] 
 catboost giúp không cần dùng [[One-hot Encoding]] và còn giúp giảm [[Data Leakage]] 
@@ -57,6 +57,8 @@ Resnet giúp xây dựng được mạng neuron rất sâu mà không gây ra [[
 [[Residual Block]] là một thành phần cơ bản nằm trong [[ResNet]]
 Các thành phần cơ bản của U-Net gồm: [[Encoder]], Bottleneck, [[Decoder]] 
 U-Net được sử dụng để thực hiện [[Semantic Segmentation]] 
+AutoEncoder: nén dữ liệu sau đó khôi phục lại
+AutoEncoder được sử dụng để phát hiện bất thường, khử nhiễu 
 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
