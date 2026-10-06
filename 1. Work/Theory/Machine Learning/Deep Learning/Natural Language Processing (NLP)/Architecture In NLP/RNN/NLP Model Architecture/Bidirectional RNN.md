@@ -8,4 +8,6 @@ các cell trong kiến trúc này cũng có thể dùng [[GRU cell]], [[LSTM Cel
 
 Bidirectional RNN + LSTM là combo phổ biến sử dụng để giải quyết các vấn đề NLP 
 
-điểm yếu của cấu trúc này là nó cần sequential of data hoàn chỉnh luôn (nghĩa là không dùng được cho vấn đề real-time )
+## Nhược Điểm 
+- không dùng được cho vấn đề real-time 
+- không dùng cho dạng toán sinh chuỗi (không thể dùng làm [[Decoder]])
