@@ -7,7 +7,7 @@ $$
 miền giá trị của sigmoid:
 $$
 0 < \sigma(z) < 1
-$$![[Pasted image 20260921091239.png|338]]
+$$![[Pasted image 20260921091239.png|284]]
 ## Đạo Hàm 
 đạo hàm của hàm sigmoid có công thức:
 $$\sigma'(z) = \sigma(z)(1-\sigma(z)) $$
