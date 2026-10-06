@@ -1,1 +1,1 @@
-lấy giá tị trung bình của các phần tử nằm trong ma trận pool 
+lấy giá trị trung bình của các phần tử nằm trong ma trận pool 

@@ -47,7 +47,7 @@ t-SNE thường được dùng để trực quan hóa dữ liệu
 [[AdaGrad]] khiến tốc độ học suy giảm rất nhanh do nó tích lũy bình phương và ngày càng tăng dần 
 Các tham số trong [[Pooling Layer]] là [[Hyperparameter (Siêu Tham Số)]] (do ta tự định nghĩa ma không được học bởi model)
 Cách biểu diễn [[Output Tensor Z]] trong pytorch là (B, C, H, W)
-
+Global Average Pooling được dùng ở vị trí trước lớp FC 
 
 
 
