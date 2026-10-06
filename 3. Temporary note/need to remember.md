@@ -59,6 +59,9 @@ Các thành phần cơ bản của U-Net gồm: [[Encoder]], Bottleneck, [[Decod
 U-Net được sử dụng để thực hiện [[Semantic Segmentation]] 
 AutoEncoder: nén dữ liệu sau đó khôi phục lại
 AutoEncoder được sử dụng để phát hiện bất thường, khử nhiễu 
+EfficientNet giúp mở rộng quy mô mạng mà vẫn tối ưu được chi phí tính toán 
+InceptionNet là thực hiện với nhiều hướng, sau đó gộp lại 
+Trong [[InceptionNet]], [[Pooling Layer]] phải được thực hiện với padding 
 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
