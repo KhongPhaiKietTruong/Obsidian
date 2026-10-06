@@ -1,2 +1,2 @@
-là một khái niệm thể hiện một [[Language Model]] nhận vào chuỗi đầu vào và cho ra chuỗi output đầu ra 
+là một khái niệm thể hiện một [[Language Model]] nhận vào chuỗi đầu vào và cho ra chuỗi output đầu ra dựa trên thông tin của chuỗi đầu vào 
 ![[Pasted image 20260920141528.png]][[Sequence To Sequence Model]] chính là một conditional language model 
