@@ -50,6 +50,8 @@ Cách biểu diễn [[Output Tensor Z]] trong pytorch là (B, C, H, W)
 Global Average Pooling được dùng ở vị trí trước lớp FC 
 Hai thành phần chính của GANs là một mạng tạo sinh và một mạng phân biệt 
 công dụng chính của GANs là để tạo ảnh 
+Mạng ResNet sử dụng [[Skip Connection]] để giải quyết [[Optimization Degradation]] 
+Optimization là hiện tượng mà model có nhiều layer hơn lại có hiệu suất kém hơn model nông hơn 
 
 
 
