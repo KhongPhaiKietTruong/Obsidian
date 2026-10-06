@@ -73,6 +73,8 @@ Kích thước của output sau khi thực hiện [[Convolution]] (xem ở [[Fea
 [[Anchor Box]] -> giải quyết một ô có nhiều điểm trung tâm của vật thể 
 [[Classical Sliding Window]] có chi phí tính toán rất nhiều, [[Convolutional Sliding Window]] ra đời để giải quyết vấn đề này 
 [[NMS - Non-max Suppression]] dùng để chọn ra bounding box trong các bounding box được gợi ý 
+mAP là một chỉ số để đánh giá một detection model (kết hợp giữa cả classification và localization)
+IoU được tính bằng diện tích trùng chia cho diện tích hợp 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
