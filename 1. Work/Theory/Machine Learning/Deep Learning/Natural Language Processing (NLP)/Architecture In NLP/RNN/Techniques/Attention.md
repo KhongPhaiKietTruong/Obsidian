@@ -1,7 +1,6 @@
 kí hiệu: $\alpha^{<t,t'>}$: giá trị attention mà $y^t$ nên "để ý" tới $a^{t'}$  
 ## Định Nghĩa 
-
-khi ta dùng [[Sequence To Sequence Model]], mỗi một token được tạo ra phải được truyền vào [[Activations In RNN (Hidden State)]] của cả chuỗi input, điều này hoạt động tốt khi chuỗi input ngắn, nhưng khi chuỗi input dài sẽ khiến model hoạt động kém, attention được sinh ra để giải quyết vấn đề này, ta sẽ gán các trọng số attention cho từng hidden state, mỗi khi tạo một token, ta chỉ xem xét những phần quan trọng trong chuỗi input mà không phải cả cái input và xem xét thêm từ mà ta dự đoán ở trước 
+khi ta dùng [[Sequence To Sequence Model]], mỗi một token được tạo ra phải được truyền vào [[Activations In RNN (Hidden State)]] của cả chuỗi input tích lũy từ đầu chuỗi đến [[time step]], điều này hoạt động tốt khi chuỗi input ngắn, nhưng khi chuỗi input dài sẽ khiến model hoạt động kém, attention được sinh ra để giải quyết vấn đề này, ta sẽ gán các trọng số attention cho từng hidden state, mỗi khi tạo một token, ta chỉ xem xét những phần quan trọng trong chuỗi input mà không phải cả cái input và xem xét thêm từ mà ta dự đoán ở trước 
 
 ví dụ cụ thể khi ta dùng attention trên [[Bidirectional RNN]], mỗi một token output ta sẽ xem xét cái giá trị:
 $$
