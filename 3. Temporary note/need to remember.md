@@ -54,7 +54,7 @@ Mạng ResNet sử dụng [[Skip Connection]] để giải quyết [[Optimizatio
 Optimization Degradation là hiện tượng mà model có nhiều layer hơn lại có hiệu suất kém so với model nông hơn 
 Vanishing gián tiếp gây ra Optimization Degradation 
 Resnet giúp xây dựng được mạng neuron rất sâu mà không gây ra [[Vanishing Gradient]]
-
+[[Residual Block]] là một thành phần cơ bản nằm trong [[ResNet]]
 
 
 
