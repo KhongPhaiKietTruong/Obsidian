@@ -52,6 +52,7 @@ Hai thành phần chính của GANs là một mạng tạo sinh và một mạng
 công dụng chính của GANs là để tạo ảnh 
 Mạng ResNet sử dụng [[Skip Connection]] để giải quyết [[Optimization Degradation]] 
 Optimization Degradation là hiện tượng mà model có nhiều layer hơn lại có hiệu suất kém so với model nông hơn 
+Vanishing gián tiếp gây ra Optimization Degradation 
 
 
 
