@@ -50,6 +50,7 @@ Cách biểu diễn [[Output Tensor Z]] trong pytorch là (B, C, H, W)
 
 
 
+
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
 - GloVe -> ma trận co-occurence 
