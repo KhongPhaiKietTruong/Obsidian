@@ -80,7 +80,8 @@ POS = gán từ loại
 NER = xác định thực thể (người, tổ chức, ...)
 [[Activations]] được sử dụng trong [[RNN]] là [[Tanh]] 
 trong [[GRU cell]], tanh được dùng để tính trạng thái ứng viên 
-2 cổng của GRU là reset gate (lượng tt cũ được dùng để tính tt mới) và update gate (lượng thông tin cũ được giữ lại) 
+2 cổng của GRU là reset gate (lượng tt cũ được dùng để tính tt mới) và update gate (lượng thông tin cũ được giữ lại)  (mỗi gate dùng một [[Sigmoid]])
+
 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
