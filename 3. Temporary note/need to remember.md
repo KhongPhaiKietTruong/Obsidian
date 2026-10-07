@@ -131,6 +131,7 @@ data leakage -> dữ liệu liên quan đến nhãn bị rò rỉ vào [[Trainin
 [[Saddle Point (Điểm Yên Ngựa)]] là điểm có [[Gradient]] = 0 khiến đường đi kẹt tại đây luôn (điểm này thật sự khá hiếm) mà ta thường rơi vào [[Saddle-like Plateau (Vùng Yên Ngựa)]] hơn 
 Symmetric Neural Network là hiện tượng mà cả model hoạt động chẳng khác gì một neuron duy nhất, nguyên nhân là do [[Weight (Trọng Số)]] của trọng số của các neuron giống nhau 
 trong [[Batch Norm]], [[Layer Norm]], [[RMSNorm]] đều có tham số có thể học được 
+Inverted Drop Out thực hiện scale thêm giá trị để giá trị activation của một layer không bị hao hụt (không cần phải scale trong [[Inference - Test time]])
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
