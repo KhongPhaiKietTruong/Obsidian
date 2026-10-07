@@ -124,8 +124,10 @@ Adam là sự kết hợp giữa [[Momentum]] và [[RMSProp]]
 AdamW thực hiện decouple weight decay = [[Adam]] + [[Weight Decay]] 
 [[Overfitting - High Variance]] -> model học luôn cả nhiễu 
 [[Normalization]] giúp giảm thiểu trình trạng [[Vanishing Gradient]], [[Exploding Gradient]], sự phụ thuộc vào khởi tạo trọng số và giúp model hội tụ nhanh hơn 
+Z-score normalization giúp đưa dữ liệu về dạng mean=0, variance=1
+
 skip connection là gì ?
-skip connection trong resnet vs trong u-net
+skip connection trong resnet vs trong 1u-net
 TF-IDF 
 skip connection trong resnet là phép cộng theo element-wise 
 skip connect triong u-net là phép nối theo channel-wise 
