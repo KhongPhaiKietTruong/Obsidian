@@ -148,7 +148,8 @@ add-one smoothing là đưa cho tần suất của mỗi từ ít nhất bằng 
 [[Backoff]]: nếu một n-gram chưa từng xuất hiện thì lùi n-gram đó xuống một từ, lặp lại cho đến khi n-gram đó có xuất hiện 
 [[Stupid Backoff]] là backoff cải tiến bằng cách thêm một hệ số 
 [[Interpolation]]: sử dụng nhiều n-gram cũng lúc cùng với một trọng số mỗi n-gram 
-BPE, WordPiece là phương pháp dạng 
+BPE, WordPiece là phương pháp dạng bottom-up
+UniGram là top-down 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
 TF-IDF 
