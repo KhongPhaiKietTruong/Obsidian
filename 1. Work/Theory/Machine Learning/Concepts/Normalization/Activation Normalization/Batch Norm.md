@@ -12,6 +12,8 @@ với:
 ## Đặc Điểm 
 - thường được sử dụng trước [[Activation Layer]] 
 - tạo ra hiệu ứng [[Regularization]] nhẹ do có nhiễu từ việc tính mean và [[Variance (Phương Sai)]] từ mini-batch 
+## Nhược Điểm
+- rất phụ thuộc vào kích thước của batch (khi batch size nhỏ thì lượng nhiễu sẽ rất lớn)
 ## Batch Norm at Test Time 
 trong [[Inference - Test time]], [[Batch Norm Layer]] sẽ không hoạt động giống như lúc train, khi ta truyền vào một mini-batch, thay vì sử dụng $\mu \text{ và }\sigma^2$ ([[Giá trị trung bình]] và [[Variance (Phương Sai)]]) của mini-batch hiện tại thì thay vào đó trong quá trình training, với mỗi mini-batch, ta cập nhật $\mu \text{ và } \sigma^2$ bằng [[Exponentially Weighted Average (EWA)]], sau khi training kết thúc, $\mu_{running} \text{ và } \sigma_{running}^2$ sẽ được giữ cố định để sử dụng cho batch norm ở test time 
 
