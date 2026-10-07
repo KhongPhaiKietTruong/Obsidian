@@ -1,6 +1,6 @@
 ## Định Nghĩa 
 là phương pháp giúp biến từ / đoạn văn thành một [[Vector]]
-bằng cách  tính độ quan trọng của một từ đối với một đoạn văn bản 
+bằng cách tính độ quan trọng của một từ đối với một đoạn văn bản 
 
 về cơ bản:
 - một từ xuất hiện thường xuyên ở trong một tài liệu thì sẽ **quan trọng**
