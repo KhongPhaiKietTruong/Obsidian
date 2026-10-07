@@ -104,6 +104,8 @@ trong [[FastText]], biểu diễn các n-grams thành các vector, một từ = 
 nhược điểm của [[Bag of Words]] và [[TF-IDF]] là các [[Word Embeddings]] không hề có ngữ cảnh về vị trí từ trong câu 
 Nhược điểm của [[GloVe]] là [[Word Embeddings]] ở dạng tĩnh, một từ ở câu ngữ cảnh khác nhau thì vẫn cùng một embeddings
 Markov Chain mô tả một hệ thống chuyển từ trạng thái này sang trạng thái khác 
+Consine Similarity quan tâm đến hướng 
+Euclidean quan tâm đến khoảng cách 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 các phương pháp biến word thành embeddings: 

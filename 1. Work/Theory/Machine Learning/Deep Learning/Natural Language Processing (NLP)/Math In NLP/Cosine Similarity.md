@@ -1,4 +1,4 @@
-là đại lượng dùng để đo sự tương quan về hướng của hai [[Vector]] 
+Cosine Similarity là đại lượng dùng để đo sự tương quan về **hướng** của hai [[Vector]] 
 
 cosine similarity có miền giá trị từ \[-1, 1]:
 - -1: hai vector ngược hướng
