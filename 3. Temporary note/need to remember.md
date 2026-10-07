@@ -141,7 +141,7 @@ khắc phục [[Exploding Gradient]] bằng [[Gradient Clipping]] ([[Cliping By 
 [[Greedy Encoding]] -> chọn token có xác suất cao nhất 
 [[Beam Search]] -> giữ n ứng viên, chọn ứng viên có xác suất cao nhất 
 Minium Bayes Risk (MBR) -> chọn ứng viên có trung bình độ tương đồng so với tất cả ứng viên còn lại là cao nhất 
-[[mea]]
+[[Mean Pooling Layer]] gộp các vector lại thành 1 
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
