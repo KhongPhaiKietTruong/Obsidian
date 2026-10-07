@@ -21,7 +21,8 @@ cap (n): hạn mức
 roster (n): danh sách thành viên, danh sách phân công 
 interim (adj): tạm thời, lâm thời 
 in the interim (adv): trong khoảng thời gian chờ đợi 
-dispatch ()
+dispatch (v): gửi đi, cử đi
+dispatch (n): sự gửi đi, sự điều phối 
 bids 
 dedicated (adj): riêng biệt 
 fill orders (v): xử lí đơn hàng
