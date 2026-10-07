@@ -42,3 +42,4 @@
 - [ ] Focal Loss 
 - [ ] Hinge Loss 
 - [ ] Label Smoothing 
+- [ ] Data Augmentation trong NLP ? 

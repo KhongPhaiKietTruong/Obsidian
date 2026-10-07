@@ -1,3 +1,4 @@
-- tăng kích thước [[Training Set]]
+- tăng kích thước [[Training Set]] (thu thập thêm hoặc tăng cường dữ liệu)
 - khi tập huấn luyện quá ít mà [[Features]] quá nhiều thì [[Features Selection]] là giải pháp tốt 
--  tăng hệ số regularization 
+- Giảm quy mô mô hình 
+-  thực hiện [[Regularization]] 
