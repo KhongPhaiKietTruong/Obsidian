@@ -119,9 +119,9 @@ mini-batch SGD là một batch có 2^n mẫu, SGD là 1 mẫu mỗi lần
 [[He Initialization]] là dành cho [[ReLU]] và các biến thể của nó 
 xavier initialization dành cho activation đối xứng qua gốc tọa độ như [[Tanh]], [[Sigmoid]], [[Linear Activation]] 
 Momentum GD giúp các gradient ngược hướng nhau tiệt tiêu nhau, giúp đường đi smooth hơn (Momentum là tích lũy hướng) và giúp vượt qua [[Saddle Point (Điểm Yên Ngựa)]] hoặc [[Local Minimum (Cực Tiểu Cục Bộ)]]
-RMSProp GD ?
-Adam ?
-AdamW ?
+RMSProp GD tích lũy độ lớn giúp giải quyết địa hình hẻm núi sâu hẹp (dốc lớn -> đi bé lại, dốc bé -> đi lớn hơn)
+Adam là sự kết hợp giữa [[Momentum]] và [[RMSProp]] 
+AdamW thực hiện decouple weight decay = [[Adam]] + [[Weight Decay]] 
 skip connection là gì ?
 skip connection trong resnet vs trong u-net
 TF-IDF 
