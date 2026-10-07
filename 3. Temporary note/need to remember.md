@@ -161,3 +161,4 @@ skip connect triong u-net là phép nối theo channel-wise
 AUC-ROC không sử dụng được cho dataset bị mất cân bằng 
 precision-recall trade off -> liên quan trực tiếp đến ngưỡng phân loại, khi tăng ngưỡng phân loại thì precision tăng nhưng recall giảm và ngược lại 
 macro f1 score dùng trong phát hiện lớp hiếm (do chú trọng các lớp đều nhau)
+trong bài toán [[Multi-Class Classification]], [[Micro F1 Score]] = [[Accuracy (Độ Chính Xác Tổng Thể)]]
