@@ -106,8 +106,7 @@ Nhược điểm của [[GloVe]] là [[Word Embeddings]] ở dạng tĩnh, một
 Markov Chain mô tả một hệ thống chuyển từ trạng thái này sang trạng thái khác 
 Consine Similarity quan tâm đến hướng 
 Euclidean quan tâm đến khoảng cách 
-
-[[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
+[[Batch Norm Layer]] sẽ sử dụng running mean và running variance ở test time 
 các phương pháp biến word thành embeddings: 
 - GloVe -> ma trận co-occurence 
 - Negative Sampling -> tạo các pair 
@@ -118,7 +117,7 @@ cách tính kích thước ma trận sau tích chập
 mini-batch SGD là một batch có 2^n mẫu, SGD là 1 mẫu mỗi lần 
 [[Xavier Initialization]] là dành cho [[Activations]] zero-center như [[Tanh]]
 [[He Initialization]] là dành cho [[ReLU]] và các biến thể của nó 
-xavier initialization là gì 
+xavier initialization dành cho activation đối xứng qua gốc tọa độ như [[Tanh]], [[Sigmoid]], [[Linear Activation]] 
 Momentum GD ?
 RMSProp GD ?
 Adam ?
