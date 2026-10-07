@@ -15,7 +15,6 @@ mục đích chính của PCA để huấn luyện mô hình nhanh hơn, loại 
 ## Công Dụng 
 - giảm chiều dữ liệu 
 - giảm noise dữ liệu
-- giúp minh họa dữ liệu
 - giúp train nhanh hơn do dữ liệu ít chiều hơn 
 ## Nhược Điểm
 - nhạy cảm với ngoại lệ 

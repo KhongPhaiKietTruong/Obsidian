@@ -165,3 +165,9 @@ trong bài toán [[Multi-Class Classification]], [[Micro F1 Score]] = [[Accuracy
 [[PR-AUC]] tập trung vào lớp thiểu số 
 Boosting Model giúp giảm bias 
 [[MSE Cost Function]] + [[Activations]] bão hòa ([[Sigmoid]], [[Tanh]]) => [[Vanishing Gradient]] 
+
+|                   | PCA        | t-SNE     | UMAP               |
+| ----------------- | ---------- | --------- | ------------------ |
+| Bản chất          | tuyến tính | phi tuyến | phi tuyến          |
+| cấu trúc bảo toàn | toàn cục   | cục bộ    | toàn cục + cục bộ  |
+|                   |            |           |                    |
