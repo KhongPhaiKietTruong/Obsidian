@@ -29,7 +29,7 @@
 			- [[XGBoost]]
 		- [[Bagging - Sampling with replacement]]
 		- [[Random Forest]]
-- **[[Regression]]**
+- **[[1. Work/Theory/Machine Learning/Supervised Learning/Regression/Concepts/Regression]]**
 	- [[ElasticNet Regression]]
 	- [[Lasso Regression]]
 	- [[Linear Regression]]
