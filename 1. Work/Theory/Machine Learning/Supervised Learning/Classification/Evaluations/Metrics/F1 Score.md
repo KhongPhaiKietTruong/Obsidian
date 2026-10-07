@@ -4,3 +4,5 @@ công thức tính F1 score:
 $$
 F1 = \frac{2}{\frac{1}{\text{Precision}} + \frac{1}{\text{Recall}}}
 $$
+## Sử Dụng 
+- được dùng trong dạng toán [[Binary Classification]]
