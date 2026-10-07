@@ -20,3 +20,5 @@ disgrace (v):
 cap (n): hạn mức 
 interim 
 roster (n): danh sách thành viên, danh sách phân công 
+interim (adj): tạm thời, lâm thời 
+in the interim (adv): trong khoảng thời gian chờ đợi 
