@@ -25,3 +25,5 @@ in the interim (adv): trong khoảng thời gian chờ đợi
 dispatch 
 bids 
 dedicated (adj): riêng biệt 
+fill orders (v): xử lí đơn hàng
+fill prescription (v): bốc đơn thuốc 
