@@ -10,3 +10,7 @@ hiện tượng này được gọi là high bias vì model mang **định kiế
 
 xem thêm [[Mối quan hệ giữa Trainning Error và Validation Error trong Degree Of Polynominal]])
 ## Nguyên Nhân 
+- Model quá đơn giản 
+- [[Regularization]] quá mạnh 
+- train quá ít [[Epoch]] 
+- 
