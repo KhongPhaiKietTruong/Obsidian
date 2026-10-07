@@ -137,6 +137,7 @@ PEFT : thực hiện finetune trên một phần nhỏ tham số
 LoRA: tách ma trận tham số ra thành hai cái ma trận 
 QLoRA thực hiện lượng tử hóa 
 KNN là [[Lazy Learning]]
+khắc phục [[Exploding Gradient]] bằng [[Gradient Clipping]] ([[Cliping By Norm]]) 
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net

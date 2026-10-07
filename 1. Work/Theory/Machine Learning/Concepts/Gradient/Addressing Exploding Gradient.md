@@ -1,1 +1,1 @@
-dùng gradient clipping 
+dùng [[Gradient Clipping]] 
