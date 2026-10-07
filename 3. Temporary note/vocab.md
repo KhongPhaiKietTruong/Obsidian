@@ -19,3 +19,4 @@ disgrace (n):
 disgrace (v): 
 cap (n): hạn mức 
 interim 
+roster (n): danh sách thành viên, danh sách phân công 
