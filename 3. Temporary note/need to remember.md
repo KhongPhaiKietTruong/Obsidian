@@ -98,10 +98,10 @@ trong [[Transformer]]:
 công thức cốt lỗi của attention: $\operatorname{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$ với cái phân số nằm bên trong gọi là **scaled dot product attention**  
 training BERT bằng hai phương pháp là Mask Language Model: che từ ở giữa rồi dựa trên từ xung quanh mà đoán và Next Sentence Prediction: xem xem cái câu phía sau có liên quan đến câu phía trước hay không (truyền vào BERT 2 câu mỗi lần)
 trong BERT có 3 thành phần embeddings: token (embeddings của từ sau khi train trên tập tổng quát), segment (cho biết từ hiện tại thuộc A hay B), position (vị trí của từ trong câu)
-trong BOW (bag of word), mỗi câu được biểu diễn bởi một vector thưa chứa tần suất các từ (vector đó có số chiều bằng với số chiều của [[Vocabulary]]) 
+trong [[Bag of Words]], mỗi câu được biểu diễn bởi một vector thưa chứa tần suất các từ (vector đó có số chiều bằng với số chiều của [[Vocabulary]]) 
 trong [[FastText]], biểu diễn các n-grams thành các vector, một từ = tổng vector của các n-grams 
 [[ELMo]] cùng một từ nhưng nằm trong ngữ cảnh khác nhau thì có embeddings khác nhau, kiến trúc là ghép hai mạng LSTM lại 
-
+nhược điểm của các frequency-based feature extraction (bag of words, glove, TF-IDF) là chỉ mang được ngữ cảnh cục bộ 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 các phương pháp biến word thành embeddings: 
