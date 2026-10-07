@@ -10,8 +10,7 @@ Provided that: miễn là
 turnout (n): số lượng người tham gia, sản lượng 
 on behalf of (adv): thay mặt cho 
 seating (n): số lượng chỗ ngồi 
-counter (n): quầy, k
-forecasts
+counter (n): quầy, bộ đếm 
 Orient (v): định hướng 
 Orientatin (n): sự định hướng 
 topology (n): cấu trúc liên kết 
