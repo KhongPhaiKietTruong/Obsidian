@@ -8,3 +8,6 @@ AUC \in [0, 1]
 $$
 - AUC = 1: bộ phân loại hoàn hảo 
 - AUC = 0.5: tương đương với việc đoán ngẫu nhiên 
+## Nhược Điểm 
+- không sử dụng được cho dataset bị mất cân bằng dữ liệu quá nhiều 
+## Sử Dụng 
