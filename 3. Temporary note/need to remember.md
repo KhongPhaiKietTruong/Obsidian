@@ -127,6 +127,7 @@ AdamW thực hiện decouple weight decay = [[Adam]] + [[Weight Decay]]
 Z-score normalization giúp đưa dữ liệu về dạng mean=0, variance=1
 normalization giúp đưa [[Pre-activation Value]] về một giá trị ổn định trước khi truyền vào [[Activations]] 
 thu thập thêm nhiều mẫu không giúp giải quyết được underfitting 
+data leakage -> dữ liệu liên quan đến nhãn bị rò rỉ vào [[Training Set]] 
 
 
 skip connection là gì ?

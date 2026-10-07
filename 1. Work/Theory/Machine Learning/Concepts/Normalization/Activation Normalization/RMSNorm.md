@@ -5,3 +5,6 @@ với:
 $$\text{RMS}(x) = \sqrt{\frac{1}{d} \sum_{i=1}^d x_i^2 + \epsilon}$$
 ## Ưu Điểm 
 - giảm đáng kể chi phí tính toán 
+
+## Sử Dụng 
+- được sử dụng trong các LLM hiện đại 
