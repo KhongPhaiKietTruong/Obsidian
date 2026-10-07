@@ -114,14 +114,10 @@ các phương pháp biến word thành embeddings:
 - Hierachical Softmax classifier -> tạo cây 
 - CBOW: dự đoán center dựa trên xung quanh
 - Skip-gram: dự đoán xung quanh dựa trên center 
-công thức tính ecludian ? 
 cách tính kích thước ma trận sau tích chập 
-khi thực hiện [[Same Convolution]] thì padding phải thêm là bao nhiêu ?
-mini-batch SGD vs SGD 
-công thức tính entropy
-công thức tính Information Gain 
-công thức tính Softmax 
-he initialization là gì Canonically
+mini-batch SGD là một batch có 2^n mẫu, SGD là 1 mẫu mỗi lần 
+[[Xavier Initialization]] là dành cho [[Activations]] zero-center như [[Tanh]]
+[[He Initialization]] là dành cho [[ReLU]] và các biến thể của nó 
 xavier initialization là gì 
 Momentum GD ?
 RMSProp GD ?
