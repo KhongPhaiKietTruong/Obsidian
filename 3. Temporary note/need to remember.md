@@ -100,6 +100,7 @@ training BERT bằng hai phương pháp là Mask Language Model: che từ ở gi
 trong BERT có 3 thành phần embeddings: token (embeddings của từ sau khi train trên tập tổng quát), segment (cho biết từ hiện tại thuộc A hay B), position (vị trí của từ trong câu)
 trong BOW (bag of word), mỗi câu được biểu diễn bởi một vector thưa chứa tần suất các từ (vector đó có số chiều bằng với số chiều của [[Vocabulary]]) 
 trong [[FastText]], biểu diễn các n-grams thành các vector, một từ = tổng vector của các n-grams 
+[[ELMo]] cùng một từ nhưng nằm trong ngữ cảnh khác nhau thì có embeddings khác nhau, kiến trúc là ghép hai mạng LSTM lại 
 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
