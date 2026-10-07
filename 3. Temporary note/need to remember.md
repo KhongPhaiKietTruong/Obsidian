@@ -150,8 +150,6 @@ add-one smoothing là đưa cho tần suất của mỗi từ ít nhất bằng 
 [[Interpolation]]: sử dụng nhiều n-gram cũng lúc cùng với một trọng số mỗi n-gram 
 BPE, WordPiece là phương pháp dạng bottom-up
 UniGram là top-down 
-skip connection là gì ?
-skip connection trong resnet vs trong 1u-net
 TF-IDF 
 skip connection trong resnet là phép cộng theo element-wise 
 skip connect triong u-net là phép nối theo channel-wise 
