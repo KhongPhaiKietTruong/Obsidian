@@ -1,4 +1,4 @@
-là phương pháp mà tách một từ thành các n-gram kí tự
+Fastext là phương pháp mà tách một từ thành các n-gram kí tự
 'where' -> <wh, whe, her, ere, re> (mỗi n-gram là một vector)
 
 vector('where') = vector('<wh') + ... vector('re>)

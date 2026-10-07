@@ -101,7 +101,7 @@ trong BERT có 3 thành phần embeddings: token (embeddings của từ sau khi 
 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
-biến word thành embeddings:
+các phương pháp biến word thành embeddings: 
 - GloVe -> ma trận co-occurence 
 - Negative Sampling -> tạo các pair 
 - Hierachical Softmax classifier -> tạo cây 
@@ -128,4 +128,4 @@ skip connect triong u-net là phép nối theo channel-wise
 [[L1 Regularization]] -> thưa thớt (đưa trọng số về 0)
 [[L2 Regularization]] -> đưa trọng số về gần 0
 [[Bagging - Sampling with replacement]] trong [[Random Forest]] giúp giảm phương sai 
-[[t-SNE vs UMAP]]
+[[t-SNE vs UMAP]] 

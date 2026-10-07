@@ -7,3 +7,4 @@ có hai loại architecture phổ biến cho thuật toán này:
 ![[Pasted image 20260919161134.png]]
 ## Nhược Điểm 
 - Một từ tương ứng với một [[Ebeddings]], không mang tính ngữ cảnh, bank trong "im going to the bank" và "sit on the river bank" mang cùng một embeddings
+- không thể xử lí được [[OOV]] 
