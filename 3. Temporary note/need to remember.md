@@ -22,7 +22,7 @@ IG là lượng [[Entropy (Mức độ hỗn loạn)]] giảm sau khi thực hi�
 [[Random Forest]] áp dụng [[Bagging - Sampling with replacement]] 
 catboost giúp không cần dùng [[One-hot Encoding]] và còn giúp giảm [[Data Leakage]] 
 [[LightGBM]] phát triển cây theo lá 
-[[AUC]] là diện tích nằm dưới [[ROC Curve]] 
+[[AUC-ROC]] là diện tích nằm dưới [[ROC Curve]] 
 [[ROC Curve]] dựa trên báo động giả và báo động đúng 
 [[Hard-Margin SVM Supervised Learning]] không cho phép xâm phạm, [[Support Vectors]] trong hard-margin phải ngay trên margin 
 [[Kernel SVM - Nonlinear SVM]] có [[Decision Boundary]] là đường cong, sử dụng một hàm chuyển đổi giúp map các điểm dữ liệu 

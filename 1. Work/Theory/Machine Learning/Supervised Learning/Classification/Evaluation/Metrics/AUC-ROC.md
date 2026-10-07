@@ -1,6 +1,6 @@
 viết tắt của: Area Under the Curve 
 ## Định Nghĩa 
-AUC là tỉ lệ diện tích nằm dưới đường [[ROC Curve]]
+AUC là tỉ lệ diện tích nằm dưới đường [[ROC Curve]], là một đại lượng dùng để đo lường hiệu năng của mô hình với các ngưỡng phân loại khác nhau 
 
 ## Miền Giá Trị
 $$
