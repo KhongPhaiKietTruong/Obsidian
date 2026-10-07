@@ -106,7 +106,7 @@ Nhược điểm của [[GloVe]] là [[Word Embeddings]] ở dạng tĩnh, một
 Markov Chain mô tả một hệ thống chuyển từ trạng thái này sang trạng thái khác 
 Consine Similarity quan tâm đến hướng 
 Euclidean quan tâm đến khoảng cách 
-[[Batch Norm Layer]] sẽ sử dụng running mean và running variance ở test time 
+[[Batch Norm Layer]] sẽ sử dụng running mean và running variance ở test time (mean và variance của tất cả mẫu) 
 các phương pháp biến word thành embeddings: 
 - GloVe -> ma trận co-occurence 
 - Negative Sampling -> tạo các pair 
@@ -127,6 +127,8 @@ AdamW thực hiện decouple weight decay = [[Adam]] + [[Weight Decay]]
 Z-score normalization giúp đưa dữ liệu về dạng mean=0, variance=1
 normalization giúp đưa [[Pre-activation Value]] về một giá trị ổn định trước khi truyền vào [[Activations]] 
 thu thập thêm nhiều mẫu không giúp giải quyết được underfitting 
+
+
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
 TF-IDF 

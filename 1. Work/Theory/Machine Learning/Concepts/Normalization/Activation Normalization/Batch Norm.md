@@ -15,7 +15,8 @@ với:
 ## Nhược Điểm
 - rất phụ thuộc vào kích thước của batch (khi batch size nhỏ thì lượng nhiễu sẽ rất lớn)
 ## Batch Norm at Test Time 
-trong [[Inference - Test time]], [[Batch Norm Layer]] sẽ không hoạt động giống như lúc train, khi ta truyền vào một mini-batch, thay vì sử dụng $\mu \text{ và }\sigma^2$ ([[Giá trị trung bình]] và [[Variance (Phương Sai)]]) của mini-batch hiện tại thì thay vào đó trong quá trình training, với mỗi mini-batch, ta cập nhật $\mu \text{ và } \sigma^2$ bằng [[Exponentially Weighted Average (EWA)]], sau khi training kết thúc, $\mu_{running} \text{ và } \sigma_{running}^2$ sẽ được giữ cố định để sử dụng cho batch norm ở test time 
+trong [[Inference - Test time]], [[Batch Norm Layer]] sẽ hoạt động không giống như lúc train, khi ta truyền vào một mini-batch, thay vì sử dụng $\mu \text{ và }\sigma^2$ ([[Giá trị trung bình]] và [[Variance (Phương Sai)]]) của mini-batch hiện tại thì trong quá trình training, với mỗi mini-batch, ta cập nhật $\mu \text{ và } \sigma^2$ bằng [[Exponentially Weighted Average (EWA)]], sau khi training kết thúc, $\mu_{running} \text{ và } \sigma_{running}^2$ sẽ được giữ cố định để sử dụng cho batch norm ở test time
+Nói cách khác, batch norm ở training time thì dùng mean và variance của mini-batch hiện tại (thay đổi theo từng batch), còn ở inference time thì nó dùng mean và variance được tính trên tất cả mẫu trong [[Training Set]] (ta không tính một lần mà tính tích lũy từ từ trong quá trình training)
 
 lí do là vì nếu ta sử dụng thông số đó trong mini-batch hiện tại thì sẽ khiến [[Predicted Value]] của một mẫu có thể phụ thuộc vào các mẫu khác 
 ​
