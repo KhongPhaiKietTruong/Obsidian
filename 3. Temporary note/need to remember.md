@@ -118,7 +118,7 @@ mini-batch SGD là một batch có 2^n mẫu, SGD là 1 mẫu mỗi lần
 [[Xavier Initialization]] là dành cho [[Activations]] zero-center như [[Tanh]]
 [[He Initialization]] là dành cho [[ReLU]] và các biến thể của nó 
 xavier initialization dành cho activation đối xứng qua gốc tọa độ như [[Tanh]], [[Sigmoid]], [[Linear Activation]] 
-Momentum GD ?
+Momentum GD giúp các gradient ngược hướng nhau tiệt tiêu nhau, giúp đường đi smooth hơn (Momentum là tích lũy hướng) và giúp vượt qua [[Saddle Point (Điểm Yên Ngựa)]] hoặc [[Local Minimum (Cực Tiểu Cục Bộ)]]
 RMSProp GD ?
 Adam ?
 AdamW ?

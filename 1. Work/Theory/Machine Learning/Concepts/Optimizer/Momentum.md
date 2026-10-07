@@ -1,4 +1,5 @@
-Momentum giúp kiểm soát hướng đi tốt hơn 
+## Định Nghĩa 
+Momentum giúp kiểm soát hướng đi tốt hơn bằng cách **tích lũy hướng** 
 
 là kĩ thuật giúp đường đi của [[Gradient]] ít "lắc lư hơn" bằng cách cho nó nhớ những giá trị gradient trước đó thông qua [[Exponentially Weighted Average (EWA)]], còn nếu đường đi không lắc lư thì nó vẫn giữ tính ổn định như vậy 
 
@@ -37,3 +38,5 @@ và cũng thực hiện tương tự với [[Bias]]
 
 giá trị phổ biến của $\beta$ là 0.9 
 
+## Công Dụng 
+- giúp vượt qua [[Saddle Point (Điểm Yên Ngựa)]] hoặc các [[Local Minimum (Cực Tiểu Cục Bộ)]] 

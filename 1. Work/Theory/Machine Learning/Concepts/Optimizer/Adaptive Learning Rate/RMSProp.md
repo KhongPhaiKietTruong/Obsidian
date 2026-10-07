@@ -1,6 +1,6 @@
 viết tắt của: Root Mean Square Propagation 
 
-RMSProp giúp kiểm soát độ lớn của mỗi bước di chuyển của từng tham số có thể học 
+RMSProp giúp kiểm soát độ lớn của mỗi bước di chuyển của từng tham số có thể học bằng cách **tích lũy độ lớn**
 
 ở [[Momentum]], ta áp dụng [[Exponentially Weighted Average (EWA)]] lên [[Gradient]], còn ở RMSProp thì ta áp dụng EWA lên bình phương của gradient 
 
