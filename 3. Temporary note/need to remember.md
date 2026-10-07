@@ -133,6 +133,9 @@ Symmetric Neural Network là hiện tượng mà cả model hoạt động chẳ
 trong [[Batch Norm]], [[Layer Norm]], [[RMSNorm]] đều có tham số có thể học được 
 Inverted Drop Out thực hiện scale thêm giá trị để giá trị activation của một layer không bị hao hụt (không cần phải scale trong [[Inference - Test time]])
 [[Weight Decay]] là thực hiện giảm tham số đi một ít mỗi epoch
+PEFT : thực hiện finetune trên một phần nhỏ tham số 
+LoRA: tách ma trận tham số ra thành hai cái ma trận 
+QLoRA thực hiện lượng tử hóa 
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
