@@ -15,9 +15,10 @@ mục đích chính của PCA để huấn luyện mô hình nhanh hơn, loại 
 ## Đặc Điểm
 - tuyến tính 
 - bảo toàn cấu trúc toàn cục 
+## Nhược Điểm
+- nhạy cảm với ngoại lệ 
 ## Công Dụng 
 - giảm chiều dữ liệu 
 - giảm noise dữ liệu
 - giúp train nhanh hơn do dữ liệu ít chiều hơn 
-## Nhược Điểm
-- nhạy cảm với ngoại lệ 
+
