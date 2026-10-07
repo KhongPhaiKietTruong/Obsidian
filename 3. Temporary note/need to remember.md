@@ -136,6 +136,7 @@ Inverted Drop Out thực hiện scale thêm giá trị để giá trị activati
 PEFT : thực hiện finetune trên một phần nhỏ tham số 
 LoRA: tách ma trận tham số ra thành hai cái ma trận 
 QLoRA thực hiện lượng tử hóa 
+KNN là [[Lazy Learning]]
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
