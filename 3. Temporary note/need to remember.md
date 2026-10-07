@@ -159,3 +159,4 @@ skip connect triong u-net là phép nối theo channel-wise
 [[t-SNE vs UMAP]] 
 
 AUC-ROC không sử dụng được cho dataset bị mất cân bằng 
+precision-recall trade off -> liên quan trực tiếp đến ngưỡng phân loại, khi tăng ngưỡng phân loại thì precision tăng nhưng recall giảm và ngược lại 

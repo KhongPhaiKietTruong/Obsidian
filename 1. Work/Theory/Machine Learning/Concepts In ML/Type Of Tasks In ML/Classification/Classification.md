@@ -1,1 +1,1 @@
-Classification là dạng toán yêu cầu ta thực hiện phân loại các mẫu thuộc về class nào 
+Classification là dạng toán yêu cầu ta thực hiện phân loại các mẫu thuộc về class nào trong hai hoặc nhiều lớp 
