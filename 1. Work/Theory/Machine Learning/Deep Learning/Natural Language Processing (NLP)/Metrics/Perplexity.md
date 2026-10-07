@@ -1,4 +1,4 @@
-là một đại lượng dùng để đo mức độ "bối rối" của model khi dự đoán từ tiếp theo (khá trái ngược với confidence)
+Perplexity là một đại lượng dùng để đo mức độ "bối rối" của model khi dự đoán từ tiếp theo (khá trái ngược với confidence)
 
 giả sử: kiet want to drink ....
 - coffee: 0.3
