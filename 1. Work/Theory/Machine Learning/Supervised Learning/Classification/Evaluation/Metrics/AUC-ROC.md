@@ -9,6 +9,6 @@ $$
 - AUC = 1: bộ phân loại hoàn hảo 
 - AUC = 0.5: tương đương với việc đoán ngẫu nhiên 
 ## Nhược Điểm 
-- không sử dụng được cho dataset bị mất cân bằng dữ liệu quá nhiều 
+- không sử dụng được cho dataset bị mất cân bằng dữ liệu quá nhiều do ảo tưởng sức mạnh (cho ra chỉ số rất cao trong khi hiệu suất model thật sự rất tệ)
 ## Sử Dụng 
 - sử dụng trong dạng toán [[Ranking]] 

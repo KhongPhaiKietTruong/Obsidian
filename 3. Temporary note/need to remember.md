@@ -157,3 +157,5 @@ skip connect triong u-net là phép nối theo channel-wise
 [[L2 Regularization]] -> đưa trọng số về gần 0
 [[Bagging - Sampling with replacement]] trong [[Random Forest]] giúp giảm phương sai 
 [[t-SNE vs UMAP]] 
+
+AUC-ROC không sử dụng được cho dataset bị mất cân bằng 
