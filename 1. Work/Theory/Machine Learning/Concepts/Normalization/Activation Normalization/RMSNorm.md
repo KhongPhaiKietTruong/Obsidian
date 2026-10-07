@@ -3,3 +3,5 @@ RMSNorm là phiên bản cái tiến của [[Layer Norm]] khi loại bỏ việc
 $$\bar{x} = \frac{x}{\text{RMS}(x)} \odot \gamma$$
 với:
 $$\text{RMS}(x) = \sqrt{\frac{1}{d} \sum_{i=1}^d x_i^2 + \epsilon}$$
+## Ưu Điểm 
+- giảm đáng kể chi phí tính toán 
