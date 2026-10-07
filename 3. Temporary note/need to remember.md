@@ -122,6 +122,7 @@ Momentum GD giúp các gradient ngược hướng nhau tiệt tiêu nhau, giúp 
 RMSProp GD tích lũy độ lớn giúp giải quyết địa hình hẻm núi sâu hẹp (dốc lớn -> đi bé lại, dốc bé -> đi lớn hơn)
 Adam là sự kết hợp giữa [[Momentum]] và [[RMSProp]] 
 AdamW thực hiện decouple weight decay = [[Adam]] + [[Weight Decay]] 
+[[Overfitting - High Variance]] -> model học luôn cả nhiễu 
 skip connection là gì ?
 skip connection trong resnet vs trong u-net
 TF-IDF 
