@@ -22,3 +22,4 @@ interim
 roster (n): danh sách thành viên, danh sách phân công 
 interim (adj): tạm thời, lâm thời 
 in the interim (adv): trong khoảng thời gian chờ đợi 
+dispatch 
