@@ -1,3 +1,4 @@
+viết tắt của: Global Vector for Word Representation 
 ## Định Nghĩa
 là một phương pháp học theo kiểu:
 <center>"những từ xuất hiện trong context giống nhau thì sẽ có ebeddings giống nhau"</center>
