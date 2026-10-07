@@ -1,7 +1,8 @@
 - thu thập thêm nhiều mẫu để tăng [[Training Set]] sẽ không giúp giải quyết được underfitting bởi vì mô hình không thể học thêm được nữa 
-- tạo thêm feature mới thông qua [[Feature Engineering]]
+- tạo thêm [[Features]] mới thông qua [[Feature Engineering]]
 - thêm các [[Polynomial Regression]]
-- giảm hệ số [[Regularization]] ​	
+- giảm bớt [[Regularization]] ​	
 - chọn [[Optimizer]] tốt hơn 
-- xây dựng kiến trúc model lớn hơn 
+- xây dựng kiến trúc model phức tạp hơn 
 - train với nhiều [[Epoch]] hơn 
+- tăng [[Base Learning Rate]] lên 
