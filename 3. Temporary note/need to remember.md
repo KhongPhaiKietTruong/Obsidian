@@ -144,6 +144,10 @@ Minium Bayes Risk (MBR) -> chọn ứng viên có trung bình độ tương đ�
 [[Mean Pooling Layer]] gộp các vector lại thành 1 
 Stemming là đưa từ về dạng gốc theo rule-based, có thể tạo ra từ không tồn tại 
 Lemmatization đưa từ về dạng gốc, trả về kết quả hợp lệ 
+add-one smoothing là đưa cho tần suất của mỗi từ ít nhất bằng 1 
+[[Backoff]]: nếu một n-gram chưa từng xuất hiện thì lùi n-gram đó xuống một từ, lặp lại cho đến khi n-gram đó có xuất hiện 
+[[Stupid Backoff]] là backoff cải tiến bằng cách thêm một hệ số 
+[[Interpolation]]: sử dụng nhiều n-gram cũng lúc cùng với một trọng số mỗi n-gram 
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
