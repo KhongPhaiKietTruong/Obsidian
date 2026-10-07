@@ -172,3 +172,4 @@ Boosting Model giúp giảm bias
 | cấu trúc bảo toàn | toàn cục   | cục bộ    | toàn cục + cục bộ  |
 |                   |            |           |                    |
 PCA cực kì nhạy cảm với [[Outliers]] 
+[[Vanilla Drop Out]] = tổng hợp của các mạng con 
