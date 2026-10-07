@@ -1,1 +1,1 @@
-feature extraction trong NLP là quá trình biến một dạng văn bảng thành biểu diễn số 
+feature extraction trong NLP là quá trình biến một dạng văn bản thành biểu diễn số 
