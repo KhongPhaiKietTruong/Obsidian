@@ -24,3 +24,4 @@ interim (adj): tạm thời, lâm thời
 in the interim (adv): trong khoảng thời gian chờ đợi 
 dispatch 
 bids 
+dedicated (adj): riêng biệt 
