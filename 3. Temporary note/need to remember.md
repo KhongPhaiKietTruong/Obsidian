@@ -90,6 +90,11 @@ BiRNN không thể dùng cho dạng bài sinh chuỗi được
 RNN sử dụng cùng một ma trận [[Weight (Trọng Số)]] cho tất cả time step 
 Locality Sensitve Hashing là thuật toán giúp các vector nằm gần nhau có xu hướng nằm chung một bucket khi thực hiện hashing 
 Length Normalization được sinh ra để giải quyết vấn đề model cho ra chuỗi quá ngắn để có được [[Cumulative Score]] cao 
+trong [[Multi-Head Attention]], các head được tính toán song song với nhau 
+trong [[Transformer]]:
+- Q: vector query ()
+- K: vector key 
+- V: vector value 
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
