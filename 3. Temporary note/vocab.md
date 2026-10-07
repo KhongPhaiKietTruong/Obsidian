@@ -15,14 +15,13 @@ Orient (v): định hướng
 Orientatin (n): sự định hướng 
 topology (n): cấu trúc liên kết 
 canonically (adv): theo quy ước chuẩn 
-disgrace (n): 
-disgrace (v): 
+disgrace (n): sự nhục nhã 
+disgrace (v): làm nhục nhã 
 cap (n): hạn mức 
-interim 
 roster (n): danh sách thành viên, danh sách phân công 
 interim (adj): tạm thời, lâm thời 
 in the interim (adv): trong khoảng thời gian chờ đợi 
-dispatch 
+dispatch ()
 bids 
 dedicated (adj): riêng biệt 
 fill orders (v): xử lí đơn hàng
