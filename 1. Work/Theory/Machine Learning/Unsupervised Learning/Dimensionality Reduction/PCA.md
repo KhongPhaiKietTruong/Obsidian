@@ -12,10 +12,12 @@ C=w_{1}A+w_{2}​B
 $$
 mục đích chính của PCA để huấn luyện mô hình nhanh hơn, loại bớt các [[Features]] thừa
 
+## Đặc Điểm
+- tuyến tính 
+- bảo toàn cấu trúc toàn cục 
 ## Công Dụng 
 - giảm chiều dữ liệu 
 - giảm noise dữ liệu
 - giúp train nhanh hơn do dữ liệu ít chiều hơn 
 ## Nhược Điểm
 - nhạy cảm với ngoại lệ 
-- 

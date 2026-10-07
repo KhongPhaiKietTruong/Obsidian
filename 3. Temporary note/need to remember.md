@@ -171,3 +171,4 @@ Boosting Model giúp giảm bias
 | Bản chất          | tuyến tính | phi tuyến | phi tuyến          |
 | cấu trúc bảo toàn | toàn cục   | cục bộ    | toàn cục + cục bộ  |
 |                   |            |           |                    |
+PCA cực kì nhạy cảm với [[Outliers]] 
