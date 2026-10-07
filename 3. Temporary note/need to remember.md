@@ -132,6 +132,7 @@ data leakage -> dữ liệu liên quan đến nhãn bị rò rỉ vào [[Trainin
 Symmetric Neural Network là hiện tượng mà cả model hoạt động chẳng khác gì một neuron duy nhất, nguyên nhân là do [[Weight (Trọng Số)]] của trọng số của các neuron giống nhau 
 trong [[Batch Norm]], [[Layer Norm]], [[RMSNorm]] đều có tham số có thể học được 
 Inverted Drop Out thực hiện scale thêm giá trị để giá trị activation của một layer không bị hao hụt (không cần phải scale trong [[Inference - Test time]])
+[[Weight Decay]] là thực hiện giảm tham số đi một ít mỗi epoch
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
