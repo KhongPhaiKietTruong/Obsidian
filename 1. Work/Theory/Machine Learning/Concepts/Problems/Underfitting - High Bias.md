@@ -13,4 +13,5 @@ xem thêm [[Mối quan hệ giữa Trainning Error và Validation Error trong De
 - Model quá đơn giản 
 - [[Regularization]] quá mạnh 
 - train quá ít [[Epoch]] 
-- 
+- Kẹt ở [[Saddle Point (Điểm Yên Ngựa)]] 
+- [[Base Learning Rate]] quá lớn hoặc quá nhỏ 
