@@ -123,6 +123,7 @@ RMSProp GD tích lũy độ lớn giúp giải quyết địa hình hẻm núi s
 Adam là sự kết hợp giữa [[Momentum]] và [[RMSProp]] 
 AdamW thực hiện decouple weight decay = [[Adam]] + [[Weight Decay]] 
 [[Overfitting - High Variance]] -> model học luôn cả nhiễu 
+[[Normalization]] giúp giảm thiểu trình trạng [[Vanishing Gradient]], [[Exploding Gradient]], sự phụ thuộc vào khởi tạo trọng số và giúp model hội tụ nhanh hơn 
 skip connection là gì ?
 skip connection trong resnet vs trong u-net
 TF-IDF 
