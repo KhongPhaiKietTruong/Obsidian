@@ -17,3 +17,4 @@ topology (n): cấu trúc liên kết
 canonically (adv): theo quy ước chuẩn 
 disgrace (n): 
 disgrace (v): 
+cap (n): hạn mức 
