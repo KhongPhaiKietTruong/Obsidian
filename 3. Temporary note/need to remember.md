@@ -92,9 +92,10 @@ Locality Sensitve Hashing là thuật toán giúp các vector nằm gần nhau c
 Length Normalization được sinh ra để giải quyết vấn đề model cho ra chuỗi quá ngắn để có được [[Cumulative Score]] cao 
 trong [[Multi-Head Attention]], các head được tính toán song song với nhau 
 trong [[Transformer]]:
-- Q: vector query ()
-- K: vector key 
-- V: vector value 
+- Q: vector query (tôi đang tìm gì)
+- K: vector key (tôi đang kiếm gì)
+- V: vector value (câu trả lời cho việc tìm tôi)
+công thức cốt lỗi của attention: $\operatorname{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V$ với cái phân số nằm bên trong gọi là **scaled dot product attention**  
 
 [[Batch Norm Layer]] sẽ hoạt động như thế nào khi ở test time ?
 biến word thành embeddings:
