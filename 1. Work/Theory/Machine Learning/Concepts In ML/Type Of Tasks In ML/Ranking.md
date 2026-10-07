@@ -1,1 +1,1 @@
-Ranking là dạng toán 
+Ranking là dạng toán dự đoán ra điểm số của mỗi mẫu để thực hiện xếp hạng các mẫu (ví dụ: top 50 khách hàng tiềm năng nhất có khả năng sẽ mua hàng)
