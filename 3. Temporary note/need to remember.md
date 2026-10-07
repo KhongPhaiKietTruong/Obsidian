@@ -164,3 +164,4 @@ macro f1 score dùng trong phát hiện lớp hiếm (do chú trọng các lớp
 trong bài toán [[Multi-Class Classification]], [[Micro F1 Score]] = [[Accuracy (Độ Chính Xác Tổng Thể)]]
 [[PR-AUC]] tập trung vào lớp thiểu số 
 Boosting Model giúp giảm bias 
+[[MSE Cost Function]] + [[Activations]] bão hòa ([[Sigmoid]], [[Tanh]]) => [[Vanishing Gradient]] 
