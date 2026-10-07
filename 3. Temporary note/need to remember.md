@@ -142,6 +142,8 @@ khắc phục [[Exploding Gradient]] bằng [[Gradient Clipping]] ([[Cliping By 
 [[Beam Search]] -> giữ n ứng viên, chọn ứng viên có xác suất cao nhất 
 Minium Bayes Risk (MBR) -> chọn ứng viên có trung bình độ tương đồng so với tất cả ứng viên còn lại là cao nhất 
 [[Mean Pooling Layer]] gộp các vector lại thành 1 
+Stemming là đưa từ về dạng gốc theo rule-based, có thể tạo ra từ không tồn tại 
+Lemmatization đưa từ về dạng gốc, trả về kết quả hợp lệ 
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net
