@@ -128,7 +128,9 @@ Z-score normalization giúp đưa dữ liệu về dạng mean=0, variance=1
 normalization giúp đưa [[Pre-activation Value]] về một giá trị ổn định trước khi truyền vào [[Activations]] 
 thu thập thêm nhiều mẫu không giúp giải quyết được underfitting 
 data leakage -> dữ liệu liên quan đến nhãn bị rò rỉ vào [[Training Set]] 
-
+[[Saddle Point (Điểm Yên Ngựa)]] là điểm có [[Gradient]] = 0 khiến đường đi kẹt tại đây luôn (điểm này thật sự khá hiếm) mà ta thường rơi vào [[Saddle-like Plateau (Vùng Yên Ngựa)]] hơn 
+Symmetric Neural Network là hiện tượng mà cả model hoạt động chẳng khác gì một neuron duy nhất, nguyên nhân là do [[Weight (Trọng Số)]] của trọng số của các neuron giống nhau 
+trong [[Batch Norm]] có hai tham số có thể học được 
 
 skip connection là gì ?
 skip connection trong resnet vs trong 1u-net

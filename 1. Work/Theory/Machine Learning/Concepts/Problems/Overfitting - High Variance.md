@@ -1,7 +1,5 @@
-là hiện tượng khi mô hình uốn éo quá mức (học cả những [[Outliers]] và nhiễu) để có thể khớp các điểm dữ liệu trên tập [[Training Set]], nhưng khi đưa dữ liệu mới vào để dự đoán thì mô hình dự đoán rất tệ ([[Generalization]] kém)
-
-hiện tượng này còn được gọi là high variance bởi vì nếu như ta thay đổi một vài điểm dữ liệu trong tập huấn luyện thôi thì hình dạng đồ thị của model sẽ cho ra hoàn toàn khác (w và b có độ biến động cao - phương sai lớn)
-
+Ovefitting là hiện tượng khi mô hình uốn éo quá mức (học cả những [[Outliers]] và nhiễu) để có thể khớp các điểm dữ liệu trên tập [[Training Set]], nhưng khi đưa dữ liệu mới vào để dự đoán thì mô hình dự đoán rất tệ ([[Generalization]] kém)
+Hiện tượng này còn được gọi là high variance bởi vì nếu như ta thay đổi một vài điểm dữ liệu trong tập huấn luyện thôi thì hình dạng đồ thị của model sẽ cho ra hoàn toàn khác (w và b có độ biến động cao - phương sai lớn)
 ##### Nhận biết overfitting:
 - hiện tượng này còn thể nhận biết được thông qua tính [[Training Error]] và [[Val Error]], nếu tranning error mà thấp nhưng validation error cao thì nghĩa là model đang bị overfitting (validation error cao hơn nhiều so với training error) (xem thêm [[Degree Of Polynomial]]). 
 
