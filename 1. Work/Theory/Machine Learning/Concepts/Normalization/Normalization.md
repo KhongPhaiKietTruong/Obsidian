@@ -3,3 +3,4 @@ Normalization là một kĩ thuật chuẩn hóa dữ liệu về một miền g
 ## Tác Dụng 
 - giúp giảm thiểu [[Vanishing Gradient]], [[Exploding Gradient]] 
 - giảm sự phụ thuộc vào khởi tạo trọng số 
+- giúp model hội tụ nhanh hơn 
