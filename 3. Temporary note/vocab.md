@@ -18,3 +18,4 @@ canonically (adv): theo quy ước chuẩn
 disgrace (n): 
 disgrace (v): 
 cap (n): hạn mức 
+interim 
