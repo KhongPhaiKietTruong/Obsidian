@@ -34,7 +34,7 @@ công thức tính chung một lượt:
 $$
 QK^T = \begin{bmatrix} s_{11} & s_{12} & s_{13} \\ s_{21} & s_{22} & s_{23} \\ s_{31} & s_{32} & s_{33} \end{bmatrix}
 $$
-transformer không sử dụng trực tiếp giá trị này mà tiến hành scale nó (lí do vì sao thì tìm hiểu sau):
+transformer không sử dụng trực tiếp giá trị này mà tiến hành scale nó để giá trị không rơi vào vùng bão hòa của [[Softmax]]:
 $$
 \frac{QK^T}{\sqrt{d_k}}
 $$
