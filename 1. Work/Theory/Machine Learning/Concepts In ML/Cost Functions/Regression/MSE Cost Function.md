@@ -12,7 +12,7 @@ với:
 ## Đặc Điểm 
 - MSE rất nhạy cảm với các [[Outliers]] do nó là bình phương của sai số 
 - nếu ta sử dụng MSE với [[Linear Regression]] thì hàm số sẽ là một [[Convex Function (Hàm Lồi)]] và ta sẽ dễ dàng tìm được giá trị nhỏ nhất 
-- ta không dùng MSE cho bài toán phân loại bởi vì đồ thị của nó không phải là dạng đồ thị lồi mà là một dạng đồ thị có rất nhiều [[Local Minimum (Cực Tiểu Cục Bộ)]] khiến cho việc tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] rất khó khăn
+- ta không dùng MSE cho bài toán phân loại bởi vì MSE kết hợp với [[Sigmoid]] hoặc [[Softmax]] sẽ tạo ra hàm không lồi (nhiều [[Local Minimum (Cực Tiểu Cục Bộ)]] và [[Saddle-like Plateau (Vùng Yên Ngựa)]]) và cũng gây ra [[Vanishing Gradient]] 
 
 
 > [!NOTE] Notes
