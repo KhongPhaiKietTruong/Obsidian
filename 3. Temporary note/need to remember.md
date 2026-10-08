@@ -41,7 +41,7 @@ Các phương pháp giảm chiều dữ liệu là [[1. Work/Theory/Math For Dat
 các thành phần chính trong [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] trực giao (vuông góc) với nhau 
 trước khi thực hiện [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] thì gần như bắt buộc phải thực hiện [[Standardization (Z-score normalization)]] 
 t-SNE thường được dùng để trực quan hóa dữ liệu 
-[[AutoEncoder]] gồm hai thành phần chính là [[Encoder]] và [[Decoder]] 
+[[AutoEncoder (AE)]] gồm hai thành phần chính là [[Encoder]] và [[Decoder]] 
 [[UMAP]] là nâng cấp của [[t-SNE]], tính toán nhanh hơn 
 [[Mini-Batch Stochastic Gradient Descent (Mini-batch SGD)]] giúp giảm phương sai của [[Gradient]] 
 [[AdaGrad]] khiến tốc độ học suy giảm rất nhanh do nó tích lũy bình phương và ngày càng tăng dần 
