@@ -23,3 +23,5 @@ Kết quả sau khi qua Softmax:
 - Chó: 0.242 (24.2%)
 - Gà: 0.099 (9.9%) 
 Tổng cộng = 1.0 (100%).
+
+## 
