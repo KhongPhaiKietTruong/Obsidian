@@ -1,19 +1,14 @@
 viết tắt của: Mean Squared Error Cost Function
 dịch: hàm chi phí bình phương sai số
-
 ## Định Nghĩa 
 MSE cost function có công thức như sau:
 $$
-\begin{aligned}
-J(w, b)&=\frac{1}{2m} \sum_{i=1}^{m}(y^{(i)}-\hat{y}^{(i)})^2  	\\
-&=\frac{1}{2m} \sum_{i=1}^{m}(y^{(i)}-f_{w,b}(x^{(i)}))^2
-\end{aligned}
+J(w, b)=\frac{1}{2m} \sum_{i=1}^{m}(y^{(i)}-\hat{y}^{(i)})^2 
 $$
 với:
 - y là [[Ground Truth]]
 - $\hat{y}$ là [[Predicted Value]]
 - m là số lượng mẫu trong [[Training Set]]
-
 ## Đặc Điểm 
 - MSE rất nhạy cảm với các [[Outliers]] do nó là bình phương của sai số 
 - nếu ta sử dụng MSE với [[Linear Regression]] thì hàm số sẽ là một [[Convex Function (Hàm Lồi)]] và ta sẽ dễ dàng tìm được giá trị nhỏ nhất 
