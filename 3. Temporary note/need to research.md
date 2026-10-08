@@ -46,3 +46,4 @@
 - [ ] Lí thuyết sấp xỉ hàm trong DL 
 - [ ] Định lí sấp xỉ phổ quát 
 - [ ] Group Batch 
+- [ ] SE Block 

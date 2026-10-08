@@ -1,1 +1,1 @@
-[[One-By-One Convolution]] 
+[[Pointwise Convolution]] 
