@@ -1,5 +1,5 @@
 
-lệnh này dùng để đổi tên branch hiện tại thành tên mới
+lệnh này dùng để đổi tên branch hiện tại 
 -m là viết tắt của --move
 
 ```
