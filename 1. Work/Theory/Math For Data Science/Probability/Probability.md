@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **Bayes theorem**
-	- [[Bayes's theorem (Định Lý Bayes)]]
+	- [[Bayes's theorem]]
 	- [[Event]]
 	- [[Naive assumption]]
 	- [[Posterior]]
