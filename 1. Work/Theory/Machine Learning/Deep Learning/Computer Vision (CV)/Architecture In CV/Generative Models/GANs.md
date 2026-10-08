@@ -7,3 +7,5 @@ GANs là một họ kiến trúc model mà huấn luyện hai model cạnh tranh
 - Discriminator (Mạng Phân Biệt): hoạt động như một bộ phân loại nhị phân 
 ## Ứng Dụng 
 - dùng để sinh ảnh 
+
+## Nhược Điểm 
