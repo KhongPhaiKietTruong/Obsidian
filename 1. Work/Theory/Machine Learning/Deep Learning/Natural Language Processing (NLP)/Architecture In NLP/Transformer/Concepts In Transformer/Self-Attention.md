@@ -48,3 +48,4 @@ công thức cuối cùng của transformer:
 $$
 \operatorname{Attention}(Q,K,V)=\operatorname{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right)V
 $$
+độ phức tạp thuật toán của việc tính self-attention là $O(N^2d)$
