@@ -27,3 +27,4 @@ bids
 dedicated (adj): riêng biệt 
 fill orders (v): xử lí đơn hàng
 fill prescription (v): bốc đơn thuốc 
+colinear 
