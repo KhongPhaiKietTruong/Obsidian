@@ -26,7 +26,7 @@ catboost giúp không cần dùng [[One-hot Encoding]] và còn giúp giảm [[D
 [[LightGBM]] phát triển cây theo lá 
 [[AUC-ROC]] là diện tích nằm dưới [[ROC Curve]] 
 [[ROC Curve]] dựa trên báo động giả và báo động đúng 
-[[Hard-Margin SVM Supervised Learning]] không cho phép xâm phạm, [[Support Vectors]] trong hard-margin phải ngay trên margin 
+[[Hard-Margin SVM Supervised Learning]] không cho phép xâm phạm, [[Support Vectors]] trong hard-margin phải ngay trên margin  con
 [[Kernel SVM - Nonlinear SVM]] có [[Decision Boundary]] là đường cong, sử dụng một hàm chuyển đổi giúp map các điểm dữ liệu 
 [[Soft-Margin SVM]] cho phép xâm phạm 
 [[Support Vectors]] là điểm dữ liệu nằm gần hoặc trên [[Margin Boundary]]
