@@ -1,0 +1,1 @@
+Diffusion Model là một mô hình tạo sinh học cách tạo ra dữ liệu mới bằng cách đảo ngược quá trình hủy dữ liệu bằng nhiễu ngẫu nhiên 
