@@ -4,3 +4,4 @@ VAE là [[AutoEncoder]] kết hợp với [[Bayes's theorem]]
 
 ## Công Dụng 
 - Sinh được dữ liệu mới 
+- Dùng để nén dữ liệu 
