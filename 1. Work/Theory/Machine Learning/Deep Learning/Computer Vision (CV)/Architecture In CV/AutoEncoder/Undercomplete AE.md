@@ -3,3 +3,4 @@ Undercomplete AE là loại [[AutoEncoder]] cơ bản nhất với số chiều 
 ## Sử Dụng 
 - thay thế cho [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] khi dữ liệu phức tạp (phi tuyến tính)
 - phát hiện bất thường 
+- khử nhiễu 
