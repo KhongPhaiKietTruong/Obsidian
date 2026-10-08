@@ -9,10 +9,10 @@ Miền giá trị của Cross-Entropy Loss
 MAE bền vững trước outlier 
 L1 loss là AE 
 L2 loss là SE 
-Log Loss là gì 
+Log Loss là [[BCE Loss]]
 Lasso là L1 regularization 
 Ridge là L2 regularization 
-Trong SGD, L2 trở thành weight decay 
+Trong SGD, L2 trở thành weight decauly 
 L1 $\approx$ [[Features Selection]] 
 ElasticNet là sự kết hợp của linear regression, L1 và cả L2 
 Decision gồm 3 loại node là root node, decision node, leaf node 

@@ -1,5 +1,5 @@
 viết tắt của: Binary Cross Entropy Loss
-tên khác: log loss
+tên khác: Log loss
 ## Định Nghĩa 
 BCE Loss một dạng cụ thể của [[Cross-Entropy Loss]] với số lớp = 2 
 BCE Loss có công thức:
