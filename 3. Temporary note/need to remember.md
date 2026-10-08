@@ -1,13 +1,15 @@
+review
+giá trị đạo hàm của ReLU là {0, 1}
+Miền giá trị của Cross-Entropy Loss 
+
+--- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
 [[Linear Regression]] + [[MSE Cost Function]] = [[Convex Function (Hàm Lồi)]] 
 [[1. Work/Theory/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression|Logistic Regression]] + [[MSE Cost Function]] = hàm không lồi 
 MAE bền vững trước outlier 
-giá trị đạo hàm của ReLU là {0, 1} 
-Dropout hoạt động như thế nào ở test time
 L1 loss là AE 
 L2 loss là SE 
 Log Loss là gì 
-Miền giá trị của Cross-Entropy Loss 
 Lasso là L1 regularization 
 Ridge là L2 regularization 
 Trong SGD, L2 trở thành weight decay 
