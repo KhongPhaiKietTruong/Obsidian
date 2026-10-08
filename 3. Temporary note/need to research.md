@@ -43,3 +43,4 @@
 - [ ] Hinge Loss 
 - [ ] Label Smoothing 
 - [ ] Data Augmentation trong NLP ? 
+- [ ] Lí thuyết sấp xỉ hàm trong DL 
