@@ -16,6 +16,8 @@ Multi-query attention
 công thức tính receptive fiel 
 t-SNE thường được dùng để trực quan hóa dữ liệu 
 Hieracheriacal clustering 
+Mode Collapse -> mạng sinh sinh ra các ít mẫu tương tự nhau
+
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
