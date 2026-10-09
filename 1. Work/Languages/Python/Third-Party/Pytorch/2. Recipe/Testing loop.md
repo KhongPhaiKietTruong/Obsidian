@@ -1,5 +1,5 @@
 ```python
 model.eval()
-with torch.no_grad():
+with torch.inference_mode():
 ​	
 ```
