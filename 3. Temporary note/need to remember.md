@@ -142,7 +142,7 @@ QLoRA thực hiện lượng tử hóa
 KNN là [[Lazy Learning]]
 khắc phục [[Exploding Gradient]] bằng [[Gradient Clipping]] ([[Cliping By Norm]]) 
 [[Greedy Encoding]] -> chọn token có xác suất cao nhất 
-[[Beam Search]] -> giữ n ứng viên, chọn ứng viên có xác suất cao nhất 
+[[Beam Search]] -> giữ n ứng viên, chọn ứng viên có xác suất ocao nhất 
 Minium Bayes Risk (MBR) -> chọn ứng viên có trung bình độ tương đồng so với tất cả ứng viên còn lại là cao nhất 
 [[Mean Pooling Layer]] gộp các vector lại thành 1 
 Stemming là đưa từ về dạng gốc theo rule-based, có thể tạo ra từ không tồn tại 
