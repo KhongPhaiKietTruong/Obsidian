@@ -10,11 +10,11 @@ class LinearRegressionModel():
         self.layer1 = nn.Linear(n, 2)
         self.layer2 = nn.Linear(2, 1)
         
-    def forward(self): 
-    ​	X = layer1(X)
-        X = torch.relu(X)
-        X = layer2(X)
-    ​	return X 
+    def forward(self, x): 
+    ​	X = layer1(x)
+        X = torch.relu(x)
+        X = layer2(x)
+    ​	return layer2(layer1(x))
 ```
 
 lưu ý: n phải bằng với [[Features]] của mỗi mẫu dữ liệu 
