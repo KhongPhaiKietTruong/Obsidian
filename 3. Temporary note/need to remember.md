@@ -72,7 +72,7 @@ Trong InceptionNet có thực hiện [[Pointwise Convolution]] để giảm số
 [[Valid Convolution]] là convolution không có [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (có [[Stride]] vẫn được)
 Để thực hiện được [[Convolution]] lên một [[Output Tensor Z]] thì số channel của [[Filter]] phải bằng với số channel của output tensor đó (cũng nghĩa là bằng với số lượng filter của lớp trước đó)
 Kích thước của output sau khi thực hiện [[Convolution]] (xem ở [[Feature Map F]])
-[[Anchor Box]] -> giải quyết một ô có nhiều điểm trung tâm của vật thể 
+[[Anchor Box]] -> giải quyết mì ột ô có nhiều điểm trung tâm của vật thể 
 [[Classical Sliding Window]] có chi phí tính toán rất nhiều, [[Convolutional Sliding Window]] ra đời để giải quyết vấn đề này 
 [[NMS - Non-max Suppression]] dùng để chọn ra bounding box trong các bounding box được gợi ý 
 mAP là một chỉ số để đánh giá một detection model (kết hợp giữa cả classification và localization)
