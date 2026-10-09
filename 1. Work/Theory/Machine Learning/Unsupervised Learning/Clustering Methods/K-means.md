@@ -17,6 +17,8 @@ $c^{(i)}$ là một con số (1...K) thể hiện cluster mà mẫu thứ i thu�
 $\mu_{k}$ là tọa độ tâm cụm của cụm thứ k 
 $\mu_{c^{(i)}}$ là tạo độ tâm cụm của cụm 
 
+## Đặc Điểm 
+- chạy nhiều lần với cùng số tâm cụm để tránh bị kẹt trong [[Local Minimum (Cực Tiểu Cục Bộ)]] 
 ## Nhược Điểm 
 - Nhạy cảm với [[Outliers]] do dùng [[Euclidean]]
 - Nhạy cảm với quy mô giá trị các [[Features]] (phải thực hiện [[Normalization]])
