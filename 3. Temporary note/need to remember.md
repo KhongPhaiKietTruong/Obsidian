@@ -8,7 +8,7 @@ no free lunch theorem: không thuật toán nào là tối ưu cho mọi
 SVD -> tách ma trận thành 3 ma trận 
 Jacobian -> ma trận đạo hàm bậc 1
 Heissan -> ma trận đạo hàm bậc 2 
-
+Group Normalization không phụ thuộc vào kích thước batch 
 
 
 --- 
