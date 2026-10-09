@@ -15,6 +15,7 @@ Group-query attention dùng chung cặp query-value, giảm KV cache
 Multi-query attention 
 công thức tính receptive fiel 
 t-SNE thường được dùng để trực quan hóa dữ liệu 
+Hieracheriacal clustering 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
