@@ -2,6 +2,7 @@ review
 giá trị đạo hàm của ReLU là {0, 1}
 Miền giá trị của Cross-Entropy Loss 
 [[DBSCAN]] phát hiện nhiễu 
+Thực hiện transpose convolution trên giấy lại 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
@@ -68,7 +69,6 @@ Trong InceptionNet có thực hiện [[Pointwise Convolution]] để giảm số
 [[Depthwise Convolution]] là mỗi channel có một [[Filter]] riêng 
 [[Pointwise Convolution]] là [[Convolution]] có kích thước [[Filter]] 1x1 
 [[Same Convolution]] có [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (K-1)/2 
-Thực hiện transpose convolution trên giấy lại 
 [[Valid Convolution]] là convolution không có [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (có [[Stride]] vẫn được)
 Để thực hiện được [[Convolution]] lên một [[Output Tensor Z]] thì số channel của [[Filter]] phải bằng với số channel của output tensor đó (cũng nghĩa là bằng với số lượng filter của lớp trước đó)
 Kích thước của output sau khi thực hiện [[Convolution]] (xem ở [[Feature Map F]])
