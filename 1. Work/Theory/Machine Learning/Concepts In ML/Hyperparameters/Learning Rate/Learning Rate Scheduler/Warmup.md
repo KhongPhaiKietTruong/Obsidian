@@ -1,0 +1,1 @@
+tăng dần learning rate rồi mới bắt đầu đi theo learning rate scheduler 

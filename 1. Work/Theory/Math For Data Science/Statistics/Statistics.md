@@ -2,7 +2,7 @@
 - **Concept**
 	- [[Bias Correction]]
 	- [[EWA Windows]]
-	- [[Exponential Decay]]
+	- [[1. Work/Theory/Math For Data Science/Statistics/Concept/Exponential Decay]]
 	- [[Exponentially Weighted Average (EWA)]]
 	- [[Population]]
 	- [[Sample]]
