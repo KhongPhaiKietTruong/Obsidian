@@ -50,7 +50,7 @@ t-SNE thường được dùng để trực quan hóa dữ liệu
 Các tham số trong [[Pooling Layer]] là [[Hyperparameter (Siêu Tham Số)]] (do ta tự định nghĩa ma không được học bởi model)
 Cách biểu diễn [[Output Tensor Z]] trong pytorch là (B, C, H, W)
 Global Average Pooling được dùng ở vị trí trước lớp FC 
-Hai thành phần chính của GANs là một mạng tạo sinh và một mạng phân biệt 
+Hai thành phần chính của [[GANs]]  là một mạng tạo sinh và một mạng phân biệt 
 công dụng chính của GANs là để tạo ảnh 
 Mạng ResNet sử dụng [[Skip Connection]] để giải quyết [[Optimization Degradation]] 
 Optimization Degradation là hiện tượng mà model có nhiều layer hơn lại có hiệu suất kém so với model nông hơn 
