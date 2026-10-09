@@ -1,5 +1,5 @@
 ## Định Nghĩa
-U-Net là một kiến trúc gồm 3 thành phần:
+U-Net là một kiến trúc có áp dụng [[Skip Connection]] ([[Concatenation]]) gồm 3 thành phần:
 - Phần Nén ([[Encoder]]): bước truy xuất thông tin từ ảnh bằng [[Convolution]]
 - Bottleneck: là phần kết nối giữa phần nén và phần mở 
 - Phần Mở: thực hiện [[Transpose Convolution]] để khôi phục lại [[Spatial Size]] ban đầu 
