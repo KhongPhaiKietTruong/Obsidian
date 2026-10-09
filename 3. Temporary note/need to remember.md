@@ -166,13 +166,13 @@ precision-recall trade off -> liên quan trực tiếp đến ngưỡng phân lo
 macro f1 score dùng trong phát hiện lớp hiếm (do chú trọng các lớp đều nhau)
 trong bài toán [[Multi-Class Classification]], [[Micro F1 Score]] = [[Accuracy (Độ Chính Xác Tổng Thể)]]
 [[PR-AUC]] tập trung vào lớp thiểu số 
-Boosting Model giúp giảm bias 
+Boosting Model giúp giảm bias i
 [[MSE Cost Function]] + [[Activations]] bão hòa ([[Sigmoid]], [[Tanh]]) => [[Vanishing Gradient]] 
 
-|                   | PCA        | t-SNE     | UMAP               |
-| ----------------- | ---------- | --------- | ------------------ |
-| Bản chất          | tuyến tính | phi tuyến | phi tuyến          |
-| cấu trúc bảo toàn | toàn cục   | cục bộ    | toàn cục + cục bộ  |
-|                   |            |           |                    |
+|                   | PCA        | t-SNE     | UMAP              |
+| ----------------- | ---------- | --------- | ----------------- |
+| Bản chất          | tuyến tính | phi tuyến | phi tuyến         |
+| cấu trúc bảo toàn | toàn cục   | cục bộ    | toàn cục + cục bộ |
+|                   |            |           |                   |
 [[1. Work/Theory/Machine Learning/Unsupervised Learning/Dimensionality Reduction/PCA|PCA]] cực kì nhạy cảm với [[Outliers]] 
 [[Vanilla Drop Out]] = tổng hợp của các mạng con 
