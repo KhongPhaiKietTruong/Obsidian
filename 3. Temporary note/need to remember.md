@@ -5,6 +5,7 @@ Miền giá trị của Cross-Entropy Loss
 Thực hiện transpose convolution trên giấy lại 
 cách tính kích thước ma trận sau tích chập 
 no free lunch theorem: không thuật toán nào là tối ưu cho mọi 
+SVD -> tách ma trận thành 3 ma trận 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
