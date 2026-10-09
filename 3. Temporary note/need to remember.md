@@ -129,10 +129,10 @@ AdamW thực hiện decouple weight decay = [[Adam]] + [[Weight Decay]]
 [[Normalization]] giúp giảm thiểu trình trạng [[Vanishing Gradient]], [[Exploding Gradient]], sự phụ thuộc vào khởi tạo trọng số và giúp model hội tụ nhanh hơn 
 Z-score normalization giúp đưa dữ liệu về dạng mean=0, variance=1
 normalization giúp đưa [[Pre-activation Value]] về một giá trị ổn định trước khi truyền vào [[Activations]] 
-thu thập thêm nhiều mẫu không giúp giải quyết được underfitting 
+thu thập thêm n hiều mẫu không giúp giải quyết được underfitting 
 data leakage -> dữ liệu liên quan đến nhãn bị rò rỉ vào [[Training Set]] 
 [[Saddle Point (Điểm Yên Ngựa)]] là điểm có [[Gradient]] = 0 khiến đường đi kẹt tại đây luôn (điểm này thật sự khá hiếm) mà ta thường rơi vào [[Saddle-like Plateau (Vùng Yên Ngựa)]] hơn 
-Symmetric Neural Network là hiện tượng mà cả model hoạt động chẳng khác gì một neuron duy nhất, nguyên nhân là do [[Weight (Trọng Số)]] của trọng số của các neuron giống nhau 
+Symmetric Neural Network là hiện tượng mà cả model hoạt động chẳng khác gì một neuron duy nhất, nguyên nhân là do [[Weight (Trọng Số)]] của trọng số của các neuuron giống nhau 
 trong [[Batch Norm]], [[Layer Norm]], [[RMSNorm]] đều có tham số có thể học được 
 Inverted Drop Out thực hiện scale thêm giá trị để giá trị activation của một layer không bị hao hụt (không cần phải scale trong [[Inference - Test time]])
 [[Weight Decay]] là thực hiện giảm tham số đi một ít mỗi epoch
