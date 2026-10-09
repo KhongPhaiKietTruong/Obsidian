@@ -11,6 +11,7 @@ Heissan -> ma trận đạo hàm bậc 2
 Group Normalization không phụ thuộc vào kích thước batch 
 công thức tính precision, recall, f1, ... 
 trong LoRA, phân tích ma trận cập nhật trọng số thành AB, khởi tạo A theo gaussian, B là các giá trị bằng 0
+Group-query attention dùng chung cặp query-value, giảm KV cache 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
