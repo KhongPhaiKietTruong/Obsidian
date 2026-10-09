@@ -160,7 +160,7 @@ skip connect triong u-net là phép nối theo channel-wise
 [[L2 Regularization]] -> đưa trọng số về gần 0
 [[Bagging - Sampling with replacement]] trong [[Random Forest]] giúp giảm phương sai 
 [[t-SNE vs UMAP]] 
-
+ thi
 AUC-ROC không sử dụng được cho dataset bị mất cân bằng 
 precision-recall trade off -> liên quan trực tiếp đến ngưỡng phân loại, khi tăng ngưỡng phân loại thì precision tăng nhưng recall giảm và ngược lại 
 macro f1 score dùng trong phát hiện lớp hiếm (do chú trọng các lớp đều nhau)
@@ -174,5 +174,5 @@ Boosting Model giúp giảm bias
 | Bản chất          | tuyến tính | phi tuyến | phi tuyến          |
 | cấu trúc bảo toàn | toàn cục   | cục bộ    | toàn cục + cục bộ  |
 |                   |            |           |                    |
-PCA cực kì nhạy cảm với [[Outliers]] 
+[[1. Work/Theory/Machine Learning/Unsupervised Learning/Dimensionality Reduction/PCA|PCA]] cực kì nhạy cảm với [[Outliers]] 
 [[Vanilla Drop Out]] = tổng hợp của các mạng con 
