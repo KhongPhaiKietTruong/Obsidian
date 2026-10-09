@@ -117,7 +117,7 @@ các phương pháp biến word thành embeddings:
 - CBOW: dự đoán center dựa trên xung quanh
 - Skip-gram: dự đoán xung quanh dựa trên center 
 
-mini-batch SGD là một batch có 2^n mẫu, SGD là 1 mẫu mỗi lần 
+
 [[Xavier Initialization]] là dành cho [[Activations]] zero-center như [[Tanh]]
 [[He Initialization]] là dành cho [[ReLU]] và các biến thể của nó 
 xavier initialization dành cho activation đối xứng qua gốc tọa độ như [[Tanh]], [[Sigmoid]], [[Linear Activation]] 
