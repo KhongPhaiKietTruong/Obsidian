@@ -9,7 +9,7 @@ SVD -> tách ma trận thành 3 ma trận
 Jacobian -> ma trận đạo hàm bậc 1
 Heissan -> ma trận đạo hàm bậc 2 
 Group Normalization không phụ thuộc vào kích thước batch 
-
+công thức tính precision, recall, f1, ... 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
