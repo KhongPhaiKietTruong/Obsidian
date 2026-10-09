@@ -29,3 +29,4 @@ fill orders (v): xử lí đơn hàng
 fill prescription (v): bốc đơn thuốc 
 colinear 
 upon 
+Sterile 
