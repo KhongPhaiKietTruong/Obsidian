@@ -1,1 +1,1 @@
-dùng [[Gradient Clipping]] 
+dùng [[Gradient Clipping]] hoặc [[Normalization]] 
