@@ -2,7 +2,7 @@
 - tạo thêm [[Features]] mới thông qua [[Feature Engineering]]
 - thêm các [[Polynomial Regression]]
 - giảm bớt [[Regularization]] ​	
-- chọn [[Optimizer]] tốt hơn 
+- chọn [[Optimizer]] tốt hơn  ?
 - xây dựng kiến trúc model phức tạp hơn 
 - train với nhiều [[Epoch]] hơn 
 - tăng [[Base Learning Rate]] lên 
