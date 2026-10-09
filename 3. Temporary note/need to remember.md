@@ -88,10 +88,10 @@ Nhược điểm của RNN: dễ bị [[Vanishing Gradient]], phải tính toán
 LSTM hoạt động dựa trên cơ chế cell state 
 [[Teacher Forcing]] là cơ chế đem [[Ground Truth]] của time step trước làm input cho time step hiện tại 
 [[Bidirectional RNN]] không dùng được cho vấn đề real-time 
-BiRNN không thể dùng cho dạng bài sinh chuỗi được (không thể dùng làm [[Encoder]])
+BiRNN không thể dùng cho dạng bài sinh chuỗi được (không thể dùng làm [[Encoder]])th
 RNN sử dụng cùng một ma trận [[Weight (Trọng Số)]] cho tất cả time step 
 Locality Sensitve Hashing là thuật toán giúp các vector nằm gần nhau có xu hướng nằm chung một bucket khi thực hiện hashing 
-Length Normalization được sinh ra để giải quyết vấn đề model cho ra chuỗi quá ngắn để có được [[Cumulative Score]] cao 
+[[Length Normalizaiton]] được sinh ra để giải quyết vấn đề model cho ra chuỗi quá ngắn để có được [[Cumulative Score]] cao 
 trong [[Multi-Head Attention]], các head được tính toán song song với nhau 
 trong [[Transformer]]:
 - Q: vector query (tôi đang tìm gì)
