@@ -4,6 +4,7 @@ Miền giá trị của Cross-Entropy Loss
 [[DBSCAN]] phát hiện nhiễu 
 Thực hiện transpose convolution trên giấy lại 
 cách tính kích thước ma trận sau tích chập 
+no free lunch theorem: không thuật toán nào là tối ưu cho mọi 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
