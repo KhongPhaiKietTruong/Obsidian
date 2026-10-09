@@ -1,4 +1,4 @@
-
+tên khác: googLeNet 
 Inception là một dạng kiến trúc model xử lí một output song song nhiều hướng khác nhau  (filter 3x3, filter 5x5, maxpool, ...)
 tuy nhiên việc tính song song như vậy khiến chi phí tính toán là cực kì nhiều, nên ta áp dụng [[Bottleneck Layer]] để giúp khối lượng tính toán của mỗi hướng đi giảm xuống đáng kể
 
