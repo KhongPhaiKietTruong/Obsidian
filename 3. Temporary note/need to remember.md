@@ -75,7 +75,7 @@ Kích thước của output sau khi thực hiện [[Convolution]] (xem ở [[Fea
 [[Anchor Box]] -> giải quyết mì ột ô có nhiều điểm trung tâm của vật thể 
 [[Classical Sliding Window]] có chi phí tính toán rất nhiều, [[Convolutional Sliding Window]] ra đời để giải quyết vấn đề này 
 [[NMS - Non-max Suppression]] dùng để chọn ra bounding box trong các bounding box được gợi ý 
-[[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Object Detection/Metrics/mAP|mAP]] là một chỉ số để đánh giá một detection model (kết hợp giữa cả classification và localization)
+[[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Object Detection/Metrics/mAP|mAP]] là một chỉ số để đánh giá một detection model (kết hợp giữa cả classification và localiì zation)
 IoU được tính bằng diện tích trùng chia cho diện tích hợp 
 Viterbi là một thuật toán quy hoạch động để tìm ra chuỗi có đại lượng nào đó cao nhất (chuỗi POS, ...)
 POS = gán từ loại 
