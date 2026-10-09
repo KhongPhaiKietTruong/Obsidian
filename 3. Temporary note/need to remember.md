@@ -3,6 +3,7 @@ giá trị đạo hàm của ReLU là {0, 1}
 Miền giá trị của Cross-Entropy Loss 
 [[DBSCAN]] phát hiện nhiễu 
 Thực hiện transpose convolution trên giấy lại 
+cách tính kích thước ma trận sau tích chập 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
@@ -115,7 +116,7 @@ các phương pháp biến word thành embeddings:
 - Hierachical Softmax classifier -> tạo cây 
 - CBOW: dự đoán center dựa trên xung quanh
 - Skip-gram: dự đoán xung quanh dựa trên center 
-cách tính kích thước ma trận sau tích chập 
+
 mini-batch SGD là một batch có 2^n mẫu, SGD là 1 mẫu mỗi lần 
 [[Xavier Initialization]] là dành cho [[Activations]] zero-center như [[Tanh]]
 [[He Initialization]] là dành cho [[ReLU]] và các biến thể của nó 
