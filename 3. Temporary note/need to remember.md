@@ -18,6 +18,7 @@ t-SNE thường được dùng để trực quan hóa dữ liệu
 Hieracheriacal clustering 
 Mode Collapse -> mạng sinh sinh ra các ít mẫu tương tự nhau
 Xavier dùng cho hàm kích hoạt đối xứng qua gốc tọa độ
+OOB trong random forest 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
