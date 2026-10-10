@@ -30,7 +30,7 @@ vstack -> nối ma trận theo chiều dọc
 linspace -> tạo một ma trận trong miền giá trị và số lượng phần tử nhất định (bước nhảy được tự động tính toán)
 nhân hai ma trận trong numpy bằng np.matmul() hoặc dấu '@'
 tổng số phần tử của mảng trước khi reshape và sau khi reshape phải bằng nhau 
-
+trong python và các thư viện tiêu chuẩn, tham số end thì chỉ chạy đến end-1 thôi 
 
 
 --- 
