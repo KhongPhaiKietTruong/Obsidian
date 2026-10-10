@@ -30,3 +30,4 @@ fill prescription (v): bốc đơn thuốc
 colinear 
 upon 
 Sterile 
+wimp (n): 
