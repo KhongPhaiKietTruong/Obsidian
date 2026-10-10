@@ -1,1 +1,1 @@
-trả về hình dạng của [[Tensor]] 
+trả về hình dạng của [[Tensor]] (số lượng phần tử của mỗi chiều)

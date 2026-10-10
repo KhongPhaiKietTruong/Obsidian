@@ -32,6 +32,8 @@ nhân hai ma trận trong numpy bằng np.matmul() hoặc dấu '@'
 tổng số phần tử của mảng trước khi reshape và sau khi reshape phải bằng nhau 
 trong python và các thư viện tiêu chuẩn, tham số end thì chỉ chạy đến end-1 thôi 
 
+## Torch
+dùng torch.from_numpy() để chuyển một numpy array thành một tensor 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
