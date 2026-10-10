@@ -1,1 +1,1 @@
-dùng để tạo [[AE Loss]] loss functino 
+dùng để tạo [[AE Loss]] 

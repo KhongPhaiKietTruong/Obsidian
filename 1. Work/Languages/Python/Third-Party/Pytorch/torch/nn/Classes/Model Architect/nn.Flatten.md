@@ -9,3 +9,4 @@ b = flatten(a)
 ```
 
 thường được sử dụng để làm phẳng [[Feature Map F]] thành một vector để có thể truyền vào [[nn.Linear]] 
+
