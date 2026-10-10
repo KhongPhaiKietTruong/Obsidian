@@ -1,5 +1,5 @@
 hàm dùng để tính [[Dot product (Tích Vô Hướng)]] của hai [[Vector]]
-**hoặc** thực hiện [[1. Work/Theory/Math For Data Science/Linear Algebra/Matrix operations/Matrix multiplication]]  (cũng có thể sử dụng "@")
+**hoặc** thực hiện [[Matrix multiplication]]  (cũng có thể sử dụng "@")
 
 tích vô hướng:
 ```python

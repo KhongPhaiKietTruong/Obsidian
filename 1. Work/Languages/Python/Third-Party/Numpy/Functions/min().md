@@ -1,6 +1,8 @@
-dùng để tìm số nhỏ nhất trong ma trận hoặc theo cột hoặc theo hàng (tùy tham số axis)
+dùng để tìm số nhỏ nhất trong ma trận của mỗi chiều
 
+```python
 min(obj, axis=None)
+```
 - axis: 0 đối với cột, 1 đối với hàng
 nếu trong truyền tham số axis thì mặc định nó tìm trên cả ma trận
 

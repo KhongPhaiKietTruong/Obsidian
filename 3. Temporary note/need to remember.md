@@ -24,6 +24,14 @@ LDA là gì
 ## Numpy
 a.shape trả về tuple chứa số lượng phần tử mỗi chiều (dù ma trận chỉ có một chiều thì cũng trả về một [[Tuple]]) 
 np.arange(a, b, c) tạo một list có miền giá trị từ a đến b với bước nhảy c (sẽ **không** bao gồm giá trị c)
+a.flatten() 
+hstack -> nối ma trận theo chiều ngang 
+vstack -> nối ma trận theo chiều dọc 
+linspace -> tạo một ma trận trong miền giá trị và số lượng phần tử nhất định (bước nhảy được tự động tính toán)
+nhân hai ma trận trong numpy bằng np.matmul() hoặc dấu '@'
+
+
+
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
