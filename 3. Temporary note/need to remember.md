@@ -34,6 +34,7 @@ trong python và các thư viện tiêu chuẩn, tham số end thì chỉ chạy
 
 ## Torch
 dùng torch.from_numpy() để chuyển một numpy array thành một tensor 
+torch.manual_seed() 
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
