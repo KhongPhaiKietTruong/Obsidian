@@ -1,6 +1,8 @@
 hàm này dùng để tạo ra một [[List]] với điểm đầu/cuối và bước nhảy 
-
-các thông số: np.arange(start, stop, step, dtype=None)
+cú pháp:
+```python
+np.arange(start, stop, step, dtype=None)
+```
 - start: giá trị bắt đầu, giá trị mặc định là 0
 - stop: giá trị kết thúc
 - step: bước nhảy
