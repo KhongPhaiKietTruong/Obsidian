@@ -21,6 +21,9 @@ Xavier dùng cho hàm kích hoạt đối xứng qua gốc tọa độ
 OOB trong random forest 
 LDA là gì 
 
+## Numpy
+a.shape trả về tuple chứa số lượng phần tử mỗi chiều (dù ma trận chỉ có một chiều thì cũng trả về một [[Tuple]]) 
+
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
 [[Linear Regression]] + [[MSE Cost Function]] = [[Convex Function (Hàm Lồi)]] 
