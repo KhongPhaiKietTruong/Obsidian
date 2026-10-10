@@ -10,6 +10,10 @@ Jacobian -> ma trận đạo hàm bậc 1
 Heissan -> ma trận đạo hàm bậc 2 
 Group Normalization không phụ thuộc vào kích thước batch 
 công thức tính precision, recall, f1, ... 
+f1:
+$$
+f_{1}=2 \frac{precision\times recall}{precision+recall}
+$$
 trong LoRA, phân tích ma trận cập nhật trọng số thành AB, khởi tạo A theo gaussian, B là các giá trị bằng 0
 Group-query attention dùng chung cặp query-value, giảm KV cache 
 Multi-query attention 
@@ -23,7 +27,7 @@ LDA là gì
 
 ## Numpy
 a.shape trả về tuple chứa số lượng phần tử mỗi chiều (dù ma trận chỉ có một chiều thì cũng trả về một [[Tuple]]) 
-np.arange(a, b, c) tạo một list có miền giá trị từ a đến b với bước nhảy c (sẽ **không** bao gồm giá trị c)
+np.arange(a, b, c) tạo một list có miền giá trị từ a đến b với bước nhảy c (sẽ **không** bao gồm giá trị b)
 a.flatten() 
 hstack -> nối ma trận theo chiều ngang 
 vstack -> nối ma trận theo chiều dọc 
