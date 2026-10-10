@@ -1,7 +1,7 @@
 cú pháp:
 ```python
 a = torch.Tensor([[1, 2, 3],[6, 5, 4], [2, 9, 1]])
-tensor.argmax(dim=a)
+a.argmax(dim=1)
 # output
 # tensor([2, 0, 1])
 ```
