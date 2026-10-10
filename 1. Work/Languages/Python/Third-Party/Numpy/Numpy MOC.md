@@ -28,7 +28,7 @@
 ## 4. Chỉ mục & Cắt mảng (Indexing & Slicing)
 - [[Access a matrix element (Truy cập phần tử mảng)]] - Cách truy cập phần tử trong mảng
 - [[integer array indexing]] - Chỉ mục bằng mảng số nguyên
-- [[boolean array indexing]] - Chỉ mục bằng mảng boolean (lọc điều kiện)
+- [[Boolean array indexing]] - Chỉ mục bằng mảng boolean (lọc điều kiện)
 
 ## 5. Biến đổi Mảng (Array Manipulation)
 - [[1. Work/Languages/Python/Third-Party/Numpy/Method/reshape()]] - Thay đổi hình dạng mảng

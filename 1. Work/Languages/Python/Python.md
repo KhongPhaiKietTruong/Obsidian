@@ -219,7 +219,7 @@
 			- [[zeros()]]
 		- **Theory**
 			- [[Access a matrix element (Truy cập phần tử mảng)]]
-			- [[boolean array indexing]]
+			- [[Boolean array indexing]]
 			- [[Broadcasting]]
 			- [[integer array indexing]]
 			- [[Scalar Multiplication (Nhân vô hướng)]]
