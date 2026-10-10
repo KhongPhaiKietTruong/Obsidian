@@ -1,5 +1,5 @@
 dùng để lặp lại các phần tử trong mảng
-```
+```python
 arr = np.array([1, 2, 3]) 
 res = np.repeat(arr, 3) 
 print(res) 

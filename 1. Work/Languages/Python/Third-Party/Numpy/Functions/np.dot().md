@@ -1,4 +1,4 @@
-hàm dùng để tính [[Dot product (Tích Vô Hướng)]] của hai [[Vector]]
+hàm chủ yếu dùng để tính [[Dot product (Tích Vô Hướng)]] của hai [[Vector]]
 **hoặc** thực hiện [[Matrix multiplication]]  (cũng có thể sử dụng "@")
 
 tích vô hướng:
