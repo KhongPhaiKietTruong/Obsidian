@@ -1,6 +1,9 @@
 [[Method]] này dùng để tính [[Partial Derivative (Đạo Hàm Riêng)]] của hàm số đối với từng [[Parameters (Tham số)]] học được trong [[Neural Network]]
-
-ví dụ: loss=n thì loss.backward() sẽ tính 
+```python 
+optimizer.zero_grad()
+loss.backward()
+```
+ví dụ: loss.backward() sẽ tính 
 $$
 \text{model.weight.grad}= \begin{bmatrix}
 \frac{ \partial J_{batch} }{ \partial w_{1} }  \\
