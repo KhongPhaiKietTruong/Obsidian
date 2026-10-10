@@ -23,6 +23,7 @@ LDA là gì
 
 ## Numpy
 a.shape trả về tuple chứa số lượng phần tử mỗi chiều (dù ma trận chỉ có một chiều thì cũng trả về một [[Tuple]]) 
+np.arange(a, b, c) tạo một list có miền giá trị từ a đến b với bước nhảy c (sẽ **không** bao gồm giá trị c)
 
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
