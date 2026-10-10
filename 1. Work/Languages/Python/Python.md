@@ -336,7 +336,7 @@
 		- **torch**
 			- **1.Classes**
 				- **torch.device**
-					- [[1.torch.device()]]
+					- [[torch.device()]]
 				- **torch.relu**
 					- [[2.torch.relu()]]
 				- **torch.Tensor**
