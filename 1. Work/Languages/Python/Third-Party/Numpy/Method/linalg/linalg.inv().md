@@ -1,1 +1,1 @@
-trả về ma trận nghịch đảo của một trậ
+trả về ma trận nghịch đảo của một trận 
