@@ -2,8 +2,7 @@ là hàm dùng để thay đổi hình dạng của ma trận (số hàng, số 
 
 lưu ý 1: hàm reshape chỉ trả về view, nghĩa là thay đổi giá trị của ma trận được tạo bởi reshape sẽ thay đổi lên mảng gốc luôn
 
-lưu ý 2: phải đảm bảo hình dạng mới có số phần tử bằng hình dạng cũ
-nghĩa là tích của hàng mới và cột mới bằng tích của hàng cũ và cột cũ
+lưu ý 2: tổng số phần của của mảng trước khi reshape và sau khi reshape phải bằng nhau 
 
 ![[Pasted image 20260112020607.png]]
 
