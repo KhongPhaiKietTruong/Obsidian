@@ -1,4 +1,4 @@
-fd là lệnh dùng để tìm file hoặc folder theo tên
+sy cfd là lệnh dùng để tìm file hoặc folder theo tên
 ```
 fd <pattern> <path> 
 ```
