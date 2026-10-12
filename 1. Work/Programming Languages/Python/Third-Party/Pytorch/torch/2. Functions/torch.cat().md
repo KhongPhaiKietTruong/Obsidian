@@ -1,0 +1,1 @@
+giống hoàn toàn với [[np.concatenate()]] nhưng hoạt động với [[Tensor]] 

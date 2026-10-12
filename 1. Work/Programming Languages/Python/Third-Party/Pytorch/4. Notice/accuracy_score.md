@@ -1,1 +1,0 @@
-hàm accuracy_score

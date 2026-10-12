@@ -1,1 +1,0 @@
-output mà làm loss trả về là một [[Tensor]] có 1 phần tử 
