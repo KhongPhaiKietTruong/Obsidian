@@ -1,0 +1,1 @@
+dùng để sắp xếp lại các chiều của [[Tensor]]
