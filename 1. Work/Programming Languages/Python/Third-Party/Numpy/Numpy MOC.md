@@ -31,7 +31,7 @@
 - [[Boolean array indexing]] - Chỉ mục bằng mảng boolean (lọc điều kiện)
 
 ## 5. Biến đổi Mảng (Array Manipulation)
-- [[reshape()]] - Thay đổi hình dạng mảng
+- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Method/reshape()]] - Thay đổi hình dạng mảng
 - [[flatten()]] - Làm phẳng mảng thành 1 chiều
 - [[np.transpose()]] - InverseChuyển vị mảng
 - [[1. Work/Programming Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix| Inverse]] - Khái niệm/hình ảnh về ma trận chuyển vị

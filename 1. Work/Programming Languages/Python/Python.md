@@ -210,7 +210,7 @@
 			- [[np.ones()]]
 			- [[random.normal()]]
 			- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Method/repeat()]]
-			- [[reshape()]]
+			- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Method/reshape()]]
 			- [[1. Work/Programming Languages/Python/Built-in/Function/sum()]]
 			- [[trace()]]
 			- [[np.transpose()]]
@@ -355,7 +355,7 @@
 					- [[np.mean()]]
 					- [[1. Work/Programming Languages/Python/Built-in/Function/min()]]
 					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2. Functions/Object Tensor/numpy()]]
-					- [[reshape()]]
+					- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Method/reshape()]]
 					- [[1. Work/Programming Languages/Python/Built-in/Function/sum()]]
 					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2. Functions/Object Tensor/to()]]
 				- **Tạo tensor ngẫu nhiên**
