@@ -2,7 +2,6 @@
 - classification
 - detection (vừa vẽ vừa phân loại) (1 và nhiều vật thể)
 - segmentation (semantic và instance)
-- 
 ## NLP 
 - classification 
 - token classification (NER, POS)
