@@ -7,7 +7,7 @@
 - [x] nhắc mẹ học phí
 - [x] làm lab attt 
 - [x] học bài attt 
-- [x] làm bài tập ai
+- [x] làm bài tập ai 
 - [x] làm attt (lab nhóm)
 - [x] mua usb wifi 
 - [x] chọn chủ đề ai

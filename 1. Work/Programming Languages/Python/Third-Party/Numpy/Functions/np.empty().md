@@ -4,7 +4,7 @@ cú pháp
 a = np.empty(<tuple_size>)
 ```
 
-lí do ta không dùng [[zeros()]] hay [[ones()]] là gì nó sẽ tốn công gán giá trị 0 hoặc 1 gây chậm mà đằng nào cũng xóa, hàm empty giải quyết vấn này một cách nhanh khi không cần gán giá trị mà nó lấy đại giá trị rác của ram
+lí do ta không dùng [[zeros()]] hay [[np.ones()]] là gì nó sẽ tốn công gán giá trị 0 hoặc 1 gây chậm mà đằng nào cũng xóa, hàm empty giải quyết vấn này một cách nhanh khi không cần gán giá trị mà nó lấy đại giá trị rác của ram
 
 ```python
 a = np.empty((2, 2)) 

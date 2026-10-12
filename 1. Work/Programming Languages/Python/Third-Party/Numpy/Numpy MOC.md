@@ -9,16 +9,16 @@
 - [[nbytes]] - Tổng kích thước (byte) của mảng
 
 ## 2. Khởi tạo Mảng (Array Creation)
-- [[array()]] - Tạo mảng từ list/tuple
-- [[arange()]] - Tạo mảng với các phần tử cách đều (arange)
-- [[linspace()]] - Tạo mảng với số lượng phần tử cách đều nhau trong khoảng
+- [[np.array()]] - Tạo mảng từ list/tuple
+- [[np.arange()]] - Tạo mảng với các phần tử cách đều (arange)
+- [[np.linspace()]] - Tạo mảng với số lượng phần tử cách đều nhau trong khoảng
 - [[zeros()]] - Tạo mảng chứa toàn số 0
-- [[ones()]] - Tạo mảng chứa toàn số 1
-- [[full()]] - Tạo mảng chứa toàn một giá trị chỉ định
-- [[full_like()]] - Tạo mảng có shape giống mảng khác, chứa toàn giá trị chỉ định
-- [[identity()]] - Tạo ma trận đơn vị
-- [[eye()]] - Tạo ma trận đường chéo
-- [[empty()]] - Tạo mảng rỗng (giá trị rác)
+- [[np.ones()]] - Tạo mảng chứa toàn số 1
+- [[np.full()]] - Tạo mảng chứa toàn một giá trị chỉ định
+- [[np.full_like()]] - Tạo mảng có shape giống mảng khác, chứa toàn giá trị chỉ định
+- [[np.identity()]] - Tạo ma trận đơn vị
+- [[np.eye()]] - Tạo ma trận đường chéo
+- [[np.empty()]] - Tạo mảng rỗng (giá trị rác)
 
 ## 3. Tạo Số ngẫu nhiên (Random)
 - [[random.rand()]] - Tạo mảng số thực ngẫu nhiên từ 0 đến 1
@@ -33,7 +33,7 @@
 ## 5. Biến đổi Mảng (Array Manipulation)
 - [[reshape()]] - Thay đổi hình dạng mảng
 - [[flatten()]] - Làm phẳng mảng thành 1 chiều
-- [[transpose()]] - InverseChuyển vị mảng
+- [[np.transpose()]] - InverseChuyển vị mảng
 - [[1. Work/Programming Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix| Inverse]] - Khái niệm/hình ảnh về ma trận chuyển vị
 - [[repeat()]] - Lặp lại các phần tử của mảng
 - [[astype()]] - Chuyển đổi kiểu dữ liệu mảng
@@ -41,11 +41,11 @@
 
 ## 6. Liên kết & Tách mảng (Joining & Splitting)
 - [[vstack()]] - Ghép các mảng theo chiều dọc (vertical stack)
-- [[hstack()]] - Ghép các mảng theo chiều ngang (horizontal stack)
+- [[np.hstack()]] - Ghép các mảng theo chiều ngang (horizontal stack)
 
 ## 7. Phép toán & Đại số tuyến tính (Operations & Linear Algebra)
 - [[Broadcasting]] - Cơ chế lan truyền khi tính toán khác kích thước
-- [[clip()]] - Giới hạn các giá trị trong mảng khoảng [min, max]
+- [[np.clip()]] - Giới hạn các giá trị trong mảng khoảng [min, max]
 - [[np.dot()]] - Phép nhân dot product / nhân ma trận
 - [[np.dot()|np]] - Hàm tính dot product
 - [[matmul()]] - Nhân hai ma trận
@@ -61,9 +61,9 @@
 - [[linalg.solve()|linalg.solve()]] - Giải hệ phương trình tuyến tính
 
 ## 8. Tìm kiếm, Sắp xếp & Thống kê (Searching & Statistics)
-- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Functions/sum()|sum()]] - Tính tổng các phần tử
-- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Functions/mean()|mean()]] - Tính giá trị trung bình
-- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Functions/min()|min()]] - Tìm giá trị nhỏ nhất
+- [[np.sum()|np]] - Tính tổng các phần tử
+- [[np.mean()|np]] - Tính giá trị trung bình
+- [[np.min()|np]] - Tìm giá trị nhỏ nhất
 - [[1. Work/Programming Languages/Python/Third-Party/Numpy/Method/argmax()]] - Tìm chỉ số của phần tử lớn nhất
 - [[argmin()]] - Tìm chỉ số của phần tử nhỏ nhất
 - [[where()]] - Lọc phần tử theo điều kiện

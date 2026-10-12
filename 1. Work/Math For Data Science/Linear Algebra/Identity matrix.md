@@ -11,4 +11,4 @@ nó thỏa mãn giá trị:
 - bất kì giá trị nào nhân với nó đều không thay đổi
 - có tính giao hoán AI = IA = A
 
-tạo bằng [[eye()]] hoặc [[identity()]]
+tạo bằng [[np.eye()]] hoặc [[np.identity()]]

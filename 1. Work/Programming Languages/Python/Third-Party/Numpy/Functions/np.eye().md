@@ -1,4 +1,4 @@
-là phiên bản nâng cấp hơn của [[identity()]]
+là phiên bản nâng cấp hơn của [[np.identity()]]
 tạo ma trận với giá trị 1 nằm trên đường chéo chính, còn lại là 0
 ```python
 np.eye(n, m, k)

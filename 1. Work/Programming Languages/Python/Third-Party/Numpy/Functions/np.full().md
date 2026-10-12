@@ -1,4 +1,4 @@
-hàm full cũng khá giống [[zeros()]] với [[ones()]], nhưng thay vì chỉ tạo ra giá trị, 0 và 1 thì nó cho ta tùy chỉnh giá trị mong muốn
+hàm full cũng khá giống [[zeros()]] với [[np.ones()]], nhưng thay vì chỉ tạo ra giá trị, 0 và 1 thì nó cho ta tùy chỉnh giá trị mong muốn
 ```python 
 full(<tuple_size>, fill_value)
 ```
