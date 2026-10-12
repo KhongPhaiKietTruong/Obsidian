@@ -1,0 +1,6 @@
+dùng để nối các mảng lại với nhau theo một trục cho trước (không tạo ra chiều mới)
+```python
+a = np.array([1, 2, 3])
+b = np.array([4, 5, 6])
+c = np.concatenate([a, b], axis=0)
+```
