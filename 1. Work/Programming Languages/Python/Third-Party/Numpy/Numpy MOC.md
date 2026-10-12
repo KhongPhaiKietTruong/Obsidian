@@ -35,7 +35,7 @@
 - [[flatten()]] - Làm phẳng mảng thành 1 chiều
 - [[np.transpose()]] - InverseChuyển vị mảng
 - [[1. Work/Programming Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix| Inverse]] - Khái niệm/hình ảnh về ma trận chuyển vị
-- [[repeat()]] - Lặp lại các phần tử của mảng
+- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Method/repeat()]] - Lặp lại các phần tử của mảng
 - [[astype()]] - Chuyển đổi kiểu dữ liệu mảng
 - [[np.uint8]] - Kiểu dữ liệu số nguyên không dấu 8-bit
 

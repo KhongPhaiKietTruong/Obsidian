@@ -209,7 +209,7 @@
 			- [[np.multiply()]]
 			- [[np.ones()]]
 			- [[random.normal()]]
-			- [[repeat()]]
+			- [[1. Work/Programming Languages/Python/Third-Party/Numpy/Method/repeat()]]
 			- [[reshape()]]
 			- [[1. Work/Programming Languages/Python/Built-in/Function/sum()]]
 			- [[trace()]]
