@@ -1,1 +1,0 @@
-Valid Convolution là loại tích chập mà ma trận gốc không có thêm [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (có [[Stride]] vẫn được), khiến [[Feature Map F]] bị nhỏ hơn ma trận gốc 

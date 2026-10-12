@@ -1,4 +1,4 @@
-tham khảo khái niệm lớp trừu tượng ở [[1. Work/Theory/OOP/Theory/Abstract Class (Lớp trừu tượng)|Abstract Class (Lớp trừu tượng)]]
+tham khảo khái niệm lớp trừu tượng ở [[1. Work/OOP/Theory/Abstract Class (Lớp trừu tượng)|Abstract Class (Lớp trừu tượng)]]
 
 ```python
 from abc import ABC, abstractmethod

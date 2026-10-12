@@ -1,4 +1,4 @@
-tạo một [[1. Work/Theory/OOP/Theory/Class|Class]] thừa kế từ [[torch.utils.data.Dataset]] và thực hiện ghi đè lên 3 method là
+tạo một [[1. Work/OOP/Theory/Class|Class]] thừa kế từ [[torch.utils.data.Dataset]] và thực hiện ghi đè lên 3 method là
 - \_\_init__()
 - \_\_len()__
 - \_\_getitem()__  

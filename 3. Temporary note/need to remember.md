@@ -44,7 +44,7 @@ trong torch.dropout(p=0.2), p là tỉ lệ bỏ
 --- 
 [[MSE Cost Function]] nhạy cảm với outlier (do là bình phương sai số)
 [[Linear Regression]] + [[MSE Cost Function]] = [[Convex Function (Hàm Lồi)]] 
-[[1. Work/Theory/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression|Logistic Regression]] + [[MSE Cost Function]] = hàm không lồi 
+[[1. Work/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression|Logistic Regression]] + [[MSE Cost Function]] = hàm không lồi 
 MAE bền vững trước outlier 
 L1 loss là AE 
 L2 loss là SE 
@@ -75,11 +75,11 @@ Clustering thực hiện phân cụm dựa trên khoảng cách (chạy nhiều 
 DBSCAN thực hiện phân cụm dựa trên mật độ các điểm 
 [[K-means]] dựa trên khoảng cách ([[Euclidean]])
 Các phương pháp để tìm số cụm: [[Elbow Method]], [[Silhouette Score]]
-Các phương pháp giảm chiều dữ liệu là [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]], [[t-SNE]], [[UMAP]] 
-[[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] cố gắng giữ tối đa phương sai của dữ liệu 
+Các phương pháp giảm chiều dữ liệu là [[1. Work/Math For Data Science/Linear Algebra/PCA|PCA]], [[t-SNE]], [[UMAP]] 
+[[1. Work/Math For Data Science/Linear Algebra/PCA|PCA]] cố gắng giữ tối đa phương sai của dữ liệu 
 [[Silhouette Score]] có miền giá trị từ -1 tới 1 
-các thành phần chính trong [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] trực giao (vuông góc) với nhau 
-trước khi thực hiện [[1. Work/Theory/Math For Data Science/Linear Algebra/PCA|PCA]] thì gần như bắt buộc phải thực hiện [[Standardization (Z-score normalization)]] 
+các thành phần chính trong [[1. Work/Math For Data Science/Linear Algebra/PCA|PCA]] trực giao (vuông góc) với nhau 
+trước khi thực hiện [[1. Work/Math For Data Science/Linear Algebra/PCA|PCA]] thì gần như bắt buộc phải thực hiện [[Standardization (Z-score normalization)]] 
 t-SNE thường được dùng để trực quan hóa dữ liệu 
 [[AutoEncoder]] gồm hai thành phần chính là [[Encoder]] và [[Decoder]] 
 [[UMAP]] là nâng cấp của [[t-SNE]], tính toán nhanh hơn 
@@ -105,14 +105,14 @@ Trong [[InceptionNet]], [[Pooling Layer]] phải được thực hiện với pa
 Trong InceptionNet có thực hiện [[Pointwise Convolution]] để giảm số kênh 
 [[Depthwise Convolution]] là mỗi channel có một [[Filter]] riêng 
 [[Pointwise Convolution]] là [[Convolution]] có kích thước [[Filter]] 1x1 
-[[Same Convolution]] có [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (K-1)/2 
-[[Valid Convolution]] là convolution không có [[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (có [[Stride]] vẫn được)
+[[Same Convolution]] có [[1. Work/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (K-1)/2 
+[[Valid Convolution]] là convolution không có [[1. Work/Machine Learning/Deep Learning/Computer Vision (CV)/Concepts/Hyperparameters In CV/Padding/Padding|Padding]] (có [[Stride]] vẫn được)
 Để thực hiện được [[Convolution]] lên một [[Output Tensor Z]] thì số channel của [[Filter]] phải bằng với số channel của output tensor đó (cũng nghĩa là bằng với số lượng filter của lớp trước đó)
 Kích thước của output sau khi thực hiện [[Convolution]] (xem ở [[Feature Map F]])
 [[Anchor Box]] -> giải quyết mì ột ô có nhiều điểm trung tâm của vật thể 
 [[Classical Sliding Window]] có chi phí tính toán rất nhiều, [[Convolutional Sliding Window]] ra đời để giải quyết vấn đề này 
 [[NMS - Non-max Suppression]] dùng để chọn ra bounding box trong các bounding box được gợi ý 
-[[1. Work/Theory/Machine Learning/Deep Learning/Computer Vision (CV)/Object Detection/Metrics/mAP|mAP]] là một chỉ số để đánh giá một detection model (kết hợp giữa cả classification và localiì zation)
+[[1. Work/Machine Learning/Deep Learning/Computer Vision (CV)/Object Detection/Metrics/mAP|mAP]] là một chỉ số để đánh giá một detection model (kết hợp giữa cả classification và localiì zation)
 IoU được tính bằng diện tích trùng chia cho diện tích hợp 
 Viterbi là một thuật toán quy hoạch động để tìm ra chuỗi có đại lượng nào đó cao nhất (chuỗi POS, ...)
 POS = gán từ loại 
@@ -210,5 +210,5 @@ Boosting Model giúp giảm bias i
 | Bản chất          | tuyến tính | phi tuyến | phi tuyến         |
 | cấu trúc bảo toàn | toàn cục   | cục bộ    | toàn cục + cục bộ |
 |                   |            |           |                   |
-[[1. Work/Theory/Machine Learning/Unsupervised Learning/Dimensionality Reduction/PCA|PCA]] cực kì nhạy cảm với [[Outliers]] 
+[[1. Work/Machine Learning/Unsupervised Learning/Dimensionality Reduction/PCA|PCA]] cực kì nhạy cảm với [[Outliers]] 
 [[Vanilla Drop Out]] = tổng hợp của các mạng con 
