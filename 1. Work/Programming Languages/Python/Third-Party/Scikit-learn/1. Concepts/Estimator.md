@@ -1,1 +1,0 @@
-là một đối [[1. Work/OOP/Theory/Object]] có thể học hỏi từ dữ liệu ta truyền vào 

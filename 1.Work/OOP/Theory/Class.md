@@ -1,0 +1,1 @@
+là một bản thảo dùng để tạo ra các [[1.Work/OOP/Theory/Object]], bao gồm [[Constructor (Hàm khởi tạo)]], các [[Method]] và [[Attribute]] 

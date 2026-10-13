@@ -1,1 +1,0 @@
-là một [[1. Work/OOP/Theory/Object]] có thể nhận vào dữ liệu và biến đổi nó thành một dạng khác 

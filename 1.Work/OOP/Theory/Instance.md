@@ -1,0 +1,1 @@
+A là instance của [[1.Work/OOP/Theory/Class|Class]] B nếu như A là một [[1.Work/OOP/Theory/Object|Object]] được khởi tạo từ lớp B

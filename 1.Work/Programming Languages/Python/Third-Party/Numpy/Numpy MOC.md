@@ -1,0 +1,69 @@
+# NumPy MOC (Map of Content)
+
+## 1. Thuộc tính của Mảng (Array Attributes)
+- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/shape|Shape]] - Kích thước/hình dạng của mảng (đối với ma trận 2D: chiều cao, chiều rộng)
+- [[ndim]] - Số chiều của mảng
+- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/size]] - Tổng số phần tử trong mảng
+- [[dtype]] - Kiểu dữ liệu của các phần tử
+- [[itemsize]] - Kích thước (byte) của mỗi phần tử
+- [[nbytes]] - Tổng kích thước (byte) của mảng
+
+## 2. Khởi tạo Mảng (Array Creation)
+- [[np.array()]] - Tạo mảng từ list/tuple
+- [[np.arange()]] - Tạo mảng với các phần tử cách đều (arange)
+- [[np.linspace()]] - Tạo mảng với số lượng phần tử cách đều nhau trong khoảng
+- [[zeros()]] - Tạo mảng chứa toàn số 0
+- [[np.ones()]] - Tạo mảng chứa toàn số 1
+- [[np.full()]] - Tạo mảng chứa toàn một giá trị chỉ định
+- [[np.full_like()]] - Tạo mảng có shape giống mảng khác, chứa toàn giá trị chỉ định
+- [[np.identity()]] - Tạo ma trận đơn vị
+- [[np.eye()]] - Tạo ma trận đường chéo
+- [[np.empty()]] - Tạo mảng rỗng (giá trị rác)
+
+## 3. Tạo Số ngẫu nhiên (Random)
+- [[random.rand()]] - Tạo mảng số thực ngẫu nhiên từ 0 đến 1
+- [[random.random_sample()]] - Tạo mảng số thực ngẫu nhiên [0.0, 1.0)
+- [[random.randint()]] - Tạo mảng số nguyên ngẫu nhiên trong khoảng
+
+## 4. Chỉ mục & Cắt mảng (Indexing & Slicing)
+- [[Access a matrix element (Truy cập phần tử mảng)]] - Cách truy cập phần tử trong mảng
+- [[integer array indexing]] - Chỉ mục bằng mảng số nguyên
+- [[Boolean array indexing]] - Chỉ mục bằng mảng boolean (lọc điều kiện)
+
+## 5. Biến đổi Mảng (Array Manipulation)
+- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/reshape()]] - Thay đổi hình dạng mảng
+- [[flatten()]] - Làm phẳng mảng thành 1 chiều
+- [[np.transpose()]] - InverseChuyển vị mảng
+- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix| Inverse]] - Khái niệm/hình ảnh về ma trận chuyển vị
+- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/repeat()]] - Lặp lại các phần tử của mảng
+- [[astype()]] - Chuyển đổi kiểu dữ liệu mảng
+- [[np.uint8]] - Kiểu dữ liệu số nguyên không dấu 8-bit
+
+## 6. Liên kết & Tách mảng (Joining & Splitting)
+- [[vstack()]] - Ghép các mảng theo chiều dọc (vertical stack)
+- [[np.hstack()]] - Ghép các mảng theo chiều ngang (horizontal stack)
+
+## 7. Phép toán & Đại số tuyến tính (Operations & Linear Algebra)
+- [[Broadcasting]] - Cơ chế lan truyền khi tính toán khác kích thước
+- [[np.clip()]] - Giới hạn các giá trị trong mảng khoảng [min, max]
+- [[np.dot()]] - Phép nhân dot product / nhân ma trận
+- [[np.dot()|np]] - Hàm tính dot product
+- [[matmul()]] - Nhân hai ma trận
+- [[Content/Work/Languages/Python/Third-Party/Numpy/Theory/Matrix Multiplication]] - Phép nhân ma trận
+- [[Scalar Multiplication (Nhân vô hướng)]] - Phép nhân vô hướng (scalar multiplication)
+- [[trace()]] - Tính tổng các phần tử trên đường chéo chính
+
+### Đại số tuyến tính nâng cao (Linear Algebra - `linalg`)
+- [[Vectorization|Vectorization]] - Vectơ hóa các phép toán
+- [[linalg.det()|linalg.det()]] - Tính định thức của ma trận
+- [[linalg.inv()|linalg.inv()]] - Tìm ma trận nghịch đảo
+- [[linalg.norm()|linalg.norm()]] - Tính chuẩn (norm) của vectơ/ma trận
+- [[linalg.solve()|linalg.solve()]] - Giải hệ phương trình tuyến tính
+
+## 8. Tìm kiếm, Sắp xếp & Thống kê (Searching & Statistics)
+- [[np.sum()|np]] - Tính tổng các phần tử
+- [[np.mean()|np]] - Tính giá trị trung bình
+- [[np.min()|np]] - Tìm giá trị nhỏ nhất
+- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/argmax()]] - Tìm chỉ số của phần tử lớn nhất
+- [[argmin()]] - Tìm chỉ số của phần tử nhỏ nhất
+- [[where()]] - Lọc phần tử theo điều kiện

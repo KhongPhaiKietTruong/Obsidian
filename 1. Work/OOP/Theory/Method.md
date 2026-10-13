@@ -1,1 +1,0 @@
-là các [[Function]] của một [[1. Work/OOP/Theory/Class]] cụ thể và các function được định nghĩa trong class thì chỉ có class đó mới có và có thể sử dụng function đó
