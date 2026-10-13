@@ -24,3 +24,4 @@ Semantic Segmentation vs Instance Segmentation
 IoU 
 token \<CLS> đầu câu là gì 
 Beam vs Greedy 
+Cosine vs Eclidean 
