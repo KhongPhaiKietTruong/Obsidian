@@ -20,5 +20,7 @@ L1 đưa w đề 0, L2 đưa w về gần 0
 Laplace smoothing 
 Early Stopping là gì 
 Tính kích thước feature map sau khi pooling, convolution 
-
-
+Semantic Segmentation vs Instance Segmentation 
+IoU 
+token \<CLS> đầu câu là gì 
+Beam vs Greedy 
