@@ -17,4 +17,6 @@ Các loại convolution trong CV
 công thức tính attension 
 batch norm là gì 
 L1 đưa w đề 0, L2 đưa w về gần 0 
+Laplace smoothing 
+Early Stopping là gì 
 
