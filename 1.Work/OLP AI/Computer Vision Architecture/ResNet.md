@@ -4,3 +4,4 @@ lợi thế: giảm thiểu triệt tiêu đạo hàm
 - làm backbone 
 - sử dụng cho tập dữ liệu vừa và nhỏ 
 ## Tác Vụ 
+- Phân loại ảnh 
