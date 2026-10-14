@@ -9,4 +9,4 @@ với "không làm gì" ở đây nghĩa là các [[Neuron]] trong 36 lớp bổ
 > 20 lớp đầu đã học quá tốt rồi nên 36 lớp sau không còn cái để học nên nó phải học cách "không làm gì" để giữ được độ tốt đó, nhưng để học được cách "không làm gì" sẽ gặp nhiều vấn đề khiến cho cả mô hình tệ đi
 
 ## Giải Pháp
-mô hình [[ResNet]] được xây dựng nên để giải quyết vấn đề này 
+mô hình [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Architecture In CV/Resnet/ResNet]] được xây dựng nên để giải quyết vấn đề này 
