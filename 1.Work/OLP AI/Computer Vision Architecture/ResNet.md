@@ -1,0 +1,1 @@
+lợi thế: giảm thiểu triệt tiêu đạo hàm 
