@@ -47,3 +47,4 @@
 - [ ] Định lí sấp xỉ phổ quát 
 - [ ] Group Batch 
 - [ ] SE Block 
+- [ ] FPN 
