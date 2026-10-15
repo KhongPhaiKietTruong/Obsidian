@@ -1,15 +1,15 @@
 %% Begin Waypoint %%
 - **Arch (btw)**
 	- **Pacman**
-		- [[Find package local]]
-		- [[Find package remote]]
-		- [[Install a package]]
-		- [[Remove a package (with config and dependency)]]
-		- [[Remove cache (safe)]]
+		- [[Tìm package đã tải]]
+		- [[Tìm package chưa tải]]
+		- [[Tải package]]
+		- [[Xóa package (with config and dependency)]]
+		- [[Dọn dẹp cache]]
 		- [[Remove orphan]]
 		- [[See installed package]]
 		- [[Update system]]
-	- [[package manager]]
+	- [[Package manager]]
 - **Linux system file**
 	- **usr**
 		- [[1.Work/DevOps/Linux/Linux system file/bin]]
