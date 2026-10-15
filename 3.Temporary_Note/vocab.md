@@ -34,3 +34,4 @@ wimp (n):
 estimate
 divert 
 compile 
+media outlet (n): báo chí, truyền thông 
