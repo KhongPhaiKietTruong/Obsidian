@@ -1,1 +1,3 @@
-uupacman -Ss \[[[Package|package]]]
+```
+pacman -Ss <pattern>
+```

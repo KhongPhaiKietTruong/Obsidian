@@ -7,7 +7,7 @@
 		- [[Xóa package (with config and dependency)]]
 		- [[Dọn dẹp cache]]
 		- [[Remove orphan]]
-		- [[See installed package]]
+		- [[Xem package đã tải]]
 		- [[Update system]]
 	- [[Package manager]]
 - **Linux system file**

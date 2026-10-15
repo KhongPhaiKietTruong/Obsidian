@@ -5,5 +5,5 @@ paccache -r
 
 dọn dẹp cache của cả Pacman và AUR 
 ```
-paru -Sc 
+paru -Scd
 ```
