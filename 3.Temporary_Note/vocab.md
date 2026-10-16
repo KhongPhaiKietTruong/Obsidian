@@ -7,3 +7,5 @@ shortlist (n): danh sách rút gọn
 shortlist (v): đưa vào danh sách rút gọn 
 fixture (n): đồ nội thất cố định 
 receipt (n): sự nhận được, biên lai 
+guide (v): hướng dẫn, dẫn đường 
+guide (n): người hướng dẫn, tài liệu hướng dẫn 
