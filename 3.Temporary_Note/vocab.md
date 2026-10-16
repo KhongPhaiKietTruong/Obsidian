@@ -6,3 +6,4 @@ collinear (adj): thẳng hàng
 shortlist 
 fixture 
 staffed (adj): 
+fleet 
