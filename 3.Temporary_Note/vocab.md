@@ -3,8 +3,9 @@ disgrace (v): làm nhục nhã
 topology (n): cấu trúc liên kết 
 collinear (adj): thẳng hàng 
 
-shortlist 
-fixture 
+shortlist (n): danh sách rút gọn
+shortlist (v): đưa vào danh sách rút gọn 
+fixture (n): đồ nội thất cố định 
 staffed (adj): 
 fleet 
 booklet 
