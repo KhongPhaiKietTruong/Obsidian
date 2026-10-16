@@ -20,12 +20,9 @@ interim (adj): tạm thời, lâm thời
 in the interim (adv): trong khoảng thời gian chờ đợi 
 dispatch (v): gửi đi, cử đi
 dispatch (n): sự gửi đi, sự điều phối 
-bids 
 dedicated (adj): riêng biệt 
 fill orders (v): xử lí đơn hàng
 fill prescription (v): bốc đơn thuốc 
-colinear 
-upon 
 Sterile 
 wimp (n): 
 estimate
@@ -37,3 +34,4 @@ media outlet (n): báo chí, truyền thông
 disgrace (n): sự nhục nhã 
 disgrace (v): làm nhục nhã 
 topology (n): cấu trúc liên kết 
+collinear (adj): thẳng hàng 
