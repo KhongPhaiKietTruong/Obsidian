@@ -6,4 +6,4 @@ collinear (adj): thẳng hàng
 shortlist (n): danh sách rút gọn
 shortlist (v): đưa vào danh sách rút gọn 
 fixture (n): đồ nội thất cố định 
-receipt (n)
+receipt (n): sự nhận được, biên lai 
