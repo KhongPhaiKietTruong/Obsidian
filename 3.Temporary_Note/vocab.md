@@ -4,3 +4,4 @@ topology (n): cấu trúc liên kết
 collinear (adj): thẳng hàng 
 
 shortlist 
+fixture 
