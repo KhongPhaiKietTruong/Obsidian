@@ -12,11 +12,8 @@ on behalf of (adv): thay mặt cho
 seating (n): số lượng chỗ ngồi 
 counter (n): quầy, bộ đếm 
 Orient (v): định hướng 
-Orientatin (n): sự định hướng 
-topology (n): cấu trúc liên kết 
+Orientation (n): sự định hướng 
 canonically (adv): theo quy ước chuẩn 
-disgrace (n): sự nhục nhã 
-disgrace (v): làm nhục nhã 
 cap (n): hạn mức 
 roster (n): danh sách thành viên, danh sách phân công 
 interim (adj): tạm thời, lâm thời 
@@ -35,3 +32,8 @@ estimate
 divert 
 compile 
 media outlet (n): báo chí, truyền thông 
+
+
+disgrace (n): sự nhục nhã 
+disgrace (v): làm nhục nhã 
+topology (n): cấu trúc liên kết 
