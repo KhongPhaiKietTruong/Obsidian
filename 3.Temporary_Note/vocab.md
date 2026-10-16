@@ -11,3 +11,4 @@ guide (v): hướng dẫn, dẫn đường
 guide (n): người hướng dẫn, tài liệu hướng dẫn 
 pronounce (v): tuyên bố 
 sound (adj): vững mạnh 
+rigor
