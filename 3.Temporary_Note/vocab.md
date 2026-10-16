@@ -23,9 +23,8 @@ dispatch (n): sự gửi đi, sự điều phối
 dedicated (adj): riêng biệt 
 fill orders (v): xử lí đơn hàng
 fill prescription (v): bốc đơn thuốc 
-Sterile 
-wimp (n): 
-estimate
+wimp (n): kẻ hèn nhát 
+estimate 
 divert 
 compile 
 media outlet (n): báo chí, truyền thông 
