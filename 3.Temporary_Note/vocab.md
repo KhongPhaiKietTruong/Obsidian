@@ -9,3 +9,5 @@ fixture (n): đồ nội thất cố định
 receipt (n): sự nhận được, biên lai 
 guide (v): hướng dẫn, dẫn đường 
 guide (n): người hướng dẫn, tài liệu hướng dẫn 
+pronounce (v): tuyên bố 
+sound (adj): vững mạnh 
