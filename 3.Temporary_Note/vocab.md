@@ -25,7 +25,6 @@ fill orders (v): xử lí đơn hàng
 fill prescription (v): bốc đơn thuốc 
 wimp (n): kẻ hèn nhát 
 divert (v): chuyển hướng 
-compile 
 media outlet (n): báo chí, truyền thông 
 
 
