@@ -7,10 +7,10 @@ Both must have:
 AI:
 - [ ] speaking english
 - [x] math for ai
-- [ ] maplotlib & seaborn
-- [ ] machine learning (scikit-learn, XGBoost, LightGMB)
-- [ ] pytorch
-- [ ] deep learning
+- [x] maplotlib & seaborn
+- [x] machine learning (scikit-learn, XGBoost, LightGMB)
+- [x] pytorch
+- [x] deep learning
 - [ ] Langchain, Llamandex, Hugging Face transformer
 - [ ] fine-tuning (LoRA, QLoRA, ...)
 - [ ] MLOps
