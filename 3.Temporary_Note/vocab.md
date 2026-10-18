@@ -8,5 +8,6 @@ rant (v): cằn nhằn, xả giận
 
 firm 
 thus 
+![[Pasted image 20261018161302.png|551]]
 ridership figures
 botanical
