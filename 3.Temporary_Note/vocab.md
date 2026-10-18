@@ -19,6 +19,7 @@ newly
 partition (n): 
 suite 
 between vs among 
+log (v)
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
