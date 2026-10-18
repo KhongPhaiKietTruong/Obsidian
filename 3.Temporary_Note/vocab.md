@@ -7,3 +7,6 @@ brawl (n): cuộc ẩu đả
 rant (v): cằn nhằn, xả giận 
 
 firm 
+thus 
+ridership figures
+botanical
