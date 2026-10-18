@@ -16,6 +16,7 @@ ridership (n): số lượng hành khách
 onto (preposition): lên trên, hướng về 
 print (adj): 
 newly 
+partition (n): 
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
