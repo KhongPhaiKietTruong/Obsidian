@@ -21,6 +21,7 @@ suite
 between vs among 
 log (v)
 well before 
+offer (v): 
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
