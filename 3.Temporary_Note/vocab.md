@@ -22,6 +22,7 @@ between vs among
 log (v)
 well before 
 offer (v): 
+handover (n): 
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
