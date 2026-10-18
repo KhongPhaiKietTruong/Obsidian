@@ -326,7 +326,7 @@ Hệ thống đã hoàn thành **100% các Use Case cốt lõi** nằm trong ph�
 #### a. Khó khăn gặp phải:
 1. **Bài toán tranh chấp đồng thời (Concurrency / Race Condition)**: Khi nhiều quầy thu ngân cùng bán một sản phẩm có số lượng tồn kho ít (chỉ còn 1 - 2 món). Nếu không kiểm soát tốt, việc đọc dữ liệu đồng thời có thể dẫn đến hiện tượng bán âm kho (bán nhiều hơn số lượng thực có).
 2. **Quản trị kết nối và Session khi dùng Servlet thuần**: Không sử dụng các framework cấp cao như Spring Boot đòi hỏi nhóm phải tự tay cấu hình Hibernate EntityManager, quản trị Connection Pool (HikariCP) và kiểm soát vòng đời Transaction để không bị rò rỉ kết nối (Connection Leak).
-3. **Kiểm thử Webhook bên thứ ba (VNPay IPN)**: Cổng VNPay yêu cầu một URL Public qua Internet để gửi tín hiệu IPN xác nhận. Trong quá trình phát triển ở môi trường Localhost, nhóm phải thiết lập Reverse Proxy (Ngrok tunneling) và xử lý xác thực chữ ký SHA-512 với thứ tự tham số alphabet nghiêm ngặt.
+3. **Kiểm thử Webhook bên thứ ba (VNPay IPN)**: Cổng VNPay yêu cầu một URL Public qua Internet đúể gửi tín hiệu IPN xác nhận. Trong quá trình phát triển ở môi trường Localhost, nhóm phải thiết lập Reverse Proxy (Ngrok tunneling) và xử lý xác thực chữ ký SHA-512 với thứ tự tham số alphabet nghiêm ngặt.
 4. **Đồng bộ hóa luồng dữ liệu đổi trả và tích điểm**: Xử lý logic nghiệp vụ khi khách hàng trả hàng phải vừa cộng lại số lượng vào kho, vừa hoàn tiền chính xác, đồng thời phải trừ ngược số điểm thưởng đã cộng trước đó từ tài khoản thành viên của khách.
 
 #### b. Bài học kinh nghiệm:
