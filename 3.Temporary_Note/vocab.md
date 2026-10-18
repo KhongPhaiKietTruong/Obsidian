@@ -5,3 +5,5 @@ collinear (adj): thẳng hàng
 
 brawl (n): cuộc ẩu đả 
 rant (v): cằn nhằn, xả giận 
+
+firm 
