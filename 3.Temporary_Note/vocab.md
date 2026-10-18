@@ -15,4 +15,3 @@ onto
 despite 
 those vs whoever 
 tính từ đứng trước trạng từ ? (competitive monthly rate)
-plaque
