@@ -14,3 +14,5 @@ hiện tại hoàn thành + since + quá khứ đơn
 onto 
 despite 
 those vs whoever 
+tính từ đứng trước trạng từ ? (competitive monthly rate)
+plaque
