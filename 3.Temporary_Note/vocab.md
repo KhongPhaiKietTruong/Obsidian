@@ -12,3 +12,4 @@ ridership (n): số lượng hành khách
 
 hiện tại hoàn thành + since + quá khứ đơn 
 onto 
+despite 
