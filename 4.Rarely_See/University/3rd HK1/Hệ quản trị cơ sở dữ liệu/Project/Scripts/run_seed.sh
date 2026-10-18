@@ -11,7 +11,11 @@ DB_PORT=${DB_PORT:-"1433"}
 DOCKER_CONTAINER=${DOCKER_CONTAINER:-"sqlserver2022"}
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SQL_FILE="$SCRIPT_DIR/massive_seed_data.sql"
+if [ -f "$SCRIPT_DIR/create_data.sql" ]; then
+    SQL_FILE="$SCRIPT_DIR/create_data.sql"
+else
+    SQL_FILE="$SCRIPT_DIR/massive_seed_data.sql"
+fi
 
 echo "=================================================================="
 echo "    ĐANG NẠP DỮ LIỆU MẪU KHỔNG LỒ (MASSIVE SEED DATA) CHO LINUX   "
