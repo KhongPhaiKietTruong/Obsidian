@@ -24,6 +24,7 @@ well before
 offer (v): 
 handover (n): 
 reflect (v)
+pickup (n): 
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
