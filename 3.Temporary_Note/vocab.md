@@ -23,6 +23,7 @@ log (v)
 well before 
 offer (v): 
 handover (n): 
+reflect (v)
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
