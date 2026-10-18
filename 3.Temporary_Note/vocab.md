@@ -26,6 +26,7 @@ handover (n):
 reflect (v)
 pickup (n): 
 assembly (adj): 
+despite 
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
