@@ -6,7 +6,8 @@ collinear (adj): thẳng hàng
 brawl (n): cuộc ẩu đả 
 rant (v): cằn nhằn, xả giận 
 
-firm 
+firm (adj): vững chắc
+firm (n): công ty, hãng kinh doanh 
 thus 
 ![[Pasted image 20261018161302.png|551]]
 ridership figures
