@@ -27,6 +27,7 @@ reflect (v)
 pickup (n): 
 assembly (adj): 
 despite 
+reinvent 
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
