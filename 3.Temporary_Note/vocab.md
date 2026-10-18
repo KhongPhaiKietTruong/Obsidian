@@ -11,3 +11,4 @@ firm (n): công ty, hãng kinh doanh
 ridership (n): số lượng hành khách 
 
 hiện tại hoàn thành + since + quá khứ đơn 
+onto 
