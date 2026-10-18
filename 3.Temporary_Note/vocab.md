@@ -14,6 +14,7 @@ firm (adj): vững chắc
 firm (n): công ty, hãng kinh doanh 
 ridership (n): số lượng hành khách 
 onto (preposition): lên trên, hướng về 
+print (adj): 
 
 hiện tại hoàn thành + since + quá khứ đơn 
 despite 
