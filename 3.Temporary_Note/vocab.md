@@ -17,6 +17,7 @@ onto (preposition): lên trên, hướng về
 print (adj): 
 newly 
 partition (n): 
+suite 
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
