@@ -9,6 +9,5 @@ rant (v): cằn nhằn, xả giận
 firm (adj): vững chắc
 firm (n): công ty, hãng kinh doanh 
 ridership (n): số lượng hành khách 
-thus (adj): do đó 
-![[Pasted image 20261018161302.png|551]]
 
+hiện tại hoàn thành + since + quá khứ đơn 
