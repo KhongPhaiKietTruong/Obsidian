@@ -4,19 +4,19 @@
 - [[1.Work/Programming Languages/Python/Third-Party/OpenCV/Attribute/shape|shape]] - Kích thước, hình dạng của ảnh (đối với ảnh màu: chiều cao, chiều rộng, số kênh màu; đối với ảnh xám: chiều cao, chiều rộng)
 
 ## 2. Đọc, Ghi & Hiển thị ảnh (IO Operations)
-- [[imread()|imread()]] - Đọc ảnh từ file đường dẫn (mặc định dạng BGR) và trả về ma trận NumPy
-- [[imshow()|imshow()]] - Hiển thị ảnh ra cửa sổ riêng biệt
-- [[imwrite()|imwrite()]] - Lưu ma trận ảnh thành file ảnh tại đường dẫn chỉ định
+- [[cv2.imread()|imread()]] - Đọc ảnh từ file đường dẫn (mặc định dạng BGR) và trả về ma trận NumPy
+- [[cv2.imshow()|imshow()]] - Hiển thị ảnh ra cửa sổ riêng biệt
+- [[cv2.imwrite()|imwrite()]] - Lưu ma trận ảnh thành file ảnh tại đường dẫn chỉ định
 - [[waitKey()|waitKey()]] - Tạm dừng chương trình và chờ người dùng nhập phím (đơn vị miligiây)
 
 ## 3. Biến đổi Hình học (Geometric Transformations)
-- [[1.Work/Programming Languages/Python/Third-Party/OpenCV/Method/resize()|resize()]] - Thay đổi kích thước ảnh (bằng dsize hoặc hệ số tỉ lệ fx, fy)
+- [[cv2.resize()|cv2]] - Thay đổi kích thước ảnh (bằng dsize hoặc hệ số tỉ lệ fx, fy)
 - [[flip()|flip()]] - Lật ảnh theo chiều dọc, chiều ngang hoặc cả hai
 - [[getRotationMatrix2D()|getRotationMatrix2D()]] - Tính toán ma trận biến đổi 2D dùng để xoay ảnh
 - [[warpAffine()|warpAffine()]] - Áp dụng phép biến đổi Affine để dịch chuyển hoặc xoay ảnh từ ma trận biến đổi
 
 ## 4. Xử lý Không gian màu & Kênh màu (Color Space & Channels)
-- [[cvtColor()|cvtColor()]] - Chuyển đổi không gian màu của ảnh (ví dụ BGR sang Grayscale, HSV, v.v.)
+- [[cv2.cvtColor()|cvtColor()]] - Chuyển đổi không gian màu của ảnh (ví dụ BGR sang Grayscale, HSV, v.v.)
 - [[split()|split()]] - Tách ảnh màu (BGR) thành các kênh màu đơn lẻ (Blue, Green, Red)
 - [[merge()|merge()]] - Gộp các kênh màu đơn lẻ thành một ảnh màu hoàn chỉnh
 
