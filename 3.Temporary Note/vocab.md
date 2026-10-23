@@ -28,6 +28,7 @@ pickup (n):
 assembly (adj): 
 despite 
 reinvent 
+suite (n): 
 
 
 hiện tại hoàn thành + since + quá khứ đơn 
