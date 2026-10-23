@@ -12,5 +12,5 @@ tính từ đứng trước trạng từ ? (competitive monthly rate)
 
 hiện tại hoàn thành + since + quá khứ đơn 
 despite 
-those vs whoever 
+those vs whoever j
 tính từ đứng trước trạng từ ? (competitive monthly rate)
