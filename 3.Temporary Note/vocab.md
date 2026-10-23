@@ -24,7 +24,6 @@ well before
 offer (v): đề nghị, trao cho, trả giá 
 offer (n): lời đề nghị, chương trình ưu đãi 
 handover (n): sự bàn giao 
-pickup (n): 
 assembly (adj): 
 despite 
 reinvent 
