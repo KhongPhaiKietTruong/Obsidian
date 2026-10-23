@@ -4,3 +4,4 @@ balanced sampler
 weighted cross-entropy / focal loss 
 attention pooling 
 swin transformer 
+transformer encoder 
