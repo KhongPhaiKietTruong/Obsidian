@@ -1,1 +1,1 @@
-dùng để khai báo lớp relu 
+dùng để khai báo lớp [[Activations]] relu 
