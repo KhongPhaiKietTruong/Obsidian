@@ -1,13 +1,20 @@
 
 
-## Bật pin_memory trong data_loader 
+## Cải tiến DataLoader 
+### Bật pin_memory trong DataLoader  
 thêm tham số "pin_memory=True" trong dòng code tạo DataLoader, tham số này 
+### Bật persistent_workers trong DataLoader 
+thêm tham số "persisten_workers=True"
+### Bật prefetch_factor 
+thêm tham số "prefetch_factor = 2"
 ## Bật non_blocking trong Tensor.to()
 thêm tham số "non_blocking=True" trong dòng code chuyển tensor từ cpu sang gpu để giúp việc này có thể diễn ra bất đồng bộ (song song), tăng tốc độ train và inference 
 ## AMP (Automatic Mixed Precision)
 dùng để tăng tốc độ train và inference 
-## Bật torch.compile 
+## Bật torch.compile()  
 thêm một dòng đằng sau khởi tạo model: "model = torch.compile(model)", dòng này giúp giảm thời gian train, tăng tốc inference 
+
+##
 ### áp dụng trong function epoch_step:
 ở phần **forward pass** và tính **loss**: (áp dụng phần forward pass tương tự cho val loop)
 ```python
