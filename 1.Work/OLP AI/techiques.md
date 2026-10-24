@@ -1,5 +1,6 @@
 
 ## Bật pin_memory trong data_loader 
+thêm tham số "pin_memory=True" trong dòng code tạo DataLoader, tham số này 
 ## Bật non_blocking trong to() 
 ## AMP (Automatic Mixed Precision)
 dùng để tăng tốc độ train và inference 
