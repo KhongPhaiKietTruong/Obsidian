@@ -1,0 +1,1 @@
+là cải tiến của [[Mean Pooling]] (xem tất cả [[Activations In RNN (Hidden State)]] là quan trọng bằng nhau) thì loại pooling này áp dụng cơ chế attention vào để xác định những hidden state nào mới là quan trọng 

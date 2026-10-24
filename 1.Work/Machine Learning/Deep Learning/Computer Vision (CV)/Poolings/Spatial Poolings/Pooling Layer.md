@@ -3,7 +3,7 @@ Pooling Layer là một [[Layer]] dùng để giảm [[Spatial Size]] của [[Ou
 cách hoạt động cũng gần giống như [[Filter]] khi mà ta có một ma trận trượt
 
 tùy vào loại pooling mà ta áp dụng hành động tương ứng lên cái vùng trong ma trận trượt đó 
-(tham khảo [[Max Pooling]] và [[Average Pooling]])
+(tham khảo [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Poolings/Spatial Poolings/Max Pooling]] và [[Average Pooling]])
 ![[Pasted image 20260916161334.png|477]]
 các hypterparameter trong lớp pooling không được học bằng [[Gradient Descent]] mà là do ta tự định nghĩa, các hyperparameter gồm:
 - pool size: kích thước của ma trận pool 

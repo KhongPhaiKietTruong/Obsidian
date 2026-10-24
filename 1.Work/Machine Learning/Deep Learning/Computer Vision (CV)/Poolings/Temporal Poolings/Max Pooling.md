@@ -1,0 +1,1 @@
+lấy giá trị lớn nhất tại mỗi chiều của tất cả vector [[Activations In RNN (Hidden State)]] 

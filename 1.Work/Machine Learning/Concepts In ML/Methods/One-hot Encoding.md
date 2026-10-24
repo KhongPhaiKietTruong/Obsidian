@@ -5,3 +5,4 @@ ví dụ: đặc trưng giới tính có thể nhận hai giá trị là 'male' 
 ## Nhược Điểm 
 - bùng nổ chiều dữ liệu khi feature có quá nhiều giá trị 
 - các mô hình dạng cây hoạt động rất tệ trên đặc trưng bị chuẩn hóa one-hot encoding  
+- dễ khiến mô hình quá tự tin vào dự đoán (xem thêm ở [[Label Smoothing]])

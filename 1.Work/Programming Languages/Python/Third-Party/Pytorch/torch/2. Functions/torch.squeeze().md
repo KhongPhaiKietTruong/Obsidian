@@ -14,4 +14,4 @@ b.shape
 # outptut: torch.Size([3, 4, 6])
 ```
 
-squeeze(-1) sẽ xóa chiều không gian cuối cùng chiề
+squeeze(-1) sẽ xóa chiều không gian cuối cùng có chiều là 1 

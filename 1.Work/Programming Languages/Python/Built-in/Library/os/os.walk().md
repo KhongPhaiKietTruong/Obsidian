@@ -13,3 +13,7 @@ với:
 - dirpath là đường dẫn đang xét 
 - dirnames: một [[List]] tên của các folder nằm trong dirpath 
 - filenames: một list tên các file 
+
+
+> [!NOTE] notes
+> dirpath sẽ lấy toàn độ đường dẫn, ví dụ "/kaggle/input/datasets/kittrung/handrecognition/dataset/train/An ủi", ta có thể chỉ lấy tên nhãn bằng os.path.basename(dirpath)

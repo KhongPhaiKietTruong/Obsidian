@@ -32,7 +32,7 @@
 
 ## 5. Biến đổi Mảng (Array Manipulation)
 - [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/reshape()]] - Thay đổi hình dạng mảng
-- [[flatten()]] - Làm phẳng mảng thành 1 chiều
+- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/flatten()]] - Làm phẳng mảng thành 1 chiều
 - [[np.transpose()]] - InverseChuyển vị mảng
 - [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix| Inverse]] - Khái niệm/hình ảnh về ma trận chuyển vị
 - [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/repeat()]] - Lặp lại các phần tử của mảng

@@ -196,7 +196,7 @@
 			- [[np.clip()]]
 			- [[np.empty()]]
 			- [[np.eye()]]
-			- [[flatten()]]
+			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/flatten()]]
 			- [[np.full_like()]]
 			- [[np.full()]]
 			- [[np.hstack()]]

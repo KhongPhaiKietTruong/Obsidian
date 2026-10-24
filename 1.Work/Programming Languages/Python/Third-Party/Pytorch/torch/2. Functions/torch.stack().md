@@ -1,6 +1,6 @@
 ​[[Method]] này dùng để ghép các [[Tensor]] lại với nhau và tạo ra thêm một trục mới (tương tự với [[np.stack()]]): 
 ```python
-stack(list[tensor], dim)
+stack(list[tensor], dim=0)
 ```
 với:
 - dim là vị trí muốn tạo chiều mới

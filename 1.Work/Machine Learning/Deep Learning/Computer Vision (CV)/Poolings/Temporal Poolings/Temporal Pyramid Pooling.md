@@ -1,0 +1,1 @@
+thực hiện xử lí một chuỗi thời bằng một cấu trúc kim tự tháp, mỗi tầng trong kim tự tháp ta tự hiện chia chuỗi đó ra thành n chuỗi con, ta sẽ lấy pooling của từng chuỗi con đó  
