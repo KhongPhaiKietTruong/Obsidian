@@ -16,7 +16,7 @@ layer-wise learning rate
 backbone freezing (ở 1-2 epoch đầu)
 logit-adjustment 
 model checkpoint averaging 
-
+TPP là gì 
 ## Arcitecture 
 ### CNN 
 ConvNeXt, EfficientNet, 
