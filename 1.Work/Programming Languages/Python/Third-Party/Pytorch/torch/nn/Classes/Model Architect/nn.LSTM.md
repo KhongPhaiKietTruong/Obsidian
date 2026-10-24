@@ -12,5 +12,14 @@ với:
 - B là số lượng batch 
 - T là số lượng time step 
 - N là số chiều của vector đặc trưng 
-- rnn_out là tefnsor chứa các hidden state tại mỗi time step 
+- rnn_out là tensor chứa các hidden state tại mỗi time step của layer cuối cùng trong deep RNN 
 - $h_{n}$ là hidden state và $c_{n}$ là cell state (xem thêm ở [[LSTM Cell]]) 
+
+
+> [!NOTE] Notes
+> rnn_out có hình dạng (B, T, D * hidden_size) 
+> với:
+> - B: số lượng batch 
+> - T: số chiều của hidden state 
+> - D là số hướng (bidirectional=True/False) 
+> - D\*hidden_size: số chiều của vector hidden state 
