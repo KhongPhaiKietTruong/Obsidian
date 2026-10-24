@@ -12,5 +12,5 @@ với:
 - B là số lượng batch 
 - T là số lượng time step 
 - N là số chiều của vector đặc trưng 
-- rnn_out là tensor chứa các hidden state tại mỗi time step 
+- rnn_out là tefnsor chứa các hidden state tại mỗi time step 
 - $h_{n}$ là hidden state và $c_{n}$ là cell state (xem thêm ở [[LSTM Cell]]) 
