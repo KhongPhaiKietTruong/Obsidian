@@ -16,10 +16,10 @@ với:
 - $h_{n}$ là hidden state và $c_{n}$ là cell state (xem thêm ở [[LSTM Cell]]) 
 
 
-> [!NOTE] Notes
+> [!NOTE] 
 > rnn_out có hình dạng (B, T, D * hidden_size) 
 > với:
-> - B: số lượng batch 
-> - T: số chiều của hidden state 
+> - B: kích thước batch 
+> - T: số lượng time step 
 > - D là số hướng (bidirectional=True/False) 
 > - D\*hidden_size: số chiều của vector hidden state 
