@@ -1,4 +1,4 @@
-dùng để chuyển từ một mảng numpy sang một tensor
+dùng để chuyển từ một mảng numpy sang một [[Tensor]]
 ```python 
 a = np.random.random_sample((2, 3))
 b = torch.from_numpy(a)
