@@ -11,6 +11,7 @@ với:
 - $\beta$ sẽ quy định [[Mean value (Giá Trị Trung Bình)]], giá trị này cũng khiến [[Bias]] trở nên "thừa" do khi chuẩn hóa Z-score thì ta trừ [[Pre-activation Value]] cho giá trị trung bình rồi, khi đó $\beta$ sẽ thay thế bias trở thành bias mới 
 ## Đặc Điểm 
 - thường được sử dụng trước [[Activation Layer]] 
+## Tác Dụng 
 - tạo ra hiệu ứng [[Regularization]] nhẹ do có nhiễu từ việc tính mean và [[Variance (Phương Sai)]] từ mini-batch 
 ## Nhược Điểm
 - rất phụ thuộc vào kích thước của batch (khi batch size nhỏ thì lượng nhiễu sẽ rất lớn)
