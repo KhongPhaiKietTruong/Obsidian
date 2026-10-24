@@ -3,3 +3,4 @@ tham khảo [[Inverted Drop Out]]
 nn.Dropout(drop_rate)
 ```
 với:
+- drop_rate là tỉ lệ drop một [[Neuron]]
