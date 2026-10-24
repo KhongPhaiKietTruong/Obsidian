@@ -1,4 +1,5 @@
 tham khảo [[Inverted Drop Out]] 
 ```python
-nn.Dropout()
+nn.Dropout(drop_rate)
 ```
+với:
