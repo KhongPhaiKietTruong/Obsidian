@@ -13,8 +13,8 @@ thêm tham số "non_blocking=True" trong dòng code chuyển tensor từ cpu sa
 dùng để tăng tốc độ train và inference 
 ## Bật torch.compile()  
 thêm một dòng đằng sau khởi tạo model: "model = torch.compile(model)", dòng này giúp giảm thời gian train, tăng tốc inference 
-
-##
+## Bật set_to_none trong optimzier.zero_grad 
+"optimizer.zero(set_to_none=True)"
 ### áp dụng trong function epoch_step:
 ở phần **forward pass** và tính **loss**: (áp dụng phần forward pass tương tự cho val loop)
 ```python
