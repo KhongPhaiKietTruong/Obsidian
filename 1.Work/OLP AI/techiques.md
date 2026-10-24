@@ -1,7 +1,7 @@
 
 ## Bật pin_memory trong data_loader 
 ## Bật non_blocking trong to() 
-## AMP 
+## AMP (Automatic Mixed Precision)
 dùng để tăng tốc độ train và inference 
 ### áp dụng trong function epoch_step:
 ở phần **forward pass** và tính **loss**: (áp dụng phần forward pass tương tự cho val loop)
