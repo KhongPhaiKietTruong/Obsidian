@@ -20,5 +20,5 @@ ta sẽ học để F(x)=0, từ đó ta có được hàm đồng nhất H(x)=x
 - giúp ta train được mạng neural rất sâu do đường đi của input "nhảy cóc" mà không phải đi qua tất cả layer nên việc tính gradient của nó sẽ hiệu quả hơn và còn giảm [[Vanishing Gradient]] nữa 
 
 ## Sử dụng 
-Resnet50 thường là mô hình phổ biến nhất để làm [[1.Work/Machine Learning/Concepts In ML/Model Architecture/Backbone]] trong các bài toán CV
+Resnet50 thường là mô hình phổ biến nhất để làm [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Backbone]] trong các bài toán CV
 ![[Pasted image 20260924001411.png]]

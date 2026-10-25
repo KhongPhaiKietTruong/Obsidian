@@ -85,3 +85,38 @@ tpp = torch.cat([T.adaptive_average_pool1d(rnn_out, level) for level in [1, 2, 4
 ### Lấy mẫu có trọng số (WeightedRandomSampler trong DataLoader)
 ### Phạt có trọng số (Class-Weighted Loss) 
 tính trọng số cho mỗi lớp (phạt nặng hơn nếu đoán sai mẫu nằm trong lớp có ít mẫu)
+```python
+​ from sklearn.utils.class_weight import compute_class_weight 
+weights = compute_class_weight(
+  class_weight='balanced',
+  classes=np.arange(NUM_CLASSES),
+  y=train_labels
+)
+
+loss_fn = torch.nn.CrossEntropyLoss(weight=weights.to(device))
+
+```
+
+## 11. Áp dụng Stratified Split 
+```python
+train_indices, val_indices = train_test_split(                               
+        list(range(len(full_train))),                                        
+        test_size=0.2,                                                       
+        random_state=42,                                                     
+        stratify=full_train.label_idx                                        
+    )                                                                        
+    train_dataset = Subset(full_train, train_indices)                        
+    val_dataset = Subset(full_train, val_indices) 
+```
+
+## 12. Tăng cường dữ liệu 
+tạo 2 object từ cùng một class Dataset, xong gán 2 thằng đó vào 2 class Subset riêng biệt 
+```python
+full_train = Dataset(...)
+full_val = Dataset(...)
+
+train_indices, val_indices = train_test_split(...)
+
+train_dataset = Subset(full_train, train_indices)
+val_dataset = Subset(full_val, val_indices)
+```

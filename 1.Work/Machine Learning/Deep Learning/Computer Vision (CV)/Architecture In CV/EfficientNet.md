@@ -5,6 +5,6 @@ Loại kiến trúc này giúp chúng ta có thể kiểm soát độ lớn/nh�
 ## Nhược Điểm 
 - train chậm hơn so với [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Architecture In CV/Resnet/ResNet]] mặc dù số lượng tham số bé hơn nhiều 
 ## Công Dụng 
-- thường dùng làm [[1.Work/Machine Learning/Concepts In ML/Model Architecture/Backbone]] trong dạng bài phân loại và phân vùng 
+- thường dùng làm [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Backbone]] trong dạng bài phân loại và phân vùng 
 - tăng độ chính xác mà không làm tăng chi phí tính toán quá nhiều 
 - được sử dụng trên điện thoại, edge device 

@@ -13,7 +13,7 @@ for epoch in range(epochs):
 ​	​	...
 ```
 với các tham số:
-- với dataset_object là một [[1.Work/OOP/Theory/Object|Object]] có thể lấy từ các nguồn như output của [[ImageFolder]], ... 
+- với dataset_object là [[torch.utils.data.Dataset]] hoặc các class con của nó (như [[torch.utils.data.Subset]])
 - shuffle: xáo trộn các mẫu trước khi tạo các batch 
 - pin_memory: bật tham số này giúp việc đem Tensor/Model qua GPU nhanh hơn, giúp việc training nhanh (xem thêm ở [[huấn luyện model trên gpu]])
 

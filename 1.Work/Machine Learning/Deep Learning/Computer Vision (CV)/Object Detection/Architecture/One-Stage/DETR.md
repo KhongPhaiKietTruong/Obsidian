@@ -1,7 +1,7 @@
 viết tắt của: Detection Transformer 
 ## Định Nghĩa 
 gồm các thành phần:
-- [[1.Work/Machine Learning/Concepts In ML/Model Architecture/Backbone]] 
+- [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Backbone]] 
 - Transformer [[Encoder]]
 - Transformer [[Decoder]] 
 - Prediction Head k
