@@ -71,6 +71,7 @@ nn.LSTM(..., bidirectional=True, ...)
 
 ## 9. Áp dụng temporal pooling 
 ### Áp dụng mean/max pooling 
+
 ### Áp dụng TPP (temporal pyramid pooling)
 ```python
 import torch.nn.functional as T
