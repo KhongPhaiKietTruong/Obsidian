@@ -8,16 +8,19 @@ thêm tham số "persisten_workers=True"
 thêm tham số "prefetch_factor = 2"
 ## 2. Bật non_blocking trong Tensor.to()
 thêm tham số "non_blocking=True" trong dòng code chuyển tensor từ cpu sang gpu để giúp việc này có thể diễn ra bất đồng bộ (song song), tăng tốc độ train và inference 
-## 3. AMP (Automatic Mixed Precision)
-dùng để tăng tốc độ train và inference 
-## 4. Bật torch.compile()  
+## 3. Bật torch.compile()  
 thêm một dòng đằng sau khởi tạo model, dòng này giúp giảm thời gian train, tăng tốc inference 
 ```python
 model = MyModel()
 model = torch.compile(model)
 ```
-## 5. Bật set_to_none trong optimzier.zero_grad 
+## 4. Bật set_to_none trong optimzier.zero_grad 
 "optimizer.zero(set_to_none=True)"
+## 5. AMP (Automatic Mixed Precision)
+dùng để tăng tốc độ train và inference 
+```
+
+```
 ### áp dụng trong function epoch_step:
 ở phần **forward pass** và tính **loss**: (áp dụng phần forward pass tương tự cho val loop)
 ```python
