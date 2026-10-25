@@ -1,5 +1,4 @@
 
-
 ## 1. Cải tiến DataLoader 
 ### Bật pin_memory trong DataLoader  
 thêm tham số "pin_memory=True"
@@ -72,6 +71,7 @@ nn.LSTM(..., bidirectional=True, ...)
 ```
 
 ## 9. Áp dụng temporal pooling 
+### Áp dụng mean/max pooling 
 ### Áp dụng TPP (temporal pyramid pooling)
 ```python
 import torch.nn.functional as T
