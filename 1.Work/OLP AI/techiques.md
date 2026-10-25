@@ -15,12 +15,8 @@ model = MyModel()
 model = torch.compile(model)
 ```
 ## 4. Bật set_to_none trong optimzier.zero_grad 
-"optimizer.zero(set_to_none=True)"
+"optimizer.zero_grad(set_to_none=True)"
 ## 5. AMP (Automatic Mixed Precision)
-dùng để tăng tốc độ train và inference 
-```
-
-```
 ### áp dụng trong function epoch_step:
 ở phần **forward pass** và tính **loss**: (áp dụng phần forward pass tương tự cho val loop)
 ```python
