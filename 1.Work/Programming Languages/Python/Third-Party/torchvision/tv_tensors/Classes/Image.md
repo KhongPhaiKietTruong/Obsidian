@@ -1,0 +1,1 @@
+là một class đại diện cho ảnh 
