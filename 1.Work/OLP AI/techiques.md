@@ -83,6 +83,7 @@ tpp = torch.cat([T.adaptive_average_pool1d(rnn_out, level) for level in [1, 2, 4
 
 ## 10. Xử lí mất cân bằng 
 ### Lấy mẫu có trọng số (WeightedRandomSampler trong DataLoader)
+... 
 ### Phạt có trọng số (Class-Weighted Loss) 
 tính trọng số cho mỗi lớp (phạt nặng hơn nếu đoán sai mẫu nằm trong lớp có ít mẫu)
 ```python
