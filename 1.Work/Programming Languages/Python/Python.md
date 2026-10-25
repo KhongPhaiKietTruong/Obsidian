@@ -409,7 +409,7 @@
 							- [[torch.utils.data.Dataset]]
 							- [[torch.utils.data.ImageFolder]]
 							- [[torch.utils.data.TensorDataset]]
-						- [[DataLoader]]
+						- [[torch.utils.data.DataLoader]]
 	- **Scikit-learn**
 		- **1.Concepts**
 			- [[Estimator]]

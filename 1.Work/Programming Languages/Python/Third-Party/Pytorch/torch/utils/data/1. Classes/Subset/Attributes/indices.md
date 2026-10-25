@@ -1,0 +1,1 @@
+một mảng chứa các chỉ số vị trí của từng mẫu được chọn nằm trong [[torch.utils.data.Subset]] hiện tại 

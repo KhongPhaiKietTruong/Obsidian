@@ -1,0 +1,1 @@
+trỏ ngược về thằng [[torch.utils.data.Dataset]] cha của thằng [[torch.utils.data.Subset]] hiện tại 

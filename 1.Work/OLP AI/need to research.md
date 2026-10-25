@@ -9,9 +9,9 @@ DeiT
 label smoothing 
 test-time augmentation 
 AdamW + CosineAnnealingLR
-Tăng tốc độ bằng Mixed Precision (AMP)
+~~Tăng tốc độ bằng Mixed Precision (AMP)~~ 
+~~temporal poolings~~
 ensemble architecture 
-temporal attention pooling 
 layer-wise learning rate 
 backbone freezing (ở 1-2 epoch đầu)
 logit-adjustment 
