@@ -1,2 +1,1 @@
-
-...
+là kĩ thuật lấy các mẫu với xác suất khác nhau thay vì xác suất đều, có thể hoàn lại hoặc không 
