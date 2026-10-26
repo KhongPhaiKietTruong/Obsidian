@@ -5,7 +5,7 @@ random_split(dataset, lengths, generator)
 ```
 với:
 - dataset là [[torch.utils.data.Dataset]] hoặc một [[List]], ... 
-- lengths: số lượng hoặc tỉ lệ mỗi tập 
+- lengths: một list chứa số lượng hoặc tỉ lệ mỗi tập 
 - generator: dùng để cố định seed 
 ví dụ:
 ```python
