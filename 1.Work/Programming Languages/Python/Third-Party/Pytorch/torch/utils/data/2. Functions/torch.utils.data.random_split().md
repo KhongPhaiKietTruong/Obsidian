@@ -1,4 +1,4 @@
-làm một hàm dùng để chia một [[torch.utils.data.Dataset]] thành các [[torch.utils.data.Subset]] không chứa mẫu trùng lặp 
+làm một hàm dùng để chia [[torch.utils.data.Dataset]] và trả về các [[torch.utils.data.Subset]] không chứa mẫu trùng lặp 
 cú pháp:
 ```python
 random_split(dataset, lengths, generator)
