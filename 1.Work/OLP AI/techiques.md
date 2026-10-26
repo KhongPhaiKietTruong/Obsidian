@@ -60,6 +60,7 @@ loss_fn = nn.CrossEntropyLoss(label_smoothing=0.1)
 ## 7. Gradient Clipping 
 áp dụng bằng cách thêm một dòng để giới hạn gradient lại trước khi thực hiện update (.step)
 ```python
+scaler.unscale(optimizer)
 torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 ```
 

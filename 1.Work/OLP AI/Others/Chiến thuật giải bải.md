@@ -2,4 +2,4 @@
 2. thêm model = torch.compile(model)
 3. thêm non_blocking=True vào to()
 4. thêm AMP 
-5. 
+5. thêm data augmentation 
