@@ -15,7 +15,7 @@ attest (v): công chứng, chứng thực
 scrap (v): hủy bỏ 
 scrap (n): mẫu nhỏ 
 spiral (n): hình xoắn ốc 
-
+surgical (adj): chính xác 
 
 hiện tại hoàn thành + since + quá khứ đơn 
 despite 
