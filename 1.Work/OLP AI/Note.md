@@ -1,4 +1,5 @@
 - Tensor biểu diễn ảnh có dạng (B, C, H, W) 
-- OpenCV mặc định làm việc với (W, H, C)
+- OpenCV mặc định làm việc với ảnh theo quy ước (W, H, C)
+- Numpy/PIL làm việc với ảnh theo quy ước (H, W, C)
 - khi augment, cần phải augment khi cả train lẫn cả test (lúc test thì không biến đổi ngẫu nhiên, mà chỉ đưa dữ liệu về cùng dạng với lúc train)
 - khi dữ liệu đầu vào khi thực hiện augment phải đúng định dạng (B, C, H, W) của pytorch 
