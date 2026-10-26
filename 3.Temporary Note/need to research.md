@@ -19,8 +19,6 @@
 - [x] mô hình BERT, GPT 
 - [ ] KV Cache
 - [ ] Paddle OCR  
-- [ ] AWS Certified AI practitioner (AIF-C01)
-- [ ] MLA-C02
 - [x] decoupled learning rate ? 
 - [x] adaGrad 
 - [x] batch norm vs layer norm 
@@ -48,3 +46,7 @@
 - [ ] Group Batch 
 - [ ] SE Block 
 - [ ] FPN 
+
+- [ ] AWS Certified AI practitioner (AIF-C01)
+- [ ] MLA-C02
+- [ ] Mermaid 
