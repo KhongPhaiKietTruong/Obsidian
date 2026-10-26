@@ -5,4 +5,4 @@ KNN là một thuật toán mà ta dự đoán nhãn / giá trị của một m�
 ## Nhược Điểm 
 - gần như bắt buộc phải thực hiện [[Normalization]] 
 ## Sử Dụng
-có thể dùng trong cả hai dạng bài là [[1.Work/Machine Learning/Supervised Learning/Regression/Concepts/Regression|Regression]] và [[Classification]] 
+có thể dùng trong cả hai dạng bài là [[1.Work/Machine Learning/Supervised Learning/Regression/Concepts/Regression|Regression]] và [[1.Work/Machine Learning/Concepts In ML/Type Of Tasks In ML/Classification/Classification]] 

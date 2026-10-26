@@ -1,6 +1,6 @@
 dịch: hồi quy logistic
 ## Định Nghĩa 
-là thuật toán phổ biến dùng trong dạng bài [[Classification]], output của nó là xác suất của các nhãn 
+là thuật toán phổ biến dùng trong dạng bài [[1.Work/Machine Learning/Concepts In ML/Type Of Tasks In ML/Classification/Classification]], output của nó là xác suất của các nhãn 
 [[Hypothesis]] của logistic regression sẽ có dạng như sau:
 $$
 f_{\vec{w}, b}(\vec{x})=\frac{1}{1+e^{-(\vec{w}\vec{x}+b)}}
