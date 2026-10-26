@@ -16,6 +16,7 @@ scrap (v): hủy bỏ
 scrap (n): mẫu nhỏ 
 spiral (n): hình xoắn ốc 
 surgical (adj): chính xác 
+pushback (n): sự phản đối 
 
 hiện tại hoàn thành + since + quá khứ đơn 
 despite 
