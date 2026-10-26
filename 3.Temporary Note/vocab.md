@@ -17,6 +17,7 @@ scrap (n): mẫu nhỏ
 spiral (n): hình xoắn ốc 
 surgical (adj): chính xác 
 pushback (n): sự phản đối 
+squash (v): đè bẹp, nhồi nhét 
 
 hiện tại hoàn thành + since + quá khứ đơn 
 despite 
