@@ -4,4 +4,9 @@ thêm một dòng đằng sau khởi tạo model
 model = MyModel(...)
 model = torch.compile(model)
 ```
-lưu ý: khi thực hiện kĩ thuật này phải thực hiện unwrap trước khi save mô hình 
+
+khi sử đụng hàm này, pytorch bọc model trong một wrapper nên khi thực hiện lưu model, ta phải thực hiện lấy model gốc chưa bị bọc lại:
+```python
+raw_model = getattr(model, '_orig_mod', model) # lay lai model goc 
+torch.save(raw_model.state_dict(), save_path)
+```
