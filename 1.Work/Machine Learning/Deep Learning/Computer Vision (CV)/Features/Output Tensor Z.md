@@ -2,9 +2,9 @@ tên khác: feature tensor
 
 Output Tensor là [[Tensor]] mà được ghép từ nhiều ma trận [[Feature Map F]] lại 
 
-kích thước của output tensor sẽ là $(m, n_{h}^{[l]}, n_{w}^{[l]}, n_c^{[l]})$
+kích thước của output tensor sẽ là $(B, C, H, W)$
 với:
-- m: số mẫu trong batch 
-- $n_{h}$: chiều cao feature map
-- $n_{w}$: chiều rộng feature map
-- $n_{c}$: là số lượng channel (số [[Filter]] của lớp hiện tại)
+- B: số mẫu trong batch 
+- C: là số lượng channel (số [[Filter]] của lớp hiện tại)
+- H: chiều cao feature map
+- W: chiều rộng feature map
