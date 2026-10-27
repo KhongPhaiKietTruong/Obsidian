@@ -54,5 +54,6 @@ F1-score trên tập dữ liệu test tương ứng được sử dụng làm F1
 
 Điểm cuối cùng trên bảng xếp hạng thể hiện phần trăm mức độ cải thiện mô hình so với baseline và được tính theo công thức:
 
+danh sách các thư viện được sử dụng: pandas, numpy, scipy, csv, json, pickle, opencv-python, Pillow, torchvision, scikit-image, joblib, datasets, evaluate, os, sys, re, itertools, collections, time, pdb, pytorch-lightning, tensorboard, tqdm
 
-
+không được sử dụng pretrain_weights 
