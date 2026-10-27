@@ -108,8 +108,8 @@ train_indices, val_indices = train_test_split(
         random_state=42,                                                     
         stratify=full_train.label_idx                                        
     )                                                                        
-    train_dataset = Subset(full_train, train_indices)                        
-    val_dataset = Subset(full_train, val_indices) 
+train_dataset = Subset(full_train, train_indices)                        
+val_dataset = Subset(full_val, val_indices) 
 ```
 
 ## 12. Tăng cường dữ liệu 
