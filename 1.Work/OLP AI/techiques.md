@@ -14,6 +14,7 @@ thêm một dòng đằng sau khởi tạo model, dòng này giúp giảm thời
 model = MyModel()
 model = torch.compile(model)
 ```
+lưu ý: khi thực hiện kĩ thuật này phải thực hiện unwrap trước khi save mô hình 
 ## 4. Bật set_to_none trong optimzier.zero_grad 
 "optimizer.zero_grad(set_to_none=True)"
 ## 5. AMP (Automatic Mixed Precision)
