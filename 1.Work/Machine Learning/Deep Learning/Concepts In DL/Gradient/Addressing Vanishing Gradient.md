@@ -5,7 +5,7 @@ các [[Activations]] như [[Sigmoid]] hay [[Tanh]] rất dễ gây ra [[Vanishin
 [[He Initialization]], [[Xavier Initialization]] 
 
 ## Dùng kĩ thuật chuẩn hóa 
-[[Batch Norm]], [[Layer Norm]] 
+[[1.Work/Machine Learning/Deep Learning/Concepts In DL/Normalization/Activation Normalization/Batch Norm]], [[Layer Norm]] 
 
 ## Thiết kế kiến trúc mạng 
 - sử dụng [[Skip Connection]] như [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Architecture In CV/Resnet/ResNet]] 

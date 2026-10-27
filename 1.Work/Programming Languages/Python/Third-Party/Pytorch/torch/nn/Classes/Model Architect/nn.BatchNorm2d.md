@@ -1,4 +1,4 @@
-tham khảo thêm ở [[Batch Norm]]
+tham khảo thêm ở [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Normalization/Activation Normalization/Batch Norm]]
 ví dụ
 ```python
 # Giả sử đầu vào là batch 8 ảnh RGB kích thước 32x32: (N, C, H, W)
