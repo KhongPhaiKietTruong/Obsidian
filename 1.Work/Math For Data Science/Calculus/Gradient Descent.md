@@ -5,7 +5,7 @@ $$
 x(n+1) = x(n) - \alpha f'y(x)
 $$
 với:
-- a là [[Effective Learning Rate (Tốc Độ Học)]] 
+- a là [[Effective Learning Rate]] 
 - $f'(x)$ là độ dốc tại điểm đó
 
 > lí do mà ta nhảy theo độ dốc là để khi ở xa cực tiểu, ta sẽ nhảy một bước dài vì độ dốc cao, càng gần cực tiểu thì nhảy càng ngắn hơn
@@ -25,6 +25,6 @@ w &= w - \alpha \frac{ \partial J_{batch} }{ \partial w }  \\
 $$
  với:
  - B là kích thước của một batch 
-- $\alpha$ là [[Effective Learning Rate (Tốc Độ Học)]] 
+- $\alpha$ là [[Effective Learning Rate]] 
 - J là [[Cost Function]] 
 - $L_{i}$ là [[Loss Function]] của mẫu thứ i trong batch 
