@@ -1,5 +1,10 @@
+hàm này dùng để lấy ra giá trị [[Attribute]] của một [[1.Work/OOP/Theory/Object|Object]] 
 ```python
-getattr(obj, name)
+getattr(obj, name[, default])
 ```
-hàm này dùng để lấy ra [[Attribute]] của một [[1.Work/OOP/Theory/Object|Object]] nếu name là tên của thuộc tính, còn nếu name là tên của một [[Method]] thì hàm này trả về một [[1.Work/OOP/Theory/Class|Class]] tên là "method" 
+với:
+- obj: đối tượng 
+- name: tên thuộc tính 
+- default: giá trị trả về nếu thuộc tính đó không tồn tại 
+
 
