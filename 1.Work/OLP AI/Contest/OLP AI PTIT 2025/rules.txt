@@ -1,0 +1,58 @@
+PHÂN LOẠI BÃO
+1. Giới thiệu
+Xoáy thuận nhiệt đới (bão) là một trong những thảm họa thiên nhiên có sức tàn phá khủng khiếp, gây ra thiệt hại nặng nề về người và của. Khả năng dự báo chính xác cường độ bão là yếu tố then chốt trong công tác phòng chống, sơ tán và giảm thiểu tổn thất.
+
+Bài toán này tập trung vào việc xây dựng một mô hình học máy có khả năng xác định cường độ của xoáy thuận nhiệt đới dựa trên ảnh vệ tinh từ Himawari 8/9. Cường độ bão được phân loại thành 4 cấp độ chính (1, 2, 3, và 4).
+
+2. Dữ liệu
+Cấu trúc Thư mục
+Tác vụ được cung cấp kèm một tệp notebook mẫu là code baseline tham khảo. Tất cả được cung cấp tại Google Drive.
+
+Dữ liệu được tổ chức theo cấu trúc cây thư mục rõ ràng như sau:
+dataset/
+├── train/
+│   ├── images/           # Ảnh huấn luyện
+│   └── annotations.csv   # Nhãn cho tập huấn luyện
+├── public_test/
+│   └── images/           # Ảnh kiểm tra công khai
+└── private_test/
+    └── images/           # Ảnh kiểm tra riêng tư
+Mô tả annotations.csv
+Tệp này chứa nhãn cho tập huấn luyện, bao gồm các cột:
+
+file_name: Tên tệp ảnh.
+is_negative: TRUE nếu ảnh không chứa bão, FALSE nếu có bão.
+category_id: Cấp độ cường độ của bão (1, 2, 3, hoặc 4).
+
+
+3. Yêu cầu Nhiệm vụ
+Đầu vào: Đầu vào: Một ảnh vệ tinh có thể có bão hoặc ảnh không có bão.
+Đầu ra: Mô hình cần dự đoán hai thông tin:
+is_negative: Ảnh có chứa bão hay không.
+category_id: Nếu có bão, cường độ của bão là bao nhiêu.
+4. Định dạng Nộp bài
+Thí sinh cần nộp một tệp .zip chứa hai tệp public_cv.csv và private_cv.csv, tương ứng với kết quả dự đoán trên hai tập kiểm tra. Mỗi tệp phải tuân thủ định dạng sau:
+
+Cột bắt buộc: file_name, is_negative, category_id.
+Nếu is_negative là TRUE, giá trị category_id để trống.
+Ví dụ:
+
+file_name,is_negative,category_id
+201810280300_1826_ec69b3ac.jpg,FALSE,4
+201810280600_1826_a0ecedef.jpg,TRUE,
+csvSao chép
+5. Tiêu chí Đánh giá
+Định nghĩa
+Điểm số được tính dựa trên các chỉ số sau:
+
+True Positive (TP): Mô hình dự đoán đúng là có bão VÀ phân loại đúng cấp độ cường độ.
+True Negative (TN): Mô hình dự đoán đúng là không có bão.
+False Positive (FP): Ảnh thực tế không có bão, nhưng mô hình dự đoán là có bão.
+False Negative (FN): Ảnh thực tế có bão, nhưng mô hình dự đoán không có bão HOẶC phân loại sai cấp độ cường độ.
+
+F1-score trên tập dữ liệu test tương ứng được sử dụng làm F1-score của mô hình.
+
+Điểm cuối cùng trên bảng xếp hạng thể hiện phần trăm mức độ cải thiện mô hình so với baseline và được tính theo công thức:
+
+
+
