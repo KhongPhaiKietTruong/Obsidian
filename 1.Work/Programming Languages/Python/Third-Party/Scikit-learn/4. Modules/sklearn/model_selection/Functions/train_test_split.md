@@ -15,7 +15,7 @@ với:
 - y là các labels 
 - test_size: tỉ lệ mẫu chia cho [[Test Set]] 
 - random_state: cố định seed 
-- stratify: nhận vào mảng chứa nhãn của từng mẫu dữ liệu 
+- stratify: nhận vào mảng chứa nhãn của **từng** mẫu dữ liệu 
 
 > [!NOTE] 
 > X, y truyền vào như thế nào thì output của hàm train_test_split cũng tương tự vậy
