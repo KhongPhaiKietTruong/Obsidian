@@ -1,5 +1,5 @@
 ## Định Nghĩa 
-Label Smoothing là một kĩ thuật [[Regularization]] dùng trong bài toán [[1.Work/Machine Learning/Concepts In ML/Type Of Tasks In ML/Classification/Classification]] giúp mô hình không quá tự tin vào dự đoán của nó
+Label Smoothing là một kĩ thuật [[Regularization]] dùng trong bài toán [[1.Work/Machine Learning/Concepts In ML/Type Of Tasks In ML/Classification/Classification]] giúp mô hình không quá tự tin vào dự đoán của nó 
 
 dùng khắc phục hạn chế của [[One-hot Encoding]], giả sử nhãn của một mẫu là \[0, 1, 0] thì model phải đẩy $z_{2}$ lên rất cao ($+\infty$) so với các z khác để có được nhãn $\approx$ 1 khiến mô hình quá tự tin
 
