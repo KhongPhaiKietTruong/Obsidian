@@ -1,5 +1,4 @@
-dùng để chuyển một [[Series]] thành một [[List]]
+trả về một [[List]] được chuyển đổi từ [[Series]]
 ```python 
-df.index.to_list()
-
+Series.to_list()
 ```
