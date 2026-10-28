@@ -19,7 +19,7 @@ Chào mừng bạn đến với tài liệu hướng dẫn học và tra cứu t
 ### Xử lý & Biến đổi dữ liệu (Manipulation)
 * [[apply()]] - Áp dụng một hàm tự định nghĩa lên các hàng hoặc cột.
 * [[dropna()]] - Xóa các hàng hoặc cột có giá trị rỗng (NaN).
-* [[fillna()]] - Thay thế các giá trị rỗng (NaN) bằng giá trị chỉ định.
+* [[1.Work/Programming Languages/Python/Third-Party/Pandas/DataFrame/Method/Manipulation/fillna()]] - Thay thế các giá trị rỗng (NaN) bằng giá trị chỉ định.
 
 ### Thống kê & Thông tin (Stat & Info)
 * [[info()]] - Xem thông tin tổng quan về DataFrame.

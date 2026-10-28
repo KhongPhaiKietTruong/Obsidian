@@ -36,7 +36,7 @@
 - [[np.transpose()]] - InverseChuyển vị mảng
 - [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix| Inverse]] - Khái niệm/hình ảnh về ma trận chuyển vị
 - [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/repeat()]] - Lặp lại các phần tử của mảng
-- [[astype()]] - Chuyển đổi kiểu dữ liệu mảng
+- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/astype()]] - Chuyển đổi kiểu dữ liệu mảng
 - [[np.uint8]] - Kiểu dữ liệu số nguyên không dấu 8-bit
 
 ## 6. Liên kết & Tách mảng (Joining & Splitting)

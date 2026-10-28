@@ -192,7 +192,7 @@
 			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/argmax()]]
 			- [[argmin()]]
 			- [[np.array()]]
-			- [[astype()]]
+			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/astype()]]
 			- [[np.clip()]]
 			- [[np.empty()]]
 			- [[np.eye()]]
@@ -268,7 +268,7 @@
 				- **Manipulation**
 					- [[apply()]]
 					- [[dropna()]]
-					- [[fillna()]]
+					- [[1.Work/Programming Languages/Python/Third-Party/Pandas/DataFrame/Method/Manipulation/fillna()]]
 				- **Stat & Info**
 					- [[corr()]]
 					- [[describe()]]

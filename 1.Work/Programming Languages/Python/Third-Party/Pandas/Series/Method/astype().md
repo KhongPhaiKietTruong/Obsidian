@@ -1,0 +1,1 @@
+dùng để chuyển đối kiểu dữ liệu của tất cả giá trị trong [[Series]] 
