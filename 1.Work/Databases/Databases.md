@@ -22,7 +22,7 @@
 		- [[Constraint (Ràng Buộc)]]
 		- [[Entity Integrity (Toàn vẹn thực thể)]]
 		- [[Filegroup]]
-		- [[Index]]
+		- [[1.Work/Databases/Relational Database/Concepts/Index]]
 		- [[ODBC]]
 		- [[Primary Data File (.mdf)]]
 		- [[Records (Bảng ghi)]]
