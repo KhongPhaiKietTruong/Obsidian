@@ -33,7 +33,7 @@
 			- [[popitem()]]
 			- [[setdefault()]]
 			- [[tạo dictionary]]
-			- [[values]]
+			- [[1.Work/Programming Languages/Python/Built-in/Iterable/Dictionary/values]]
 		- **[[List]]**
 			- [[append()]]
 			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/clear()]]
