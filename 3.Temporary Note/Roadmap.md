@@ -1,18 +1,16 @@
 Both must have:
-- [ ] API
-	- [ ] RESTful APIs
-	- [ ] gRPC
-- [ ] Microservices
 
-AI:
-- [ ] speaking english
-- [x] math for ai
-- [x] maplotlib & seaborn
-- [x] machine learning (scikit-learn, XGBoost, LightGMB)
-- [x] pytorch
-- [x] deep learning
+- [ ] english 
+- [ ] math for ai 
+- [ ] python 
+- [ ] basic library (numpy, pandas, maplotlib)
+- [ ] machine learning (scikit-learn)
+- [ ] deep learning (pytorch)
+- [ ] Computer Vision & NLP 
 - [ ] Langchain, Llamandex, Hugging Face transformer
-- [ ] fine-tuning (LoRA, QLoRA, ...)
+- [ ] AI Agent 
+- [ ] fine-tuning model (LoRA, QLoRA, ...)
+- [ ] RAG 
 - [ ] MLOps
 	- [ ] vLLM, Triton 
 	- [ ] Docker, Kubernetes
@@ -22,6 +20,10 @@ Must have:
 - [ ] Typescript 
 - [ ] Docker
 - [ ] Cloud (AWS/Azure/GCP)
+- [ ] API
+	- [ ] RESTful APIs
+	- [ ] gRPC
+- [ ] Microservices
 Frontend:
 - HTML, Reactjs (React)
 Backend:
