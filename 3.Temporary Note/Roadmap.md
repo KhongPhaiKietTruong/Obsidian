@@ -1,4 +1,3 @@
-Both must have:
 
 - [ ] english 
 - [ ] math for ai 
@@ -7,13 +6,12 @@ Both must have:
 - [ ] machine learning (scikit-learn)
 - [ ] deep learning (pytorch)
 - [ ] Computer Vision & NLP 
-- [ ] Langchain, Llamandex, Hugging Face transformer
+- [ ] Hugging Face & Transformer 
+- [ ] RAG 
+- [ ] GenAI, LLM (Langchain, Llamandex, LangGraph)
 - [ ] AI Agent 
 - [ ] fine-tuning model (LoRA, QLoRA, ...)
-- [ ] RAG 
 - [ ] MLOps
-	- [ ] vLLM, Triton 
-	- [ ] Docker, Kubernetes
 
 SWE:
 Must have:
@@ -25,7 +23,7 @@ Must have:
 	- [ ] gRPC
 - [ ] Microservices
 Frontend:
-- HTML, Reactjs (React)
+- [ ]  HTML, Reactjs (React)
 Backend:
 - [ ] Nodejs (Express.js, Nest.js)
 - [ ] FastAPI 
