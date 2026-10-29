@@ -4,4 +4,4 @@
 - khi augment, cần phải augment khi cả train lẫn cả test (lúc test thì không biến đổi ngẫu nhiên, mà chỉ đưa dữ liệu về cùng dạng với lúc train)
 - dữ liệu đầu vào khi đưa vào  thực hiện augment phải đúng định dạng (B, C, H, W) của pytorch 
 - [[torch.utils.data.random_split()]] trả về [[torch.utils.data.Subset]]
-- 
+- lr của AdamW thường là 5e-4 đến 1e-3  
