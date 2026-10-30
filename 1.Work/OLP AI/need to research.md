@@ -1,7 +1,8 @@
 temporal head 
 temporal transformer 
 balanced sampler 
-~~weighted~~ cross-entropy / focal loss 
+~~weighted~~ 
+cross-entropy / focal loss 
 attention pooling 
 swin transformer 
 transformer encoder 
@@ -10,7 +11,7 @@ DeiT
 test-time augmentation 
 AdamW + CosineAnnealingLR
 ~~Tăng tốc độ bằng Mixed Precision (AMP)~~ 
-~~temporal poolings~~
+~~temporal poolings~~ 
 ensemble architecture 
 layer-wise learning rate 
 backbone freezing (ở 1-2 epoch đầu)
