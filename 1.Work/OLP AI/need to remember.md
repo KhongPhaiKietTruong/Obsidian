@@ -16,6 +16,7 @@ torch.mean()
 torch.max()
 torch.linspace()
 torch.cat() 
+torch.stack()
 torch.nn.functional.softmax  
 
 torchvision.tv_tensors.Image
