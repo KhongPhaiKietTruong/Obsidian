@@ -1,0 +1,1 @@
+dùng để đảo ngược một [[Tensor]]
