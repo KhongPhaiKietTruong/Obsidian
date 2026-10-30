@@ -1,0 +1,1 @@
+dùng để khởi tạo một BoundingBox (gán metadata cho tensor để cho biết rằng tensor đó là tọa độ bounding box và áp dụng các phép biến đổi phù hợp )
