@@ -29,5 +29,6 @@ next(iter(train_loader))
 sử dụng kiến trúc resnet
 đóng băng các layer 
 thay đổi layer cuối 
+resnet.children 
 
 
