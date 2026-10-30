@@ -22,3 +22,5 @@ torch.optim.lr_scheduler.ConsineAnnealingLR
 Tensor.permute 
 Tensor.view 
 
+next(iter(train_loader))
+
