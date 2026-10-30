@@ -1,4 +1,4 @@
-class này dùng để thực thi [[1.Work/Machine Learning/Concepts In ML/Hyperparameters/Learning Rate/Learning Rate Scheduler/CosineAnnealingLR|CosineAnnealingLR]] 
+oclass này dùng để thực thi [[1.Work/Machine Learning/Concepts In ML/Hyperparameters/Learning Rate/Learning Rate Scheduler/CosineAnnealingLR|CosineAnnealingLR]] 
 cú pháp:
 ```python
 from torch.optim.lr_scheduler import CosineAnnealingLR
