@@ -6,12 +6,17 @@ lí thuyết:
 - dữ liệu đầu vào khi đưa vào thực hiện augment phải đúng định dạng (B, C, H, W) của pytorch 
 - [[torch.utils.data.random_split()]] trả về [[torch.utils.data.Subset]]
 - lr của AdamW thường là 5e-4 đến 1e-3  và weight decay = 1e-3
-- nếu dùng torch.transforms, các thao tác tăng cường được thực hiện ngay trên PIL Image (trên shape (H, W, C)) còn nếu dùng torch.transforms.v2 thì các thao tác tăng cường phải được thực hiện trên (C, H, W)
+- nếu dùng torch.transforms, các thao tác tăng cường được thực hiện ngay trên PIL Image còn nếu dùng torch.transforms.v2 thì các thao tác tăng cường có thể thực hiện ngay trên PIL Image hoặc trên Tensor (với điều kiện là tensor đó phải đúng định dạng (.., C, H, W))
+
 torch.stack()
 torch.mean()
 torch.max()
 torch.linspace()
 torch.cat 
+
+torchvision.tv_tensors.Image
+torchvision.tv_tensors.BoundingBoxes 
+torchvision.tv_tensors.Mask 
 
 Tensor.permute 
 Tensor.view 
