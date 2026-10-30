@@ -10,6 +10,7 @@ DeiT
 ~~label smoothing~~ 
 test-time augmentation:
 - torch.flip
+Tensor.sigmoid()
 ~~AdamW + CosineAnnealingLR~~
 ~~Tăng tốc độ bằng Mixed Precision (AMP)~~ 
 ~~temporal poolings~~ 
