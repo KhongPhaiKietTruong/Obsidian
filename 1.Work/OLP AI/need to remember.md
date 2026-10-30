@@ -7,7 +7,7 @@ lí thuyết:
 - [[torch.utils.data.random_split()]] trả về [[torch.utils.data.Subset]]
 - lr của AdamW thường là 5e-4 đến 1e-3  và weight decay = 1e-3
 - nếu dùng torch.transforms, các thao tác tăng cường được thực hiện ngay trên PIL Image còn nếu dùng torch.transforms.v2 thì các thao tác tăng cường có thể thực hiện ngay trên PIL Image hoặc trên Tensor (với điều kiện là tensor đó phải đúng định dạng (.., C, H, W))
-- trong classification, ta có thể sử dụng ảnh với kích thước nhỏ (224, 224) nhưng ở task như detection và segmentation, ta cần kích thước ảnh lớn hơn 
+- trong classification, ta có thể sử dụng ảnh với kích thước nhỏ (224, 224) nhưng ở task như detection và segmentation, ta cần kích thước ảnh lớn hơn (là bội số của 32)
 
 torch.stack()
 torch.mean()
