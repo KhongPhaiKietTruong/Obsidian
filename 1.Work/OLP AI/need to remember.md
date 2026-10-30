@@ -27,6 +27,8 @@ Tensor.permute
 Tensor.view 
 Tensor.squeeze
 Tensor.unsqueeze 
+Tensor.max()
+Tensor.mean()
 
 next(iter(train_loader))
 
