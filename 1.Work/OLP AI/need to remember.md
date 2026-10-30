@@ -12,12 +12,13 @@ torch.stack()
 torch.mean()
 torch.max()
 torch.linspace()
-torch.cat 
+torch.cat() 
 
 torchvision.tv_tensors.Image
 torchvision.tv_tensors.BoundingBoxes 
 torchvision.tv_tensors.Mask 
 
+torch.optim.lr_scheduler.ConsineAnnealingLR 
 Tensor.permute 
 Tensor.view 
 
