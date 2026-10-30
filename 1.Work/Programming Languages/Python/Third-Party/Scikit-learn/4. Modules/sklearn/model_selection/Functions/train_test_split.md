@@ -7,7 +7,7 @@ X_train, X_test, y_train, y_test = train_test_split(
     test_size=0.2, 
     random_state=42, 
     shuffle=True, 
-    stratify=None
+    stratify=y
 )
 ```
 với:
@@ -18,5 +18,5 @@ với:
 - stratify: nhận vào mảng chứa nhãn của **từng** mẫu dữ liệu 
 
 > [!NOTE] 
-> X, y truyền vào như thế nào thì output của hàm train_test_split cũng tương tự vậy
+> X, y truyền vào là dạng dữ liệu gì thì output cho ra của hàm train_test_split cũng cho ra dạng như vậy 
 

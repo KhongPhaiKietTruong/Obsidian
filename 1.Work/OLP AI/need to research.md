@@ -3,13 +3,13 @@ temporal transformer
 balanced sampler 
 ~~weighted~~ 
 cross-entropy / focal loss 
-attention pooling 
+~~attention pooling~~ 
 swin transformer 
 transformer encoder 
 DeiT 
-~~label~~ smoothing 
+~~label smoothing~~ 
 test-time augmentation 
-AdamW + CosineAnnealingLR
+~~AdamW + CosineAnnealingLR~~
 ~~Tăng tốc độ bằng Mixed Precision (AMP)~~ 
 ~~temporal poolings~~ 
 ensemble architecture 
@@ -19,6 +19,8 @@ logit-adjustment
 model checkpoint averaging 
 ~~TPP là gì~~ 
 cutmix, mixup (collate_fn)
+
+.reset_index(drop=True)
 ## Arcitecture 
 ### CNN 
 ConvNeXt, EfficientNet, 

@@ -11,6 +11,7 @@ torch.stack()
 torch.mean()
 torch.max()
 torch.linspace()
+torch.cat 
 
 Tensor.permute 
 Tensor.view 
