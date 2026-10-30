@@ -25,3 +25,9 @@ Tensor.view
 
 next(iter(train_loader))
 
+### Template 
+sử dụng kiến trúc resnet
+đóng băng các layer 
+thay đổi layer cuối 
+
+
