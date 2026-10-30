@@ -8,7 +8,8 @@ swin transformer
 transformer encoder 
 DeiT 
 ~~label smoothing~~ 
-test-time augmentation 
+test-time augmentation:
+- torch.flip
 ~~AdamW + CosineAnnealingLR~~
 ~~Tăng tốc độ bằng Mixed Precision (AMP)~~ 
 ~~temporal poolings~~ 
