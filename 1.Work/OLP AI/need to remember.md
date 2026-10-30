@@ -10,6 +10,10 @@ lí thuyết:
 - trong classification, ta có thể sử dụng ảnh với kích thước nhỏ (224, 224) nhưng ở task như detection và segmentation, ta cần kích thước ảnh lớn hơn (là bội số của 32)
 
 chuyển PIL Image thành Tensor 
+mở ảnh bằng PIL, xem kích thước ảnh
+duyệt qua các ảnh trong một folder 
+
+sklearn.utils.class_weight.compute_class_weight 
 
 torch.stack()
 torch.mean()
