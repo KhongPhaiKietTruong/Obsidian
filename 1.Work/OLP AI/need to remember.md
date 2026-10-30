@@ -23,6 +23,8 @@ torchvision.tv_tensors.Mask
 torch.optim.lr_scheduler.ConsineAnnealingLR 
 Tensor.permute 
 Tensor.view 
+Tensor.squeeze
+Tensor.unsqueeze 
 
 next(iter(train_loader))
 
