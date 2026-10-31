@@ -49,6 +49,7 @@ sử dụng kiến trúc resnet và các kiến trúc khác
 thay đổi layer cuối 
 resnet.children() 
 xem số lượng mẫu trong training set 
+overfit trên một batch trước 
 ### Techniques 
 stratified split 
 GPU enhanced 
