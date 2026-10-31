@@ -40,6 +40,7 @@ Tensor.unsqueeze
 Tensor.max()
 Tensor.mean()
 Tensor.flatten()
+Tensor.numpy() 
 
 next(iter(train_loader))
 
