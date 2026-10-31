@@ -44,10 +44,11 @@ Tensor.flatten()
 next(iter(train_loader))
 
 ### Templates 
-sử dụng kiến trúc resnet
+sử dụng kiến trúc resnet và các kiến trúc khác
 đóng băng các layer 
 thay đổi layer cuối 
 resnet.children() 
+xem số lượng mẫu trong training set 
 ### Techniques 
 stratified split 
 GPU enhanced 
