@@ -50,3 +50,4 @@ thay đổi layer cuối
 resnet.children 
 ### Techniques 
 stratified split 
+
