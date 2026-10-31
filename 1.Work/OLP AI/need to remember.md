@@ -9,6 +9,8 @@ lí thuyết:
 - nếu dùng torch.transforms, các thao tác tăng cường được thực hiện ngay trên PIL Image còn nếu dùng torch.transforms.v2 thì các thao tác tăng cường có thể thực hiện ngay trên PIL Image hoặc trên Tensor (với điều kiện là tensor đó phải đúng định dạng (.., C, H, W))
 - trong classification, ta có thể sử dụng ảnh với kích thước nhỏ (224, 224) nhưng ở task như detection và segmentation, ta cần kích thước ảnh lớn hơn (là bội số của 32)
 
+channel attention -> image classification 
+spatial attention -> detection / segmentation 
 chuyển PIL Image thành Tensor 
 mở ảnh bằng PIL, xem kích thước ảnh
 duyệt qua các ảnh trong một folder 
