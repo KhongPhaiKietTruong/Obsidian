@@ -12,6 +12,8 @@ lí thuyết:
 channel attention -> image classification 
 spatial attention -> detection / segmentation 
 
+các class nằm trong module torch.nn: nn.Sigmoid()
+
 chuyển PIL Image thành Tensor 
 mở ảnh bằng PIL, xem kích thước ảnh
 duyệt qua các ảnh trong một folder 
@@ -37,6 +39,7 @@ Tensor.squeeze
 Tensor.unsqueeze 
 Tensor.max()
 Tensor.mean()
+Tensor.flatten()
 
 next(iter(train_loader))
 
