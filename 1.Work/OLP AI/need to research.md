@@ -21,7 +21,7 @@ logit-adjustment
 model checkpoint averaging 
 ~~TPP là gì~~ 
 cutmix, mixup (collate_fn)
-
+tìm hiểu cách dùng các model như convnext, shufflenet, ... 
 .reset_index(drop=True)
 ## Arcitecture 
 ### CNN 
