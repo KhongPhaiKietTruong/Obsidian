@@ -75,10 +75,10 @@
 		- **[[Tuple]]**
 			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/count()]]
 			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/index()]]
-			- [[nhân tuple]]
-			- [[nối tuple]]
-			- [[packing]]
-			- [[unpacking]]
+			- [[Nhân tuple]]
+			- [[Nối tuple]]
+			- [[Tuple Packing]]
+			- [[Tuple Unpacking]]
 	- **Library**
 		- **copy**
 			- [[1.Work/Programming Languages/Python/Built-in/Library/copy/deepcopy()]]
