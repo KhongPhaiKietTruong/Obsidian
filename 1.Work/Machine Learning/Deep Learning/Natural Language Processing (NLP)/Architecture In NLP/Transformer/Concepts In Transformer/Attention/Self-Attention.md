@@ -1,6 +1,6 @@
 kí hiệu: $A^{t}$ 
 
-Self-attention là trọng số attention của một [[Token]] đối với tất cả token trong cùng một chuỗi ba gồm cả chính nó, cơ chế này cho phép một token "nhìn" với các token khác 
+Self-attention là trọng số attention của một [[Token]] đối với tất cả token trong cùng một chuỗi bao gồm cả chính nó, cơ chế này cho phép một token "nhìn" với các token khác 
 ví dụ:
 "The cat didn’t cross the street because it was tired.”
 khi xử lí "it", model sẽ gán trọng số attention cao cho "cat" vì hai từ này liên quan đến nhau 
