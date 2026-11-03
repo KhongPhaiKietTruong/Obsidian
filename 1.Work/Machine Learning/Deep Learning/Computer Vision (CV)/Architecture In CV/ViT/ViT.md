@@ -13,6 +13,5 @@ ViT là một kiến trúc model dựa trên [[Transformer]] (vốn dành cho v�
 - nắm bắt được thông tin toàn cảnh ngay từ đầu 
 ## Công Dụng
 - dùng trong tác vụ phân loại bằng cách lấy ra [[Special Token]] và truyền vào một [[Fully Connected Layer (FC)]] có out_features là số lớp ảnh 
-- Nhận Diện
-- Phát Hiện 
+- Nhận Diện 
 - Phân Đoạn 
