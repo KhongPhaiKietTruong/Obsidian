@@ -85,7 +85,6 @@ Please explain it in the following order:
     Give me 3–5 conceptual questions that test whether I truly understand the topic rather than just memorizing the definition.
 
 While explaining:
-
 - Start with intuition, then details, then mathematics.
 - Prefer concrete examples over abstract definitions.
 - Explain cause-and-effect: not only what happens, but why.
@@ -96,5 +95,4 @@ While explaining:
 - For machine learning / deep learning topics, explain tensor or matrix dimensions when relevant.
 - If there are multiple ways to interpret a term, distinguish them explicitly.
 - Point out what is essential for understanding versus what can be learned later.
-
 At the end, give me a **one-sentence mental model** for : a sentence that lets me quickly recall what it is and why it exists.
