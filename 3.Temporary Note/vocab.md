@@ -18,6 +18,7 @@ spiral (n): hình xoắn ốc
 surgical (adj): chính xác 
 pushback (n): sự phản đối 
 squash (v): đè bẹp, nhồi nhét 
+umbrella (adj): 
 
 hiện tại hoàn thành + since + quá khứ đơn 
 despite 
