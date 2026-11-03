@@ -1,4 +1,3 @@
-
 cách dùng:
 trong menu khi khởi động, chọn bản snapshot muốn khôi phục, khi boot vào rồi mà muốn rollback thì vào terminal nhập:
 ```bash
