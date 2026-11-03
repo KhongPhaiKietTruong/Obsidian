@@ -1,6 +1,6 @@
 kí hiệu: E 
 
-Embedding matrix là một ma trận chứa các [[Ebeddings]] của [[Embedding Vocabulary]]
+Embedding matrix là một ma trận chứa các [[Embeddings]] của [[Embedding Vocabulary]]
 số cột là số [[Features]] và số hàng là số từ trong vocab (mỗi từ là một ma trận cột): 
 $$
 E \in R^{V\times D}
