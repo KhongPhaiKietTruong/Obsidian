@@ -1,1 +1,1 @@
-Là cơ chế cho phép ta gán trọng số cho mỗi token để thể hiện mối quan hệ giữa các token với nhau  
+Là cơ chế cho phép ta gán trọng số vào các thành phần thông tin quan trọng của chuỗi khi đang xử lí tại một vị trí cụ thể 
