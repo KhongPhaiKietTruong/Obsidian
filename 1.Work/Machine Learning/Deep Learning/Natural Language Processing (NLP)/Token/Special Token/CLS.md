@@ -1,0 +1,1 @@
+\<CLS> là một token đặc biệt được thêm vào ở vị trí đầu tiên của câu 
