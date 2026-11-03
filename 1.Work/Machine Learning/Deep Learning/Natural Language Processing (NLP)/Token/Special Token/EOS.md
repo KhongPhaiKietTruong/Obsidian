@@ -1,0 +1,1 @@
+viết tắt của End Of Sentence, dùng để thể hiện sự kết thúc của một câu 

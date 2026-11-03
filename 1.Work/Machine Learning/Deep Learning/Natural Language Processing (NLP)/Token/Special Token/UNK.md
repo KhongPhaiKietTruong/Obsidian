@@ -1,0 +1,1 @@
+viết tắt của unknown, dùng để thể hiện token không nằm trong [[Vocabulary]] 
