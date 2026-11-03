@@ -1,1 +1,1 @@
-vanilla RNN encoder thực hiện sinh văn bản bằng cách truyền hidden state của time step trước và từ ở vị trí hiện tại vào làm input để sih![[Pasted image 20260920140135.png]]
+vanilla RNN encoder thực hiện sinh văn bản bằng cách truyền hidden state của time step trước và từ ở vị trí hiện tại ở chuỗi input vào làm input cho [[Vanilla RNN Cell]]![[Pasted image 20260920140135.png]]
