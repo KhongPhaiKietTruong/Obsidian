@@ -27,8 +27,8 @@
 - [x] AdaptiveAvgPool2d 
 - [x] OOB
 - [x] SVD 
-- [ ] GMM 
-- [ ] LDA 
+- [ ] ~~GMM~~ 
+- [ ] ~~LDA~~ 
 - [ ] ~~SwiGLU~~ 
 - [x] GELU
 - [ ] ~~SwiGLU, GeGLU~~  
