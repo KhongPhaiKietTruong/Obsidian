@@ -25,7 +25,7 @@
 - [x] torch.nn.utils.clip_grad_norm_ 
 
 - [x] AdaptiveAvgPool2d 
-- [ ] OOB
+- [x] OOB
 - [ ] SVD 
 - [ ] GMM 
 - [ ] LDA 
