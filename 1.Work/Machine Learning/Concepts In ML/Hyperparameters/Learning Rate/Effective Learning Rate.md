@@ -2,7 +2,7 @@ kí hiệu: $\alpha$ hoặc $\eta$
 ## Định Nghĩa 
 là một [[Hyperparameter (Siêu Tham Số)]] quy định độ lớn của bước nhảy khi thực hiện cập nhật các tham số trong [[Neural Network]]
 nếu ta không dùng [[Learning Rate Scheduler]] thì effective lr cũng chính là [[Base Learning Rate]]
-nếu có sử dụng [[Adaptive Learning Rate]] thì mỗi một [[Learnable Parameters (Tham Số Có Thể Học)]] sẽ có effective learning rate riêng 
+nếu có sử dụng [[Adaptive Learning Rate]] thì mỗi một [[Learnable Parameters]] sẽ có effective learning rate riêng 
 
 các giá trị base learning rate có thể thử: 0.001 -> 0.003 -> 0.01 -> 0.03 -> 0.1 -> 0.3 -> 1
 
