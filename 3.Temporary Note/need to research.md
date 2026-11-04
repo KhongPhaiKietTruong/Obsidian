@@ -22,10 +22,9 @@
 - [x] decoupled learning rate ? 
 - [x] adaGrad 
 - [x] batch norm vs layer norm 
-- [ ] torch.nn.utils.clip_grad_norm_ 
-- [ ] ConvNeXt 
-- [ ] ViT 
-- [ ] AdaptiveAvgPool2d 
+- [x] torch.nn.utils.clip_grad_norm_ 
+
+- [x] AdaptiveAvgPool2d 
 - [ ] OOB
 - [ ] SVD 
 - [ ] GMM 
@@ -36,11 +35,9 @@
 - [x] GELU
 - [x] SiLU, Swish 
 - [ ] SwiGLU, GeGLU  
-- [ ] Swin Transformer
-- [ ] Focal Loss 
+
 - [ ] Hinge Loss 
-- [ ] Label Smoothing 
-- [ ] Data Augmentation trong NLP ? 
+- [x] Label Smoothing 
 - [ ] Lí thuyết sấp xỉ hàm trong DL 
 - [ ] Định lí sấp xỉ phổ quát 
 - [ ] Group Batch 
@@ -50,3 +47,8 @@
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] MLA-C02
 - [ ] Mermaid 
+- [x] bộ gõ Lotus 
+- [ ] Swin Transformer
+- [ ] Focal Loss 
+- [ ] ConvNeXt 
+- [ ] ViT 
