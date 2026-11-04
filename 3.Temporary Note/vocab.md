@@ -7,9 +7,11 @@ those vs whoever
 
 
 flagship (adj): dẫn dầu
-democratization (n): bình dân hoá 
+democratize (v): bình dân hoá 
+democratization (n): sự bình dân hoá 
 on-premises (adj): 
 codify (v): hệ thống hoá 
 ditch (v): vứt bỏ 
 ditch (n): rãnh nước 
+pledge (v): cam kết 
 
