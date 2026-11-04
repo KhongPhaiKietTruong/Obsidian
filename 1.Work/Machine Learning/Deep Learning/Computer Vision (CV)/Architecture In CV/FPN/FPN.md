@@ -13,7 +13,7 @@ FPN giải quyết vấn đề này bằng cách kết hợp thông tin của nh
 ## Cấu Trúc Mạng 
 FPN gồm hai nhánh chính:
 - bottom-up pathway: là quá trình tích chập bình thường 
-- top-down pathway: chọn F sâu nhất để bắt đầu, thực hiện upsampling lên F đó 
+- top-down pathway: chọn F sâu nhất để bắt đầu, thực hiện [[Upsampling]] lên F đó 
 
 ## Công Dụng
 - phát hiện vật thể ở nhiều kích thước khác nhau 
