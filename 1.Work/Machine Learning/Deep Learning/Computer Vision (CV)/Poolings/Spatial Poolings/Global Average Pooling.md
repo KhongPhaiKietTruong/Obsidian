@@ -1,5 +1,5 @@
 ## Định nghĩa
-là [[Average Pooling]] với pool size = [[Feature Map F]]'s [[Spatial Size]] 
+là [[Average Pooling]] với pool size = [[Feature Map]]'s [[Spatial Size]] 
 cho ra ma trận với kích thước 1x1
 
 ## Tác dụng

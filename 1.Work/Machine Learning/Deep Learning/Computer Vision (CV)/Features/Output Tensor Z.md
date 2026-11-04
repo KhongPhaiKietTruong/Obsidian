@@ -1,6 +1,6 @@
 tên khác: feature tensor 
 
-Output Tensor là [[Tensor]] mà được ghép từ nhiều ma trận [[Feature Map F]] lại 
+Output Tensor là [[Tensor]] mà được ghép từ nhiều ma trận [[Feature Map]] lại 
 
 kích thước của output tensor sẽ là $(B, C, H, W)$
 với:

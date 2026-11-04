@@ -11,5 +11,5 @@ các hypterparameter trong lớp pooling không được học bằng [[Gradient
 - [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Hyperparameters In CV/Padding/Padding|Padding]] thường là 0 (chỉ có trường hợp ngoại lệ là padding trong [[Inception]] sẽ khác 0)
 - pooling type: max hay avg
 
-cách tính kích thước của [[Output Tensor Z]] sau một lớp pooling cũng tương tự như cách tính với filter (xem thêm trong [[Feature Map F]]) và pool cũng tính trên từng channel độc lập giống filter 
+cách tính kích thước của [[Output Tensor Z]] sau một lớp pooling cũng tương tự như cách tính với filter (xem thêm trong [[Feature Map]]) và pool cũng tính trên từng channel độc lập giống filter 
 

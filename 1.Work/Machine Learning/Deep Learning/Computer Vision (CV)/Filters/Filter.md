@@ -25,10 +25,10 @@ số **channels** của **filter** ở **lớp hiện tại** phải bằng vớ
 
 ## Filter quyết định số channels của feature tensor
 
-mỗi một filter sẽ tạo ra một [[Feature Map F]], mà [[Output Tensor Z]] của ta là ghép từ nhiều feature map, vậy tức là:
+mỗi một filter sẽ tạo ra một [[Feature Map]], mà [[Output Tensor Z]] của ta là ghép từ nhiều feature map, vậy tức là:
 số lượng filter ở lớp **hiện tại** sẽ quyết định **số channel** của **output tensor** của **lớp hiện tại**  
 
-hiểu đơn giản là mỗi lần ta tính [[Convolution|tích chập]] lên ma trận gốc, nó sẽ cho ra **một** [[Feature Map F]] có **số channel là 1**, vậy thì với **n filtler** thì ta có **n feature map** với **channel = 1** 
+hiểu đơn giản là mỗi lần ta tính [[Convolution|tích chập]] lên ma trận gốc, nó sẽ cho ra **một** [[Feature Map]] có **số channel là 1**, vậy thì với **n filtler** thì ta có **n feature map** với **channel = 1** 
 
 **output tensor** của ta sẽ là **ghép của n feature map** đó lại, tức là, **feature tensor** matrix đó sẽ có **số channels là n** 
 ## Hướng chuyển đổi 

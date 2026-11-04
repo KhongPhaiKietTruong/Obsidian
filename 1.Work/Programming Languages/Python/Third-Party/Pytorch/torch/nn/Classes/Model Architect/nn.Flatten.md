@@ -8,5 +8,5 @@ b = flatten(a)
 # b.shape = (32, 2352)
 ```
 
-thường được sử dụng để làm phẳng [[Feature Map F]] thành một vector để có thể truyền vào [[nn.Linear]] 
+thường được sử dụng để làm phẳng [[Feature Map]] thành một vector để có thể truyền vào [[nn.Linear]] 
 
