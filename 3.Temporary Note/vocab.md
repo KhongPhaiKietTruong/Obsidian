@@ -12,3 +12,4 @@ on-premises (adj):
 codify (v): hệ thống hoá 
 ditch (v): vứt bỏ 
 ditch (n): rãnh nước 
+
