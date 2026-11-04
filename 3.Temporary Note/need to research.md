@@ -52,3 +52,4 @@
 - [ ] Focal Loss 
 - [ ] ConvNeXt 
 - [ ] ViT 
+- [ ] Transformer Decoder 
