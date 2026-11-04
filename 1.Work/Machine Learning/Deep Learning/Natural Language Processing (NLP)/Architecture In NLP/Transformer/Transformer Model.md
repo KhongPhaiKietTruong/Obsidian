@@ -1,5 +1,5 @@
 ## Định Nghĩa
-Transformer Model là một [[Neural Network]] dùng để xử lí dữ liệu dạng chuỗi sử dụng cơ chế [[Attention In RNN]] gồm 2 thành phần chính là [[Encoder]] và [[Decoder]]
+Transformer Model là một [[Neural Network]] dùng để xử lí dữ liệu dạng chuỗi sử dụng cơ chế [[Self-Attention]], gồm 2 thành phần chính là [[Encoder]] và [[Decoder]]
 
 mỗi một token có thể nhìn tới các token khác trong cùng một chuỗi 
 transformer có thể tính toán song song ([[Multi-Head Attention]])

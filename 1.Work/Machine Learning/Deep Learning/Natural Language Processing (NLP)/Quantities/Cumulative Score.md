@@ -1,4 +1,4 @@
-là "điểm số" của một chuỗi đang được tạo dang dở, được tích lũy qua từng token được tạo ra 
+cumulative score là "điểm số" của một chuỗi đang được tạo dang dở, được tích lũy qua từng token được tạo ra 
 cách tính:
 $$
 \text{Score}(y_{1:t}) = \prod_{i=1}^{t} P(y_i \mid y_1, \ldots, y_{i-1}, x)
