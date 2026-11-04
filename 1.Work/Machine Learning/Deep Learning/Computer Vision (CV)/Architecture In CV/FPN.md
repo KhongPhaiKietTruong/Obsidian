@@ -10,5 +10,10 @@ nếu sử dụng F ở tầng sâu thì ta có thể phân biệt đối tượ
 
 FPN giải quyết vấn đề này bằng cách kết hợp thông tin của nhiều F lại với nhau 
 
+## Cấu Trúc Mạng 
+FPN gồm hai nhánh chính:
+- bottom-up pathway 
+- top-down pathway 
+
 --- 
 F: feature map 
