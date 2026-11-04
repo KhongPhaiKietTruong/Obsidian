@@ -10,3 +10,5 @@ flagship (adj): dẫn dầu
 democratization (n): bình dân hoá 
 on-premises (adj): 
 codify (v): hệ thống hoá 
+ditch (v): vứt bỏ 
+ditch (n): rãnh nước 
