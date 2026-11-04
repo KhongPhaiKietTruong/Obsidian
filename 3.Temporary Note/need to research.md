@@ -1,18 +1,18 @@
 - [x] XML file là gì ?
 - [ ] the architecture for a servlet/JSP application
 - [ ] stateless 
+- [ ] mô hình 3 lớp trong web là gì  
+- [ ] forbenius norm 
+- [ ] gray encoding 
 - [x] response, request ? 
 - [ ] private ip vs public ip 
 - [x] back propagation
 - [x] leaky relu vs relu 
 - [x] activation tanh 
 - [x] bayes' error
-- [ ] forbenius norm 
-- [ ] gray encoding 
 - [x] một thuộc tính trong một table chứa giá trị là một list thì không vip phạm 1NF ? 
 - [ ] graph database  
 - [x] teacher forcing ?
-- [ ] mô hình 3 lớp trong web là gì  
 - [x] Các kĩ thuật fine-tuning?
 - [x] backbone là gì 
 - [x] cấu tạo residual block 
