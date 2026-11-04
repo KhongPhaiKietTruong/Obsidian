@@ -1,11 +1,11 @@
 
-- [ ] english 
-- [ ] math for ai 
-- [ ] python 
-- [ ] basic library (numpy, pandas, maplotlib)
-- [ ] machine learning (scikit-learn)
-- [ ] deep learning (pytorch)
-- [ ] Computer Vision & NLP 
+- [x] english 
+- [x] math for ai 
+- [x] python 
+- [x] basic library (numpy, pandas, maplotlib)
+- [x] machine learning (scikit-learn)
+- [x] deep learning (pytorch)
+- [x] Computer Vision & NLP 
 - [ ] Hugging Face & Transformer 
 - [ ] RAG 
 - [ ] GenAI, LLM (Langchain, Llamandex, LangGraph)
