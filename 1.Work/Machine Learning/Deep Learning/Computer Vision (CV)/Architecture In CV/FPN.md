@@ -12,7 +12,7 @@ FPN giải quyết vấn đề này bằng cách kết hợp thông tin của nh
 
 ## Cấu Trúc Mạng 
 FPN gồm hai nhánh chính:
-- bottom-up pathway 
+- bottom-up pathway: là quá trình tích chập bình thường 
 - top-down pathway 
 
 --- 
