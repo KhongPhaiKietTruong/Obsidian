@@ -16,5 +16,6 @@ FPN gồm hai nhánh chính:
 - top-down pathway: chọn $F_n$ sâu nhất để bắt đầu, thực hiện [[Upsampling]] lên $F_n$ đó lên thành $C_n$ để nó có cùng kích thước với $F_{n-1}$, sau đó thực hiện $F_{n-1}$ =  $F_{n-1}$ + $C_n$ và tương tự vậy với $F_{n-2}$ 
 ## Công Dụng
 - phát hiện vật thể ở nhiều kích thước khác nhau 
+- 
 --- 
 F: feature map 
