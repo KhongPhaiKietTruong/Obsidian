@@ -50,7 +50,9 @@
 - [ ] Mermaid 
 - [x] bộ gõ Lotus 
 - [ ] Swin Transformer
+- [ ] DETR 
+- [ ] DINO 
 - [ ] Focal Loss 
 - [ ] ConvNeXt 
-- [ ] ViT 
+- [x] ViT 
 - [ ] Transformer Decoder 
