@@ -38,8 +38,8 @@
 
 - [ ] Hinge Loss 
 - [x] Label Smoothing 
-- [ ] Lí thuyết sấp xỉ hàm trong DL 
-- [ ] Định lí sấp xỉ phổ quát 
+- [x] Lí thuyết sấp xỉ hàm trong DL 
+- [x] Định lí sấp xỉ phổ quát 
 - [ ] Group Batch 
 - [ ] SE Block 
 - [ ] FPN 
