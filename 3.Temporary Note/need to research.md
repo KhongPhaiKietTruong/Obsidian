@@ -3,7 +3,7 @@
 - [ ] stateless 
 - [ ] mô hình 3 lớp trong web là gì  
 - [ ] ~~forbenius norm~~ 
-- [ ] gray encoding 
+- [ ] ~~gray encoding~~ 
 - [x] response, request ? 
 - [ ] private ip vs public ip 
 - [x] back propagation
