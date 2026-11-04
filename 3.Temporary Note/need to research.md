@@ -2,7 +2,7 @@
 - [ ] the architecture for a servlet/JSP application
 - [ ] stateless 
 - [ ] mô hình 3 lớp trong web là gì  
-- [ ] forbenius norm 
+- [ ] ~~forbenius norm~~ 
 - [ ] gray encoding 
 - [x] response, request ? 
 - [ ] private ip vs public ip 
