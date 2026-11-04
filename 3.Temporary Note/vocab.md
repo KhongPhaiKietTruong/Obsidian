@@ -13,4 +13,5 @@ codify (v): hệ thống hoá
 ditch (v): vứt bỏ 
 ditch (n): rãnh nước 
 pledge (v): cam kết 
+canonical (adj): 
 
