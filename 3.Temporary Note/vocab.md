@@ -5,7 +5,6 @@ in spite of
 hiện tại hoàn thành + since + quá khứ đơn  
 those vs whoever 
 
-
 flagship (adj): dẫn dầu
 democratize (v): bình dân hoá 
 democratization (n): sự bình dân hoá 
