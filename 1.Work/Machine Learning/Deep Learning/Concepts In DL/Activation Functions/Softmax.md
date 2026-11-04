@@ -25,7 +25,7 @@ Kết quả sau khi qua Softmax:
 Tổng cộng = 1.0 (100%).
 
 ## Softmax With Temperature 
-Ta để có thể cho thêm một [[Hyperparameter (Siêu Tham Số)]] là temperature:
+Ta để có thể cho thêm một [[Hyperparameter]] là temperature:
 $$P(y = i \mid z) = \frac{\exp(z_i / T)}{\sum_{j} \exp(z_j / T)}$$
 siêu tham số này có tác dụng điều khiển độ "phẳng" của phân phối xác suất đầu ra của softmax, temperature có thể nhận giá trị (0, +$\infty$) 
 Temperature càng cao thì model càng sáng tạo 
