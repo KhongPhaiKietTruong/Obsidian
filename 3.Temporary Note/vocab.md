@@ -25,3 +25,4 @@ consolidate (v): hợp nhất, củng cố
 cusp (n): 
 renaissance (n) 
 amplitude (n)
+foreground (n): tiền cảnh 
