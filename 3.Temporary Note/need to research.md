@@ -57,3 +57,4 @@
 - [ ] ConvNeXt 
 - [x] ViT 
 - [ ] Transformer Decoder 
+- [ ] CVT
