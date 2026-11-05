@@ -1,1 +1,0 @@
-là một loại [[Hypervisor - VMM]] mà các hệ ![[Pasted image 20261105135909.png|525]]

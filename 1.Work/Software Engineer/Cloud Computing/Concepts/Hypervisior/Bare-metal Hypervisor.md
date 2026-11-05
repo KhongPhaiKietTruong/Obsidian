@@ -1,0 +1,1 @@
+là một loại [[Hypervisor - VMM]] chạy trực tiếp ngay trên phần cứng, bản thân nó đóng vai trò như một OS tối giản![[Pasted image 20261105135909.png|525]]
