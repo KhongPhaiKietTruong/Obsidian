@@ -15,4 +15,5 @@ ditch (n): rãnh nước
 pledge (v): cam kết 
 canonical (adj): 
 boilerplate code (n): code mẫu, khung sườn code 
+scavenger (n): người nhặt rác 
 
