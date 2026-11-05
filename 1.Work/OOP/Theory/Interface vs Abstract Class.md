@@ -1,5 +1,5 @@
 
-sự khác biệt giữa interface và [[1.Work/OOP/Theory/Abstract Class (Lớp trừu tượng)|lớp trừu tượng]] nằm ở mối quan hệ của chúng với các class
+sự khác biệt giữa interface và [[Abstract Class|lớp trừu tượng]] nằm ở mối quan hệ của chúng với các class
 - interface định nghĩa các "khả năng", class nào có khả năng đó thì sẽ thực hiện các interface tương ứng (mối quan hệ can-do), các lớp không liên quan đến nhau nhưng có thể thực hiện chung một interface
 - lớp trừu tượng thì định nghĩa một lớp cha, và các class con có chung nguồn gốc từ class cha đó (is-a), một class con chỉ có thể kế thừa từ một class cha 
 
