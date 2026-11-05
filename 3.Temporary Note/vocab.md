@@ -16,4 +16,5 @@ pledge (v): cam kết
 canonical (adj): 
 boilerplate code (n): code mẫu, khung sườn code 
 scavenger (n): người nhặt rác 
+on-demand (adj): theo yêu cầu
 

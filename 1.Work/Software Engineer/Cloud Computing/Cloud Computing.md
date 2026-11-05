@@ -1,0 +1,2 @@
+dịch: điện toán đám mây
+Điện toán đám mây là một mô hình cung cấp các tài nguyên máy tính như máy chủ, mạng, cơ sở dữ liệu, dung lượng lưu trữ, ... thông qua mạng internet theo cơ chế pay-as-you-go (dùng bao nhiêu trả bấy nhiêu)
