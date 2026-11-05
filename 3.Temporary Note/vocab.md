@@ -23,4 +23,5 @@ elastic (adj):
 driver (n): yếu tố thúc đẩy 
 consolidate (v): hợp nhất, củng cố 
 cusp (n): 
-renaissance
+renaissance (n) 
+amplitude (n)
