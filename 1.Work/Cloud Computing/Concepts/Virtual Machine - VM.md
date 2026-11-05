@@ -1,1 +1,1 @@
-má
+là một môi trường điện toán được giả lập bằng phần mềm, hoạt động như một máy tính riêng biệt, 
