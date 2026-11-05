@@ -1,4 +1,4 @@
-Sử dụng pre-trained model để thực hiện [[1.Work/Machine Learning/Deep Learning/Natural Language Processing (NLP)/Feature Extraction/Feature Extraction|Feature Extraction]]:
+Sử dụng pre-trained model để thực hiện [[Feature Extraction In NLP|Feature Extraction In NLP]]:
 - đóng băng tất cả tham số model
 - chạy forward pass
 - model cho ra [[Word Embeddings]] 
