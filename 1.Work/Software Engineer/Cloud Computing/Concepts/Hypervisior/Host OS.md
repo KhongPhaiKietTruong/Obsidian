@@ -1,1 +1,1 @@
-là hệ điều hàn
+là hệ điều hành được cái đặt trực tiếp trên phần cứng của máy tính / máy chủ 
