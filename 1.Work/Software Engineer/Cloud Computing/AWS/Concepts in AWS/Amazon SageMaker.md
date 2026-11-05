@@ -1,0 +1,1 @@
+Amazon SageMaker là một nền tảng cung cấp các dịch vụ cho ML và DL như tiền xử lí dữ liệu, xây dựng, huấn luyện, triển khai, ... các model 
