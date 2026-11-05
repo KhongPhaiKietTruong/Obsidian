@@ -1,5 +1,5 @@
 ## Định Nghĩa 
-Linear Regression là phương pháp tìm các [[Weight (Trọng Số)]] trong phương trình tuyến tính
+Linear Regression là phương pháp tìm các [[Weight]] trong phương trình tuyến tính
 $$
 y = w_{1}x_{1} + w_{2}x_{2} + \dots +w_{n}x_{n} + b
 $$

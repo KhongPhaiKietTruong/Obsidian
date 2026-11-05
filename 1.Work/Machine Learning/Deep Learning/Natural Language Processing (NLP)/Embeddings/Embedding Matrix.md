@@ -26,4 +26,4 @@ $$
 - E: embedding matrix 
 - o: [[One-hot Encoding]]
 
->Embedding Matrix cũng khá giống với ma trận [[Weight (Trọng Số)]] khi các giá trị trong nó sẽ được học bởi [[Neural Network]]
+>Embedding Matrix cũng khá giống với ma trận [[Weight]] khi các giá trị trong nó sẽ được học bởi [[Neural Network]]
