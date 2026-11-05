@@ -1,0 +1,1 @@
+khi sử dụng dịch vụ của AWS, chi phí được chia thành 3 nhóm chính 
