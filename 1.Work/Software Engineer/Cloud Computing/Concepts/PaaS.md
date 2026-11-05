@@ -1,1 +1,2 @@
 viết tắt của Platform as a Service
+là một mô hình điện toán đám mây cung cấp cho lập trình viên một môi trường để phát triển, chạy và quản lí ứng dụng mà không cần lo đến hạ tầng (server, lưu trữ, mạng, ...)
