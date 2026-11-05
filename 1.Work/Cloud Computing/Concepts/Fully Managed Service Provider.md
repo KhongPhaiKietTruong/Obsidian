@@ -1,1 +1,2 @@
-là [[Cloud Provider]] chịu trách nhiệm cho cả việc thiết lập, vận hành, bảo trì 
+là [[Cloud Provider]] chịu trách nhiệm cho cả việc thiết lập, vận hành, bảo trì, ... 
+người sử dụng dịch vụ chỉ cần quan tâm đến 
