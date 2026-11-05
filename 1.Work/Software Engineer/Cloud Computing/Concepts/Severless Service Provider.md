@@ -1,0 +1,1 @@
+là công ty / tổ chức cung cấp môi trường điện toán đám mây mà người dùng không cần phải quản lí, cấu hình, bảo trì server mà phần việc đó do [[Cloud Provider]] đảm nhiệm 
