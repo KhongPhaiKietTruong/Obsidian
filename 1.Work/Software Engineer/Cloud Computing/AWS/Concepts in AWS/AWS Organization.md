@@ -1,0 +1,1 @@
+AWS Organization là dịch vụ dùng để quản lí nhiều tài khoản AWS trong một tổ chức 
