@@ -1,4 +1,4 @@
-- [x] XML file là gì ?
+- [ ] XML file là gì ?
 - [ ] the architecture for a servlet/JSP application
 - [ ] stateless 
 - [ ] mô hình 3 lớp trong web là gì  
