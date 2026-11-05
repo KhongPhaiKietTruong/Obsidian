@@ -58,3 +58,4 @@
 - [x] ViT 
 - [ ] Transformer Decoder 
 - [ ] CVT
+- [ ] optimizer = torch.optim.AdamW( filter(lambda p: p.requires_grad, model.parameters()), lr=1e-4 * (0.8 ** epoch) )
