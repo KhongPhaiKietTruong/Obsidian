@@ -1,0 +1,1 @@
+viết tắt của Amazon Simple Storage Service 
