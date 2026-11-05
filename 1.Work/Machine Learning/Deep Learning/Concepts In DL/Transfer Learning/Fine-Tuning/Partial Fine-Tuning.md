@@ -1,2 +1,2 @@
-đóng băng các stage đầu của [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Backbone]], học tham số ở stage cuối và ở [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Head/Head|Head]] 
+Thực hiện huấn luyện tiếp trên các block/layer cuối của [[1.Work/OLP AI/Computer Vision Architecture/Backbone|Backbone]] và [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Head/Head|Head]] 
 ![[Pasted image 20260923161818.png]]

@@ -1,1 +1,1 @@
-thực hiện học ở tất cả các [[Layer]]
+thực hiện huấn luyện tiếp ở tất cả các [[Layer]]/Block của [[1.Work/OLP AI/Computer Vision Architecture/Backbone|Backbone]] và [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Head/Head|Head]] 
