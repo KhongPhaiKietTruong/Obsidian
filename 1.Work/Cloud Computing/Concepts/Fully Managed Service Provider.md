@@ -1,0 +1,1 @@
+là [[Cloud Provider]] chịu trách nhiệm cho cả việc thiết lập, vận hành, bảo trì 
