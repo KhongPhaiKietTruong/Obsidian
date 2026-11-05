@@ -1,0 +1,1 @@
+Là [[Cloud Computing Deployment Model]] ngay trên data center nội bộ của công ty 

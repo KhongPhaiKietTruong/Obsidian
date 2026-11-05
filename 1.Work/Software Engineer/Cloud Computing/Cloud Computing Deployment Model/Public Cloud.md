@@ -1,0 +1,1 @@
+là một [[Cloud Computing Deployment Model]] khi mà toàn bộ ứng dụng, cơ sở dữ liệu, server, ... được triển khai trên nền tảng đám mây 

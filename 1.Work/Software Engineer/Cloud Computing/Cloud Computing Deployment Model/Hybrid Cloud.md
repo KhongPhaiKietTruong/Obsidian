@@ -1,0 +1,1 @@
+là [[Cloud Computing Deployment Model]] kết hợp giữa nền tảng đám mây và data center nội bộ của công ty 
