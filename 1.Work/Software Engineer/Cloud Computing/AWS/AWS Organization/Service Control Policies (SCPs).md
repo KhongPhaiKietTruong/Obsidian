@@ -1,0 +1,1 @@
+Service Control Policies (SCPs) là cài đặt các quyền của các OU 

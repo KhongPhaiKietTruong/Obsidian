@@ -21,3 +21,4 @@ upfront (adj): trả trước, thẳng thắn
 prohibitive (adj): quá đắt đỏ, mang tính ngăn cản 
 elastic (adj): 
 driver (n): yếu tố thúc đẩy 
+consolidate (v): hợp nhất, củng cố 
