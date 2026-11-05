@@ -1,0 +1,1 @@
+là một tổ chức hay công ty sở hữu trung tâm dữ liệu quy mô lớn và cung cấp dịch vụ cho thuê các tài nguyên đó 
