@@ -1,2 +1,2 @@
 viết tắt của Virtual Machine Monitor 
-là một phần mềm dùng để tạo và quản lí các [[Virtual Machine - VM]], cung cấp tài nguyên của máy chủ vật lí cho nhiều hệ điều hành khác chạy trên máy chủ vật lí đó 
+là một phần mềm dùng để tạo và quản lí các [[Virtual Machine - VM]], cung cấp, quản lí và phân phối tài nguyên của máy chủ vật lí cho nhiều hệ điều hành khác chạy trên máy chủ vật lí đó 
