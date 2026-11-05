@@ -58,10 +58,10 @@
 - [[BETWEEN|BETWEEN]]
 - [[LIKE|LIKE]]
 - [[IS & IS NOT|IS & IS NOT]]
-- [[1.Work/Databases/Relational Database/SQL/OPERATOR/ĐỘ ƯU TIÊN TOÁN TỬ|Độ ưu tiên toán tử]]
+- [[1.Work/Software Engineer/Databases/Relational Database/SQL/OPERATOR/ĐỘ ƯU TIÊN TOÁN TỬ|Độ ưu tiên toán tử]]
 
 ### Ký tự đại diện (Wildcards)
-- [[1.Work/Databases/Relational Database/SQL/WILDCARDS/%|% (Bất kỳ ký tự nào)]]
+- [[1.Work/Software Engineer/Databases/Relational Database/SQL/WILDCARDS/%|% (Bất kỳ ký tự nào)]]
 - [[_|_ (Một ký tự bất kỳ)]]
 - [[ngoặc vuông|[ ] (Tập hợp ký tự)]]
 - [[dấu mũ|[^] (Phủ định tập hợp ký tự)]]
@@ -82,8 +82,8 @@
 - [[ON UPDATE CASCADE|ON UPDATE CASCADE]]
 
 ## 🧮 Hàm tổng hợp (Aggregate Functions)
-- [[1.Work/Databases/Relational Database/SQL/FUNCTION/COUNT()|COUNT()]]
-- [[1.Work/Databases/Relational Database/SQL/FUNCTION/SUM()|SUM()]]
+- [[1.Work/Software Engineer/Databases/Relational Database/SQL/FUNCTION/COUNT()|COUNT()]]
+- [[1.Work/Software Engineer/Databases/Relational Database/SQL/FUNCTION/SUM()|SUM()]]
 - [[AVG()|AVG()]]
 
 ## 🐬 Lệnh riêng cho MySQL (MySQL Dialect / CLI)

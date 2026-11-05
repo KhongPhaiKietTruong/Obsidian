@@ -12,7 +12,7 @@
 ## ➕ Các phép toán tập hợp (Set Operations)
 - [[Phép hội]] (Union - $\cup$)
 - [[Phép giao]] (Intersection - $\cap$)
-- [[1.Work/Databases/Relational Database/Relational Algebra/Theory/Phép trừ]] (Difference - $-$)
+- [[1.Work/Software Engineer/Databases/Relational Database/Relational Algebra/Theory/Phép trừ]] (Difference - $-$)
 - [[Tích đề các]] (Cartesian Product - $\times$)
 
 ## 📈 Các phép toán nâng cao & Gom nhóm

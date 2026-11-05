@@ -22,7 +22,7 @@
 		- [[Constraint (Ràng Buộc)]]
 		- [[Entity Integrity (Toàn vẹn thực thể)]]
 		- [[Filegroup]]
-		- [[1.Work/Databases/Relational Database/Concepts/Index]]
+		- [[1.Work/Software Engineer/Databases/Relational Database/Concepts/Index]]
 		- [[ODBC]]
 		- [[Primary Data File (.mdf)]]
 		- [[Records (Bảng ghi)]]
@@ -73,7 +73,7 @@
 			- [[Phép gán]]
 			- [[Phép giao]]
 			- [[Phép hội]]
-			- [[1.Work/Databases/Relational Database/Relational Algebra/Theory/Phép trừ]]
+			- [[1.Work/Software Engineer/Databases/Relational Database/Relational Algebra/Theory/Phép trừ]]
 			- [[Tích đề các]]
 		- [[Relational Algebra MOC]]
 	- **SQL**
@@ -137,12 +137,12 @@
 			- [[VARCHAR(N)]]
 		- **FUNCTION**
 			- [[AVG()]]
-			- [[1.Work/Databases/Relational Database/SQL/FUNCTION/COUNT()]]
-			- [[1.Work/Databases/Relational Database/SQL/FUNCTION/SUM()]]
+			- [[1.Work/Software Engineer/Databases/Relational Database/SQL/FUNCTION/COUNT()]]
+			- [[1.Work/Software Engineer/Databases/Relational Database/SQL/FUNCTION/SUM()]]
 		- **OPERATOR**
 			- [[AND]]
 			- [[BETWEEN]]
-			- [[1.Work/Databases/Relational Database/SQL/OPERATOR/ĐỘ ƯU TIÊN TOÁN TỬ]]
+			- [[1.Work/Software Engineer/Databases/Relational Database/SQL/OPERATOR/ĐỘ ƯU TIÊN TOÁN TỬ]]
 			- [[IN]]
 			- [[IS & IS NOT]]
 			- [[LIKE]]
@@ -150,7 +150,7 @@
 			- [[OR]]
 		- **WILDCARDS**
 			- [[_]]
-			- [[1.Work/Databases/Relational Database/SQL/WILDCARDS/%]]
+			- [[1.Work/Software Engineer/Databases/Relational Database/SQL/WILDCARDS/%]]
 			- [[dấu mũ]]
 			- [[ngoặc vuông]]
 		- [[SQL MOC]]

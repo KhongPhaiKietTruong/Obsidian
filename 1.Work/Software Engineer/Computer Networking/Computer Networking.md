@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **Concepts**
-	- [[1.Work/Computer Networking/Concepts/Encapsulation (Tính đóng gói)]]
+	- [[1.Work/Software Engineer/Computer Networking/Concepts/Encapsulation (Tính đóng gói)]]
 	- [[Gateway]]
 	- [[HTTP Respone & Request]]
 	- [[Interfaces]]
