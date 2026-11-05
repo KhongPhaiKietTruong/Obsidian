@@ -1,0 +1,2 @@
+Là một mô hình điện toán đám mây cung cấp môi trường để chạy các đoạn code (được gọi là các functions)
+cơ chế hoạt động theo kiểu hướng sự kiện: một hàm chỉ được chạy khi có một trigger cụ thể (như nhận được một HTTP request)

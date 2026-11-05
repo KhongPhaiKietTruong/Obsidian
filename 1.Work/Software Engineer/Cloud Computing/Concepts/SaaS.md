@@ -1,1 +1,1 @@
-viết tắt của Service as a Service 
+viết tắt của Software as a Service 
