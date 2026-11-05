@@ -1,1 +1,1 @@
-Amazon Bedrock là một nền tảng của Amazon cung cấp các dịch vụ về AI như: GPU, các model, RAG, ... để tích hợp vào sản phẩm của mình 
+Amazon Bedrock là một nền tảng của Amazon cung cấp các dịch vụ về AI như: các model, RAG, ... để tích hợp vào sản phẩm của mình thông qua 
