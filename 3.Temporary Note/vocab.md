@@ -19,3 +19,4 @@ scavenger (n): người nhặt rác
 on-demand (adj): theo yêu cầu
 upfront (adj): trả trước, thẳng thắn 
 prohibitive (adj): quá đắt đỏ, mang tính ngăn cản 
+elastic (adj): 
