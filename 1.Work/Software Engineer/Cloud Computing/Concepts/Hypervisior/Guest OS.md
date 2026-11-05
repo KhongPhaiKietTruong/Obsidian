@@ -1,0 +1,1 @@
+là hệ điều hành được cài bên trong một [[Virtual Machine - VM]] 
