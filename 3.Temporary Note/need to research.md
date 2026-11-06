@@ -37,7 +37,7 @@
 - [x] Label Smoothing 
 - [x] Lí thuyết sấp xỉ hàm trong DL 
 - [x] Định lí sấp xỉ phổ quát 
-- [ ] Group Batch 
+- [ ] ~~Group Batch~~ 
 - [ ] SE Block 
 - [ ] FPN 
 
