@@ -3,7 +3,7 @@ viết tắt của: Vision Transformer
 ## Định Nghĩa 
 ViT là một kiến trúc model dựa trên [[Transformer]] (vốn dành cho văn bản) cho bài toán thị giác máy tính mà không cần sử dụng [[Convolution]] 
 ## Quy trình hoạt động:
-- chia ảnh thành nhiều patches (mảnh nhỏ) có kích thước mỗi patch là 16x16x3 pixel, sau đó trải phẳng nó ra thành một [[Vector]] có 768 chiều 
+- chia ảnh thành nhiều patches (mỗi path là một token) có kích thước mỗi patch là 16x16x3 pixel, sau đó trải phẳng nó ra thành một [[Vector]] có 768 chiều 
 - từ vector mảnh ảnh đó, ta đưa nó qua một [[Fully Connected Layer (FC)]] không có hàm [[Activations]] để biến nó thành một [[Patch Embedding]] 
 - thêm [[Special Token]] [[CLS]] và [[Positional Encoding]] vào Patch Embedding 
 - đưa patch embedding đó vào [[Transformer Encoder]] và cho ra patch Embedding có "chất lượng" cao hơn 
