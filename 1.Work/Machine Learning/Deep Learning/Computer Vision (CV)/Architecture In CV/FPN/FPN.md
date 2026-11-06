@@ -1,5 +1,4 @@
 viết tắt của: Feature Pyramid Network
-
 ## Định Nghĩa 
 FPN là một kiến trúc [[Neural Network]], dùng để tạo ra [[Feature Map]] ở nhiều độ phân giải khác nhau 
 
