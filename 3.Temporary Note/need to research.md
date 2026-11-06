@@ -43,7 +43,6 @@
 
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] AWS Certified Machine Learning Engineer – Associate (MLA-C01)
-- [ ] MLA-C02
 - [x] Mermaid 
 - [x] bộ gõ Lotus 
 - [ ] Swin Transformer
