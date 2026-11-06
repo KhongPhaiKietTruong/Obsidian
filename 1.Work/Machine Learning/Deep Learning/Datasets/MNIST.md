@@ -1,0 +1,1 @@
+Một bộ dữ liệu kinh điển gồm các số viết tay từ 0 đến 9 
