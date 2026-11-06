@@ -14,3 +14,4 @@ với:
 - blobs/ : là folder chứa file nhị phân của tất cả file trong folder repo với tên đã được hash 
 - snapshots/ :chứa các folder đại diện cho mỗi lần commit (như trên github) với tên được hash, bên trong mỗi folder commit là các file hoàn chỉnh, tuy nhiên các file này thực chất cũng chỉ là symlink trỏ đến các file bên trong folder blobs ở trên  
 - refs/ : lưu trữ các thông tin để tham chiếu đến commit (folder snapshots) mới nhất 
+- config.json: file này chứa các siêu tham số, định nghĩa cấu trúc mô hình 
