@@ -12,7 +12,8 @@ với:
 ## Đặc Điểm 
 - thường được sử dụng trước [[Activation Layer]] 
 ## Tác Dụng 
-- tạo ra hiệu ứng [[Regularization]] nhẹ do có nhiễu từ việc tính mean và [[Variance (Phương Sai)]] từ mini-batch 
+- Tạo ra hiệu ứng [[Regularization]] nhẹ do có nhiễu từ việc tính mean và [[Variance (Phương Sai)]] từ mini-batch 
+- Giúp làm ổn định pre-activation value trước khi truyền vào hàm kích hoạt, hạn chế hiện tượng [[Vanishing Gradient]] hay [[Exploding Gradient]] 
 ## Nhược Điểm
 - rất phụ thuộc vào kích thước của batch (khi batch size nhỏ thì lượng nhiễu sẽ rất lớn)
 - không phù hợp cho dữ liệu dạng chuỗi 
