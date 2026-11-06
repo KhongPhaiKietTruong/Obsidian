@@ -1,0 +1,1 @@
+là một [[Function]] đã bao quát cả ba quá trình: pre-processing, inference, post-processing 
