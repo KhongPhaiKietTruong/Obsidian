@@ -1,4 +1,4 @@
-dùng để tải pipeline tiền xử lí của một model
+dùng để tải pipeline tiền xử lí của một model thông qua file "preprocessor_config.json" của model đó 
 ```python
 from transformer import AutoImageProcessor
 preprocessor = AutoImageProcessor(pretrained_model_name_or_path=None)
