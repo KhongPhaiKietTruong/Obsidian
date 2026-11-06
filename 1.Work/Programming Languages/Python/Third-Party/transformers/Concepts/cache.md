@@ -11,4 +11,5 @@ models--<org>--<repo_name>/
 └── blobs/
 ```
 với:
-- blobs/ : là folder chứa file nhị phân của tất cả file trong folder repo 
+- blobs/ : là folder chứa file nhị phân của tất cả file trong folder repo với tên đã được hash 
+- 
