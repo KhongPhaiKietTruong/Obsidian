@@ -6,7 +6,7 @@ models--<org>--<repo_name>/
 │   └── <commit_hash>/
 │       ├── config.json
 │       ├── preprocessor_config.json
-│       └── model.safetensors (hoặc pytorch_model.bin)  <-- File trọng số thực sự nằm ở đây
+│       └── model.safetensors (hoặc pytorch_model.bin)
 ├── refs/
 └── blobs/
 ```
