@@ -10,7 +10,7 @@
 		- [[Kernel SVM - Nonlinear SVM]]
 		- [[Linear SVM - Linear Support Vector Machine]]
 	- [[Decision Boundary]]
-	- [[1.Work/Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression]]
+	- [[Logistic Regression]]
 	- [[Multi-Class Classification]]
 	- [[Multi-Label Classification]]
 	- [[Softmax Regression]]
@@ -29,7 +29,7 @@
 			- [[XGBoost]]
 		- [[Bagging - Sampling with replacement]]
 		- [[Random Forest]]
-- **[[1.Work/Machine Learning/Supervised Learning/Regression/Concepts/Regression]]**
+- **[[1.Work/Machine Learning/Machine Learning/Supervised Learning/Regression/Concepts/Regression]]**
 	- [[ElasticNet Regression]]
 	- [[Lasso Regression]]
 	- [[Linear Regression]]
