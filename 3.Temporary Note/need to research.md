@@ -31,7 +31,7 @@
 - [x] GELU
 - [x] GELU
 - [x] SiLU, Swish 
-- [ ] SwiGLU, GeGLU  
+- [x] SwiGLU, GeGLU  
 
 - [ ] Hinge Loss 
 - [x] Label Smoothing 

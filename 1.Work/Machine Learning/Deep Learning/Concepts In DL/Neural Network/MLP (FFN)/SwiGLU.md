@@ -1,0 +1,1 @@
+là biến thể của [[GLU]] khi thay đổi [[Sigmoid]] thành [[SiLU]] 
