@@ -1,0 +1,1 @@
+Là [[Decoder]] của [[Transformer Model]], ![[Pasted image 20261106152347.png|600]]
