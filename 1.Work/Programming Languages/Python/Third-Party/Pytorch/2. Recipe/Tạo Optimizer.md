@@ -4,4 +4,5 @@ optimizer = torch.optim.Adam(
 ​	lr = <learning_rate> 
 )
 ```
-với
+với:
+params 
