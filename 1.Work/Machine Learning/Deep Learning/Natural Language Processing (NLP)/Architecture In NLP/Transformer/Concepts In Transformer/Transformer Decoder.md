@@ -1,1 +1,2 @@
-Là [[Decoder]] của [[Transformer Model]], ![[Pasted image 20261106152347.png|600]]
+Là [[Decoder]] của [[Transformer Model]], 
+trong transformer decoder, có cơ chế ![[Pasted image 20261106152347.png|600]]
