@@ -38,13 +38,13 @@
 - [x] Lí thuyết sấp xỉ hàm trong DL 
 - [x] Định lí sấp xỉ phổ quát 
 - [ ] ~~Group Batch~~ 
-- [ ] SE Block 
-- [ ] FPN 
+- [x] SE Block 
+- [x] FPN 
 
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] AWS Certified Machine Learning Engineer – Associate (MLA-C01)
 - [ ] MLA-C02
-- [ ] Mermaid 
+- [x] Mermaid 
 - [x] bộ gõ Lotus 
 - [ ] Swin Transformer
 - [ ] DETR 
