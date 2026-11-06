@@ -3,3 +3,6 @@ cú pháp:
 ```python
 from_pretrained(pretrained_model_name_or_path=None, *kwargs)
 ```
+các tham số phổ biến khác như:
+- torch_dtype: khai báo kiểu dữ liệu của trọng số 
+- de
