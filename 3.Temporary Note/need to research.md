@@ -62,3 +62,5 @@
 - [ ] CLIP 
 - [ ] BEiT
 - [ ] https://share.gemini.google/NO8DljIUITwQ
+- [ ] GeM Pooling 
+- [ ] 
