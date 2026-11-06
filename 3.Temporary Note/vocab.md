@@ -26,3 +26,4 @@ cusp (n):
 renaissance (n) 
 amplitude (n)
 foreground (n): tiền cảnh 
+hunch (n): trực giác 
