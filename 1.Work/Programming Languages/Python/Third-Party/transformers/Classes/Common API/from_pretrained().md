@@ -4,5 +4,6 @@ cú pháp:
 from_pretrained(pretrained_model_name_or_path=None, *kwargs)
 ```
 các tham số phổ biến khác như:
-- torch_dtype: khai báo kiểu dữ liệu của trọng số 
-- de
+- torch_dtype: khai báo kiểu dữ liệu của trọng số (torch.float32, torch.float16, ...)
+- device_map: cơ chế phân bổ model lên phần cứng (auto, cpu, gpu, ...)
+- local_files_only: chỉ từ file cache local, tắt internet, không đọc từ trên HF 
