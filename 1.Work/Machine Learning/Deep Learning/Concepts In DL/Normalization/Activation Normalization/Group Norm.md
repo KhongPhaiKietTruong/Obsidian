@@ -1,0 +1,1 @@
+Group Normalization là một kĩ thuật [[Activation Normalization]] thường được sử dụng trong mạng CNN với cơ chế chia các channels của [[Feature Map]] thành các nhóm, và chuẩn hoá dựa trên giá trị trong từng nhóm đó 
