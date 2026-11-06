@@ -1,3 +1,5 @@
+Ta định nghĩa sẵn nhiều [[Bounding Box]] có kích thước khác nhau, khi model thực hiện detect, model không cần phải dự đoán ra các toạ độ mà chỉ cần xếp các anchor box có sẵn lên object 
+
 Anchor Box dùng để giải quyết vấn đề trong một ô có đến nhiều điểm trung tâm của nhiều vật thể
 
 ta định nghĩa sẵn n cái anchor box, rồi xét trong cái ô đó, gán anchor box đó cho vật thể có [[IoU - Intersection over Union]] của nó với anchor box cao nhất
