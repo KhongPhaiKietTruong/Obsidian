@@ -1,2 +1,2 @@
 Nếu các [[1.Work/OOP/Theory/Class]] là bản thiết kế để tạo ra các [[1.Work/OOP/Theory/Object]] thì abstract class chính là bản thiết kế để tạo ra các class  
-đặc điểm của các abstract class nó không thể tạo ra các đối tượng mà chỉ có thể để các lớp [[Inheritance (Tính kế thừa) |kế thừa]] nó mà thôi, trong abstract class chứa các 
+đặc điểm của các abstract class nó không thể tạo ra các đối tượng mà chỉ có thể để các lớp [[Inheritance (Tính kế thừa) |kế thừa]] nó mà thôi, trong abstract class có thể có các [[Attribute]] hoặc [[Method]] như một class bình thường 
