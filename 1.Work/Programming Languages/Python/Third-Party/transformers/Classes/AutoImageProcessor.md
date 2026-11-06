@@ -1,0 +1,1 @@
+là một [[1.Work/OOP/Theory/Class|Class]] dùng để khởi tạo quá trình tiền xử lí dữ liệu đầu vào dạng ảnh 
