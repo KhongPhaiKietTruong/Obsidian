@@ -1,4 +1,6 @@
-viết tắt của: Gaussian Error Linear Unit ![[Pasted image 20260922172424.png]]là một [[Activations]] có sự kết hợp giữa [[ReLU]] và [[Vanilla Drop Out]] 
+viết tắt của: Gaussian Error Linear Unit 
+
+GELU là một [[Activations]] có sự kết hợp giữa [[ReLU]] và [[Vanilla Drop Out]] 
 
 ## Đặc điểm
 - smooth hơn [[ReLU]] 
