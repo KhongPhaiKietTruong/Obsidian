@@ -1,6 +1,9 @@
 viết tắt của: Gaussian Error Linear Unit 
 
-GELU là một [[Activations]] có sự kết hợp giữa [[ReLU]] và [[Vanilla Drop Out]] 
+GELU là một hàm [[Activations]] có sự kết hợp giữa [[ReLU]] và [[Vanilla Drop Out]] 
+$$\text{GELU}(x) = x \cdot P(X \le x) = x \cdot \Phi(x)$$
+Trong đó $\Phi(x)$ là hàm phân phối tích lũy (Cumulative Distribution Function - CDF) của phân phối chuẩn tắc:
+$$\Phi(x) = \frac{1}{2} \left[1 + \text{erf}\left(\frac{x}{\sqrt{2}}\right)\right]$$
 
 ## Đặc điểm
 - smooth hơn [[ReLU]] 
