@@ -1,0 +1,3 @@
+AutoProcessor dùng để khởi tạo một bộ tiền xử lí cho một model đa phương thức cần kết hợp nhiều loại tiền xử lí lại với nhau 
+
+ví dụ các model như speech-to-text, text-to-image, ... 
