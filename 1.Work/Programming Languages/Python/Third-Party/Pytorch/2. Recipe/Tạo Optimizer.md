@@ -5,4 +5,5 @@ optimizer = torch.optim.Adam(
 )
 ```
 với:
-params 
+- params là một [[Iterable]] chứa các con trỏ trỏ với [[Tensor]] [[Weight]] của mô hình 
+- lr: là [[Base Learning Rate]] 
