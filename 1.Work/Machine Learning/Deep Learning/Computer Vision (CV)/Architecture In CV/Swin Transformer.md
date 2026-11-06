@@ -8,5 +8,4 @@ lúc này thì vẫn còn một hạn chế là các window không thể trao đ
 Ngoài ra, swin transformer còn có kiến trúc phân tầng giúp thực hiện Object Detection và [[Segmentation]] hiệu quả hơn 
 
 ## Công Dụng 
-- Segmentation 
-- Object Detection 
+- trích xuất đặc trưng từ ảnh nên có thể dùng trong mọi tác vụ Cv 

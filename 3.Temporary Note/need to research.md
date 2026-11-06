@@ -45,7 +45,7 @@
 - [ ] AWS Certified Machine Learning Engineer – Associate (MLA-C01)
 - [x] Mermaid 
 - [x] bộ gõ Lotus 
-- [ ] Swin Transformer
+- [x] Swin Transformer
 - [ ] DETR 
 - [ ] DINO 
 - [ ] SegFormer
