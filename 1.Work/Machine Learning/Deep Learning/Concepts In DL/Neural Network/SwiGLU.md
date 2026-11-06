@@ -1,0 +1,1 @@
+là một kiến trúc [[MLP (FFN)]] có cơ chế gating được sử dụng trong các LLM hiện đại 
