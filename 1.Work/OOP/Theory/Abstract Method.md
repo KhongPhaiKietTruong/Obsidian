@@ -1,0 +1,1 @@
+Abstract Method là các [[Method]] nằm trong [[Abstract Class]], các method này không có phần thân cụ thể mà chỉ định nghĩa trông các [[1.Work/OOP/Theory/Class|Class]] con khi kế thừa Abstract Class chứa method này 
