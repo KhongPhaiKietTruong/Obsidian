@@ -1,7 +1,7 @@
 ## Định Nghĩa 
 Batch Norm là một kĩ thuật [[Activation Normalization]] 
 
-đầu tiên ta thực hiện [[Standardization (Z-score normalization)]] để các giá trị trong batch trở thành $\hat{z}$ có $\mu \approx 0$ và $\sigma^2 \approx 1$ , sau đó ta thực hiện chuẩn hóa:
+đầu tiên ta thực hiện [[Standardization (Z-score normalization)]] để các giá trị trở thành $\hat{z}$ có $\mu \approx 0$ và $\sigma^2 \approx 1$ , sau đó ta thực hiện chuẩn hóa:
 $$
 z_{BN}=\gamma \hat{z} + \beta 
 $$
