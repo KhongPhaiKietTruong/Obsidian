@@ -3,5 +3,3 @@ với mỗi anchor box, ta cần dự đoán 2 loại thông tin:
 - classfication: anchor box đó có chứa object hay không hoặc là object thuộc class nào 
 - các giá trị để chỉnh toạ độ bounding box trên ảnh gốc lại sao cho khớp với [[Ground Truth]] 
 ![[Pasted image 20261106215554.png]]
-
-ta định nghĩa sẵn n cái anchor box, rồi xét trong cái ô đó, gán anchor box đó cho vật thể có [[IoU - Intersection over Union]] của nó với anchor box cao nhất
