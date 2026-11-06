@@ -1,2 +1,2 @@
-Nếu các [[1.Work/OOP/Theory/Class]] là bản thiết kế để tạo ra các [[1.Work/OOP/Theory/Object]] thì lớp trừu tượng chính là bản thiết kế dành cho các lớp 
-đặc điểm của các lớp trừu tượng nó không thể tạo ra các đối tượng mà chỉ có thể để các lớp [[Inheritance (Tính kế thừa) |kế thừa]] nó mà thôi
+Nếu các [[1.Work/OOP/Theory/Class]] là bản thiết kế để tạo ra các [[1.Work/OOP/Theory/Object]] thì abstract class chính là bản thiết kế để tạo ra các class  
+đặc điểm của các abstract class nó không thể tạo ra các đối tượng mà chỉ có thể để các lớp [[Inheritance (Tính kế thừa) |kế thừa]] nó mà thôi
