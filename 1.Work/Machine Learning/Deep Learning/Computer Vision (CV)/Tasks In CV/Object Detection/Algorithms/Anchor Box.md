@@ -1,4 +1,6 @@
-Ta định nghĩa sẵn nhiều [[Bounding Box]] có kích thước khác nhau, khi model thực hiện detect, model không cần phải dự đoán ra các toạ độ mà chỉ cần xếp các anchor box có sẵn lên object, mỗi một pixel trên [[Feature Map]] sẽ có nhiều anchor box
+Ta định nghĩa sẵn nhiều [[Bounding Box]] có kích thước và tỉ lệ khác nhau, khi model thực hiện detect, model không cần phải dự đoán ra các toạ độ mà chỉ cần xếp các anchor box có sẵn lên object, mỗi một vị trí trên [[Feature Map]] sẽ có nhiều anchor box (ngay cả khi vị trí đó không có object ta cần detect)
+với mỗi anchor box, ta cần dự đoán 2 loại thông tin:
+- classfication: anchor box đó có chứa object hay không hoặc là object thuộc class nào 
 
 Anchor Box dùng để giải quyết vấn đề trong một ô có đến nhiều điểm trung tâm của nhiều vật thể
 
