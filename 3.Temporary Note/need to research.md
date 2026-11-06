@@ -23,7 +23,6 @@
 - [x] adaGrad 
 - [x] batch norm vs layer norm 
 - [x] torch.nn.utils.clip_grad_norm_ 
-
 - [x] AdaptiveAvgPool2d 
 - [x] OOB
 - [x] SVD 
