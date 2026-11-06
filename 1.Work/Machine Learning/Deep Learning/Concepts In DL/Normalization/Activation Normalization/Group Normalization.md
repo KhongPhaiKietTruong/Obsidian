@@ -1,0 +1,1 @@
+Group Normalization là một kĩ thuật [[Activation Normalization]] thường được sử dụng trong mạng CNN 
