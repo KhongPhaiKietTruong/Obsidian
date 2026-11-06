@@ -10,3 +10,5 @@ models--<org>--<repo_name>/
 ├── refs/
 └── blobs/
 ```
+với:
+- blobs/ : là folder chứa file nhị phân của tất cả file trong folder repo 
