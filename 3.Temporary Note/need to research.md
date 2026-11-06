@@ -28,9 +28,7 @@
 - [x] SVD 
 - [ ] ~~GMM~~ 
 - [ ] ~~LDA~~ 
-- [ ] SwiGLU
 - [x] GELU
-- [ ] ~~SwiGLU, GeGLU~~  
 - [x] GELU
 - [x] SiLU, Swish 
 - [ ] SwiGLU, GeGLU  
