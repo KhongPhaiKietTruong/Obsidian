@@ -18,7 +18,7 @@
 - [x] cấu tạo residual block 
 - [x] mô hình BERT, GPT 
 - [x] KV Cache
-- [ ] Paddle OCR  
+- [ ] ~~Paddle OCR~~  
 - [x] decoupled learning rate ? 
 - [x] adaGrad 
 - [x] batch norm vs layer norm 
@@ -28,7 +28,7 @@
 - [x] SVD 
 - [ ] ~~GMM~~ 
 - [ ] ~~LDA~~ 
-- [ ] ~~SwiGLU~~ 
+- [ ] SwiGLU
 - [x] GELU
 - [ ] ~~SwiGLU, GeGLU~~  
 - [x] GELU
