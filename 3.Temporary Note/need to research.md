@@ -33,7 +33,7 @@
 - [x] SiLU, Swish 
 - [x] SwiGLU, GeGLU  
 
-- [ ] Hinge Loss 
+- [x] Hinge Loss 
 - [x] Label Smoothing 
 - [x] Lí thuyết sấp xỉ hàm trong DL 
 - [x] Định lí sấp xỉ phổ quát 
