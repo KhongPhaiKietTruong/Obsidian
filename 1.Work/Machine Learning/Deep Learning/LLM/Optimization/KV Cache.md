@@ -1,0 +1,1 @@
+Là một kĩ thuật tối ưu hoá trong quá trình [[Inference]] bằng cách lưu lại các ma trận K và V (xem thêm ở [[Self-Attention]]) trong cache để tái sử dụng thay vì phải tính lại mỗi lần mỗi khi sinh ra một [[Token]] mới 

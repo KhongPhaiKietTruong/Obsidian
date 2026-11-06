@@ -1,3 +1,4 @@
+tên khác: test time 
 ## Định Nghĩa
 Là quá trình sử dụng [[Neural Network]] để thực hiện dự đoán trên mẫu mới
 

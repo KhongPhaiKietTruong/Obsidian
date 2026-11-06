@@ -17,7 +17,7 @@
 - [x] backbone là gì 
 - [x] cấu tạo residual block 
 - [x] mô hình BERT, GPT 
-- [ ] KV Cache
+- [x] KV Cache
 - [ ] Paddle OCR  
 - [x] decoupled learning rate ? 
 - [x] adaGrad 

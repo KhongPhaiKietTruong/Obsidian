@@ -6,9 +6,9 @@ ví dụ:
 khi xử lí "it", model sẽ gán trọng số attention cao cho "cat" vì hai từ này liên quan đến nhau 
 
 mỗi self-attention gồm 3 thành phần:
-- Q (Query): tôi đang tìm gì ?
-- K (Key): tôi đang chứa thông tin gì ? 
-- V (Value): tôi sẽ đóng góp thông tin gì vào token đang xét nếu tôi có sự liên quan đến token đó 
+- **Q (Query): tôi đang tìm gì ?**
+- **K (Key): tôi đang chứa thông tin gì ?** 
+- **V (Value): tôi sẽ đóng góp thông tin gì vào token đang xét nếu tôi có sự liên quan đến token đó** 
 cách tính mỗi thành phần:
 $$
 \begin{align}
