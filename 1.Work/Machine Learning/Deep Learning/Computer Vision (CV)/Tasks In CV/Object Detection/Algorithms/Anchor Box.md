@@ -2,6 +2,7 @@ Ta định nghĩa sẵn nhiều [[Bounding Box]] có kích thước và tỉ l�
 với mỗi anchor box, ta cần dự đoán 2 loại thông tin:
 - classfication: anchor box đó có chứa object hay không hoặc là object thuộc class nào 
 - các giá trị để chỉnh toạ độ bounding box lại sao cho khớp với [[Ground Truth]] 
+![[Pasted image 20261106215554.png]]
 
 Anchor Box dùng để giải quyết vấn đề trong một ô có đến nhiều điểm trung tâm của nhiều vật thể
 
