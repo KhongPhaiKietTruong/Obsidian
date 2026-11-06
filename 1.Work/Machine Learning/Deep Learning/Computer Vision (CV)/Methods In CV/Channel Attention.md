@@ -1,0 +1,1 @@
+Là cơ chế cho phép học các trọng số và gán cho mỗi [[Feature Map]] 
