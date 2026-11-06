@@ -61,4 +61,4 @@
 - [ ] optimizer = torch.optim.AdamW( filter(lambda p: p.requires_grad, model.parameters()), lr=1e-4 * (0.8 ** epoch) )
 - [ ] CLIP 
 - [ ] BEiT
-- [ ] 
+- [ ] https://share.gemini.google/NO8DljIUITwQ
