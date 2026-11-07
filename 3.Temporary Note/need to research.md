@@ -48,8 +48,8 @@
 - [x] Swin Transformer
 - [x] DETR 
 - [x] DINO 
-- [ ] SegFormer
-- [ ] Focal Loss 
+- [ ] ~~SegFormer~~
+- [x] Focal Loss 
 - [ ] ConvNeXt 
 - [x] ViT 
 - [x] Transformer Decoder 
@@ -61,7 +61,7 @@
 - [ ] GeM Pooling 
 - [ ] WBF 
 - [x] focal loss 
-- [ ] dice loss 
+- [x] dice loss 
 - [x] RetinaNet 
 - [ ] Foreground-Background Class Imbalance 
 - [x] Bounding Box Regression 
