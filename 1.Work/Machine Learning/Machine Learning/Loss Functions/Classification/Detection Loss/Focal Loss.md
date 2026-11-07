@@ -8,4 +8,4 @@ Trong đó:
 - $p_t$: xác suất dự đoán đúng lớp thực tế.
 - $\alpha_t$: hệ số cân bằng lớp.
 - $\gamma$: hệ số tập trung vào mẫu khó.
-công thức này là cải tiến của [[Cross-Entropy Loss]] khi thêm thành phần 
+công thức này là cải tiến của [[Cross-Entropy Loss]] khi thêm vào hai thành phần: 
