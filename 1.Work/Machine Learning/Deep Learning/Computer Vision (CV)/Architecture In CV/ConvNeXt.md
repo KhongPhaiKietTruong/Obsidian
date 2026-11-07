@@ -4,5 +4,6 @@ viết tắt của: Convolution Next Generation
 ConvNeXt là một kiến trúc cải tiến của [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Architecture In CV/Resnet/ResNet]] dựa trên [[Convolution]] thuần túy mà không cần đến cơ chế của [[Transformer]], nó chứng minh rằng cơ chế tích chập vẫn có thể cạnh tranh sòng phẳng với các kiến trúc hiện đại khác mà không cần đến cơ chế [[Self-Attention]] phức tạp như của [[ViT]] 
 các cải tiến lớn của ConvNeXt so với CNN thông thường: 
 - dùng [[Depthwise Convolution]] 7x7 
-- 
+- [[Residual Layer]] 
+- [[GELU]] 
 ![[Pasted image 20261006145336.png|656]]
