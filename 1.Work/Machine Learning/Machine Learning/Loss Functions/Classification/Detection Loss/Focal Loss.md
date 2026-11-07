@@ -1,0 +1,1 @@
+Focal Loss là một [[Loss Function]] được sử dụng cho bài toán [[Object Detection]] với [[Imbalanced Data]] 
