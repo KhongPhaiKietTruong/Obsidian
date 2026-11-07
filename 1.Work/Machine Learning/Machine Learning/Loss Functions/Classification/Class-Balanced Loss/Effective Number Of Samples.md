@@ -1,6 +1,6 @@
 dịch: số lượng mẫu hiệu dụng
 
-Số lượng mẫu hiệu dụng là 
+Số lượng mẫu hiệu dụng là số lượng mẫu thực sự mang lại thông tin 
 có công thức 
 $$E_n = \frac{1 - \beta^n}{1 - \beta}$$
 Trong đó:
