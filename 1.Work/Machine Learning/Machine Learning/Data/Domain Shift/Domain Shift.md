@@ -1,0 +1,1 @@
+Là hiện tượng khi mà [[Data Distribution]] giữa [[Training Set]] và [[Test Set]] khác nhau 
