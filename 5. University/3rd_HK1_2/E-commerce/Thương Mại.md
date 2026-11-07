@@ -1,0 +1,1 @@
+Thương mại là hoạt động trao đổi hàng hoá hoặc dịch vụ giữa các chủ đề nhằm đáp ứng nhu cầu 
