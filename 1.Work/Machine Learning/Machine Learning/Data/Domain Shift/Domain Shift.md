@@ -1,1 +1,1 @@
-Là hiện tượng khi mà [[Data Distribution]] giữa [[Training Set]] và [[Test Set]] khác nhau 
+Là hiện tượng khi mà [[Data Distribution]] của data trong [[Training Set]] và data thực tế trong môi trường triển khai có sự khác nhau 
