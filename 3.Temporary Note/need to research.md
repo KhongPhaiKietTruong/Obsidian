@@ -64,3 +64,4 @@
 - [ ] dice loss 
 - [ ] RetinaNet 
 - [ ] Foreground-Background Class Imbalance 
+- [ ] Bounding Box Regression 
