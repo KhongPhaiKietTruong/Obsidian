@@ -50,7 +50,7 @@
 - [x] DINO 
 - [ ] SegFormer
 - [x] Focal Loss 
-- [ ] ConvNeXt 
+- [x] ConvNeXt 
 - [x] ViT 
 - [x] Transformer Decoder 
 - [ ] CVT
