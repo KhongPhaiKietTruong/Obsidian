@@ -11,4 +11,4 @@ Trong đó:
 công thức này là cải tiến của [[Cross-Entropy Loss]] khi thêm vào hai thành phần: 
 - Focusing factor: $(1-p_t)^\gamma$ 
 mẫu dễ -> $p_t$ cao -> focusing factor nhỏ và ngược lại so với mẫu khó 
-- 
+- Hệ số tập trung lớp: $a_t$ 
