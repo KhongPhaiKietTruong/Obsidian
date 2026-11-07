@@ -1,0 +1,2 @@
+Trong các mô hình [[Object Detection]] có sử dụng [[Anchor Box]], thay vì phải cố dự đoán ra toạ độ của [[Bounding Box]] thì ta có thể chỉ cần dự đoán ra các toạ độ lệch để điều chỉnh anchor box so với vị trí ban đầu của nó cho khớp với [[Ground Truth]] nhất 
+
