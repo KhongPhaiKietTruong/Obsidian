@@ -62,4 +62,4 @@
 - [ ] WBF 
 - [ ] focal loss 
 - [ ] dice loss 
-- [ ] 
+- [ ] RetinaNet 
