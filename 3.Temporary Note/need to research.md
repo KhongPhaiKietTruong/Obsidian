@@ -47,7 +47,7 @@
 - [x] bộ gõ Lotus 
 - [x] Swin Transformer
 - [x] DETR 
-- [ ] DINO 
+- [x] DINO 
 - [ ] SegFormer
 - [ ] Focal Loss 
 - [ ] ConvNeXt 
