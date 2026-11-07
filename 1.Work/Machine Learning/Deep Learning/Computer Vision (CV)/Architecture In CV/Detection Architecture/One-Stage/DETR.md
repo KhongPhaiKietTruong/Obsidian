@@ -1,14 +1,10 @@
-viết tắt của: Detection Transformer 
-## Định Nghĩa 
-gồm các thành phần:
-- [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Backbone]] 
-- Transformer [[Encoder]]
-- Transformer [[Decoder]] 
-- Prediction Head k
+viết tắt của Detection Transformer 
 
-## Ứng Dụng 
-- RT-DETR: dùng cho các tác vụ real time 
-## Ưu Điểm 
+DETR là một kiến trúc dùng cho dạng Object Detection kết giữa CNN và Transformer không sử dụng [[Anchor Box]] 
 
-## Nhược Điểm 
-- Hội tụ chậm, cần rất nhiều epoch 
+bao gồm 5 thành phần chính: 
+- CNN backbone dùng để trích xuất đặc trưng ảnh 
+- Positional Encoding: cộng thêm thông tin về vị trí vào [[Feature Map]] t
+- [[Transformer Encoder]]
+- [[Transformer Decoder]]
+- ![[Pasted image 20261106220808.png]]
