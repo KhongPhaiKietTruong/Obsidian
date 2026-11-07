@@ -67,3 +67,6 @@
 - [x] Bounding Box Regression 
 - [ ] inductive bias 
 - [ ] Stochastic Depth
+- [ ] mixup
+- [ ] cutmix 
+- [ ] 
