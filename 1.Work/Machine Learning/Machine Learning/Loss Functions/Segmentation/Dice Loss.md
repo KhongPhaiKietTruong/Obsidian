@@ -3,4 +3,10 @@ công thức tính dice loss:
 $$
  DiceLoss= 1-\frac{2|A\cap B|}{|A|+|B|} 
 $$
+Trong đó:
+- $A$: tập hợp pixel thuộc Ground Truth.
+- $B$: tập hợp pixel thuộc Prediction.
+- $|A\cap B|$: số pixel được dự đoán đúng 
+- $|A|, |B|$: số pixel thuộc hai vùng tương ứng.
+
 
