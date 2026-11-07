@@ -48,7 +48,7 @@
 - [x] Swin Transformer
 - [x] DETR 
 - [x] DINO 
-- [ ] ~~SegFormer~~
+- [ ] SegFormer
 - [x] Focal Loss 
 - [ ] ConvNeXt 
 - [x] ViT 
