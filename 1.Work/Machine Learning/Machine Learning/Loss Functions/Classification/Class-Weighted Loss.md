@@ -4,3 +4,11 @@ công thức
 $$L_{\text{WCE}} = - \sum_{c=1}^C w_c \cdot y_c \log(\hat{y}_c)$$
 với trọng số của mỗi có thể được tính bằng công thức:
 $$w_c = \frac{N}{C \cdot N_c}$$
+trong đó:
+- N: tổng số mẫu
+- C: số lượng lớp
+- $N_c$: số lượng mẫu của lớp C
+
+
+> [!NOTE] 
+> Lớp càng có ít mẫu thì sẽ có trọng số càng cao 
