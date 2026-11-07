@@ -1,0 +1,1 @@
+Missing Data là vấn đề 
