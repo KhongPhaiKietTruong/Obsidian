@@ -1,3 +1,3 @@
-là hiện tượng khi mà ta cho [[Neural Network]] được huấn luyện trên tập dữ liệu input mèo đen rồi bắt nó nhận diện mèo cam, trắng, ... 
+Covariate Shift là một dạng [[Domain Shift]] khi mà data trong [[Training Set]] và [[Test Set]] có [[Data Distribution]] khác nhau 
 
-Covariate Shift là một dạng [[Domain Shift]] 
+ví dụ: train mạng [[Neural Network]] trên ảnh mèo lông trắng nhưng lại test trên ảnh mèo cam 
