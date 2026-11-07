@@ -60,8 +60,9 @@
 - [ ] https://share.gemini.google/NO8DljIUITwQ
 - [ ] GeM Pooling 
 - [ ] WBF 
-- [ ] focal loss 
+- [x] focal loss 
 - [ ] dice loss 
-- [ ] RetinaNet 
+- [x] RetinaNet 
 - [ ] Foreground-Background Class Imbalance 
-- [ ] Bounding Box Regression 
+- [x] Bounding Box Regression 
+- [ ] 
