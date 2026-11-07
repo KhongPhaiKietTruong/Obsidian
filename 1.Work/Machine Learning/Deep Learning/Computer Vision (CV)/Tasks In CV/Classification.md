@@ -1,1 +1,1 @@
-Phân loại một
+Là tác vụ yêu cầu phân loại một ảnh thuộc vào một trong các lớp 

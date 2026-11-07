@@ -1,0 +1,1 @@
+Là tác vụ yêu cầu xác định vị trí của một vật thể ta quan tâm đến trong ảnh 
