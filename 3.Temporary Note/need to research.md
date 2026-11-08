@@ -78,4 +78,5 @@ keyword OLP AI:
 - [ ] contrasive learing 
 - [ ] feature invariance 
 - [ ] Noise and Data Degradation 
-- [ ] 
+- [ ] 2 subtask in a problems 
+- [ ] real-world AI application 
