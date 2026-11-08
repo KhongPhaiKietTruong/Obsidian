@@ -71,6 +71,7 @@
 - [ ] cutmix 
 
 keyword OLP AI:
+CV
 - [ ] multi-task learning 
 - [ ] sequence labeling 
 - [ ] representation learning 
@@ -84,3 +85,7 @@ keyword OLP AI:
 - [ ] embeddings 
 - [ ] metric learning 
 - [ ] data augmentation 
+
+NLP 
+- Sequence Labeling
+- Feature Extraction 
