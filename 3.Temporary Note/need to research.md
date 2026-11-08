@@ -69,4 +69,13 @@
 - [ ] Stochastic Depth
 - [ ] mixup
 - [ ] cutmix 
+
+keyword OLP AI:
+- [ ] multi-task learning 
+- [ ] sequence labeling 
+- [ ] representation learning 
+- [ ] domain shift & domain generalization 
+- [ ] contrasive learing 
+- [ ] feature invariance 
+- [ ] Noise and Data Degradation 
 - [ ] 
