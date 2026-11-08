@@ -85,7 +85,11 @@ CV
 - [ ] embeddings 
 - [ ] metric learning 
 - [ ] data augmentation 
-
+- [ ] Medical Image Analysis 
+- [ ] Satellite Image Analysis (- Semantic segmentation, Change detection, Multi-scale features, Domain adaptation)
+- [ ] Object Detection 
+- [ ] Image Retrivial / Fine-grained Recognition 
+- [ ] Video Action Recognition 
 NLP 
 - Sequence Labeling
 - Feature Extraction 
