@@ -80,3 +80,7 @@ keyword OLP AI:
 - [ ] Noise and Data Degradation 
 - [ ] 2 subtask in a problems 
 - [ ] real-world AI application 
+- [ ] feature extraction 
+- [ ] embeddings 
+- [ ] metric learning 
+- [ ] data augmentation 
