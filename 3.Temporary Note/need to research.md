@@ -69,6 +69,11 @@
 - [ ] Stochastic Depth
 - [ ] mixup
 - [ ] cutmix 
+- [ ] CTC 
+- [ ] Sequence Modeling 
+- [ ] Image Reconstruction
+- [ ] Graph Learnig 
+- [ ] U-net & encoder%decoder 
 
 keyword OLP AI:
 CV
