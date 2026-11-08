@@ -65,7 +65,7 @@
 - [x] RetinaNet 
 - [ ] Foreground-Background Class Imbalance 
 - [x] Bounding Box Regression 
-- [ ] inductive bias 
+- [x] inductive bias 
 - [ ] Stochastic Depth
 - [ ] mixup
 - [ ] cutmix 
