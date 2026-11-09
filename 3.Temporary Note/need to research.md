@@ -77,6 +77,7 @@
 - [ ] Các metric trong dạng toán segmentation 
 - [ ] feature extractor là gì 
 - [ ] Chọn kích thước ảnh để truyền vào model ?
+- [ ] deeplabV3+
 
 keyword OLP AI:
 CV
