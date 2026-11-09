@@ -1,1 +1,2 @@
-MCP Client là thành phần giúp quản lí kết nối giữa [[MCP Host]] và [[MCP Server]] 
+MCP Client là thành phần giúp quản lí kết nối, trao đổi dữ liệu, ... giữa [[MCP Host]] và [[MCP Server]]
+Một Host có thể có nhiều Client, đây cũng là cách thiết kế quan trọng giúp ta làm việc với nhiều hệ thống bên ngoài ![[Pasted image 20261109140446.png]]
