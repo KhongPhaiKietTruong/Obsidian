@@ -74,6 +74,8 @@
 - [ ] Image Reconstruction
 - [ ] Graph Learnig 
 - [ ] U-net & encoder decoder 
+- [ ] Các metric trong dạng toán segmentation 
+- [ ] feature extractor là gì 
 
 keyword OLP AI:
 CV
