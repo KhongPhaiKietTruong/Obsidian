@@ -1,0 +1,1 @@
+MCP Client là thành phần giúp quản lí kết nối giữa [[MCP Host]] và [[MCP Server]] 
