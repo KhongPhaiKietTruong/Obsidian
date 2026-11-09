@@ -79,6 +79,7 @@
 - [ ] Chọn kích thước ảnh để truyền vào model ?
 - [ ] deeplabV3+
 - [ ] combined loss 
+- [ ] backbone 
 
 keyword OLP AI:
 CV
