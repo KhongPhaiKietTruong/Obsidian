@@ -1,1 +1,1 @@
-Backbone là một [[Feature Extractor]] có nhiệm vụ chuyển dữ liệu đầu vào thành [[Feature Representation]] và truyền qua [[]]
+Backbone là một [[Feature Extractor]] có nhiệm vụ chuyển dữ liệu đầu vào thành [[Feature Representation]] và truyền qua [[Neck]] (nếu có) và cuối cùng là [[head]]
