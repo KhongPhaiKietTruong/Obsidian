@@ -27,3 +27,4 @@ amplitude (n): biên độ
 foreground (n): tiền cảnh 
 hunch (n): trực giác 
 bedrock (n): nền tảng 
+submissive (adj): phục tùng 
