@@ -7,3 +7,4 @@ Là phương pháp [[Interpolation]] bằng cách sao chép giá trị đã bi�
 - Xuất hiện răng cưa 
 
 ## Sử Dụng 
+- nội suy segmentation mask 
