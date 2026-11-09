@@ -3,7 +3,7 @@ là [[Average Pooling]] với pool size = [[Feature Map]]'s [[Spatial Size]]
 cho ra ma trận với kích thước 1x1
 
 ## Tác dụng
-- dùng để giảm số lượng tham số trước khi truyền vào [[Fully Connected Layer (FC)]] 
+- dùng để giảm số lượng tham số trước khi truyền vào [[FC - Fully Connected Layer]] 
 ## Sử dụng
 - sử dụng làm lớp ngay trước lớp FC 
 ## Code 

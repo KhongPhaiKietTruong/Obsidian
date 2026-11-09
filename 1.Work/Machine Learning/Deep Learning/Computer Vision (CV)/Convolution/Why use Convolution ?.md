@@ -1,5 +1,5 @@
 
-bởi vì [[Fully Connected Layer (FC)]] phải thực hiện tính toán rất nhiều
+bởi vì [[FC - Fully Connected Layer]] phải thực hiện tính toán rất nhiều
 ## Parameters Sharing 
 giả sử trong một bức ảnh 1204x1204, ta không cần phải có đúng 1204x1204 [[Weight]] mà chỉ cần $f\times f$ (f là kích thước [[Filter]]) tham số và dùng chung nó cho các vùng trên ảnh 
  cùng một filter chứa trọng số được dùng trên nhiều trọng số 
