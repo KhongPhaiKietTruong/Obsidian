@@ -6,3 +6,4 @@ Bên trong MCP Server gồm có:
 - các tools (read_file(), search_github(), ...)
 - dữ liệu (các table trong PostgreSQL)
 - prompt template 
+
