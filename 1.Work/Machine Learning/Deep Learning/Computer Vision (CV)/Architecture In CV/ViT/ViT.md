@@ -7,7 +7,7 @@ ViT là một kiến trúc model dựa trên [[Transformer]] (vốn dành cho v�
 - từ vector patch đó, ta đưa nó qua một [[FC - Fully Connected Layer]] không có hàm [[Activations]] để biến nó thành một [[Patch Embedding]] 
 - thêm [[Special Token]] [[CLS]] và [[Positional Encoding]] vào Patch Embedding 
 - đưa patch embedding đó vào [[Transformer Encoder]] và cho ra patch embedding có "chất lượng" cao hơn 
-- đưa output của transformer encoder vào [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Head/Head|Head]] và cho ra kết quả 
+- đưa output của transformer encoder vào [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Head|Head]] và cho ra kết quả 
 ![[Pasted image 20261002131457.png]]
 ## Ưu Điểm 
 - nắm bắt được thông tin toàn cảnh ngay từ đầu 

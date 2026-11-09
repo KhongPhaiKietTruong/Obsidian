@@ -1,0 +1,1 @@
+Neck là phần nằm giữa [[Backbone]] và [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Head|Head]], có nhiệm vụ biến đổi, kết hợp
