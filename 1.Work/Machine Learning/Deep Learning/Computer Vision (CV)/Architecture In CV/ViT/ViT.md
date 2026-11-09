@@ -10,9 +10,11 @@ ViT là một kiến trúc model dựa trên [[Transformer]] (vốn dành cho v�
 - đưa output của transformer encoder vào [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Head|Head]] và cho ra kết quả 
 ![[Pasted image 20261002131457.png]]
 ## Ưu Điểm 
+
 - nắm bắt được thông tin toàn cảnh ngay từ đầu 
 ## Nhược Điểm 
 - các [[Feature Map]] tạo ra có kích thước cố định
+- ít [[Inductive Bias]] hơn CNN nên cần nhiều data để train  
 ## Công Dụng
 - dùng trong tác vụ phân loại bằng cách lấy ra [[Special Token]] và truyền vào một [[FC - Fully Connected Layer]] có out_features là số lớp ảnh 
 - Nhận Diện 
