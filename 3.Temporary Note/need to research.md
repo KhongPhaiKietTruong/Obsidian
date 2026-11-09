@@ -73,7 +73,7 @@
 - [ ] Sequence Modeling 
 - [ ] Image Reconstruction
 - [ ] Graph Learnig 
-- [ ] U-net & encoder%decoder 
+- [ ] U-net & encoder decoder 
 
 keyword OLP AI:
 CV
