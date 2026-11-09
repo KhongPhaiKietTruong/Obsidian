@@ -12,7 +12,7 @@ ViT là một kiến trúc model dựa trên [[Transformer]] (vốn dành cho v�
 ## Ưu Điểm 
 - nắm bắt được thông tin toàn cảnh ngay từ đầu 
 ## Nhược Điểm 
-- các path có độ phân giải cố định 
+- các [[Feature Map]] tạo ra có kích thước cố định
 ## Công Dụng
 - dùng trong tác vụ phân loại bằng cách lấy ra [[Special Token]] và truyền vào một [[FC - Fully Connected Layer]] có out_features là số lớp ảnh 
 - Nhận Diện 
