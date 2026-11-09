@@ -30,3 +30,4 @@ bedrock (n): nền tảng
 submissive (adj): phục tùng 
 extracurricular (n) 
 playbook (n): 
+ causal 
