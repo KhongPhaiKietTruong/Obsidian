@@ -7,4 +7,6 @@ Là phương pháp [[Interpolation]] bằng cách sao chép giá trị đã bi�
 - Xuất hiện răng cưa 
 
 ## Sử Dụng 
-- nội suy segmentation mask 
+- nội suy segmentation mask (do các class ID không thể nào nhận giá trị không biết)
+
+![[Pasted image 20261109115537.png]]
