@@ -28,4 +28,5 @@ foreground (n): tiền cảnh
 hunch (n): trực giác 
 bedrock (n): nền tảng 
 submissive (adj): phục tùng 
-extracurricular
+extracurricular (n) 
+playbook (n): 
