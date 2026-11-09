@@ -66,6 +66,8 @@
 - [ ] Foreground-Background Class Imbalance 
 - [x] Bounding Box Regression 
 - [x] inductive bias 
+- [ ] function calling 
+
 - [ ] Stochastic Depth
 - [ ] mixup
 - [ ] cutmix 
