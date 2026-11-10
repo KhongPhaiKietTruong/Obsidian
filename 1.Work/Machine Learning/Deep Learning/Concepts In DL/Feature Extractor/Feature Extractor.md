@@ -6,8 +6,3 @@ Bộ trích xuất đặc trưng là khái niệm chỉ thành phần trong các
 > [!NOTE] 
 > [[Backbone]] chính là một [[Feature Extractor]] 
 
-
-> [!NOTE] Title
-> Contents
-
-
