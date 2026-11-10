@@ -10,7 +10,7 @@ ví dụ 2: thực hiện **che** một phần nhỏ trên ảnh rồi bắt mod
 ## Công Dụng  
 - được dùng để tạo ra một [[Feature Extractor]] có khả năng trích xuất đặc trưng có ích để làm [[Backbone]] cho downstream task 
 ## Trường Hợp Sử Dụng 
-- Khi dữ liệu không có nhãn 
+- Khi dữ liệu không có nhãn hoặc chỉ có một phần là có nhãn 
 - Khi việc gán nhãn dữ liệu rất tốn kém hoặc khó thực hiện 
 
 ## Các loại SSL
