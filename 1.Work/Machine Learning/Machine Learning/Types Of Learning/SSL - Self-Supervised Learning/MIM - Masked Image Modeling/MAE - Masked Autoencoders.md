@@ -3,6 +3,7 @@ MAE là một kiến trúc thuộc [[SSL - Self-Supervised Learning]] áp dụng
 
 ## Thành Phần Chính
 - [[Encoder]]: [[ViT]]
+- [[Decoder]]: [[Transformer Decoder]]
 ## Cơ Chế Hoạt Động 
 - trong paper gốc thực hiện che 75% số patch, che nhiều như vậy là để model học được nhiều 
 - truyền các patch không bị che vào encoder 
