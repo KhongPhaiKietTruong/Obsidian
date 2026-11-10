@@ -8,9 +8,10 @@ model tự tạo ra bài toán là **đoán từ**, nó che từ machine (đồn
 
 ví dụ 2: thực hiện **che** một phần nhỏ trên ảnh rồi bắt model phải dự đoán phần ảnh bị che đó đó 
 ## Công Dụng  
-- được dùng để tạo ra một [[Feature Extractor]] đủ mạnh để làm [[Backbone]] cho downstream task 
+- được dùng để tạo ra một [[Feature Extractor]] có khả năng trích xuất đặc trưng có ích để làm [[Backbone]] cho downstream task 
 ## Trường Hợp Sử Dụng 
-- Phương pháp học này dành cho dataset không có nhãn 
+- Khi dữ liệu không có nhãn 
+- Khi việc gán nhãn dữ liệu rất tốn kém hoặc khó thực hiện 
 
 ## Các loại SSL
 các dạng học tự giám sát phổ biến:
