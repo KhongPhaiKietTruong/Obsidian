@@ -1,2 +1,2 @@
 ## Định Nghĩa 
-FixMatch là một dạng [[Semi-Supervised Learning]] với ý tưởng cốt lõi: tạo ra hai phiên bản: biến thể tăng cường yếu và biến thể tăng cường mạnh của một mẫu chưa được gán nhãn, ta 
+FixMatch là một dạng [[Semi-Supervised Learning]] với ý tưởng cốt lõi: tạo ra hai phiên bản: biến thể tăng cường yếu và biến thể tăng cường mạnh của một mẫu chưa được gán nhãn, ta dùng model để dự đoán trên biến thể yếu và tạo ra pseudo-label (phải có confidence cao) 
