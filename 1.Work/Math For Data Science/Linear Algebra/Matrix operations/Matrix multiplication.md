@@ -4,4 +4,4 @@ $$
 $$  
 nếu $c_{1}, r_{2}$ bằng nhau 
 
-ta tách ma trận thứ 1 thành cách hàng và ma trận 2 thành các cột, sau đó tính [[Dot product (Tích Vô Hướng)]] của chúng ![[Pasted image 20260126115102.png]]
+ta tách ma trận thứ 1 thành cách hàng và ma trận 2 thành các cột, sau đó tính [[Dot product]] của chúng ![[Pasted image 20260126115102.png]]

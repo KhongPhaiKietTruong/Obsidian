@@ -8,7 +8,7 @@
 - [[Cross Product]]
 - [[Determinant of a product]]
 - [[Determinant]]
-- [[Dot product (Tích Vô Hướng)]]
+- [[Dot product]]
 - [[Eigenbasis]]
 - [[Eigenvalue]]
 - [[Eigenvector]]

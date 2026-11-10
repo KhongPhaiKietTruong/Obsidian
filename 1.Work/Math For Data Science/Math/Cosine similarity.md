@@ -9,7 +9,7 @@ công thức tính:
 $$
 \cos(\theta)=\frac{A \cdot B}{||A|| ||B||}
 $$
-với $A \cdot B$ là [[Dot product (Tích Vô Hướng)]] của hai vector 
+với $A \cdot B$ là [[Dot product]] của hai vector 
 ||A|| là [[L2-norm]] của vector 
 
 đại lượng này cũng giống với [[1.Work/Machine Learning/Deep Learning/Natural Language Processing (NLP)/Math In NLP/Euclidean Distance]] nhưng để giải quyết vấn đề A=10B thì khoảng cách sẽ rất lớn nhưng hai vector này vẫn tương đồng nên ta sẽ xem xét thêm hướng của vector 

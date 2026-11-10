@@ -1,4 +1,6 @@
-là khoảng cách giữa hai [[Vector]] (khoảng cách giữa hai điểm đầu mút cuối theo hướng vector)
+tên khác: L2 Distance
+
+Euclidean Distance là khoảng cách giữa hai [[Vector]] (khoảng cách giữa hai điểm đầu mút cuối theo hướng vector)
 dùng để đo mức độ tương đồng giữa hai vector 
 
 Công thức tính:
