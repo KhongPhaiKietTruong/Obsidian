@@ -29,7 +29,7 @@ hunch (n): trực giác
 bedrock (n): nền tảng 
 submissive (adj): phục tùng 
 extracurricular (n) 
-playbook (n): 
- causal 
+playbook (n): sổ tay chiến lược 
+ causal (adj): liên quan đến nhân quả 
  deform (v): làm biến dạng 
  deformable (adj): có thể biến dạng 
