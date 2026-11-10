@@ -7,6 +7,8 @@ Tăng cường dữ liệu là thao tác tạo ra các biến thể mới dựa 
 - giải quyết vấn đề [[Training Set]] có ít mẫu 
 - tăng tính [[Generalization]] 
 
+## Nguyên Tắc Thực Hiện 
+- khi thực hiện tăng cường dữ liệu trong bài toán [[Object Detection]] hoặc [[Segmentation]] thì nhãn của nó cũng phải biến đổi theo tương ứng 
 
 
 Mirroring 
