@@ -1,16 +1,17 @@
-dùng để tính độ tương đồng giữa hai [[Vector]]
-trả về một số thực nằm trong khoảng từ \[-1 ;1]
+Cosine Similarity là đại lượng dùng để đo sự tương quan về **hướng** của hai [[Vector]] 
 
--1: đối lập nhau
-0: không liên quan
-1: giống nhau
+cosine similarity có miền giá trị từ \[-1, 1]:
+- -1: hai vector ngược hướng
+- 0: hai vector vuông góc 
+- 1: hai vector cùng hướng 
 
 công thức tính:
 $$
-sim(\vec{a}, \vec{b})=\cos(\theta)=\frac{\mathbf{a}\cdot\mathbf{b}}{\|\mathbf{a}\|\|\mathbf{b}\|}
+\cos(\theta)=\frac{A \cdot B}{||A|| ||B||}
 $$
-tích vô hướng / tích độ dài 
+với $A \cdot B$ là [[Dot product (Tích Vô Hướng)]] của hai vector 
+||A|| là [[L2-norm]] của vector 
 
-```
-cos = np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
-```
+đại lượng này cũng giống với [[1.Work/Machine Learning/Deep Learning/Natural Language Processing (NLP)/Math In NLP/Euclidean Distance]] nhưng để giải quyết vấn đề A=10B thì khoảng cách sẽ rất lớn nhưng hai vector này vẫn tương đồng nên ta sẽ xem xét thêm hướng của vector 
+
+cosine similarity thường được dùng nhiều hơn euclidean 

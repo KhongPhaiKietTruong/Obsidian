@@ -20,7 +20,7 @@ $\mu_{c^{(i)}}$ là tạo độ tâm cụm của cụm
 ## Đặc Điểm 
 - chạy nhiều lần với cùng số tâm cụm để tránh bị kẹt trong [[Local Minimum (Cực Tiểu Cục Bộ)]] 
 ## Nhược Điểm 
-- Nhạy cảm với [[Outliers]] do dùng [[Euclidean]]
+- Nhạy cảm với [[Outliers]] do dùng [[1.Work/Math For Data Science/Math/Euclidean Distance]]
 - Nhạy cảm với quy mô giá trị các [[Features]] (phải thực hiện [[Normalization]])
 - "lời quyền số chiều"
 ## Cost Function Trong K-Means 
