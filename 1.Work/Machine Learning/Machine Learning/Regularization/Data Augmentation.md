@@ -17,3 +17,6 @@ Là dạng tăng cường mô phỏng các điều kiện thực tế trên môi
 >ví dụ như khi xây dựng model detect xe trên đường thì ta sẽ thực hiện các thao tác biến đổi để mô phỏng các trường hợp như mưa, xe bị che một phần, trời nắng gắt, ... 
 ### Regularization-Oriented Augmentation 
 Là dạng tăng cường nhằm tăng tính đa dạng cho dữ liệu, giảm overfitting và tăng generalization 
+
+## Cách Chọn Pipeline Tăng Cường 
+Đầu tiên, ta xem xét trên góc độ môi trường triển khai thực tế để chọn các thao tác tăng cường trước, rồi mới chọn thêm các thao tác thuộc nhóm regularization để tăng tính generalization 
