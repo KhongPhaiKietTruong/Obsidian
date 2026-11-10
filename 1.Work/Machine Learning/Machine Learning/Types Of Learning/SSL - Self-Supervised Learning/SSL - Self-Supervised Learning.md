@@ -7,8 +7,9 @@ ví dụ 1: "I love machine learning" -> "i love ... learning"
 model tự tạo ra bài toán là **đoán từ**, nó che từ machine (đồng thời dùng từ này làm label luôn), rồi dùng bài toán này để train 
 
 ví dụ 2: thực hiện **che** một phần nhỏ trên ảnh rồi bắt model phải dự đoán phần ảnh bị che đó đó 
-
-## Sử Dụng 
+## Công Dụng  
+- được dùng để tạo ra một [[Feature Extractor]] đủ mạnh để làm [[Backbone]] cho tác vụ cuối 
+## Trường Hợp Sử Dụng 
 - Phương pháp học này dành cho dataset không có nhãn 
 
 ## Các loại SSL
