@@ -1,0 +1,2 @@
+## Định Nghĩa 
+Self-Training là một dạng [[Semi-Supervised Learning]] khi mà ta dùng model được train trên data có nhãn rồi dùng model đó dự đoán ra các label của data chưa có nhãn rồi dùng data được gán nhãn bởi model đó để tiếp tục train 
