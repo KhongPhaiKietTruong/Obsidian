@@ -77,7 +77,7 @@
 - [ ] Graph Learnig 
 - [ ] U-net & encoder decoder 
 - [ ] Các metric trong dạng toán segmentation 
-- [ ] feature extractor là gì 
+- [x] feature extractor là gì 
 - [ ] Chọn kích thước ảnh để truyền vào model ?
 - [ ] deeplabV3+
 - [ ] combined loss 
