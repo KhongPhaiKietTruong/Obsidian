@@ -1,7 +1,7 @@
 kí hiệu: e
 
 ## Định Nghĩa 
-Embedding là một [[Vector]] dày đặc chứa các giá trị số biểu diễn cho dữ liệu (như ảnh, một từ, .. ), 
+Embedding là các [[Vector]] dày đặc chứa các giá trị số biểu diễn cho dữ liệu (như ảnh, một từ, .. ), 
 
 ## Đặc Điểm 
 - một đặc trưng quan trọng của embeddings là hai mẫu dữ liệu có mối quan hệ tương đồng nhau thì embeddings của hai mẫu đó cũng nằm gần nhau trong không gian vector 

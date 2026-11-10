@@ -8,5 +8,5 @@ có hai loại architecture phổ biến cho thuật toán này:
 - có thể thực hiện tối ưu skip-gram bằng phương pháp [[Negative Sampling]] hoặc [[Hierarchiral Softmax Classifier]] 
 
 ## Nhược Điểm 
-- Một từ tương ứng với một [[Embedding]], không mang tính ngữ cảnh, bank trong "im going to the bank" và "sit on the river bank" mang cùng một embeddings
+- Một từ tương ứng với một [[Embeddings]], không mang tính ngữ cảnh, bank trong "im going to the bank" và "sit on the river bank" mang cùng một embeddings
 - không thể xử lí được [[OOV]] 

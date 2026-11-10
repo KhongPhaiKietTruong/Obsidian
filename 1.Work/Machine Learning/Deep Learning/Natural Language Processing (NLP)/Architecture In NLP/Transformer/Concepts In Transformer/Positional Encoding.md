@@ -1,1 +1,1 @@
-Là một kĩ thuật gắn thêm thông tin vị trí vào [[Embedding]] của mỗi [[Token]] để biết được token nào đứng trước hay đứng sau 
+Là một kĩ thuật gắn thêm thông tin vị trí vào [[Embeddings]] của mỗi [[Token]] để biết được token nào đứng trước hay đứng sau 

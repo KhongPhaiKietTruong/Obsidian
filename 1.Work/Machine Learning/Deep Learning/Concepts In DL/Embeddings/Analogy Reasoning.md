@@ -1,4 +1,4 @@
-là một tính chất quan trọng của các [[Embedding]]
+là một tính chất quan trọng của các [[Embeddings]]
 tính chất này trả lời câu hỏi kiểu: "man -> woman vậy vì king -> ?"
 
 để giải quyết được vấn về này, hiểu đơn giản là ta sẽ giải 
