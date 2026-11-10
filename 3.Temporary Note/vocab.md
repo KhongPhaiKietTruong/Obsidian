@@ -10,3 +10,4 @@ bootstrap (v): khởi tạo
 ablate (v): loại bỏ một phần
 ablation (n): sự loại bỏ 
 occlusion (n): 
+overstate (v): phóng đại, nói quá 
