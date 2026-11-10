@@ -8,8 +8,8 @@ Tăng cường dữ liệu là thao tác tạo ra các biến thể mới dựa 
 - tăng tính [[Generalization]] 
 
 ## Nguyên Tắc Thực Hiện 
+- thao tác tăng cường không được làm cho mẫu mất đi ý nghĩa của nó (ta không thể cắt hết con mèo ra khỏi một tấm ảnh mèo trong bài toán phân loại mèo)
 - khi thực hiện tăng cường dữ liệu trong bài toán [[Object Detection]] hoặc [[Segmentation]] thì nhãn của nó cũng phải biến đổi theo tương ứng 
-
 
 ## Các Loại Tăng Cường Dữ Liệu 
 ### Realistic Augmentation 
