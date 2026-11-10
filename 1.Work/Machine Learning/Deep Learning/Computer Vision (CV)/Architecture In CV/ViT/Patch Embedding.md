@@ -1,1 +1,1 @@
-là một [[Embeddings]] thể hiện thông tin của một mảnh ảnh trong kiến trúc [[ViT]] 
+là một [[Embedding]] thể hiện thông tin của một mảnh ảnh trong kiến trúc [[ViT]] 
