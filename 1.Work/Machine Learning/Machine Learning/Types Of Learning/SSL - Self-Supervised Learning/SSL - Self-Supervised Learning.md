@@ -8,7 +8,7 @@ model tự tạo ra bài toán là **đoán từ**, nó che từ machine (đồn
 
 ví dụ 2: thực hiện **che** một phần nhỏ trên ảnh rồi bắt model phải dự đoán phần ảnh bị che đó đó 
 ## Công Dụng  
-- được dùng để tạo ra một [[Feature Extractor]] đủ mạnh để làm [[Backbone]] cho tác vụ cuối 
+- được dùng để tạo ra một [[Feature Extractor]] đủ mạnh để làm [[Backbone]] cho downstream task 
 ## Trường Hợp Sử Dụng 
 - Phương pháp học này dành cho dataset không có nhãn 
 

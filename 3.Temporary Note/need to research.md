@@ -82,6 +82,7 @@
 - [ ] deeplabV3+
 - [ ] combined loss 
 - [x] backbone 
+- [ ] DINOv2 / MAE / SimCLR...
 
 keyword OLP AI:
 CV
