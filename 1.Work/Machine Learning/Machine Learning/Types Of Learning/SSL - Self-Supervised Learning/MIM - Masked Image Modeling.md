@@ -1,2 +1,2 @@
 ## Định Nghĩa 
-MIM thuộc [[SSL - Self-Supervised Learning]] học theo cơ chế chê một phần nhỏ của ảnh, sau đó bắt model dự đoán phần bị che đó rồi so phân dự
+MIM thuộc [[SSL - Self-Supervised Learning]] học theo cơ chế che một phần nhỏ của ảnh, sau đó bắt model dự đoán phần bị che đó rồi tính giá [[Loss Function]] dựa trên kết quả model dự đoán ra với phần ảnh bị che 
