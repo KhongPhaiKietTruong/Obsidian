@@ -53,7 +53,7 @@
 - [x] ConvNeXt 
 - [x] ViT 
 - [x] Transformer Decoder 
-- [ ] ~~CVT~~
+- [ ] ~~CVT~~ (kiến trúc này ít phổ biến trong thực tế)
 - [ ] optimizer = torch.optim.AdamW( filter(lambda p: p.requires_grad, model.parameters()), lr=1e-4 * (0.8 ** epoch) )
 - [ ] CLIP 
 - [ ] BEiT
