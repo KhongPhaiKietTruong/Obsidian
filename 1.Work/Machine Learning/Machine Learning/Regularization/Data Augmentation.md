@@ -1,6 +1,7 @@
 dịch: tăng cường dữ liệu
-
 ## Định Nghĩa 
+
+
 
 Mirroring 
 Random Cropping 
