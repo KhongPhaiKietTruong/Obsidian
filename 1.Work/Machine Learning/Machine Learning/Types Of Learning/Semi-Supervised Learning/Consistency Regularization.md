@@ -1,0 +1,2 @@
+## Định Nghĩa 
+Consitency Regularization là một dạng của [[Semi-Supervised Learning]] với ý tưởng huấn luyện là: model phải dự đoán ra cùng một nhãn đối với nhiều phiên bản được tăng cường của một mẫu dữ liệu chưa được gán nhãn 
