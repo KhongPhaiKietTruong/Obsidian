@@ -31,3 +31,5 @@ submissive (adj): phục tùng
 extracurricular (n) 
 playbook (n): 
  causal 
+ deform (v): làm biến dạng 
+ deformable (adj): có thể biến dạng 
