@@ -7,3 +7,5 @@ those vs whoever
 
 unhinged (adj): mất kiểm soát, điên rồ 
 bootstrap (v): khởi tạo 
+ablate (v): loại bỏ một phần
+ablation (n): sự loại bỏ 
