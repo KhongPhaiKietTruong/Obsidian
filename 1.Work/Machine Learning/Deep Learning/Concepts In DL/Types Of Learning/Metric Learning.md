@@ -1,0 +1,2 @@
+## Định Nghĩa 
+Metric Learning là một phương pháp học mà model có khả năng đưa ra các [[Embeddings]] sao cho distance functions (như [[Cosine Similarity]], ...) có thể đo lường sự tương đồng giữa các [[Embeddings]] một cách có ý nghĩa 
