@@ -1,1 +1,1 @@
-lấy phần tử lớn nhất trong ma trận pool 
+Max Pooling là [[Spatial Pooling]] lấy phần tử lớn nhất trong ma trận pool 

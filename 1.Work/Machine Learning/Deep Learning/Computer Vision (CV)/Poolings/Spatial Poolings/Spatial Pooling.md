@@ -1,5 +1,5 @@
 ## Định nghĩa
-Pooling Layer là một [[Layer]] dùng để giảm [[Spatial Size]] của [[Output Tensor Z]],  
+Spatial Pooling là một [[Layer]] dùng để giảm [[Spatial Size]] của [[Output Tensor Z]],  
 cách hoạt động cũng gần giống như [[Filter]] khi mà ta có một ma trận trượt
 
 tùy vào loại pooling mà ta áp dụng hành động tương ứng lên cái vùng trong ma trận trượt đó 
