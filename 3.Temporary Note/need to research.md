@@ -74,7 +74,7 @@
 - [ ] khôi phục ảnh cũ 
 - [ ] ~~Graph Learning~~ (chưa phổ biến) 
 - [x] U-net & encoder decoder 
-- [ ] Các metric trong dạng toán segmentation 
+- [x] Các metric trong dạng toán segmentation 
 - [x] feature extractor là gì 
 - [ ] Chọn kích thước ảnh để truyền vào model ?
 - [ ] deeplabV3+
