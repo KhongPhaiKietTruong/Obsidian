@@ -1,2 +1,0 @@
-trong CV, sau khi ta thực hiện [[Convolution]] thì sẽ cho ra một [[Feature Map]], ta sẽ thực hiện cộng feature map này với một [[Bias|Bias]] (là một vector hàng và sẽ được thực hiện [[Broadcasting]], nghĩa là toàn bộ phần tử trên feature map được cộng thêm b)
-
