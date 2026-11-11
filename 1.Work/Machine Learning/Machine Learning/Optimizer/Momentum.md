@@ -39,4 +39,4 @@ và cũng thực hiện tương tự với [[Bias]]
 giá trị phổ biến của $\beta$ là 0.9 
 
 ## Công Dụng 
-- giúp vượt qua [[Saddle Point (Điểm Yên Ngựa)]] hoặc các [[Local Minimum (Cực Tiểu Cục Bộ)]] 
+- giúp vượt qua [[Saddle Point]] hoặc các [[Local Minimum (Cực Tiểu Cục Bộ)]] 

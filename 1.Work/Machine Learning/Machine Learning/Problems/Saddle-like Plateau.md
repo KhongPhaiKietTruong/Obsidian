@@ -3,4 +3,3 @@ Vùng Yên Ngựa là một vùng mà có độ dốc rất phẳng ([[Gradient]
 
 ## Giải Pháp 
 - [[Momentum]] : dựa trên quán tính ([[Exponentially Weighted Average (EWA)]] của các gradient trong quá khứ) để vượt qua vùng phẳng này 
-- 
