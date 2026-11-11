@@ -5,5 +5,8 @@ lên competition kaggle học hỏi
 tìm nhãn sai, mẫu lỗi -> bỏ đi/chỉnh lại -> 
 zero-shot ? 
 phân tích lỗi -> dựa trên lỗi đó rồi cải tiến 
-
+thí nghiệm oracle ? 
+paperwithcode 
+SOTA 
+google scholar 
 làm thế nào để anh biết baseline đang yếu ở đâu để anh cải tiến ạ?
