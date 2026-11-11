@@ -58,7 +58,7 @@
 - [x] CLIP 
 - [x] BEiT
 - [ ] https://share.gemini.google/NO8DljIUITwQ
-- [ ] GeM Pooling 
+- [x] GeM Pooling 
 - [ ] WBF 
 - [x] focal loss 
 - [x] dice loss 
