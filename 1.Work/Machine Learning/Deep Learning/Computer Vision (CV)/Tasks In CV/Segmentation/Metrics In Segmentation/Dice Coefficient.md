@@ -1,0 +1,1 @@
+Dice là một chỉ số dùng để đánh giá độ tương đồng giữa hai segmentation mask (một cái do model dự đoán và một cái là [[Ground Truth]]) 
