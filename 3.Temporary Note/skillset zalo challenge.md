@@ -9,4 +9,6 @@ thí nghiệm oracle ?
 paperwithcode 
 SOTA 
 google scholar 
+bật MCP/plugin cho Ai tìm paper ? 
+
 làm thế nào để anh biết baseline đang yếu ở đâu để anh cải tiến ạ?
