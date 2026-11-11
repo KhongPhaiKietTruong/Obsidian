@@ -81,6 +81,7 @@
 - [ ] combined loss 
 - [x] backbone 
 - [ ] DINOv2 / MAE / SimCLR...
+- [ ] SMOTE 
 
 keyword OLP AI:
 CV
