@@ -1,0 +1,1 @@
+viết tắt của Mean Intersection Over Union 
