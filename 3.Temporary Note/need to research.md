@@ -48,7 +48,7 @@
 - [x] Swin Transformer
 - [x] DETR 
 - [x] DINO 
-- [ ] SegFormer
+- [x] SegFormer
 - [x] Focal Loss 
 - [x] ConvNeXt 
 - [x] ViT 
@@ -90,7 +90,7 @@ CV
 - [ ] sequence labeling 
 - [ ] representation learning 
 - [ ] domain shift & domain generalization 
-- [ ] contrasive learing 
+- [x] contrasive learing 
 - [ ] feature invariance 
 - [ ] Noise and Data Degradation 
 - [ ] 2 subtask in a problems 
