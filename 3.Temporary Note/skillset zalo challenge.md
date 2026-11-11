@@ -14,4 +14,4 @@ ensemble model/checkpoint
 pseudo labeling 
 làm thế nào để anh biết baseline đang yếu ở đâu để anh cải tiến ạ?
 chỉ ensemble các mô hình có hiệu năng xêm xêm nhau 
-![[Pasted image 20261111201652.png]]
+![[Pasted image 20261111201652.png]](thường dùng 3 cái trên)
