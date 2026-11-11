@@ -59,7 +59,7 @@
 - [x] BEiT
 - [ ] https://share.gemini.google/NO8DljIUITwQ
 - [x] GeM Pooling 
-- [ ] WBF 
+- [x] WBF 
 - [x] focal loss 
 - [x] dice loss 
 - [x] RetinaNet 
