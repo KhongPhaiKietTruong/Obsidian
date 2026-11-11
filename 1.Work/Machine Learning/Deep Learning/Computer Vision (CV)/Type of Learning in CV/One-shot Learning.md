@@ -1,6 +1,6 @@
 ## Định Nghĩa 
-là sự hiện thực huấn luyện model khi chỉ có một mẫu duy nhất 
+One-shot Learning là phương pháp học hiện thực huấn luyện model khi chỉ có một mẫu có nhãn duy nhất 
 
-dùng một hàm số để so sánh hai bức ảnh và cho ra giá trị thể hiện sự khác biệt, nếu giá trị đó bé hơn threshold thì cho là cùng một nhãn 
+ví dụ: bài toán phân loại chó vs mèo vs thỏ với mỗi lớp chỉ có một ảnh 
 ## Sử Dụng 
 - Dùng trong nhận diện khuôn mặt 
