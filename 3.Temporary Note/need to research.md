@@ -77,7 +77,7 @@
 - [x] Các metric trong dạng toán segmentation 
 - [x] feature extractor là gì 
 - [ ] Chọn kích thước ảnh để truyền vào model ?
-- [ ] deeplabV3+
+- [ ] deeplabV3
 - [ ] combined loss 
 - [x] backbone 
 - [ ] DINOv2 / MAE / SimCLR...
