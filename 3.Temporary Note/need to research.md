@@ -68,7 +68,7 @@
 - [x] inductive bias 
 - [ ] function calling 
 
-- [ ] Stochastic Depth
+- [ ] ~~Stochastic Depth (một kĩ thuật được đề xuất, không mang tính nền tảng)~~
 - [ ] mixup
 - [ ] cutmix 
 - [ ] CTC 
