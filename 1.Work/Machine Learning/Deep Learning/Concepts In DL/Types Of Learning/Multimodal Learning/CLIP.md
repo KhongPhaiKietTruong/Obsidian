@@ -1,2 +1,2 @@
 ## Định Nghĩa 
-CLIP là một mô hình học [[Multimodal Learning]] có khả năng hiểu được mối quan hệ giữa hình ảnh và văn bản với ý tưởng cốt lõi: đưa [[Embeddings]] của hình ảnh và văn bản có cùng ý nghĩa vào gần nhau trong [[Vector Space]] 
+CLIP là một mô hình học [[Multimodal Learning]] có khả năng hiểu được mối quan hệ giữa hình ảnh và văn bản với ý tưởng cốt lõi áp dụng [[Contrastive Learning]]: đưa [[Embeddings]] của hình ảnh và văn bản có cùng ý nghĩa vào gần nhau trong [[Vector Space]] 
