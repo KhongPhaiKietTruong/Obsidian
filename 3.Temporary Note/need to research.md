@@ -72,7 +72,7 @@
 - [x] mixup
 - [x] cutmix 
 - [ ] ~~CTC~~ 
-- [ ] Sequence Modeling 
+- [ ] ~~Sequence Modeling~~ 
 - [ ] Image Reconstruction
 - [ ] Graph Learnig 
 - [ ] U-net & encoder decoder 
