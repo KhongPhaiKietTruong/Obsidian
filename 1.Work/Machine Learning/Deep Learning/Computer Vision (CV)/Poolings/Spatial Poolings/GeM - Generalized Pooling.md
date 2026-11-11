@@ -1,0 +1,1 @@
+GeM là loại [[Spatial Pooling]] thường được sử dụng trong các tác vụ như image retrie
