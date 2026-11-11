@@ -10,5 +10,6 @@ paperwithcode
 SOTA 
 google scholar 
 bật MCP/plugin cho Ai tìm paper ? 
-
+ensemble model/checkpoint 
+pseudo labeling 
 làm thế nào để anh biết baseline đang yếu ở đâu để anh cải tiến ạ?
