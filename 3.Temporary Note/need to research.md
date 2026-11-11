@@ -73,7 +73,7 @@
 - [x] cutmix 
 - [ ] khôi phục ảnh cũ 
 - [ ] ~~Graph Learning~~ (chưa phổ biến) 
-- [ ] U-net & encoder decoder 
+- [x] U-net & encoder decoder 
 - [ ] Các metric trong dạng toán segmentation 
 - [x] feature extractor là gì 
 - [ ] Chọn kích thước ảnh để truyền vào model ?
