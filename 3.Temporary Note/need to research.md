@@ -81,7 +81,8 @@
 - [ ] combined loss 
 - [x] backbone 
 - [ ] DINOv2 / MAE / SimCLR...
-- [ ] SMOTE 
+- [x] SMOTE 
+- [ ] FCN 
 
 keyword OLP AI:
 CV
