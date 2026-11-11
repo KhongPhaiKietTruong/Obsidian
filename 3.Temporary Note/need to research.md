@@ -69,8 +69,8 @@
 - [ ] function calling 
 
 - [ ] ~~Stochastic Depth (một kĩ thuật được đề xuất, không mang tính nền tảng)~~
-- [ ] mixup
-- [ ] cutmix 
+- [x] mixup
+- [x] cutmix 
 - [ ] CTC 
 - [ ] Sequence Modeling 
 - [ ] Image Reconstruction
