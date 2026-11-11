@@ -71,7 +71,7 @@
 - [ ] ~~Stochastic Depth (một kĩ thuật được đề xuất, không mang tính nền tảng)~~
 - [x] mixup
 - [x] cutmix 
-- [ ] CTC 
+- [ ] ~~CTC~~ 
 - [ ] Sequence Modeling 
 - [ ] Image Reconstruction
 - [ ] Graph Learnig 
