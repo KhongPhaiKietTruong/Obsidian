@@ -9,5 +9,5 @@ dùng để biến các đặc trưng học được thành một [[Vector]] đ�
 - nằm trước [[Output Layer]] 
 
 >[!note] 
->với mỗi một model architecture khác nhau thì sẽ có lớp áp chót khác nhau, trong Resnet50 thì lớp áp chót là [[Global Average Pooling]]
+>với mỗi một model architecture khác nhau thì sẽ có lớp áp chót khác nhau, trong Resnet50 thì lớp áp chót là [[GAP - Global Average Pooling]]
 
