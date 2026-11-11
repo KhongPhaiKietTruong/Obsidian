@@ -55,8 +55,8 @@
 - [x] Transformer Decoder 
 - [ ] ~~CVT~~ (kiến trúc này ít phổ biến trong thực tế)
 - [ ] optimizer = torch.optim.AdamW( filter(lambda p: p.requires_grad, model.parameters()), lr=1e-4 * (0.8 ** epoch) )
-- [ ] CLIP 
-- [ ] BEiT
+- [x] CLIP 
+- [x] BEiT
 - [ ] https://share.gemini.google/NO8DljIUITwQ
 - [ ] GeM Pooling 
 - [ ] WBF 
