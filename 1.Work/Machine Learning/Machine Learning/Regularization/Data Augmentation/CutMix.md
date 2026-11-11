@@ -3,5 +3,7 @@ CutMix là một kĩ thuật [[Data Augmentation]] với ý tưởng chính là 
 ví dụ: nhãn của mẫu mới đó có thể là (0.75 mèo, 0.25 chó)
 
 ## Công Dụng 
-- tạo [[Regularization]] 
-- 
+- tạo [[Regularization]] giúp giảm [[Overfitting - High Variance]]
+
+## Sử Dụng 
+- được sử dụng chủ yếu trong bài toán [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Tasks In CV/Classification|Classification]] 
