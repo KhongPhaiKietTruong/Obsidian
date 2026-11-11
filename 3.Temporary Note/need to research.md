@@ -68,13 +68,11 @@
 - [x] inductive bias 
 - [ ] function calling 
 
-- [ ] ~~Stochastic Depth (một kĩ thuật được đề xuất, không mang tính nền tảng)~~
+- [ ] ~~Stochastic Depth~~ (một kĩ thuật được đề xuất, không mang tính nền tảng)
 - [x] mixup
 - [x] cutmix 
-- [ ] ~~CTC~~ 
-- [ ] ~~Sequence Modeling~~ 
-- [ ] Image Reconstruction
-- [ ] Graph Learnig 
+- [ ] khôi phục ảnh cũ 
+- [ ] Graph Learning 
 - [ ] U-net & encoder decoder 
 - [ ] Các metric trong dạng toán segmentation 
 - [x] feature extractor là gì 
