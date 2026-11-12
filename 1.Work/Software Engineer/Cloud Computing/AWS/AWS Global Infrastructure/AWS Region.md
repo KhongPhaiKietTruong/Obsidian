@@ -26,4 +26,4 @@ flowchart TD
 ```
 
 ## Đặc Điểm
-- việc sao chép dữ liệu giữa các region phải được thực hiện bởi người dùng 
+- việc sao chép dữ liệu giữa các region phải được thực hiện bởi người dùng (dùng để backup, khôi phục, ... khi)
