@@ -25,4 +25,5 @@ flowchart TD
     style B fill:#FF9900,color:#000
 ```
 
-
+## Đặc Điểm
+- việc sao chép dữ liệu giữa các region phải được thực hiện bởi người dùng 
