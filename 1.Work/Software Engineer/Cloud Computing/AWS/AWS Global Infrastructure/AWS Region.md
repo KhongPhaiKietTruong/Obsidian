@@ -7,7 +7,6 @@ AWS Region gồm nhiều [[AZ - Availability Zone]] và mỗi AZ lại gồm nhi
 flowchart TD
     A["AWS Global Infrastructure"]
     A --> B["AWS Region"]
-​	A --> X["AWS Region"]
 
     B --> C["Availability Zone 1"]
     B --> D["Availability Zone 2"]
