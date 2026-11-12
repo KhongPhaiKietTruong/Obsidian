@@ -1,0 +1,1 @@
+Amazon Lambda là một dịch vụ [[FaaS - Function as a Service]] cung cấp môi trường để chạy code 

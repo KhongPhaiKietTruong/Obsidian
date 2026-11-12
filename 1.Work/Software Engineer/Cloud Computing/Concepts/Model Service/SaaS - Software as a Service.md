@@ -1,0 +1,1 @@
+SaaS là một mô hình điện toán đám mây cho phép lưu trữ phần mềm trên cloud 
