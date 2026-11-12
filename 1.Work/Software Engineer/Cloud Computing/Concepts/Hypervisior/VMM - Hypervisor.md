@@ -1,0 +1,4 @@
+viết tắt của Virtual Machine Monitor 
+
+## Định Nghĩa 
+VMM là một phần mềm dùng để tạo và quản lí các [[VM - Virtual Machine]], cung cấp, quản lí và phân phối tài nguyên của máy chủ vật lí cho nhiều hệ điều hành khách chạy trên máy chủ vật lí đó 
