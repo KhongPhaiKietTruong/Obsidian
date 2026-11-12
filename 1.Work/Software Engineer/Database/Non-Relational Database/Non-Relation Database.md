@@ -1,1 +1,3 @@
+dịch: cơ sở dữ liệu phi quan hệ 
 ## Định Nghĩa 
+Cơ sở dữ liệu phi quan hệ là [[Database]] tổ chức không theo quan hệ các bảng như [[relational database]] mà theo các dạng như key-value, graph, ...
