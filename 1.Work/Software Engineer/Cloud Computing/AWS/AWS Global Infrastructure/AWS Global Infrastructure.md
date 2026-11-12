@@ -6,3 +6,6 @@ AWS Global Infrastructure là một mạng lưới của để cung cấp dịch
 - Mỗi Region có nhiều [[AZ - Availability Zone]]
 
 ## Đặc Điểm 
+- Tính co giãn và có thể mở rộng 
+- Khả năng chịu lỗi 
+- Tính sẵn sàng cao 
