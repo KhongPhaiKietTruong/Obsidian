@@ -7,4 +7,4 @@ ví dụ như cộng hai số, ta sẽ phải định nghĩa method là \_\_add_
 
 tuy nhiên, giả sử ta có class là vector, có hai vector a và b cộng nhau, thì lúc này ta phải định nghĩa magic method \_\_add__() của class vector đó để ta có thể thực hiện được phép cộng hai vector bằng dấu "+"
 
-có thể thấy, cùng một dấu "+" nhưng ta có thể thực hiện được nhiều điều, đó là nhờ vào magic method, đây cũng chính là [[Polymorphism (Tính đa hình)]] 
+có thể thấy, cùng một dấu "+" nhưng ta có thể thực hiện được nhiều điều, đó là nhờ vào magic method, đây cũng chính là [[Polymorphism]] 
