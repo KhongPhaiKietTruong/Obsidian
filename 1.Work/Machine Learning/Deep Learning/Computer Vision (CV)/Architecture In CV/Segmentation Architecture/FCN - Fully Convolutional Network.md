@@ -7,3 +7,4 @@ Kiến trúc của FCN gồm 3 thành phần chính:
 - [[Decoder]]: thực hiện [[Upsampling]] 
 ## Công Dụng 
 - Dùng cho [[Semantic Segmentation]] 
+![[Pasted image 20261113204715.png]]
