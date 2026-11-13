@@ -85,6 +85,7 @@
 - [ ] FCN 
 - [ ] cross-attention
 - [ ] Có cần thực hiện EDA trên Private Test không 
+- [ ] Giải quyết thế nào khi train và test lệch domain 
 
 keyword OLP AI:
 CV
