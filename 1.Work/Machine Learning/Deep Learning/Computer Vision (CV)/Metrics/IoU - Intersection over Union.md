@@ -5,4 +5,4 @@ Một dự đoán được xem là "đúng" (True Positive) khi IoU lớn hơn m
 $$IoU = \frac{\text{diện tích trùng}}{\text{diện tích hợp}}$$
 ![[Pasted image 20260917161141.png]]
 ## Công Dụng 
-- có thể được sử dụng để đánh giá model trong cả hai tác vụ là [[Segmentation]] và [[Object Detection]] 
+- có thể được sử dụng để đánh giá model trong cả hai tác vụ là [[Image Segmentation]] và [[Object Detection]] 
