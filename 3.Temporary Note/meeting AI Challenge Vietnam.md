@@ -1,0 +1,1 @@
+có thể không ghi những dạng bài muốn học tiếp 
