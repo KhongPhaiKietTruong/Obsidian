@@ -84,7 +84,7 @@
 - [x] SMOTE 
 - [ ] FCN 
 - [ ] cross-attention
-- [ ] 
+- [ ] Có cần thực hiện EDA trên Private Test không 
 
 keyword OLP AI:
 CV
