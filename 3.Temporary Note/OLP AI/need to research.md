@@ -86,6 +86,8 @@
 - [ ] cross-attention
 - [ ] Có cần thực hiện EDA trên Private Test không 
 - [ ] Giải quyết thế nào khi train và test lệch domain 
+- [ ] DPT (depth analysis)
+- [ ] super-resolution
 
 keyword OLP AI:
 CV
