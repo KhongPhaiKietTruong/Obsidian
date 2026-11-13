@@ -1,1 +1,1 @@
-[[Transpose Convolution]] 
+[[Transposed Convolution]] 
