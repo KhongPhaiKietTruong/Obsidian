@@ -83,6 +83,7 @@
 - [ ] DINOv2 / MAE / SimCLR...
 - [x] SMOTE 
 - [ ] FCN 
+- [ ] cross-attention 
 
 keyword OLP AI:
 CV
