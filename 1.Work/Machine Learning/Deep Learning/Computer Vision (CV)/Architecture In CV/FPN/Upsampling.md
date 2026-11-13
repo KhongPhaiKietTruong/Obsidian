@@ -1,1 +1,0 @@
-là một kĩ thuật dùng để tăng [[Spatial Size]] của một [[Feature Map]] 
