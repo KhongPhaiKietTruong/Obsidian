@@ -89,7 +89,8 @@
 - [ ] DPT (depth analysis)
 - [ ] super-resolution
 - [ ] VAE 
-
+- [ ] R-CNN 
+- [ ] Faster R-CNN 
 
 keyword OLP AI:
 CV
