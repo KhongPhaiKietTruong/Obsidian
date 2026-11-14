@@ -324,7 +324,7 @@
 			- [[Lấy số mẫu trong tập X]]
 			- [[Lưu trọng số vào file]]
 			- [[Tải tham số vào model]]
-			- [[Tạo kiến trúc model - mạng neural]]
+			- [[Tạo Kiến Trúc Model]]
 			- [[Tạo Loss function]]
 			- [[Tạo Optimizer]]
 			- [[Testing loop]]

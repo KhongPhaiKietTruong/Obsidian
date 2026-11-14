@@ -1,6 +1,6 @@
 
 khởi tạo một kiến trúc model với [[Weight]] và [[Bias]] cùng với hàm định nghĩa của [[Forward Propogation]] 
-trong [[Constructor]], ta sẽ định nghĩa [[Neural Network]] này sẽ có những layer gì, trong function forward thì ta định nghĩa các mà batch được truyền qua từng layer 
+trong [[Constructor]], ta sẽ định nghĩa [[Neural Network]] này sẽ có những layer gì, trong function forward thì ta định nghĩa cách mà từng batch được truyền qua từng layer 
 
 ```python
 class LinearRegressionModel():
