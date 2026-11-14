@@ -88,6 +88,7 @@
 - [ ] Giải quyết thế nào khi train và test lệch domain 
 - [ ] DPT (depth analysis)
 - [ ] super-resolution
+- [ ] VAE 
 
 keyword OLP AI:
 CV
