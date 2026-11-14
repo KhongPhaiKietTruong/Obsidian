@@ -4,7 +4,7 @@ FCN là một kiến trúc mạng CNN sử dụng các [[Convolution Layer]] ở
 ## Thành Phần 
 Kiến trúc của FCN gồm 3 thành phần chính:
 - [[Encoder]]: các lớp [[Convolution]] và [[Spatial Pooling]] 
-- [[Decoder]]: thực hiện [[Upsampling]] 
+- [[Decoder]]: thực hiện [[Upsampling]] sử dụng [[Transposed Convolution]] 
 - pixel-wise classification: dùng [[Cross-Entropy Loss]] lên mỗi vị trí (C, $H_{i}$, $W_i$)
 ## Các Biến Thể 
 FCN có nhiều thể, phổ biến nhất là:
