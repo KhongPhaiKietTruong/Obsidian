@@ -84,7 +84,7 @@
 - [x] SMOTE 
 - [x] FCN 
 - [ ] cross-attention in CV 
-- [ ] Có cần thực hiện EDA trên Private Test không 
+- [ ] Có cần thực hiện EDA trên Private Test không (không, tại trong private ko có nhiễu)
 - [ ] Giải quyết thế nào khi train và test lệch domain 
 - [ ] DPT (depth analysis)
 - [ ] super-resolution
