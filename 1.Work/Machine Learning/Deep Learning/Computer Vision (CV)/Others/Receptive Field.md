@@ -1,7 +1,5 @@
-dịch: vùng cảm nhận 
-
 ## Định Nghĩa 
-Vùng cảm nhận là một khái niệm dùng để ước lượng mức độ nhận biết ngữ cảnh của 1 pixel trong các [[Hidden Layer]] lên các pixel của input 
+Receptive Field là một khái niệm dùng để ước lượng mức độ nhận biết ngữ cảnh của 1 pixel trong các [[Hidden Layer]] lên các pixel của input 
 $$RF_l = RF_{l-1} + (k_l - 1) \cdot J_{l-1}$$
 **ví dụ**: ta cho vào một ảnh
 ở layer 1 dùng 3x3 [[Filter]]: 1 pixel ở [[Feature Map]] nhận biết được 9 pixels (3x3) ở ảnh input 
