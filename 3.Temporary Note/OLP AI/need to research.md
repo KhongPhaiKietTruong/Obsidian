@@ -83,7 +83,7 @@
 - [x] DINOv2 / MAE / SimCLR...
 - [x] SMOTE 
 - [x] FCN 
-- [ ] cross-attention
+- [ ] cross-attention in CV 
 - [ ] Có cần thực hiện EDA trên Private Test không 
 - [ ] Giải quyết thế nào khi train và test lệch domain 
 - [ ] DPT (depth analysis)
