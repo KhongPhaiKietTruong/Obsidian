@@ -3,4 +3,4 @@ Combined Loss Function là [[Loss Function]] được kết hợp có trọng s�
 
 ## Công Dụng 
 Được sử dụng trong dạng bài [[Image Segmentation]], [[Object Detection]] , ... 
-ví dụ: trong bài toán Segmentation, ta có thể dùng [[Cross-Entropy Loss]] (không hiệu quả khi class bị mất cân bằng) kết hợp với [[Dice Loss]] để
+ví dụ: trong bài toán Segmentation, ta có thể dùng [[Cross-Entropy Loss]] (không hiệu quả khi class bị mất cân bằng) kết hợp với [[Dice Loss]] () để 
