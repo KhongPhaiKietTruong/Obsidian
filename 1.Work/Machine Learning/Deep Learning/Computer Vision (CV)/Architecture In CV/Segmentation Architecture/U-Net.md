@@ -9,5 +9,8 @@ Ta sử dụng upsampling thay vì phương pháp truyền thống là flatten c
 ![[Pasted image 20261114160442.png|539]]
 ## Công Dụng
 - Dùng trong các tác vụ image-to-image 
+- domain conversion
+- super-resolution 
+- inpainting 
 - dùng để [[Semantic Segmentation]] 
 - dùng làm mạng khử nhiễu trong [[Diffusion Model]] 
