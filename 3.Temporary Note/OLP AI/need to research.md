@@ -80,7 +80,7 @@
 - [ ] deeplabV3
 - [ ] combined loss 
 - [x] backbone 
-- [ ] DINOv2 / MAE / SimCLR...
+- [x] DINOv2 / MAE / SimCLR...
 - [x] SMOTE 
 - [x] FCN 
 - [ ] cross-attention

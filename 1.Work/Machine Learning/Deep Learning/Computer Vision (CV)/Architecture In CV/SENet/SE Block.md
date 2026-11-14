@@ -1,4 +1,4 @@
-SE Block là thành phần cấu tạo nên [[SENet]], khối này giúp học được trọng số cho mỗi [[Feature Map]] ([[Channel Attention]]) 
+SE Block là thành phần cấu tạo nên [[SENet]], khối này giúp học được trọng số để gán cho mỗi [[Feature Map]] ([[Channel Attention]]) 
 
 ```python
 class SEBlock(nn.Module):
