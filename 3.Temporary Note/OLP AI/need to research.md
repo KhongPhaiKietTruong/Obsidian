@@ -82,7 +82,7 @@
 - [x] backbone 
 - [ ] DINOv2 / MAE / SimCLR...
 - [x] SMOTE 
-- [ ] FCN 
+- [x] FCN 
 - [ ] cross-attention
 - [ ] Có cần thực hiện EDA trên Private Test không 
 - [ ] Giải quyết thế nào khi train và test lệch domain 
