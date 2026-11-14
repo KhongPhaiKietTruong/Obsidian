@@ -1,1 +1,2 @@
+## Định Nghĩa 
 Backbone là một [[Feature Extractor]] có nhiệm vụ chuyển dữ liệu đầu vào thành [[Feature Representation]] và truyền qua [[Neck]] (nếu có) và cuối cùng là [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Head|Head]] 
