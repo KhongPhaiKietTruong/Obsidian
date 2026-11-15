@@ -91,6 +91,10 @@
 - [ ] VAE 
 - [ ] R-CNN 
 - [ ] Faster R-CNN 
+- [ ] FPN (Feature Pyramid Network)
+- [ ] PANet
+- [ ] BiFPN
+- [ ] NAS-FPN
 
 keyword OLP AI:
 CV
