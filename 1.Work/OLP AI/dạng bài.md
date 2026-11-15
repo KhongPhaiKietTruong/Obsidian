@@ -1,7 +1,11 @@
 ## CV
 - classification
-- detection (vừa vẽ vừa phân loại) (1 và nhiều vật thể)
-- segmentation (semantic và instance)
+- detection 
+- segmentation 
+- image-to-image: image restoration, image super-resolution, ... 
+- image-text matching
+- VQA 
+- image-retrivial 
 ## NLP 
 - classification 
 - token classification (NER, POS)
@@ -14,4 +18,3 @@ parsing
 sentimenation classification 
 multi-task learning  
 image captioning (attention ?) 
-![[Pasted image 20260917214131.png|380]]![[Pasted image 20260917211043.png|545]]
