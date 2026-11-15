@@ -19,5 +19,5 @@ câu trả lời là tuỳ vào tác vụ, bởi vì nếu receptive field quá 
 | Image classification | Lớn, nhìn được toàn cảnh   |
 | Object Detection     | Kết hợp giữa RF nhỏ và lớn |
 | Segmentation         | Kết hợp giữa RF nhỏ và Lớn |
-Việc muốn tận dụng được cả RF nhỏ và lớn cũng là động lực cho ra các phương pháp;
-- 
+Việc muốn tận dụng được cả RF nhỏ và lớn cũng là động lực cho ra các phương pháp/kiến trúc như:
+- [[FPN - Feature Pyramid Network]] 
