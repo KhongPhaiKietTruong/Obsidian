@@ -4,4 +4,4 @@ Neck là phần nằm giữa [[Backbone]] và [[1.Work/Machine Learning/Deep Lea
 ## Các Loại Neck 
 các loại neck phổ biến: 
 - [[FPN - Feature Pyramid Network]] 
-- 
+- etc 
