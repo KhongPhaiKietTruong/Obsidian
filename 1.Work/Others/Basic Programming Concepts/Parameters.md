@@ -1,0 +1,1 @@
+tham số là những gì ô trống được đặt tên trong một [[Function]] chờ được truyền [[Argument]] vào 

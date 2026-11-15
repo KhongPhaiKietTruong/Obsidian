@@ -1,4 +1,4 @@
-là một [[1.Work/OOP/Theory/Object]] có khả năng chứa nhiều phần tử / giá trị / đối tượng khác và cho phép duyệt qua từng phần tử
+Collection là một [[1.Work/OOP/Theory/Object]] có khả năng chứa nhiều phần tử / giá trị / đối tượng khác và cho phép duyệt qua từng phần tử
 
 các tập hợp dữ liệu phổ biến như là: [[List]], [[Tuple]], ... 
 

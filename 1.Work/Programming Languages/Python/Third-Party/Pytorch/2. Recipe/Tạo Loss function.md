@@ -5,7 +5,7 @@ loss = loss_fn(y_pred, y_true)
 
 loss_fn làm một [[Function]] và sẽ trả về [[Giá trị trung bình]] của các [[Loss Function]] của các mẫu trong từng batch 
 
-nhận vào 2 [[Parameters (Tham số)]] là [[Tensor]] 
+nhận vào 2 [[Parameters]] là [[Tensor]] 
 
 nghĩa là biến loss sẽ chứa trung bình cộng các loss của các mẫu trong từng batch truyền vào:
 $$

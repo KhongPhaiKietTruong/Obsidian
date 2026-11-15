@@ -1,1 +1,1 @@
-là các [[Variables (Biến)]] thể hiện cho đặc điểm của [[Attribute]] hiện tại 
+là các [[Variables]] thể hiện cho đặc điểm của [[Attribute]] hiện tại 

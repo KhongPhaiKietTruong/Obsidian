@@ -1,4 +1,4 @@
-tất cả những [[Parameters (Tham số)]] nằm sau dấu "\*" phải được truyền vào với keyword, còn những tham số đằng trước thì muốn truyền theo kiểu nào cũng được 
+tất cả những [[Parameters]] nằm sau dấu "\*" phải được truyền vào với keyword, còn những tham số đằng trước thì muốn truyền theo kiểu nào cũng được 
 
 ```python
 def greet(name, phone, sex *, age):

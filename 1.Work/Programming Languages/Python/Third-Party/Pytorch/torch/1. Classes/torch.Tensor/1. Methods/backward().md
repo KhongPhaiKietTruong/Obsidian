@@ -1,4 +1,4 @@
-[[Method]] này dùng để tính [[Partial Derivative (Đạo Hàm Riêng)]] của hàm số đối với từng [[Parameters (Tham số)]] học được trong [[Neural Network]]
+[[Method]] này dùng để tính [[Partial Derivative (Đạo Hàm Riêng)]] của hàm số đối với từng [[Parameters]] học được trong [[Neural Network]]
 ```python 
 optimizer.zero_grad()
 loss.backward()

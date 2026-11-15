@@ -1,4 +1,4 @@
-hàm array() giúp tạo một [[Arrays (Mảng)]] trong numpy
+hàm array() giúp tạo một [[Array]] trong numpy
 
 nhận vào các tham số
 - object: là một iterable (thường là [[List]] và [[Tuple]], chấp nhận list và tuple xen lẫn nhau)
