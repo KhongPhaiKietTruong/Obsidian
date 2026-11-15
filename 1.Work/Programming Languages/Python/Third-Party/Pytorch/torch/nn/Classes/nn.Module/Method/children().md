@@ -1,1 +1,1 @@
-model.children() trả về một 
+model.children() trả về một [[Generator]] 
