@@ -9,7 +9,6 @@ backbone = AutoBackbone.from_pretrained(
     out_indices=(1, 2, 3, 4)
 )
 
-outputs = backbone(pixel_values=img)
-
-feature_maps = outputs.feature_maps
+outputs = backbone(img)
+feature_maps = outputs.feature_maps # mot tuple chua feature_map cua cac stageg 
 ```
