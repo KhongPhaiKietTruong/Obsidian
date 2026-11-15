@@ -1,4 +1,4 @@
-## Định Nghĩa 
+k## Định Nghĩa 
 Học chuyển giao là phương pháp sử dụng kiến thức của một model trên một tác vụ khác để giải quyết cho tác vụ hiện tại 
 
 các phương pháp học chuyển giao phổ biến:
