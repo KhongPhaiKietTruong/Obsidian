@@ -10,4 +10,10 @@ Receptive Field là một khái niệm dùng để ước lượng mức độ n
 
 ## Kích Thước Receptive Field
 Liệu receptive field càng lớn thì model càng mạnh ?
-câu trả lời là tuỳ vào tác vụ, bởi vì nếu receptive field quá lớn có thể khiến model không nhìn được các đặc trưng chi tiết (đường biên, ...) mà chỉ có thể nhìn các đặc trưng tổng quát 
+câu trả lời là tuỳ vào tác vụ, bởi vì nếu receptive field quá lớn có thể khiến model không nhìn được các đặc trưng chi tiết (đường biên, ...) mà chỉ có thể nhìn các đặc trưng tổng quát. Vì vậy, với mỗi tác vụ ta cần phải xác định độ lớn của receptive field sao cho phù hợp với bài toán
+
+| Tác vụ               | Kích thước RF phù hợp     |
+| -------------------- | ------------------------- |
+| Image classification | Lớn, nhìn được toàn cảnh  |
+| Object Detection     |                           |
+| Segmentation         |                           |
