@@ -6,6 +6,7 @@
 - image-text matching
 - VQA 
 - image-retrivial 
+- fine-grained feature learning 
 ## NLP 
 - classification 
 - token classification (NER, POS)
