@@ -1,4 +1,5 @@
-Generator là một [[1.Work/OOP/Theory/Object|Object]], cũng là một [[Iterator]] đặc biệt, khi mà mỗi lần gọi next() trên generator thì nó chạy đến [[yield]] tiếp theo 
+Generator là một cơ chế cho phép tạo ra từng giá trị lần lượt theo yêu cầu thay thì tạo tất cả giá trị cùng một lúc để lưu trên RAM 
+khi mà mỗi lần gọi next() trên generator thì nó chạy đến [[yield]] tiếp theo 
 
 lưu ý: ở giữa các yield sẽ có thể có nhiều dòng code 
 ví dụ:
