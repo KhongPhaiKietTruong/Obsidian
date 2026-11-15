@@ -1,1 +1,1 @@
-model.children() trả về một [[Generator]] 
+model.children() trả về một [[Generator]] trả về các [[Iterator]] trỏ tới từng module **trực tiếp** nằm trong model 
