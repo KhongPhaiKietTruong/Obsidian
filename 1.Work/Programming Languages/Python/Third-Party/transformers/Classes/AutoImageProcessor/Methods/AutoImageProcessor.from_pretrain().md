@@ -9,4 +9,5 @@ img = Image.open('...').convert('RGB')
 img = preprocessor(img, return_tensors='pt')
 ```
 với:
+- preprocessor có thể nhận vào [[PIL.Image]] (recommended) và [[Tensor]]
 - tham số return_tensors chỉ định định dạng output trả với ('pt' là pytorch tensor)
