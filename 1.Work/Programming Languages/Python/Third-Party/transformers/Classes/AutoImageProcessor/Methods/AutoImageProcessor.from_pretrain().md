@@ -2,6 +2,11 @@ dùng để tải pipeline tiền xử lí của một model thông qua file "pr
 ví dụ:
 ```python
 from transformer import AutoImageProcessor
+from PIL import Image 
+
 preprocessor = AutoImageProcessor.from_pretrained('microsoft/resnet-18')
-img 
+img = Image.open('...').convert('RGB')
+img = preprocessor(img, return_tensors='pt')
 ```
+với:
+- tham số return_tensors chỉ định định dạng output trả với ('pt' là pytorch tensor)
