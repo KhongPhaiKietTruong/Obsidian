@@ -22,4 +22,4 @@ câu trả lời là tuỳ vào tác vụ, bởi vì nếu receptive field quá 
 Việc muốn tận dụng được cả RF nhỏ và lớn cũng là động lực cho ra các phương pháp/kiến trúc như:
 - [[FPN - Feature Pyramid Network]] 
 - [[Skip Connection]] trong [[U-Net]]
-- 
+- etc 
