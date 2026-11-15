@@ -1,2 +1,2 @@
-checkpoint là một file trọng số của một mô hình ngay tại thời điểm nó được huấn luyện nhất định 
-thường dùng để load một model và sử dụng, dùng làm [[1.Work/OLP AI/Computer Vision Architecture/Backbone|Backbone]] , ... 
+## Định Nghĩa 
+checkpoint là file trọng số của một mô hình ngay tại một thời điểm được huấn luyện nhất định 
