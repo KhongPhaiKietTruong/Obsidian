@@ -1,5 +1,7 @@
+F: feature map 
+***
 ## Định Nghĩa 
-FPN là một kiến trúc [[Neural Network]], dùng để tạo ra [[Feature Map]] ở nhiều độ phân giải khác nhau 
+FPN là một kiến trúc [[Neural Network]], dùng để tạo ra [[Feature Map]] F ở nhiều độ phân giải khác nhau 
 
 FPN được sinh ra để khắc phục hạn chế của mạng CNN:
 - F ở tầng sâu mang thông tin ngữ nghĩa cao nhưng độ phân giải lại thấp 
@@ -14,5 +16,4 @@ FPN gồm hai nhánh chính:
 ## Công Dụng
 - phát hiện vật thể ở nhiều kích thước khác nhau 
 - là một module trong nhiều kiến trúc khác như: [[RetinaNet]] 
---- 
-F: feature map 
+
