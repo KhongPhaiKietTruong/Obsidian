@@ -1,4 +1,4 @@
-là [[glob()]] nhưng duyệt đệ quy tất cả folder nằm trong folder chỉ định 
+trả về một [[Iterable]] chứa các Path Object là đường dẫn của các file/folder, khác với [[glob()]] ở chỗ là rglob duyệt đệ quy tất cả folder nằm trong folder chỉ định 
 ```python
-​dir_path.glob('*.jpg')
+lst = ​dir_path.rglob('*.jpg')
 ```
