@@ -1,9 +1,9 @@
 glob() là một [[Method]] trả về một [[List]] chứa tên của các folder/file thoả mãn yêu cầu 
 ```python
-import glob
-
+from pathlib import Path 
+root = Path('dataset/')
 # lay tat ca anh meo 
-img_path = glob.glob('dataset/cat/*.jpg')
+img_path = glob.glob(root+'cat*.jpg')
 
 # lay tat ca anh dong vat 
 img_path = glob.gllob('dataset/**/*.jpg', recursive=True)
