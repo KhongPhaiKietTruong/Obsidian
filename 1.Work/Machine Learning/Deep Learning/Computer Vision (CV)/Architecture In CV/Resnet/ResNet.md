@@ -19,6 +19,8 @@ ta sẽ học để F(x)=0, từ đó ta có được hàm đồng nhất H(x)=x
 - giúp ta không cần phải xác định chính xác độ sâu của [[Neural Network]], bởi vì resnet cho phép ta dùng thừa [[Layer]] mà không làm model kém hiệu quả đi 
 - giúp ta train được mạng neural rất sâu do đường đi của input "nhảy cóc" mà không phải đi qua tất cả layer nên việc tính gradient của nó sẽ hiệu quả hơn và còn giảm [[Vanishing Gradient]] nữa 
 
-## Sử dụng 
-Resnet50 thường là mô hình phổ biến nhất để làm [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Model Architecture/Backbone]] trong các bài toán CV
-![[Pasted image 20260924001411.png]]
+## Các Biến Thể 
+- Resnet18: cực nhẹ 
+- Resnet34: cân bằng giữa 
+- Resnet50: được sử dụng rất phổ biến để làm [[Backbone]]
+
