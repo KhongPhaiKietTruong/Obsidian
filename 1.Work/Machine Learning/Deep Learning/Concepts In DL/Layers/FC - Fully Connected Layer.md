@@ -1,1 +1,0 @@
-là loại [[Layer]] có các [[Neuron]] mà kết nối với mọi neuron của lớp kết tiếp 

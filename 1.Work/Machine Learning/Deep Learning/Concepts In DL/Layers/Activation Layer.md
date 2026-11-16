@@ -1,1 +1,0 @@
-là loại layer chứa các [[Activations]]  
