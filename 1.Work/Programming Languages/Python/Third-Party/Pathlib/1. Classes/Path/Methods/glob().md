@@ -1,6 +1,8 @@
 glob() là một [[Method]] trả về một [[List]] chứa tên của các folder/file thoả mãn yêu cầu 
 ```python
-dir_path.glob('*.jpg')
+import glob
+
+img_path = glob.glob('*.jpg')
 ```
 với:
 - * là khớp với 0 hoặc nhiều kí tự bất kì
