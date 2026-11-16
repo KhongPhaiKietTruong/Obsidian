@@ -1,6 +1,6 @@
 ## Định Nghĩa
 U-Net là một kiến trúc áp dụng cơ chế [[Upsampling]] và [[Skip Connection]] ([[Concatenation]]) gồm có 3 thành phần chính:
-- [[Encoder]]: bước truy xuất thông tin từ ảnh bằng [[Convolution]]
+- [[Encoder]]: bước truy xuất thông tin từ ảnh bằng [[Convolution]], gồm nhiều encoder block 
 - Bottleneck: là phần kết nối giữa phần nén và phần mở 
 - [[Decoder]]: thực hiện [[Transposed Convolution]] để khôi phục lại [[Spatial Size]] ban đầu 
 ![[Pasted image 20260917192452.png|546]]
