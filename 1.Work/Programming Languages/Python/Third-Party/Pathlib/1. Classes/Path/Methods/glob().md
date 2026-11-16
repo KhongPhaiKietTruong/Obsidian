@@ -1,4 +1,4 @@
-glob() là một [[Method]] trả về một [[List]] chứa tên của các folder/file thoả mãn yêu cầu 
+glob() là một [[Method]] trả về một [[Iterable]] chứa Path object là tên đường dẫn của các folder/file thoả mãn yêu cầu 
 ```python
 from pathlib import Path 
 root = Path('dataset/')
