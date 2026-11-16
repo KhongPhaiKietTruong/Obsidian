@@ -1,4 +1,4 @@
-glob() là một [[Method]] trả về một [[Iterable]] dùng để duyệt qua các file nằm trong đường dẫn chỉ định 
+glob() là một [[Method]] trả về một [[List]] chứa tên của các folder/file thoả mãn yêu cầu 
 ```python
 dir_path.glob('*.jpg')
 ```
