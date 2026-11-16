@@ -1,0 +1,1 @@
+os.path.isdir() dùng để kiểm tra xem một đường dẫn có tồn tại không, và nếu có 
