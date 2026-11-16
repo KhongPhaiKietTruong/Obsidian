@@ -14,3 +14,4 @@ overstate (v): phóng đại, nói quá
 curate (n)
 curate (v): tuyển chọn 
 lateral 
+inclusive (adj): hoà nhập 
