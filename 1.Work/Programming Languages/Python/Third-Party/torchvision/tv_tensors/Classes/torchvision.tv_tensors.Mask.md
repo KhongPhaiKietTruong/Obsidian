@@ -1,0 +1,1 @@
+là một [[1.Work/OOP/Theory/Class|Class]] đại diện cho [[Segmentation Mask]] 

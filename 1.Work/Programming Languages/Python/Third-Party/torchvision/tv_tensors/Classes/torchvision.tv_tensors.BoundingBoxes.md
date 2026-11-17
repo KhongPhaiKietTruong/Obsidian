@@ -1,1 +1,1 @@
-dùng để khởi tạo một BoundingBox (gán metadata cho tensor để cho biết rằng tensor đó là tọa độ bounding box và áp dụng các phép biến đổi phù hợp )
+là một [[1.Work/OOP/Theory/Class|Class]] đại diện cho [[Bounding Box]] (gán metadata cho tensor để cho biết rằng tensor đó là tọa độ bounding box và áp dụng các phép biến đổi phù hợp )

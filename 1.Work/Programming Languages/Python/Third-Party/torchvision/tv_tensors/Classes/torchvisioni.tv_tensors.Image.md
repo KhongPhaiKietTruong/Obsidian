@@ -1,1 +1,1 @@
-là một class đại diện cho ảnh 
+là một [[1.Work/OOP/Theory/Class|Class]] đại diện cho ảnh 
