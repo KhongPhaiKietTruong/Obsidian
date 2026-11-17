@@ -1,6 +1,6 @@
 tạo một [[1.Work/OOP/Theory/Class|Class]] thừa kế từ [[torch.utils.data.Dataset]] và thực hiện ghi đè lên 3 method là
-- \_\_init__()
-- \_\_len()__
+- \_\_init__(): hàm [[Constructor]], nhận vào tập training set và pipeline transform 
+- \_\_len()\_\_: trả về số lượng mẫu có trong [[Training Set]]  
 - \_\_getitem()__  
 len thì trả về số lượng mẫu có trong tập dữ liệu
 getitem() thì trả về một tuple (tensor, label) lần lượt thể hiện [[Tensor]] của mẫu được lấy ra và nhãn của mẫu đó 
