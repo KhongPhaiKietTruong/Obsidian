@@ -20,4 +20,4 @@ train_set, val_set = random_split(dataset, lengths=[8000, 2000])
 ```
 
 ## Sự khác biệt với train_test_split
-Ta thường dùng random_split khi training set **không** có file .csv thể hiện cho từng mẫu dữ liệu mà chỉ có các folder chứa dữ liệu cho các lớp, ta truyền nguyên folder
+Ta thường dùng random_split khi training set **không** có file .csv thể hiện cho từng mẫu dữ liệu mà chỉ có các folder chứa dữ liệu cho các lớp, ta bọc folder đó bằng [[torch.utils.data.Dataset]] rồi tách nó ra thành các [[torch.utils.data.Subset]] rồi tạo [[torch.utils.data.DataLoader]] với từng subset đó 
