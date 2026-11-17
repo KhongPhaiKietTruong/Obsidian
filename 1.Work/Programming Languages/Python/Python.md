@@ -268,7 +268,7 @@
 				- **Manipulation**
 					- [[apply()]]
 					- [[dropna()]]
-					- [[1.Work/Programming Languages/Python/Third-Party/Pandas/DataFrame/Method/Manipulation/fillna()]]
+					- [[1.Work/Programming Languages/Python/Third-Party/Pandas/Classes/DataFrame/Methods/Manipulation/fillna()]]
 				- **Stat & Info**
 					- [[corr()]]
 					- [[describe()]]
