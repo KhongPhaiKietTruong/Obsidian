@@ -1,11 +1,11 @@
-làm một hàm dùng để chia [[torch.utils.data.Dataset]] và trả về các [[torch.utils.data.Subset]] không chứa mẫu trùng lặp 
+random_split() làm một hàm dùng để chia [[torch.utils.data.Dataset]] và trả về các [[torch.utils.data.Subset]] không chứa mẫu trùng lặp 
 cú pháp:
 ```python
 random_split(dataset, lengths, generator)
 ```
 với:
 - dataset là [[torch.utils.data.Dataset]] hoặc một [[List]], ... 
-- lengths: một list chứa số lượng hoặc tỉ lệ mỗi tập 
+- lengths: một list chứa số lượng hoặc tỉ lệ mỗi tập (vd: \[0.8, 0.2])
 - generator: dùng để cố định seed 
 ví dụ:
 ```python
