@@ -1,3 +1,6 @@
+## Định Nghĩa 
+train_test_split là một hàm dùng để chia thành các tập dữ liệu như train, val, test 
+## Cú Pháp 
 ```python
 from sklearn.model_selection import train_test_split
 
