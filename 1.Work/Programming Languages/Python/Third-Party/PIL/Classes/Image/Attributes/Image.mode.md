@@ -4,3 +4,5 @@ Image.mode cho biết cách ảnh biểu diễn dữ liệu bao gồm số kênh
 from PIL import Image 
 img = Image.open('cat.jpg')
 ```
+các mode phổ biến:
+- "RGB"
