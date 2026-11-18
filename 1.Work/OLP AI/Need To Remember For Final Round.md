@@ -5,3 +5,5 @@ nn.TranposeConv2d(in_channels, out_channels, 2, 2) tăng spatial size lên gấp
 thư viện opencv làm việc mới mảng numpy (cv2.imread cho ra mảng numpy)
 
 opencv mặc định sử dụng BGR còn các thư viện khác đều sử dụng RGB 
+
+DataLoader nhận vào Dataset object 
