@@ -17,4 +17,4 @@ có 3 loại segmentation chính:
 các loss function thường dùng:
 - [[Cross-Entropy Loss]] 
 - [[Dice Loss]] 
-- 
+- [[Focal Loss]] 

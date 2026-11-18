@@ -16,3 +16,4 @@ công thức này là cải tiến của [[Cross-Entropy Loss]] khi thêm vào h
 
 ## Sử Dụng 
 - focal loss được sử dụng trong [[RetinaNet]] 
+- dùng để giải quyết bài toán bị [[Foreground-Background Class Imbalance]]
