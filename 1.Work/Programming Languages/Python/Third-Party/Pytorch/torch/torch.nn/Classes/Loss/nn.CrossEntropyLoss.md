@@ -6,4 +6,5 @@ CrossEntropyLoss là sự kết hợp của [[nn.NLLLoss]]
 nn.CrossEntropyLoss(weight: torch.Tensor, label_smoothing: float=0.0)
 ```
 với:
-- weight: nhận vào một [[Tensor]] chỉ định hệ số phạt của từng lớp 
+- weight: nhận vào một [[Tensor]] chứa các giá trị chỉ định hệ số phạt của từng lớp 
+- label smoothing: chỉ định giá trị cho [[Label Smoothing]] 
