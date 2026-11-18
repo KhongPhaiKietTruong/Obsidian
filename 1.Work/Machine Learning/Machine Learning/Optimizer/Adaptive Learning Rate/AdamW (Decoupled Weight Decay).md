@@ -1,3 +1,4 @@
+
 ## Định Nghĩa 
 là [[Adam]] phiên bản cải tiến, adamW là sự kết hợp giữa [[Adam]] và [[Weight Decay]] 
 công thức là:
