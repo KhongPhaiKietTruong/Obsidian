@@ -1,4 +1,4 @@
-Kí hiệu: $J( y, \hat{y})$
+Kí hiệu: $J(\hat{y}, y)$
 Dịch: Hàm Mất Mát
 
 ## Định Nghĩa 
@@ -10,4 +10,13 @@ Có nhiều loại loss function khác nhau giành cho các vụ khác nhau, ch�
 - classification (dựa trên xác suất)
 
 ## Code 
-Để dùng các loss function, ta dùng các [[1.Work/OOP/Theory/Class|Class]] trong module [[]]
+Để dùng các loss function trong code, ta dùng các [[1.Work/OOP/Theory/Class|Class]] trong module [[torch.nn]] như: [[nn.CrossEntropyLoss]], [[nn.MSELoss]], ... 
+ví dụ:
+```python
+loss_fn = nn.CrossEntropyloss()
+logits = loss_fn(pred, target) # pred truoc roi moi toi target
+```
+
+> [!WARNING] 
+> Mặc định các hàm loss trong nn nhận vào hai tham số là [[Predicted Value]] và [[Ground Truth]] **theo đúng thứ tự**
+
