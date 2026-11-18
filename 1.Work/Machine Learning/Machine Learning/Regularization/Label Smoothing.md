@@ -8,3 +8,9 @@ ví dụ: với $\epsilon=0.1$ \[0, 1, 0] -> \[0.02, 0.92, 0.02]
 $$y'_k = (1 - \epsilon) \cdot y_k + \frac{\epsilon}{K}$$
 ## Sử Dụng
 - khắc phục được điểm yếu của [[One-hot Encoding]] khi kết hợp với [[Cross-Entropy Loss]] khiến mô hình [[Overfitting - High Variance]] 
+
+
+> [!WARNING] 
+> Label Smoothing áp dụng được cho bài toán đa nhãn chứ không phải 2 nhãn, `[0, 1, 0]` là có 3 nhãn chứ không phải 2 nhãn 
+
+
