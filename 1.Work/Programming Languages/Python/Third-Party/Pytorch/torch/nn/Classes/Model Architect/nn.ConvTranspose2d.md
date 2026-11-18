@@ -1,1 +1,1 @@
-dùng để khai báo [[Transposed Convolution]]
+dùng để khai báo [[Transposed Convolution]] 
