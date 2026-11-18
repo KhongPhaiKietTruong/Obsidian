@@ -1,4 +1,4 @@
-là một [[1.Work/OOP/Theory/Class|Class]] giúp đọc ảnh và tự gán nhãn ảnh (dựa trên tên thư mục cha chứa ảnh đó)
+ImageFolder là một [[1.Work/OOP/Theory/Class|Class]] giúp đọc ảnh và tự gán nhãn ảnh (dựa trên tên thư mục cha chứa ảnh đó) tạo thành [[1.Work/OOP/Theory/Object|Object]] của class [[torch.utils.data.Dataset]]
 giả sử:
 ```
 dataset/
