@@ -121,7 +121,7 @@
 		- [[Generator Function]]
 		- [[Keyword-only parameter marker]]
 		- [[kwargs]]
-		- [[lambda function]]
+		- [[Lambda Function]]
 		- [[Positional-only parameter marker]]
 	- **Làm việc với file**
 		- [[đọc file]]

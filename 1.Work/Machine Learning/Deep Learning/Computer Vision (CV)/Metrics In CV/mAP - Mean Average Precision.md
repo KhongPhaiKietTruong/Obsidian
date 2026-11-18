@@ -1,2 +1,0 @@
-## Định Nghĩa 
-mAP là một đại lượng dùng để đánh giá một model trong tác vụ [[Object Detection]], đại lượng này là sự đánh giá kết hợp giữa [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Tasks In CV/Classification|Classification]] và [[Localization]] 

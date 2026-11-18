@@ -1,0 +1,1 @@
+là sự kết hợp của [[Mean Pooling]] nắm bắt ngữ cảnh toàn cục và [[1.Work/Machine Learning/Deep Learning/CV - Computer Vision/Pooling/Temporal Pooling/Max Pooling|Max Pooling]] nắm bắt những ngữ cảnh nổi bật bằng cách nối hai vector pooling này lại với nhau 

@@ -8,7 +8,7 @@ các [[Activations]] như [[Sigmoid]] hay [[Tanh]] rất dễ gây ra [[Vanishin
 [[1.Work/Machine Learning/Deep Learning/Concepts In DL/Normalization/Activation Normalization/Batch Norm]], [[Layer Norm]] 
 
 ## Thiết kế kiến trúc mạng 
-- sử dụng [[Skip Connection]] như [[1.Work/Machine Learning/Deep Learning/Computer Vision (CV)/Architecture In CV/Resnet/ResNet]] 
+- sử dụng [[Skip Connection]] như [[1.Work/Machine Learning/Deep Learning/CV - Computer Vision/Architecture In CV/Resnet/ResNet]] 
 - sử dụng cơ chế cổng cho mỗi [[Neuron]] như [[GRU cell]], [[LSTM Cell]] 
 
 ## Sử dụng Optimizer phù hợp 
