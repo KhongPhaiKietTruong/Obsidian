@@ -1,0 +1,1 @@
+Image.Folder.cls_to_idx trả về một [[Dictionary]] 
