@@ -1,5 +1,6 @@
+## Định Nghĩa 
 random_split() làm một hàm dùng để chia [[torch.utils.data.Dataset]] và trả về các [[torch.utils.data.Subset]] không chứa mẫu trùng lặp 
-cú pháp:
+## Cú Pháp
 ```python
 random_split(dataset, lengths, generator)
 ```

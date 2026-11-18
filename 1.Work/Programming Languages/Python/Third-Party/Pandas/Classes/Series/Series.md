@@ -26,4 +26,4 @@ Lưu ý: Cả hàng và cột của df khi được trích xuất thì mỗi cá
 có hai cách để lấy một Series từ df:
 - df['x']
 - df.x
-cách thứ nhất được khuyên dùng hơn vì nó có thể xử lí được khi tên cột có khoảng trắng (df['ten va ho']) 
+cách thứ nhất được khuyên dùng hơn vì nó có thể xử lí được khi tên cột có khoảng trắng (df['ten va ho'])  
