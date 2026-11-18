@@ -7,4 +7,4 @@ nn.CrossEntropyLoss(weight: torch.Tensor, label_smoothing: float=0.0)
 ```
 với:
 - weight: nhận vào một [[Tensor]] chứa các giá trị chỉ định hệ số phạt của từng lớp 
-- label smoothing: chỉ định giá trị cho [[Label Smoothing]] 
+- label smoothing: chỉ định giá trị cho [[Label Smoothing]] (thường là 0.1)
