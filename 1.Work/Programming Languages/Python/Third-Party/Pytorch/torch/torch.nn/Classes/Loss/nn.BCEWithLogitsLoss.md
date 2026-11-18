@@ -1,5 +1,5 @@
 đã sẵn layer [[Sigmoid]] bên trong
-nhận vào [[Logits]] ([[Pre-activation Value]]) và cho ra giá trị [[Loss Function]]
+nhận vào [[Logits]] ([[Pre-Activation Value]]) và cho ra giá trị [[Loss Function]]
 
 ```python
 loss = nn.BCEWithLogitsLoss(logits, y_train)

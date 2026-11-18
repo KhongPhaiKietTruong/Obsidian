@@ -1,6 +1,6 @@
 tên gọi khác: hyperbolic tangent function 
 ## Định Nghĩa
-là hàm [[Activations]] nhận vào [[Pre-activation Value]] có miền giá trị $(- \infty, +\infty)$ và trả về output có miền giá trị $\in$ (-1; 1), hàm này có giá trị đầu ra tập trung xung quanh giá trị 0 (tham khảo thêm [[Tại sao muốn giá trị kích hoạt zero-centered]])
+là hàm [[Activations]] nhận vào [[Pre-Activation Value]] có miền giá trị $(- \infty, +\infty)$ và trả về output có miền giá trị $\in$ (-1; 1), hàm này có giá trị đầu ra tập trung xung quanh giá trị 0 (tham khảo thêm [[Tại sao muốn giá trị kích hoạt zero-centered]])
 ![[Pasted image 20260921143511.png|307]]
 hàm tanh có công thức như sau:
 $$
