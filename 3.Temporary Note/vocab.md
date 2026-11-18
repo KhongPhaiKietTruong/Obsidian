@@ -15,3 +15,4 @@ curate (n)
 curate (v): tuyển chọn 
 lateral 
 inclusive (adj): hoà nhập 
+demeanor (n): phong thái 
