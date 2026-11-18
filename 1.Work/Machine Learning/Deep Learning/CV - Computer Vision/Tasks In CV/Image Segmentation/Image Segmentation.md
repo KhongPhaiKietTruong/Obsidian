@@ -18,3 +18,4 @@ các loss function thường dùng:
 - [[Cross-Entropy Loss]] 
 - [[Dice Loss]] 
 - [[Focal Loss]] 
+trong đó, CE+Dice thường là lựa chọn bắt đầu phổ biến 
