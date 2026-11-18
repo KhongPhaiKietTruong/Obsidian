@@ -5,4 +5,4 @@ Batch Size là số lượng mẫu trong một [[Mini-Batch Stochastic Gradient 
 Cách chọn batch size tuỳ thuộc rất nhiều vào bài toán, batch size thường có giá trị là bội số của 8 như: 8, 16, 32, 64, ... nếu chọn batch size quá to có thể dẫn đến OOM và batch quá nhỏ có thể gây nhiễu trong quá trình model học
 
 ## Mối Quan Hệ Với Learning Rate 
-Batch size có mối quan hệ mật thiết với [[Base Learning Rate]] 
+Batch size có mối quan hệ mật thiết với [[Base Learning Rate]] vì hệ số quy định mức thay đổi của [[Weight]] sau mỗi lần cập nhật 
