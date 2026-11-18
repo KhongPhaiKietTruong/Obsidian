@@ -1,4 +1,4 @@
-convert() dùng để chuyển chế độ (sự sắp xếp các kênh) của một [[PIL.Image]] 
+convert() dùng để chuyển đổi ảnh sang [[Image.mode]] khác của một [[PIL.Image]] 
 ```python
 img = Image.open(path).convert('RGB')
 ```
