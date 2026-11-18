@@ -1,5 +1,5 @@
 ## Định Nghĩa
-open() là [[Method]] dùng để tạo một [[1.Work/OOP/Theory/Object|Object]] [[PIL.Image|PIL Image]] (PIL Image)
+open() là [[Method]] dùng để mở một ảnh từ một đường dẫn tạo thành [[1.Work/OOP/Theory/Object|Object]] [[PIL.Image]] với mode là mode gốc của ảnh đó 
 cú pháp:
 ```python
 from PIL import Image 
