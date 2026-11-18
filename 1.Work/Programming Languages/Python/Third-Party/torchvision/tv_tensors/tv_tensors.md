@@ -7,7 +7,7 @@ Là một module gồm các class chuyên biệt [[tv_tensors.BoundingBoxes]], [
 
 ví dụ:
 ```python
-from torchvision.transforms import tv_tensors 
+from torchvision import tv_tensors 
 from torchvision.transforms import v2
 from PIL import Image
 
