@@ -1,0 +1,2 @@
+Cách chọn batch size tuỳ thuộc rất nhiều vào bài toán, batch size thường có giá trị là 2\*8
+như: 8, 16, 32, 64, ... nếu chọn batch size quá to có thể dẫn đến OOM và batch quá nhỏ có thể gây nhiễu trong quá trình model học 
