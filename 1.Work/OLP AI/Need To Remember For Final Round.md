@@ -7,3 +7,5 @@ thư viện opencv làm việc mới mảng numpy (cv2.imread cho ra mảng nump
 opencv mặc định sử dụng BGR còn các thư viện khác đều sử dụng RGB 
 
 DataLoader nhận vào Dataset object 
+
+Image.size (trong PIL) trả về (W, H) chứ không phải (H, W)
