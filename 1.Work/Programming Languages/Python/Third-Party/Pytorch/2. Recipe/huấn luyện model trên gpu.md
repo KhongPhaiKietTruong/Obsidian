@@ -1,4 +1,4 @@
-để có thể train model trên gpu thì ta phải chuyển [[Instance]] của model và các batch (dữ liệu truyền vào model) vào gpu bằng cách dùng [[1.Work/Programming Languages/Python/Third-Party/Pytorch/torch/nn/Classes/nn.Module/Method/to()|to()]] 
+để có thể train model trên gpu thì ta phải chuyển [[Instance]] của model và các batch (dữ liệu truyền vào model) vào gpu bằng cách dùng [[1.Work/Programming Languages/Python/Third-Party/Pytorch/torch/torch.nn/Classes/nn.Module/Method/to()|to()]] 
 
 ví dụ
 ```python
