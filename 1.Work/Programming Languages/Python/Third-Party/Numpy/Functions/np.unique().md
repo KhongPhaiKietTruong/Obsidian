@@ -1,4 +1,5 @@
-là hàm dùng để loại bỏ trùng lặp và trả về mảng chỉ chứa các giá trị riêng biệt đã tự sắp xếp (tăng dần hoặc theo thứ tự từ điển)
+## Định Nghĩa 
+np.unique() là hàm dùng để loại bỏ trùng lặp và trả về mảng chỉ chứa các giá trị riêng biệt đã tự sắp xếp (tăng dần hoặc theo thứ tự từ điển)
 ```python
 arr = np.array([3, 1, 2, 3, 1, 4, 2])
 unique_elements = np.unique(arr)
