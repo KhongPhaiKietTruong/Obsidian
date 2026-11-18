@@ -9,4 +9,5 @@ print(img.mode)
 các mode phổ biến:
 - RGB
 - BGR (mặc định của PIL)
+- 1: ảnh đen trắng 
 - 
