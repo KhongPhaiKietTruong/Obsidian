@@ -3,6 +3,10 @@ Image.mode cho biết cách ảnh biểu diễn dữ liệu bao gồm số kênh
 ```python
 from PIL import Image 
 img = Image.open('cat.jpg')
+print(img.mode)
+# output: 'BGR'
 ```
 các mode phổ biến:
-- "RGB"
+- RGB
+- BGR (mặc định của PIL)
+- 
