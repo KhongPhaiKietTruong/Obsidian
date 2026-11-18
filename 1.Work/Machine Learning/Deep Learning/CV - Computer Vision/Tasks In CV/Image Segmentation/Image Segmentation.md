@@ -14,3 +14,5 @@ có 3 loại segmentation chính:
 ### Instance Segmentation 
 - Mask R-CNN 
 ## Loss Function 
+các loss function thường dùng:
+- [[Cross-Entropy Loss]] 
