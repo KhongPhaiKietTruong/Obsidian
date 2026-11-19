@@ -1,0 +1,1 @@
+optimizer.param_groups là một [[List]] chứa các [[Dictionary]] chứa các [[Hyperparameter]] của optimizer (mỗi dict là một group)
