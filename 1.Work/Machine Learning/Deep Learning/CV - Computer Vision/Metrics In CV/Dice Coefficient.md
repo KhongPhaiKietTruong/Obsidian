@@ -12,7 +12,7 @@ Dice = \frac{2TP}{2TP+FP+FN}
 $$
 
 ## Miền Giá Trị 
-miền giá trị của Dice là `[0, 1]` với giá trị càng gần 1 là dự đoán
+miền giá trị của Dice là `[0, 1]` với giá trị càng gần 1 là dự đoán hoàn toàn chính xác 
 ## Khác Biệt So Với IoU
 điểm khác biệt giữa dice so với [[IoU - Intersection over Union]] là nó nhạy hơn về độ trùng lặp do đặt trọng số là 2 
 
