@@ -1,0 +1,1 @@
+TrainingArguments là một [[1.Work/OOP/Theory/Class|Class]] dùng để cấu hình các [[Hyperparameter]] cho quá trình training, được sử dụng cùng [[Trainer]] 
