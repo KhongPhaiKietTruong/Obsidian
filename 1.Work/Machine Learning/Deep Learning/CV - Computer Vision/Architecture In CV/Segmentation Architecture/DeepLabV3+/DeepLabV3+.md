@@ -4,3 +4,7 @@ DeepLabV3+ là một kiến trúc được thiết kế cho bài toán [[Semanti
 - [[Decoder]]: gộp low-level và high-level feature map lại với nhau và cho ra kết quả cuối cùng 
 
 ![[Pasted image 20261119165556.png]]
+## Code 
+```python
+from torchvision.models.segmentation import 
+```
