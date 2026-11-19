@@ -17,7 +17,16 @@ Có nhiều loại loss function khác nhau dành cho các vụ khác nhau, mộ
 ### Computer Vision 
 - [[Dice Loss]]
 ## Miền Giá Trị 
-với mỗi
+với mỗi Loss Function khác sau, ta sẽ lại có miền giá trị của loss khác nhau, nhưng có một đặt điểm chung là gì tốt nhất của các loại loss luôn là 0
+|Loss function|Khoảng giá trị|Giá trị tốt|
+|---|---|---|
+|Cross Entropy|\([0, +\infty)\)|Càng gần 0 càng tốt|
+|Binary Cross Entropy|\([0, +\infty)\)|Càng gần 0 càng tốt|
+|MSE|\([0, +\infty)\)|Càng gần 0 càng tốt|
+|MAE|\([0, +\infty)\)|Càng gần 0 càng tốt|
+|Dice Loss|\([0, 1]\)|Càng gần 0 càng tốt|
+|IoU Loss|\([0, 1]\)|Càng gần 0 càng tốt|
+|Focal Loss|\([0, +\infty)\)|Càng gần 0 càng tốt|
 ## Code 
 Để dùng các loss function trong code, ta dùng các [[1.Work/OOP/Theory/Class|Class]] trong module [[torch.nn]] như: [[nn.CrossEntropyLoss]], [[nn.MSELoss]], ... 
 ví dụ:
@@ -28,4 +37,8 @@ loss = loss_fn(pred, target) # pred truoc roi moi toi target
 
 > [!WARNING] 
 > Mặc định các hàm loss trong nn nhận vào hai tham số là [[Predicted Value]] và [[Ground Truth]] **theo đúng thứ tự**
+
+
+
+
 
