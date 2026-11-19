@@ -4,5 +4,7 @@ IoU là một đại lượng dùng để đánh giá một [[Bounding Box]] ho�
 IoU được tính bằng công thức:
 $$IoU = \frac{\text{diện tích trùng}}{\text{diện tích hợp}}$$
 
+## Miền Giá Trị 
+
 ## Công Dụng 
 - có thể được sử dụng để đánh giá model trong cả hai tác vụ là [[Image Segmentation]] và [[Object Detection]]  
