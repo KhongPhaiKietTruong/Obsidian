@@ -7,3 +7,16 @@ thiết kế của thư viện transformers gồm 5 loại [[1.Work/OOP/Theory/C
 - Preprocessor: bộ tiền xử lí dữ liệu (Tokenizer cho text, ImageProcessor cho ảnh, ...)
 - Pipeline: dùng để thực hiện suy luận 
 - Trainer:: dùng để thực hiện huấn luyện, fine-tune model 
+
+## Các Kiến Trúc Phố Biến 
+Trong transformers có rất nhiều kiến trúc phổ biến cho nhiều tác vụ khác nhau
+### CNN-Based
+- [[1.Work/Machine Learning/Deep Learning/CV - Computer Vision/Architecture In CV/Resnet/ResNet|ResNet]]
+- [[ConvNeXt]]
+- [[EfficientNet]]
+### Transformer-Based 
+- [[ViT]]
+- [[Swin Transformer]]
+- [[DINO]]v2
+### Hybrid 
+- ViT Hybrid 
