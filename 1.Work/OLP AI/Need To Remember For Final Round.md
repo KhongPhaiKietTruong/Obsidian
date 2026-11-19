@@ -9,3 +9,5 @@ opencv mặc định sử dụng BGR còn các thư viện khác đều sử d�
 DataLoader nhận vào Dataset object 
 
 Image.size (trong PIL) trả về (W, H) chứ không phải (H, W)
+
+khi áp dụng [[Class-Weighted Loss]], tensor weight cần được đặt trên cuda 
