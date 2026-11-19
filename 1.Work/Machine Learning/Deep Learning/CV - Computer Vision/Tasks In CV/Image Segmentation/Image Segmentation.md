@@ -8,7 +8,7 @@ có 3 loại segmentation chính:
 ## Các Model Cho Dạng Segmentation
 ### Semantic Segmentation 
 - [[U-Net]] 
-- [[DeepLabV3]]
+- [[DeepLabV3+]]
 - [[FCN - Fully Convolutional Network]] 
 - [[SegFormer]] 
 - UPerNet 
