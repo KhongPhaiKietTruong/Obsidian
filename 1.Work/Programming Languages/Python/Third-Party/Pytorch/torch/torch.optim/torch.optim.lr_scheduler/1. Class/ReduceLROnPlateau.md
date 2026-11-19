@@ -6,6 +6,13 @@ ReduceLROnPlateau là một [[Learning Rate Scheduler]] với cơ chế thực h
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 
 lr_scheduler = ReducerLROnPlateau(optimizer, mode, factor, patience)
+
+# eval loop 
+for X, y in val_dataloader:
+	...
+	val_loss /= len(val_dataloader)
+	lr_scheduler.step(val_loss)
+	
 ```
 với: 
 - optimizer: [[1.Work/OOP/Theory/Object|Object]] của [[Optimizer]] mà ta đã khởi tạo 
