@@ -25,4 +25,4 @@ trong đó, CE+Dice thường là lựa chọn bắt đầu phổ biến
 
 ## Metric
 Metric phổ biến dùng để đánh giá tác vụ segmentation:
-- 
+- [[Dice Coefficient]]
