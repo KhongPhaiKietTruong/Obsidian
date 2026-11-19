@@ -1,1 +1,2 @@
-thường chỉ gồm [[Output Layer]] nhưng cũng có thể có thêm vài lớp để phục vụ cho bài toán đang giải do đó cũng có nhiều loại head khác nhau 
+## Định Nghĩa
+Head là một thành phần nằm trong kiến trúc model, có tác dụng thực hiện dự đoán cho một tác vụ cụ thể 
