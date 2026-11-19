@@ -19,3 +19,4 @@ với:
 - mode: 
 - factor: hệ số giảm LR 
 - patience: bao nhiêu epoch mà chỉ số không cải thiện thì sẽ thực hiện giảm ? 
+- 
