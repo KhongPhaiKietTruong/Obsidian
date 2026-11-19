@@ -1,3 +1,4 @@
+Ta có thể áp dụng thêm 
 ```python
 for epoch in range(epochs):
 ​	model.train() # đưa model vào chế độ training
