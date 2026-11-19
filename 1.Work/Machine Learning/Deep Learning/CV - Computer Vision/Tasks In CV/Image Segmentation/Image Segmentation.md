@@ -11,6 +11,9 @@ có 3 loại segmentation chính:
 - [[DeepLabV3]]
 - [[FCN - Fully Convolutional Network]] 
 - [[SegFormer]] 
+- UPerNet 
+- MaskFormer
+- Mask2Former 
 ### Instance Segmentation 
 - Mask R-CNN 
 ## Loss Function 
