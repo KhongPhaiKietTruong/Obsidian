@@ -398,7 +398,7 @@
 			- **optim**
 				- **Optimizer (base class)**
 					- **1.Class**
-						- [[optim.Adam()]]
+						- [[optim.Adam]]
 					- **2.Method**
 						- [[optimizer.step()]]
 						- [[optimizer.zero_grad()]]
