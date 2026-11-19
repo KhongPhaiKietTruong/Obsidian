@@ -5,7 +5,7 @@ ReduceLROnPlateau là một [[Learning Rate Scheduler]] với cơ chế thực h
 ```python
 from torch.optim.lr_scheduler import ReduceLROnPlateau
 
-lr_scheduler = ReducerLROnPlateau(optimizer, mode, factor, patience)
+lr_scheduler = ReducerLROnPlateau(optimizer, mode='min', factor=0.1, patience=5, threshold=1e-4, min_lr=1e-6)
 
 # eval loop 
 for X, y in val_dataloader:
@@ -19,4 +19,4 @@ với:
 - mode: 
 - factor: hệ số giảm LR 
 - patience: bao nhiêu epoch mà chỉ số không cải thiện thì sẽ thực hiện giảm ? 
-- 
+- threshold: độ lệch loss để được xem là có cải thiện hay không 
