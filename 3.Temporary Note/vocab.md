@@ -16,3 +16,7 @@ curate (v): tuyển chọn
 lateral 
 inclusive (adj): hoà nhập 
 demeanor (n): phong thái 
+pilot (n): thí điểm, thử nghiệm 
+practice (n): văn phòng, phòng khám 
+produce (n): nông sản 
+highrise (n): nhà cao tầng 
