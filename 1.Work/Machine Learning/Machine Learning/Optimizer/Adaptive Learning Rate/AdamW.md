@@ -1,8 +1,11 @@
-
+tên khác: Decoupled Weight Decay
 ## Định Nghĩa 
-là [[Adam]] phiên bản cải tiến, adamW là sự kết hợp giữa [[Adam]] và [[Weight Decay]] 
+AdamW là [[Adam]] phiên bản cải tiến, là sự kết hợp giữa [[Adam]] và [[Weight Decay]] 
 công thức là:
 $$
 W_{new} = W_{old} - \alpha \frac{\hat{v}_t}{\sqrt{\hat{s}_t}+\epsilon} - \alpha \lambda W_{old}
 $$
 phần ở giữa chính là adam, phần sau cùng là weight decay 
+
+## Code 
+xem thêm ở [[optim.AdamW]] 

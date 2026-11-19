@@ -3,6 +3,6 @@ thay vì cố định [[Effective Learning Rate]] cho mọi [[Learnable Paramete
 ## Trường hợp sử dụng
 các [[Optimizer]] áp dụng cơ chế này là:
 - [[Adam]]
-- [[AdamW (Decoupled Weight Decay)]]
+- [[AdamW]]
 - [[RMSProp]]
 - [[AdaGrad]] 
