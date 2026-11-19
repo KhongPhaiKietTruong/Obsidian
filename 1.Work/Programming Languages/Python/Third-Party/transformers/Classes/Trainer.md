@@ -3,5 +3,5 @@ Trainer là một [[1.Work/OOP/Theory/Class|Class]] giúp quản lí quá trình
 
 ## Cú Pháp 
 ```python
-Trainer(model, args, data_collator, train_dataset)
+Trainer(model, args, data_collator, train_dataset, eval_dataset)
 ```
