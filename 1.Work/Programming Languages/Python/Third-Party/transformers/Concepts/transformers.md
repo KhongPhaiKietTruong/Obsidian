@@ -1,3 +1,6 @@
+## Định Nghĩa 
+Transformers là một thư viện của HuggingFace cung cấp các kiến trúc deep learning cùng với các API để dễ dàng giải quyết các bài toán AI 
+
 thiết kế của thư viện transformers gồm 5 loại [[1.Work/OOP/Theory/Class|Class]] chính:
 - Configuration: dùng để khai báo các [[Hyperparameter]] của một model 
 - Model: khai báo kiến trúc model 
