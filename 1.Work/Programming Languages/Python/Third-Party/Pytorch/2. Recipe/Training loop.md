@@ -1,4 +1,5 @@
-Ta có thể áp dụng thêm 
+Ta có thể áp dụng thêm mixed precision để đẩy nhanh quá trình training 
+
 ```python
 for epoch in range(epochs):
 ​	model.train() # đưa model vào chế độ training
