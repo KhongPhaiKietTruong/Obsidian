@@ -2,7 +2,7 @@
 - [[Contour Plot]]
 - [[Convex Function (Hàm Lồi)]]
 - [[Derivative's notation]]
-- [[Global Minimum (Cực Tiểu Toàn Cục)]]
+- [[Global Minimum]]
 - [[Gradient Descent]]
 - [[Gradient]]
 - [[Local Minimum (Cực Tiểu Cục Bộ)]]

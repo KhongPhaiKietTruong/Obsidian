@@ -13,7 +13,7 @@ $$
 $$
 khiến việc update [[Weight]] bằng [[Gradient Descent]] diễn ra có sự lệch rất lớn khi w1 thì update một khoảng lớn trong khi w2 lại được update một khoảng rất nhỏ
 
-điều này khiến cho [[Contour Plot]] của hàm cost mỏng, dẹp và con đường đi để tìm [[Global Minimum (Cực Tiểu Toàn Cục)]] của ta trên hàm cost bị "lắc lư" làm cho tốc độ hội tụ chậm chạp
+điều này khiến cho [[Contour Plot]] của hàm cost mỏng, dẹp và con đường đi để tìm [[Global Minimum]] của ta trên hàm cost bị "lắc lư" làm cho tốc độ hội tụ chậm chạp
 
 
 ![[Pasted image 20260518100531.png|center]]

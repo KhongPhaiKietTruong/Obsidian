@@ -8,4 +8,4 @@ $$
 phần ở giữa chính là adam, phần sau cùng là weight decay 
 
 ## Code 
-xem thêm ở [[optim.AdamW]] 
+![[optim.AdamW]] 

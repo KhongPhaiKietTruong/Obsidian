@@ -4,4 +4,4 @@
 ## Ưu Điểm
 - tốc độ nhanh (khi thực hiện [[Forward Propogation]] và [[Backpropagation]]) do chỉ xử lí một mẫu mỗi lần 
 ## Nhược Điểm 
-- Sẽ có nhiều "nhiễu" khiến [[Cost Function]] hội tụ rất lâu vì với mỗi mẫu ta lại có một [[Gradient]] khác nhau, đường đi của ta đến [[Global Minimum (Cực Tiểu Toàn Cục)]] sẽ rất "lắc lư"
+- Sẽ có nhiều "nhiễu" khiến [[Cost Function]] hội tụ rất lâu vì với mỗi mẫu ta lại có một [[Gradient]] khác nhau, đường đi của ta đến [[Global Minimum]] sẽ rất "lắc lư"
