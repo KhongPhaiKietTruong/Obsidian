@@ -20,3 +20,8 @@ Trong transformers có rất nhiều kiến trúc phổ biến cho nhiều tác 
 - [[DINO]]v2
 ### Hybrid 
 - ViT Hybrid 
+- MaskFormer
+- Mask2Former
+- UPerNet
+- [[DETR]] 
+- 
