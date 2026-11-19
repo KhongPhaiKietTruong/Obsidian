@@ -95,6 +95,7 @@
 - [ ] PANet
 - [ ] BiFPN
 - [ ] NAS-FPN
+- [ ] số lượng sample đối với mỗi dạng tác vụ 
 
 keyword OLP AI:
 CV
