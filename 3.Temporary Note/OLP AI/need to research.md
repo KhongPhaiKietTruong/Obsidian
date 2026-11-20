@@ -93,6 +93,7 @@
 keyword OLP AI:
 CV
 - [ ] Anomoly Detection 
+	- [ ] Basic Theory 
 - [ ] multi-task learning 
 - [ ] sequence labeling 
 - [ ] representation learning 
