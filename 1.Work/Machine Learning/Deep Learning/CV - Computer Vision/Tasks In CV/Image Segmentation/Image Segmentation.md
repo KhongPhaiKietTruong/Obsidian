@@ -27,4 +27,4 @@ trong đó, CE+Dice thường là lựa chọn bắt đầu phổ biến
 Metric phổ biến dùng để đánh giá tác vụ segmentation:
 - [[Dice Coefficient]]
 - [[IoU - Intersection over Union]] 
-- [[mIoU]] 
+- [[mIoU]] (segmentation với nhiều lớp)

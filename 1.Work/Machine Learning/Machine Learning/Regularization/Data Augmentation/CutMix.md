@@ -4,5 +4,5 @@ ví dụ: nhãn của mẫu mới đó có thể là (0.75 mèo, 0.25 chó)
 ## Công Dụng 
 - tạo [[Regularization]] giúp giảm [[Overfitting - High Variance]]
 ## Sử Dụng 
-- được sử dụng chủ yếu trong bài toán [[1.Work/Machine Learning/Deep Learning/CV - Computer Vision/Tasks In CV/Classification|Classification]] 
+- được sử dụng chủ yếu trong bài toán [[Image Classification|Image Classification]] 
 ![[Pasted image 20261111140537.png]]

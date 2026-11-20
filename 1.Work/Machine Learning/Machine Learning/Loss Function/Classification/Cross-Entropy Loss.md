@@ -18,5 +18,5 @@ $$
 Loss \in [0, +\infty)
 $$
 ## Sử Dụng 
-- [[1.Work/Machine Learning/Deep Learning/CV - Computer Vision/Tasks In CV/Classification|Classification]] nhiều lớp 
+- [[Image Classification|Image Classification]] nhiều lớp 
 - [[Image Segmentation]] 
