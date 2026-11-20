@@ -1,4 +1,4 @@
-gần tương tự như [[loc]], chỉ khác ở chỗ iloc thì truy cập thông qua số index (chỉ số nguyên) còn loc thì theo nhãn.
+DataFrae.iloc là một [[Attribute]] gần tương tự như [[loc]], chỉ khác ở chỗ iloc thì truy cập thông qua số index (chỉ số nguyên) còn loc thì theo nhãn.
 
 Ví dụ:
 ```python
