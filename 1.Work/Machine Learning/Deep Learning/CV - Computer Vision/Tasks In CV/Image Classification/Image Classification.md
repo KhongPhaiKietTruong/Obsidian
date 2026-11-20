@@ -5,6 +5,8 @@ Image classification là tác vụ yêu cầu phân loại một ảnh thuộc v
 Có hai loại chính:
 - [[Multi-Label Classification]]
 - [[Multi-Class Classification]] 
+- [[Fine-grained Classification]] 
 
+## Các Model 
 
 
