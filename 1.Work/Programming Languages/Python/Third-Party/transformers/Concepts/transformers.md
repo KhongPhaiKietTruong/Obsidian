@@ -25,3 +25,4 @@ Trong transformers có rất nhiều kiến trúc phổ biến cho nhiều tác 
 - UPerNet
 
 ## Cách Sử Dụng Cơ Bản 
+để sử dụng được model thì ta cần 2 class: một cái đại diện cho config của model đó và một cái đại diện cho kiến trúc model đó 
