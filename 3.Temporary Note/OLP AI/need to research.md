@@ -86,10 +86,10 @@
 - [ ] Faster R-CNN 
 - [x] FPN (Feature Pyramid Network)
 - [ ] ~~PANet~~ (ít phổ biến)
-- [ ] BiFPN
-- [ ] NAS-FPN
+- [ ] ~~BiFPN~~ (ít phổ biến)
+- [ ] ~~NAS-FPN~~
 - [ ] số lượng sample đối với mỗi dạng tác vụ 
-- [ ] teacher-studnet 
+- [ ] teacher-student 
 
 keyword OLP AI:
 CV
