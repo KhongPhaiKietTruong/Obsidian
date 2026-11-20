@@ -1,1 +1,1 @@
- tieegiống với [[Recall (Độ Bao Phủ)]] 33
+ tieegiống với [[Recall]] 33

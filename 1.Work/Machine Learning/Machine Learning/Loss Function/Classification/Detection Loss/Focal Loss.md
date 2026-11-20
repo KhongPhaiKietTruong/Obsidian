@@ -1,3 +1,9 @@
+mẫu khó: mẫu bị model dự đoán sai hoặc dự đoán đúng nhưng độ tự tin thấp 
+mẫu dễ: mẫu model đoán đúng với độ tự tin cao 
+***
+## Intuitions
+model gặp mẫu dễ -> giảm loss
+model gặp mẫu khó -> tăng loss (tập trung hơn vào mẫu khó)
 ## Định Nghĩa 
 Focal Loss là một [[Loss Function]] thường được sử dụng cho bài toán [[Object Detection]] với [[Imbalanced Data]] với cơ chế tập trung vào những mẫu khó 
 

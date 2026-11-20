@@ -1,4 +1,5 @@
 Precision là tỉ lệ ta đoán đúng khi đoán một mẫu là dương tính
+
 hiểu nôm na là nếu ta dự đoán một mẫu (giả sử là email) là spam thì precision chính là tỉ lệ mà email đó thật sự là email spam 
 
 công thức tính precision:

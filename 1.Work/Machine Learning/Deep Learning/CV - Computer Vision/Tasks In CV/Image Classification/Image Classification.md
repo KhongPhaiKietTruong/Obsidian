@@ -11,5 +11,15 @@ Có hai loại chính:
 có rất nhiều kiến trúc có thể thực hiện được tác vụ phân loại, miễn là kiến trúc đó có khả năng trích xuất được [[Feature Map]] từ ảnh, các kiến trúc phổ biến thường sử dụng:
 - [[1.Work/Machine Learning/Deep Learning/CV - Computer Vision/Architecture In CV/Resnet/ResNet|ResNet]]
 - [[ConvNeXt]] 
-- 
+- [[ViT]] 
 
+## Metric 
+các chỉ số để đánh giá mô hình trong tác vụ classification:
+- [[Accuracy]] 
+- [[Precision]] 
+- [[Recall]] 
+- [[F1 Score]] 
+
+## Loss Function
+- [[Cross-Entropy Loss]] 
+- [[Focal Loss]] 
