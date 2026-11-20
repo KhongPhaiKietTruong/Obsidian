@@ -60,8 +60,7 @@
 - [x] Bounding Box Regression 
 - [x] inductive bias 
 - [ ] function calling 
-
-- [ ] ~~Stochastic Depth~~ (một kĩ thuật được đề xuất, không mang tính nền tảng)
+- [ ] ~~Stochastic Depth~~ (một kĩ thuật được đề xuất trong paper, không mang tính nền tảng)
 - [x] mixup
 - [x] cutmix 
 - [ ] khôi phục ảnh cũ 
