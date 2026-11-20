@@ -1,5 +1,5 @@
-- [ ] ~~forbenius norm~~ 
-- [ ] ~~gray encoding~~ 
+- [x] ~~forbenius norm~~ 
+- [x] ~~gray encoding~~ 
 - [x] response, request ? 
 - [x] back propagation
 - [x] leaky relu vs relu 
@@ -13,7 +13,7 @@
 - [x] cấu tạo residual block 
 - [x] mô hình BERT, GPT 
 - [x] KV Cache
-- [ ] ~~Paddle OCR~~  
+- [x] ~~Paddle OCR~~  
 - [x] decoupled learning rate ? 
 - [x] adaGrad 
 - [x] batch norm vs layer norm 
@@ -21,8 +21,8 @@
 - [x] AdaptiveAvgPool2d 
 - [x] OOB
 - [x] SVD 
-- [ ] ~~GMM~~ 
-- [ ] ~~LDA~~ 
+- [x] ~~GMM~~ 
+- [x] ~~LDA~~ 
 - [x] GELU
 - [x] GELU
 - [x] SiLU, Swish 
@@ -46,7 +46,7 @@
 - [x] ConvNeXt 
 - [x] ViT 
 - [x] Transformer Decoder 
-- [ ] ~~CVT~~ (kiến trúc này ít phổ biến trong thực tế)
+- [x] ~~CVT~~ (kiến trúc này ít phổ biến trong thực tế)
 - [ ] optimizer = torch.optim.AdamW( filter(lambda p: p.requires_grad, model.parameters()), lr=1e-4 * (0.8 ** epoch) )
 - [x] CLIP 
 - [x] BEiT
@@ -60,16 +60,16 @@
 - [x] Bounding Box Regression 
 - [x] inductive bias 
 - [ ] function calling 
-- [ ] ~~Stochastic Depth~~ (một kĩ thuật được đề xuất trong paper, không mang tính nền tảng)
+- [x] ~~Stochastic Depth~~ (một kĩ thuật được đề xuất trong paper, không mang tính nền tảng)
 - [x] mixup
 - [x] cutmix 
 - [ ] khôi phục ảnh cũ 
-- [ ] ~~Graph Learning~~ (chưa phổ biến) 
+- [x] ~~Graph Learning~~ (chưa phổ biến) 
 - [x] U-net & encoder decoder 
 - [x] Các metric trong dạng toán segmentation 
 - [x] feature extractor là gì 
 - [ ] Chọn kích thước ảnh để truyền vào model ?
-- [ ] deeplabV3
+- [x] deeplabV3
 - [ ] combined loss 
 - [x] backbone 
 - [x] DINOv2 / MAE / SimCLR...
@@ -114,5 +114,6 @@ CV
 - [ ] Image-Text Matching 
 - [ ] Anomoly Detection 
 - [ ] https://chatgpt.com/share/6afffffb-de00-83ec-8c90-be10c4c220b9 
+- [ ] Feature Aggreration 
 
 
