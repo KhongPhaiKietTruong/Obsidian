@@ -85,7 +85,7 @@
 - [x] FCN 
 - [ ] cross-attention in CV 
 - [ ] ~~Có cần thực hiện EDA trên Private Test không~~ (không, tại trong private ko có nhiễu)
-- [ ] Giải quyết thế nào khi train và test lệch domain 
+- [ ] ~~Giải quyết thế nào khi train và test lệch domain~~ (khó xảy ra trong thi)
 - [ ] DPT (depth analysis)
 - [ ] super-resolution
 - [ ] VAE 
