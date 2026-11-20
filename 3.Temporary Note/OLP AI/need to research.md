@@ -1,11 +1,6 @@
-- [ ] XML file là gì ?
-- [ ] the architecture for a servlet/JSP application
-- [ ] stateless 
-- [ ] mô hình 3 lớp trong web là gì  
 - [ ] ~~forbenius norm~~ 
 - [ ] ~~gray encoding~~ 
 - [x] response, request ? 
-- [ ] private ip vs public ip 
 - [x] back propagation
 - [x] leaky relu vs relu 
 - [x] activation tanh 
@@ -32,7 +27,6 @@
 - [x] GELU
 - [x] SiLU, Swish 
 - [x] SwiGLU, GeGLU  
-
 - [x] Hinge Loss 
 - [x] Label Smoothing 
 - [x] Lí thuyết sấp xỉ hàm trong DL 
@@ -40,7 +34,6 @@
 - [x] ~~Group Batch~~ 
 - [x] SE Block 
 - [x] FPN 
-
 - [ ] AWS Certified AI practitioner (AIF-C01)
 - [ ] AWS Certified Machine Learning Engineer – Associate (MLA-C01)
 - [x] Mermaid 
@@ -100,14 +93,15 @@
 
 keyword OLP AI:
 CV
+- [ ] Anomoly Detection 
 - [ ] multi-task learning 
 - [ ] sequence labeling 
 - [ ] representation learning 
-- [ ] domain shift & domain generalization 
+- [x] domain shift & domain generalization 
 - [x] contrasive learing 
 - [ ] feature invariance 
 - [ ] Noise and Data Degradation 
-- [ ] 2 subtask in a problems 
+- [x] 2 subtask in a problems 
 - [ ] real-world AI application 
 - [ ] feature extraction 
 - [ ] embeddings 
