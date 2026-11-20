@@ -6,3 +6,5 @@ Có hai loại chính:
 - [[Multi-Label Classification]]
 - [[Multi-Class Classification]] 
 
+
+
