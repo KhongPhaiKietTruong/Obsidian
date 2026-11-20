@@ -23,3 +23,5 @@ Trong transformers có rất nhiều kiến trúc phổ biến cho nhiều tác 
 - MaskFormer
 - Mask2Former
 - UPerNet
+
+## Cách Sử Dụng Cơ Bản 
