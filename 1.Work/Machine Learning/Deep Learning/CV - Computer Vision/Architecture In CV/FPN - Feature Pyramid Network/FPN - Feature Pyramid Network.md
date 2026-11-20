@@ -11,9 +11,9 @@ nếu sử dụng F ở tầng sâu thì ta có thể phân biệt đối tượ
 FPN giải quyết vấn đề này bằng cách kết hợp thông tin của nhiều F ở nhiều tầng lại với nhau 
 ## Cấu Trúc Mạng 
 FPN gồm hai nhánh chính:
-- bottom-up pathway: là quá trình tích chập bình thường 
-- top-down pathway: chọn $F_n$ sâu nhất để bắt đầu, thực hiện [[Upsampling]] lên $F_n$ đó lên thành $C_n$ để nó có cùng kích thước với $F_{n-1}$, sau đó thực hiện $F_{n-1}$ =  $F_{n-1}$ + $C_n$ và tương tự vậy với $F_{n-2}$ 
+- **bottom-up pathway**: là quá trình tích chập bình thường 
+- **top-down pathway**: chọn $F_n$ sâu nhất để bắt đầu, thực hiện [[Upsampling]] lên $F_n$ đó lên thành $C_n$ để nó có cùng kích thước với $F_{n-1}$, sau đó thực hiện $F_{n-1}$ =  $F_{n-1}$ + $C_n$ và tương tự vậy với $F_{n-2}$ 
 ## Công Dụng
 - phát hiện vật thể ở nhiều kích thước khác nhau 
 - là một module trong nhiều kiến trúc khác như: [[RetinaNet]] 
-![[Pasted image 20261120150455.png]]
+![[Pasted image 20261120150800.png]]
