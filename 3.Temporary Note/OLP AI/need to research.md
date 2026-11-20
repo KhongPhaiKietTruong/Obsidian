@@ -82,9 +82,9 @@
 - [ ] DPT (depth analysis)
 - [ ] super-resolution
 - [x] VAE 
-- [ ] R-CNN 
+- [x] R-CNN 
 - [ ] Faster R-CNN 
-- [ ] FPN (Feature Pyramid Network)
+- [x] FPN (Feature Pyramid Network)
 - [ ] PANet
 - [ ] BiFPN
 - [ ] NAS-FPN
