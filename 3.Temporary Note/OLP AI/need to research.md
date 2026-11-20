@@ -96,6 +96,7 @@
 - [ ] BiFPN
 - [ ] NAS-FPN
 - [ ] số lượng sample đối với mỗi dạng tác vụ 
+- [ ] teacher-studnet 
 
 keyword OLP AI:
 CV
