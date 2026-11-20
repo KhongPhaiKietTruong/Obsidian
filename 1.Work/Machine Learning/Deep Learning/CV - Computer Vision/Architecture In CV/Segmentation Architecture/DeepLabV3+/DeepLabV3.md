@@ -1,4 +1,5 @@
 ## Định Nghĩa 
+DeepLabV3 là kiến trúc được sử dụng cho [[Image Segmentation]] 
 
 ## Code 
 ```python

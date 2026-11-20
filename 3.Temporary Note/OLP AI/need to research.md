@@ -85,7 +85,7 @@
 - [x] R-CNN 
 - [ ] Faster R-CNN 
 - [x] FPN (Feature Pyramid Network)
-- [ ] PANet
+- [ ] ~~PANet~~ (ít phổ biến)
 - [ ] BiFPN
 - [ ] NAS-FPN
 - [ ] số lượng sample đối với mỗi dạng tác vụ 

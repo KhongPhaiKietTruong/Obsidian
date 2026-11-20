@@ -7,3 +7,5 @@ Object Detection là một dạng toán trong CV mà ta phải thực hiện đ�
 các kiến trúc thường được sử dụng cho dạng bài [[Object Detection]]:
 - [[Faster R-CNN]]
 - [[YOLO]] 
+- [[RetinaNet]] 
+- 
