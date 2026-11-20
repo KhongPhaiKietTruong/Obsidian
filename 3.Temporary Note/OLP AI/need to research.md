@@ -119,6 +119,5 @@ CV
 - [ ] Video Action Recognition 
 - [ ] Image-Text Matching 
 - [ ] Anomoly Detection 
-NLP 
-- Sequence Labeling
-- Feature Extraction 
+
+
