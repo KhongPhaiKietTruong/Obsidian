@@ -16,4 +16,4 @@ FPN gồm hai nhánh chính:
 ## Công Dụng
 - phát hiện vật thể ở nhiều kích thước khác nhau 
 - là một module trong nhiều kiến trúc khác như: [[RetinaNet]] 
-
+![[Pasted image 20261120150455.png]]
