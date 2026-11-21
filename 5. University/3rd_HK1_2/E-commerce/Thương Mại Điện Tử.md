@@ -17,3 +17,5 @@ B2c, B2b, C2C, C2B, B2G / G2B, G2C / C2G
 mô hình giao dịch vs mô hình doanh thu 
 giao dịch: ai vs ai
 doanh thu: thu tiền bằng cách nào 
+
+chương 1 chương 2 tới mục 2.8, đề đóng 
