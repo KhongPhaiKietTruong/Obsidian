@@ -107,8 +107,8 @@ CV
 	- [ ] 
 - [x] 2 subtask in a problems 
 - [x] real-world AI application 
-- [ ] feature extraction 
-- [ ] embeddings 
+- [x] feature extraction 
+- [x] embeddings 
 - [ ] metric learning 
 - [ ] data augmentation 
 - [ ] Medical Image Analysis 
