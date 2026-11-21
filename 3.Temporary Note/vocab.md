@@ -9,11 +9,10 @@ unhinged (adj): mất kiểm soát, điên rồ
 bootstrap (v): khởi tạo 
 ablate (v): loại bỏ một phần
 ablation (n): sự loại bỏ 
-occlusion (n): 
+Occlude (v): che khuất
+Occlusion (n): sự che khuất
 overstate (v): phóng đại, nói quá 
-curate (n)
-curate (v): tuyển chọn 
-lateral 
+lateral (n): theo phương ngang 
 inclusive (adj): hoà nhập 
 demeanor (n): phong thái 
 pilot (n): thí điểm, thử nghiệm 
