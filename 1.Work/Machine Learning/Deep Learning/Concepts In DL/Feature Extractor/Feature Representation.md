@@ -5,5 +5,5 @@ Biểu diễn đặc trưng là một cách thức biểu diễn các thông tin
 
 một số biểu diễn đặc trưng phổ biến:
 - [[Embeddings]]
-- [[Feature Map]]
+- [[Feature Map]] (dành cho ảnh)
 - ...
