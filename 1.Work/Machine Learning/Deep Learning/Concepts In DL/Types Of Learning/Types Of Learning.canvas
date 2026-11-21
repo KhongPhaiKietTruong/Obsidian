@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"824663e49400118f","type":"text","text":"Types Of Learning","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"4cbe879b47ca0b54","x":-125,"y":100,"width":250,"height":60,"type":"text","text":"[[Contrastive Learning]] "}
+	],
+	"edges":[
+		{"id":"190e96d724201eb7","fromNode":"824663e49400118f","fromSide":"bottom","toNode":"4cbe879b47ca0b54","toSide":"top"}
+	]
+}
