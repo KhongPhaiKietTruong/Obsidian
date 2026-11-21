@@ -4,6 +4,11 @@ Metric Learning là một hướng tiếp cận mà model có khả năng đưa 
 ## Cách Tiếp Cận 
 [[Siamese Network]], [[Contrastive Learning]], ... là một ví dụ điển hình cho phương pháp học này 
 
+## Loss Function
+- Contrastive Loss.
+- Triplet Loss.
+- ArcFace Loss.
+
 > [!NOTE] 
-> Các mạng phân loại bình thường tạo ra embeddings có ý nghĩa về mặt phân loại (tìm [[Decision Boundary]]) nhưng không có ý nghĩa về khoảng cách (cho 2 tấm ảnh chó khác nhau vào mạng phân loại cho ra 2 embeddings A và B, khi sử dụng A và B ta vẫn sẽ phân loại được hai tụi nó là chó nhưng khi đặt A và B lên [[Vector Space]], tụi nó có thể sẽ không nằm gần nhau)
+> Các mạng phân loại bình thường tạo ra embeddings có ý nghĩa về mặt phân loại (để) tìm [[Decision Boundary]]) nhưng không có ý nghĩa về khoảng cách (cho 2 tấm ảnh chó khác nhau vào mạng phân loại cho ra 2 embeddings A và B, khi sử dụng A và B ta vẫn sẽ phân loại được hai tụi nó là chó nhưng khi đặt A và B lên [[Vector Space]], tụi nó có thể sẽ không nằm gần nhau)
 
