@@ -9,3 +9,7 @@ Trong đó:
 - $y=0$: Negative Pair.
 - $m$: Margin, khoảng cách tối thiểu mong muốn giữa Negative Pairs.
 
+ta mong muốn D của positive pair tiến về 0 và D của negative pair thì phải >= m
+
+## Sử Dụng 
+- được sử dụng trong [[Contrastive Learning]] 
