@@ -95,7 +95,7 @@ CV
 - [ ] Anomoly Detection 
 	- [x] Basic Theory 
 	- [ ] Code 
-- [ ] multi-task learning 
+- [x] multi-task learning 
 - [ ] sequence labeling 
 - [ ] representation learning 
 - [x] domain shift & domain generalization 
