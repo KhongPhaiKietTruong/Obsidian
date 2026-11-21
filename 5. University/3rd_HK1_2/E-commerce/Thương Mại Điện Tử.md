@@ -12,3 +12,4 @@ nền tảng trung gian
 mô hình khởi nguyên: B2B 
 phân loại các chủ thể tham gia giao dịch
 hay nhầm: C2C là consumer to consumer 
+G: goverment -> dịch vụ công (liên quan đến nhà nước là liên quan đến dịch vụ công)
