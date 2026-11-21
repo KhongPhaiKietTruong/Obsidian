@@ -1,26 +1,23 @@
 {
 	"nodes":[
 		{"id":"824663e49400118f","type":"text","text":"Types Of Learning","x":-125,"y":-30,"width":250,"height":60},
-		{"id":"4cbe879b47ca0b54","type":"text","text":"[[Metric Learning]]","x":-125,"y":100,"width":250,"height":60},
 		{"id":"0450ca4f9cda0f21","type":"text","text":"[[Multimodal Learning]]","x":-125,"y":-200,"width":250,"height":60},
 		{"id":"5ca1211619c87694","type":"text","text":"[[Self-Supervised Learning]]","x":260,"y":40,"width":250,"height":60},
 		{"id":"33c530a5ac174a33","type":"text","text":"[[Semi-Supervised Learning]]","x":260,"y":-90,"width":250,"height":60},
-		{"id":"3f394ba5b9471123","x":-280,"y":300,"width":250,"height":60,"type":"text","text":"Architectures"},
-		{"id":"e9ba834887f2460f","type":"text","text":"[[Contrastive Learning]]","x":80,"y":300,"width":250,"height":60},
-		{"id":"75bd99394eb01dea","x":-280,"y":600,"width":250,"height":60,"type":"text","text":"[[Siamese Network]]"},
-		{"id":"9e05a06da049bb9a","x":80,"y":460,"width":250,"height":60,"type":"text","text":"Architectures"},
-		{"id":"b85837280c420364","type":"text","text":"[[SimCLR]]","x":80,"y":600,"width":250,"height":60}
+		{"id":"e9ba834887f2460f","type":"text","text":"[[Contrastive Learning]]","x":-125,"y":100,"width":250,"height":60},
+		{"id":"9e05a06da049bb9a","x":-125,"y":220,"width":250,"height":60,"type":"text","text":"Architectures"},
+		{"id":"75bd99394eb01dea","x":-420,"y":440,"width":250,"height":60,"type":"text","text":"[[Siamese Network]]"},
+		{"id":"b85837280c420364","type":"text","text":"[[SimCLR]]","x":-125,"y":440,"width":250,"height":60},
+		{"id":"29845ecf9f4b305e","x":180,"y":440,"width":250,"height":60,"type":"text","text":"[[Triplet Network]]"}
 	],
 	"edges":[
-		{"id":"190e96d724201eb7","fromNode":"824663e49400118f","fromSide":"bottom","toNode":"4cbe879b47ca0b54","toSide":"top"},
-		{"id":"aa7781c1b3a567cb","fromNode":"4cbe879b47ca0b54","fromSide":"bottom","toNode":"e9ba834887f2460f","toSide":"top"},
 		{"id":"ebf9a157a24c8f81","fromNode":"824663e49400118f","fromSide":"right","toNode":"33c530a5ac174a33","toSide":"left"},
 		{"id":"1a59f5b8d93da052","fromNode":"824663e49400118f","fromSide":"right","toNode":"5ca1211619c87694","toSide":"left"},
 		{"id":"f50a167086b9412e","fromNode":"824663e49400118f","fromSide":"top","toNode":"0450ca4f9cda0f21","toSide":"bottom"},
-		{"id":"d56ae2f99f059148","fromNode":"5ca1211619c87694","fromSide":"bottom","toNode":"e9ba834887f2460f","toSide":"top"},
 		{"id":"fed1b9c97f7a3eaa","fromNode":"e9ba834887f2460f","fromSide":"bottom","toNode":"9e05a06da049bb9a","toSide":"top"},
 		{"id":"e4613c7b9f034e09","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"b85837280c420364","toSide":"top"},
-		{"id":"e3981eccc0445e1c","fromNode":"4cbe879b47ca0b54","fromSide":"bottom","toNode":"3f394ba5b9471123","toSide":"top"},
-		{"id":"979e815207f56ec3","fromNode":"3f394ba5b9471123","fromSide":"bottom","toNode":"75bd99394eb01dea","toSide":"top"}
+		{"id":"7c40358bd0cfb9e8","fromNode":"824663e49400118f","fromSide":"bottom","toNode":"e9ba834887f2460f","toSide":"top"},
+		{"id":"e634819141cf5937","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"75bd99394eb01dea","toSide":"top"},
+		{"id":"c6374c69cd412bd0","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"29845ecf9f4b305e","toSide":"top"}
 	]
 }

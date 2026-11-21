@@ -1,7 +1,8 @@
 ## Định Nghĩa 
-Metric Learning là một hướng tiếp cận mà model có khả năng đưa ra các [[Feature Representation]] ([[Embeddings]]) sao cho distance functions (như [[Cosine Similarity]], ...) có thể đo lường sự tương đồng giữa các chúng nó một cách có ý nghĩa (hai mẫu dữ liệu tương tự nhau thì phải có embbedings nằm gần nhau)
+Metric Learning là một hướng tiếp cận / mô hình học sao cho học được một không gian biểu diễn ([[Vector Space]]) mà distance functions (như [[Cosine Similarity]], ...) có thể đo lường sự tương đồng giữa các [[Embeddings]] một cách có ý nghĩa (hai mẫu dữ liệu tương tự nhau thì phải có embbedings nằm gần nhau)
 
-## Cách Tiếp Cận 
+## Các Phương Pháp
+Các p
 [[Siamese Network]], [[Contrastive Learning]], ... là một ví dụ điển hình cho phương pháp học này 
 
 ## Loss Function
