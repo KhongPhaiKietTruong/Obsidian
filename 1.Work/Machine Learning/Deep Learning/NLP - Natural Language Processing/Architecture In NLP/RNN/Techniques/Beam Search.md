@@ -16,3 +16,6 @@ b nhỏ thì kết quả ít tốt hơn nhưng nó nhanh
 
 tùy theo ứng dụng mà ta chọn b, nếu muốn độ chính xác cực cao (để lên benchmarck các kiểu) thì b = 1000 đến 3000 không hiếm 
 còn nhanh thì 3-10 là oke 
+
+## Nhược Điểm 
+- chi phí tính toán cao 
