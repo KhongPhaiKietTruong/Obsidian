@@ -87,7 +87,7 @@
 - [ ] ~~PANet~~ (ít phổ biến)
 - [ ] ~~BiFPN~~ (ít phổ biến)
 - [ ] ~~NAS-FPN~~
-- [ ] số lượng sample đối với mỗi dạng tác vụ 
+- [x] số lượng sample đối với mỗi dạng tác vụ 
 - [ ] teacher-student 
 
 keyword OLP AI:

@@ -24,4 +24,5 @@ các chỉ số để đánh giá mô hình trong tác vụ classification:
 - [[Cross-Entropy Loss]] 
 - [[Focal Loss]] 
 
-
+## Số Lượng Sample 
+cho thực hiện tác vụ này tốt, số lượng sample cần khoảng 500-2000 ảnh / class (trong thường hợp có pretrained [[Backbone]])

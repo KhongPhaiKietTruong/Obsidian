@@ -8,4 +8,6 @@ các kiến trúc thường được sử dụng cho dạng bài [[Object Detect
 - [[Faster R-CNN]]
 - [[YOLO]] 
 - [[RetinaNet]] 
-- 
+
+## Số Lượng Sample 
+cho thực hiện tác vụ này tốt, số lượng sample cần khoảng 1000-5000 (trong thường hợp có pretrained [[Backbone]])

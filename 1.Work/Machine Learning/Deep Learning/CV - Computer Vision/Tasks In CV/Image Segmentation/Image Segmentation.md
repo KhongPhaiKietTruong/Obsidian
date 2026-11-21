@@ -28,3 +28,5 @@ Metric phổ biến dùng để đánh giá tác vụ segmentation:
 - [[Dice Coefficient]]
 - [[IoU - Intersection over Union]] 
 - [[mIoU]] (segmentation với nhiều lớp)
+## Số Lượng Sample 
+cho thực hiện tác vụ này tốt, số lượng sample cần khoảng 500-2000 (trong thường hợp có pretrained [[Backbone]])
