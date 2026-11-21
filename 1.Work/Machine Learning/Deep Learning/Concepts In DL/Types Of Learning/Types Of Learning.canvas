@@ -5,11 +5,11 @@
 		{"id":"0450ca4f9cda0f21","type":"text","text":"[[Multimodal Learning]]","x":-125,"y":-200,"width":250,"height":60},
 		{"id":"5ca1211619c87694","type":"text","text":"[[Self-Supervised Learning]]","x":260,"y":40,"width":250,"height":60},
 		{"id":"33c530a5ac174a33","type":"text","text":"[[Semi-Supervised Learning]]","x":260,"y":-90,"width":250,"height":60},
-		{"id":"e9ba834887f2460f","type":"text","text":"[[Contrastive Learning]]","x":260,"y":300,"width":250,"height":60},
-		{"id":"9e05a06da049bb9a","x":260,"y":450,"width":250,"height":60,"type":"text","text":"Architectures"},
-		{"id":"b85837280c420364","type":"text","text":"[[SimCLR]]","x":260,"y":600,"width":250,"height":60},
-		{"id":"75bd99394eb01dea","x":-125,"y":600,"width":250,"height":60,"type":"text","text":"[[Siamese Network]]"},
-		{"id":"3f394ba5b9471123","x":-125,"y":450,"width":250,"height":60,"type":"text","text":"Architectures"}
+		{"id":"3f394ba5b9471123","x":-280,"y":300,"width":250,"height":60,"type":"text","text":"Architectures"},
+		{"id":"e9ba834887f2460f","type":"text","text":"[[Contrastive Learning]]","x":80,"y":300,"width":250,"height":60},
+		{"id":"75bd99394eb01dea","x":-280,"y":600,"width":250,"height":60,"type":"text","text":"[[Siamese Network]]"},
+		{"id":"9e05a06da049bb9a","x":80,"y":460,"width":250,"height":60,"type":"text","text":"Architectures"},
+		{"id":"b85837280c420364","type":"text","text":"[[SimCLR]]","x":80,"y":600,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"190e96d724201eb7","fromNode":"824663e49400118f","fromSide":"bottom","toNode":"4cbe879b47ca0b54","toSide":"top"},
