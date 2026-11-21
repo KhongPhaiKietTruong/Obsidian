@@ -1,2 +1,2 @@
 ## Định Nghĩa 
-Backbone là một [[Feature Extractor]] có nhiệm vụ chuyển dữ liệu đầu vào thành [[Feature Representation]] 
+Backbone là một [[Feature Extractor]] có nhiệm vụ chuyển dữ liệu đầu vào thành [[Feature Representation]] nằm trong một kiến trúc lớn 
