@@ -5,10 +5,11 @@
 		{"id":"5ca1211619c87694","type":"text","text":"[[Self-Supervised Learning]]","x":260,"y":40,"width":250,"height":60},
 		{"id":"33c530a5ac174a33","type":"text","text":"[[Semi-Supervised Learning]]","x":260,"y":-90,"width":250,"height":60},
 		{"id":"e9ba834887f2460f","type":"text","text":"[[Contrastive Learning]]","x":-125,"y":100,"width":250,"height":60},
-		{"id":"9e05a06da049bb9a","x":-125,"y":220,"width":250,"height":60,"type":"text","text":"Architectures"},
-		{"id":"75bd99394eb01dea","x":-420,"y":440,"width":250,"height":60,"type":"text","text":"[[Siamese Network]]"},
-		{"id":"b85837280c420364","type":"text","text":"[[SimCLR]]","x":-125,"y":440,"width":250,"height":60},
-		{"id":"29845ecf9f4b305e","x":180,"y":440,"width":250,"height":60,"type":"text","text":"[[Triplet Network]]"}
+		{"id":"9e05a06da049bb9a","type":"text","text":"Architectures","x":-125,"y":220,"width":250,"height":60},
+		{"id":"75bd99394eb01dea","type":"text","text":"[[Siamese Network]]","x":-580,"y":440,"width":250,"height":60},
+		{"id":"b85837280c420364","type":"text","text":"[[SimCLR]]","x":-285,"y":440,"width":250,"height":60},
+		{"id":"29845ecf9f4b305e","type":"text","text":"[[Triplet Network]]","x":20,"y":440,"width":250,"height":60},
+		{"id":"88d53a19dafe2d31","x":320,"y":440,"width":250,"height":60,"type":"text","text":"[[CLIP]]"}
 	],
 	"edges":[
 		{"id":"ebf9a157a24c8f81","fromNode":"824663e49400118f","fromSide":"right","toNode":"33c530a5ac174a33","toSide":"left"},
@@ -18,6 +19,7 @@
 		{"id":"e4613c7b9f034e09","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"b85837280c420364","toSide":"top"},
 		{"id":"7c40358bd0cfb9e8","fromNode":"824663e49400118f","fromSide":"bottom","toNode":"e9ba834887f2460f","toSide":"top"},
 		{"id":"e634819141cf5937","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"75bd99394eb01dea","toSide":"top"},
-		{"id":"c6374c69cd412bd0","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"29845ecf9f4b305e","toSide":"top"}
+		{"id":"c6374c69cd412bd0","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"29845ecf9f4b305e","toSide":"top"},
+		{"id":"2d6623c41ceed8f9","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"88d53a19dafe2d31","toSide":"top"}
 	]
 }
