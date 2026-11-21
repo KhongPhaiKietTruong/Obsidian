@@ -78,7 +78,7 @@
 - [ ] cross-attention in CV 
 - [ ] ~~Có cần thực hiện EDA trên Private Test không~~ (không, tại trong private ko có nhiễu)
 - [ ] ~~Giải quyết thế nào khi train và test lệch domain~~ (khó xảy ra trong thi)
-- [ ] DPT (depth analysis)
+- [ ] ~~DPT (depth estimation)~~ (chắc không ra đâu)
 - [ ] super-resolution
 - [x] VAE 
 - [x] R-CNN 
