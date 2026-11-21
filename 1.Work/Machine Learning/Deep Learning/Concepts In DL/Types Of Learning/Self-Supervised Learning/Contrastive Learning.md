@@ -7,7 +7,7 @@ Học tương phản thuộc [[Self-Supervised Learning]] và [[Metric Learning]
 nhằm đưa các mẫu tương tự nhau về gần nhau và các mẫu khác nhau ra xa nhau trong [[Vector Space]] 
 
 ## Loss Function 
-Contrastive Learning sử dụng 
+Contrastive Learning sử dụng [[Contrastive Loss]] 
 
 > [!NOTE]
 > ta hoàn toàn có thể dùng dataset không có nhãn để tạo ra các cặp bằng việc tạo cặp positive bằng một ảnh gốc và một ảnh là biến thể của ảnh gốc đó thông qua quá trình tăng cường 
