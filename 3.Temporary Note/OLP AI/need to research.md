@@ -122,5 +122,6 @@ CV
 - [ ] Feature Aggreration 
 - [x] Circle Loss (loại loss đề xuất trong paper, không mang tính nền tảng)
 - [ ] CLIP 
+- [ ] ôn lại ML 
 
 
