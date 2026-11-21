@@ -23,3 +23,5 @@ các chỉ số để đánh giá mô hình trong tác vụ classification:
 ## Loss Function
 - [[Cross-Entropy Loss]] 
 - [[Focal Loss]] 
+
+
