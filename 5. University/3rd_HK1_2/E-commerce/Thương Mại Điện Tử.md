@@ -18,4 +18,4 @@ mô hình giao dịch vs mô hình doanh thu
 giao dịch: ai vs ai
 doanh thu: thu tiền bằng cách nào 
 
-chương 1 chương 2 tới mục 2.8, đề đóng 
+chương 1 chương 2 tới mục 2.8, đề đóng, trắc nghiệm 
