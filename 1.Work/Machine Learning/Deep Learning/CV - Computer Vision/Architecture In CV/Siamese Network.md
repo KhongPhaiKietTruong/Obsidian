@@ -3,6 +3,4 @@ Siamese Network là một mạng [[Neural Network]] học dựa trên mẫu là 
 ## Loss Function
 Siamese sử dụng [[Contrastive Loss]] 
 
-## Công Dụng 
-
 ![[Pasted image 20261121152046.png|666]]
