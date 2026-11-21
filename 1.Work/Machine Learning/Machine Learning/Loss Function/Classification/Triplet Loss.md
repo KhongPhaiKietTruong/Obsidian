@@ -1,4 +1,5 @@
-có công thức: 
+## Định Nghĩa 
+Triplet loss có công thức: 
 $$L(A,P,N)=\max(\|f(A)-f(P)\|^2-\|f(A)-f(N)\|^2+\alpha,0)$$
 với:
 - A là Anchor: ảnh mẫu
