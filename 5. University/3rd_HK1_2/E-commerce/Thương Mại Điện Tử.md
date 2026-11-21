@@ -8,3 +8,5 @@ khả năng tương tác
 tính liên tục 
 dữ liệu 
 nền tảng trung gian 
+
+mô hình khởi nguyên: B2B 
