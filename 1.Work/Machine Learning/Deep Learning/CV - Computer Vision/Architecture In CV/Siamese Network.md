@@ -3,5 +3,5 @@ Siamese Network là loại kiến trúc có hai mạng con tương chia sẻ tr�
 ứng dụng trong việc xác thực khuôn mặt, xác thực chữ kí, ... 
 
 ## Loss Function
-
+Siamese sử dụng [[Contrastive Loss]] 
 ![[Pasted image 20261121152046.png|666]]
