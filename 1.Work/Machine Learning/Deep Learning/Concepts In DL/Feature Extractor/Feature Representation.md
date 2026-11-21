@@ -1,4 +1,4 @@
-dịch: biểu diễn đặc trưng
+ dịch: biểu diễn đặc trưng
 
 ## Định Nghĩa 
 Biểu diễn đặc trưng là một cách thức biểu diễn các thông tin quan trọng của dữ liệu (ảnh, text, ...) bằng các con số 
