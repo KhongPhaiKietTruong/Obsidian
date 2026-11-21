@@ -68,9 +68,9 @@
 - [x] U-net & encoder decoder 
 - [x] Các metric trong dạng toán segmentation 
 - [x] feature extractor là gì 
-- [ ] Chọn kích thước ảnh để truyền vào model ?
+- [x] Chọn kích thước ảnh để truyền vào model ?
 - [x] deeplabV3
-- [ ] combined loss 
+- [x] combined loss 
 - [x] backbone 
 - [x] DINOv2 / MAE / SimCLR...
 - [x] SMOTE 
@@ -121,6 +121,6 @@ CV
 - [ ] https://chatgpt.com/share/6afffffb-de00-83ec-8c90-be10c4c220b9 
 - [ ] Feature Aggreration 
 - [ ] Circle Loss 
-- [ ] 
+- [ ] CLIP 
 
 
