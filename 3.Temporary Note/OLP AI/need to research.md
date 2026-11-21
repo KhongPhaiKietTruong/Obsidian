@@ -96,7 +96,7 @@ CV
 	- [x] Basic Theory 
 	- [ ] Code 
 - [x] multi-task learning 
-- [ ] sequence labeling 
+- [ ] ~~sequence labeling~~ 
 - [ ] representation learning 
 - [x] domain shift & domain generalization 
 - [x] contrasive learing 
