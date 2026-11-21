@@ -97,7 +97,7 @@ CV
 	- [ ] Code 
 - [x] multi-task learning 
 - [ ] ~~sequence labeling~~ 
-- [ ] representation learning 
+- [x] representation learning 
 - [x] domain shift & domain generalization 
 - [x] contrasive learing 
 - [ ] feature invariance 
