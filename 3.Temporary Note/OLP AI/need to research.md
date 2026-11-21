@@ -120,5 +120,7 @@ CV
 - [ ] Anomoly Detection 
 - [ ] https://chatgpt.com/share/6afffffb-de00-83ec-8c90-be10c4c220b9 
 - [ ] Feature Aggreration 
+- [ ] Circle Loss 
+- [ ] 
 
 
