@@ -14,3 +14,4 @@ phân loại các chủ thể tham gia giao dịch
 hay nhầm: C2C là consumer to consumer 
 G: goverment -> dịch vụ công (liên quan đến nhà nước là liên quan đến dịch vụ công)
 B2c, B2b, C2C, C2B, B2G / G2B, G2C / C2G 
+mô hình giao dịch vs mô hình doanh thu 
