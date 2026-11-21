@@ -88,7 +88,7 @@
 - [ ] ~~BiFPN~~ (ít phổ biến)
 - [ ] ~~NAS-FPN~~
 - [x] số lượng sample đối với mỗi dạng tác vụ 
-- [ ] teacher-student 
+- [ ] ~~teacher-student~~ (dùng để nén mô hình thôi)
 
 keyword OLP AI:
 CV
@@ -96,11 +96,11 @@ CV
 	- [x] Basic Theory 
 	- [ ] Code 
 - [x] multi-task learning 
-- [ ] ~~sequence labeling~~ 
+- [ ] ~~sequence labeling~~ (bên NLP)
 - [x] representation learning 
 - [x] domain shift & domain generalization 
 - [x] contrasive learing 
-- [ ] feature invariance 
+- [ ] ~~feature invariance~~ (hơi trừu tượng)
 - [ ] Noise and Data Degradation 
 - [ ] Constrastive Learning (một cách kĩ càng)
 	- [ ] SimCLR 
