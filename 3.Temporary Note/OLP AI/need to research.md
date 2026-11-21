@@ -101,21 +101,21 @@ CV
 - [x] domain shift & domain generalization 
 - [x] contrasive learing 
 - [ ] ~~feature invariance~~ (hơi trừu tượng)
-- [ ] Noise and Data Degradation 
-- [ ] Constrastive Learning (một cách kĩ càng)
-	- [ ] SimCLR 
+- [ ] ~~Noise and Data Degradation~~ 
+- [x] Constrastive Learning (một cách kĩ càng)
+	- [x] SimCLR 
 	- [ ] 
 - [x] 2 subtask in a problems 
 - [x] real-world AI application 
 - [x] feature extraction 
 - [x] embeddings 
-- [ ] metric learning 
-- [ ] data augmentation 
-- [ ] Medical Image Analysis 
+- [x] metric learning 
+- [x] data augmentation 
+- [x] Medical Image Analysis 
 - [ ] Satellite Image Analysis (- Semantic segmentation, Change detection, Multi-scale features, Domain adaptation)
-- [ ] Object Detection 
+- [x] Object Detection 
 - [ ] Image Retrivial / Fine-grained Recognition 
-- [ ] Video Action Recognition 
+- [x] Video Action Recognition 
 - [ ] Image-Text Matching 
 - [ ] Anomoly Detection 
 - [ ] https://chatgpt.com/share/6afffffb-de00-83ec-8c90-be10c4c220b9 
