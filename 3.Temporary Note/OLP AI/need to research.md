@@ -102,8 +102,11 @@ CV
 - [x] contrasive learing 
 - [ ] feature invariance 
 - [ ] Noise and Data Degradation 
+- [ ] Constrastive Learning (một cách kĩ càng)
+	- [ ] SimCLR 
+	- [ ] 
 - [x] 2 subtask in a problems 
-- [ ] real-world AI application 
+- [x] real-world AI application 
 - [ ] feature extraction 
 - [ ] embeddings 
 - [ ] metric learning 
