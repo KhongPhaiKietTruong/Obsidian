@@ -10,3 +10,5 @@ dữ liệu
 nền tảng trung gian 
 
 mô hình khởi nguyên: B2B 
+phân loại các chủ thể tham gia giao dịch
+hay nhầm: C2C là consumer to consumer 
