@@ -1,2 +1,0 @@
-## Định Nghĩa 
-MIM thuộc [[SSL - Self-Supervised Learning]] là cơ chế học bằng cách chia ảnh thành các patch rồi che các patch của ảnh, sau đó bắt model dự đoán phần bị che đó rồi (khá giống với cơ chế Masked Language Modeling của [[BERT]])

@@ -2,14 +2,18 @@
 	"nodes":[
 		{"id":"824663e49400118f","type":"text","text":"Types Of Learning","x":-125,"y":-30,"width":250,"height":60},
 		{"id":"4cbe879b47ca0b54","type":"text","text":"[[Metric Learning]]","x":-125,"y":100,"width":250,"height":60},
-		{"id":"e9ba834887f2460f","type":"text","text":"[[Contrastive Learning]]","x":-250,"y":300,"width":250,"height":60},
-		{"id":"33c530a5ac174a33","x":280,"y":30,"width":250,"height":60,"type":"text","text":"[[Semi-Supervised Learning]]"},
-		{"id":"5ca1211619c87694","x":260,"y":-100,"width":280,"height":60,"type":"text","text":"[[SSL - Self-Supervised Learning]]"}
+		{"id":"0450ca4f9cda0f21","type":"text","text":"[[Multimodal Learning]]","x":-125,"y":-200,"width":250,"height":60},
+		{"id":"e9ba834887f2460f","type":"text","text":"[[Contrastive Learning]]","x":-250,"y":240,"width":250,"height":60},
+		{"id":"b85837280c420364","type":"text","text":"[[SimCLR]]","x":-250,"y":360,"width":250,"height":60},
+		{"id":"33c530a5ac174a33","type":"text","text":"[[Semi-Supervised Learning]]","x":260,"y":30,"width":250,"height":60},
+		{"id":"5ca1211619c87694","type":"text","text":"[[Self-Supervised Learning]]","x":260,"y":-90,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"190e96d724201eb7","fromNode":"824663e49400118f","fromSide":"bottom","toNode":"4cbe879b47ca0b54","toSide":"top"},
 		{"id":"aa7781c1b3a567cb","fromNode":"4cbe879b47ca0b54","fromSide":"bottom","toNode":"e9ba834887f2460f","toSide":"top"},
 		{"id":"ebf9a157a24c8f81","fromNode":"824663e49400118f","fromSide":"right","toNode":"33c530a5ac174a33","toSide":"left"},
-		{"id":"1a59f5b8d93da052","fromNode":"824663e49400118f","fromSide":"right","toNode":"5ca1211619c87694","toSide":"left"}
+		{"id":"1a59f5b8d93da052","fromNode":"824663e49400118f","fromSide":"right","toNode":"5ca1211619c87694","toSide":"left"},
+		{"id":"f50a167086b9412e","fromNode":"824663e49400118f","fromSide":"top","toNode":"0450ca4f9cda0f21","toSide":"bottom"},
+		{"id":"096858efa72e27ad","fromNode":"e9ba834887f2460f","fromSide":"bottom","toNode":"b85837280c420364","toSide":"top"}
 	]
 }

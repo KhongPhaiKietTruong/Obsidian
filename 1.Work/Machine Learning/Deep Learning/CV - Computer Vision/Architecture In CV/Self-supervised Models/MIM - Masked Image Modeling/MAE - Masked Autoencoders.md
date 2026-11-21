@@ -1,5 +1,5 @@
 ## Định Nghĩa 
-MAE là một kiến trúc thuộc [[SSL - Self-Supervised Learning]] áp dụng cơ chế [[MIM - Masked Image Modeling]] học bằng cách để model tái tạo lại các patch ảnh bị che 
+MAE là một kiến trúc thuộc [[Self-Supervised Learning]] áp dụng cơ chế [[MIM - Masked Image Modeling]] học bằng cách để model tái tạo lại các patch ảnh bị che 
 
 ## Thành Phần Chính
 - [[Encoder]]: [[ViT]]
