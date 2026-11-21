@@ -123,5 +123,8 @@ CV
 - [x] Circle Loss (loại loss đề xuất trong paper, không mang tính nền tảng)
 - [ ] CLIP 
 - [ ] ôn lại ML 
+- [ ] VQA 
+- [ ] Zero-shot learning 
+- [ ] object tracking 
 
 
