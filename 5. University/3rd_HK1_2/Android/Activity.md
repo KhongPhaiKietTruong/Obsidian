@@ -1,0 +1,1 @@
+Activity là một thành phần đại diện cho một màn hình giao diện mà người dùng có thể tương tác 
