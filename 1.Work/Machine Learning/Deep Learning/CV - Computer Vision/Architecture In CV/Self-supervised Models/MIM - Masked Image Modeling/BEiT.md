@@ -1,7 +1,6 @@
 viết tắt của: Bidirectional Encoder representation from Image Transformers
 
-However, reconstructing images introduces a computational challenge.
+## Định Nghĩa
+MAE là một kiến trúc thuộc [[Self-Supervised Learning]] áp dụng cơ chế [[MIM - Masked Image Modeling]] 
 
-Consider an image divided into 196 patches. If we mask 75% of them, only 49 patches remain visible.
-
-A straightforward approach would still feed all 196 patches into the encoder, including mask tokens.
+BEiT thường có hiệu quả kém hơn so với [[MAE - Masked Autoencoders]] một tí nhưng lại có chi phí tính toán hơn nhiều (~3 lần MAE)
