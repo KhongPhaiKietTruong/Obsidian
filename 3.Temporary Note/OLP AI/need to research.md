@@ -16,11 +16,7 @@ CV
 - [ ] Anomoly Detection 
 	- [x] Basic Theory 
 	- [ ] Code 
-- [x] multi-task learning 
-- [ ] ~~sequence labeling~~ (bên NLP)
-- [x] representation learning 
-- [x] domain shift & domain generalization 
-- [x] contrasive learing 
+	
 - [ ] ~~feature invariance~~ (hơi trừu tượng)
 - [ ] ~~Noise and Data Degradation~~ 
 - [x] Constrastive Learning (một cách kĩ càng)
