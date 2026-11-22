@@ -16,9 +16,6 @@ CV
 - [ ] Anomoly Detection 
 	- [x] Basic Theory 
 	- [ ] Code 
-	
-- [ ] ~~feature invariance~~ (hơi trừu tượng)
-- [ ] ~~Noise and Data Degradation~~ 
 - [x] Constrastive Learning (một cách kĩ càng)
 	- [x] SimCLR 
 	- [ ] 
