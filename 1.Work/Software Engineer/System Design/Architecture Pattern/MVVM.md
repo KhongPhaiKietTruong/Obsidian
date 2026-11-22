@@ -6,3 +6,5 @@ MVVM là một [[Architecture Pattern]] chia code thành 3 thành phần
 
 ## Ứng Dụng
 MVVM thường được sử dụng trong lập trình android 
+
+![[Pasted image 20261122131901.png]]
