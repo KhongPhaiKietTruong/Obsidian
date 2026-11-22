@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"41e2a7a7d245cc15","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"System Design "},
+		{"id":"7b3fa7db94ef9fa3","x":-125,"y":100,"width":250,"height":60,"type":"text","text":"Software Architecture"},
+		{"id":"1dbc0c4d5a9348a8","x":-125,"y":240,"width":250,"height":60,"type":"text","text":"Architecture Pattern \n"},
+		{"id":"6ae719a4ca68fc04","x":200,"y":190,"width":250,"height":60,"type":"text","text":"Adapter"},
+		{"id":"7b07340e72a7121e","x":480,"y":190,"width":250,"height":60,"type":"text","text":"Factory"},
+		{"id":"1a14da4b5db2780a","x":1040,"y":190,"width":250,"height":60,"type":"text","text":"Singleton"},
+		{"id":"8467c99606aaf8f4","x":1320,"y":190,"width":250,"height":60,"type":"text","text":"Observer"},
+		{"id":"ef4f48f62d4b15ce","x":755,"y":-30,"width":250,"height":60,"type":"text","text":"Design Pattern"},
+		{"id":"9d133d77fedbab9b","x":755,"y":190,"width":250,"height":60,"type":"text","text":"Design Principal\n"},
+		{"id":"5a0bd084c094433e","x":-125,"y":440,"width":250,"height":60,"type":"text","text":"Microservices\n"},
+		{"id":"5077463c491ce9d1","x":-400,"y":440,"width":250,"height":60,"type":"text","text":"MVC"},
+		{"id":"dee805d49c040b7e","x":755,"y":410,"width":250,"height":60,"type":"text","text":"SOLID"},
+		{"id":"a6e7b4791eccaded","x":480,"y":410,"width":250,"height":60,"type":"text","text":"DRY"},
+		{"id":"64f1a62cfbfebef2","x":1040,"y":410,"width":250,"height":60,"type":"text","text":"KISS\n"}
+	],
+	"edges":[
+		{"id":"04b3fd34a68a1e1c","fromNode":"41e2a7a7d245cc15","fromSide":"bottom","toNode":"7b3fa7db94ef9fa3","toSide":"top"},
+		{"id":"406fcc884ac24182","fromNode":"7b3fa7db94ef9fa3","fromSide":"bottom","toNode":"1dbc0c4d5a9348a8","toSide":"top"},
+		{"id":"c4fda742bec6b8f0","fromNode":"ef4f48f62d4b15ce","fromSide":"bottom","toNode":"6ae719a4ca68fc04","toSide":"top"},
+		{"id":"b2e1ffecc61897bf","fromNode":"ef4f48f62d4b15ce","fromSide":"bottom","toNode":"7b07340e72a7121e","toSide":"top"},
+		{"id":"52ba9e5a2372f4d5","fromNode":"ef4f48f62d4b15ce","fromSide":"bottom","toNode":"1a14da4b5db2780a","toSide":"top"},
+		{"id":"b5af38140323df61","fromNode":"ef4f48f62d4b15ce","fromSide":"bottom","toNode":"8467c99606aaf8f4","toSide":"top"},
+		{"id":"743640871c11361d","fromNode":"1dbc0c4d5a9348a8","fromSide":"bottom","toNode":"5077463c491ce9d1","toSide":"top"},
+		{"id":"22ce89979806d97c","fromNode":"ef4f48f62d4b15ce","fromSide":"bottom","toNode":"9d133d77fedbab9b","toSide":"top"},
+		{"id":"d75ee59c95c72285","fromNode":"9d133d77fedbab9b","fromSide":"bottom","toNode":"dee805d49c040b7e","toSide":"top"},
+		{"id":"cf7fabe6f870f47e","fromNode":"1dbc0c4d5a9348a8","fromSide":"bottom","toNode":"5a0bd084c094433e","toSide":"top"},
+		{"id":"e004ead79535a47f","fromNode":"9d133d77fedbab9b","fromSide":"bottom","toNode":"a6e7b4791eccaded","toSide":"top"},
+		{"id":"480fc9839241fe8a","fromNode":"9d133d77fedbab9b","fromSide":"bottom","toNode":"64f1a62cfbfebef2","toSide":"top"}
+	]
+}
