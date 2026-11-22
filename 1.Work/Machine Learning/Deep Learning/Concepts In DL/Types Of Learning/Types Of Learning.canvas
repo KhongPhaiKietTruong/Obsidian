@@ -9,7 +9,10 @@
 		{"id":"75bd99394eb01dea","type":"text","text":"[[Siamese Network]]","x":-580,"y":440,"width":250,"height":60},
 		{"id":"b85837280c420364","type":"text","text":"[[SimCLR]]","x":-285,"y":440,"width":250,"height":60},
 		{"id":"29845ecf9f4b305e","type":"text","text":"[[Triplet Network]]","x":20,"y":440,"width":250,"height":60},
-		{"id":"88d53a19dafe2d31","x":320,"y":440,"width":250,"height":60,"type":"text","text":"[[CLIP]]"}
+		{"id":"88d53a19dafe2d31","type":"text","text":"[[CLIP]]","x":320,"y":440,"width":250,"height":60},
+		{"id":"abeeda5364c5731c","type":"text","text":"[[Consistency Regularization]]","x":620,"y":-170,"width":250,"height":60},
+		{"id":"5813c5059fd869cf","type":"text","text":"[[Pseudo-Labeling - Self-Training]]","x":620,"y":0,"width":300,"height":60},
+		{"id":"7688156bfcd7a5d8","type":"text","text":"[[FixMatch]]","x":620,"y":-90,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"ebf9a157a24c8f81","fromNode":"824663e49400118f","fromSide":"right","toNode":"33c530a5ac174a33","toSide":"left"},
@@ -20,6 +23,9 @@
 		{"id":"7c40358bd0cfb9e8","fromNode":"824663e49400118f","fromSide":"bottom","toNode":"e9ba834887f2460f","toSide":"top"},
 		{"id":"e634819141cf5937","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"75bd99394eb01dea","toSide":"top"},
 		{"id":"c6374c69cd412bd0","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"29845ecf9f4b305e","toSide":"top"},
-		{"id":"2d6623c41ceed8f9","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"88d53a19dafe2d31","toSide":"top"}
+		{"id":"2d6623c41ceed8f9","fromNode":"9e05a06da049bb9a","fromSide":"bottom","toNode":"88d53a19dafe2d31","toSide":"top"},
+		{"id":"626f95510eb37538","fromNode":"33c530a5ac174a33","fromSide":"right","toNode":"7688156bfcd7a5d8","toSide":"left"},
+		{"id":"c4f1d9d3e276e952","fromNode":"33c530a5ac174a33","fromSide":"right","toNode":"abeeda5364c5731c","toSide":"left"},
+		{"id":"64af9109d6c67d98","fromNode":"33c530a5ac174a33","fromSide":"right","toNode":"5813c5059fd869cf","toSide":"left"}
 	]
 }
