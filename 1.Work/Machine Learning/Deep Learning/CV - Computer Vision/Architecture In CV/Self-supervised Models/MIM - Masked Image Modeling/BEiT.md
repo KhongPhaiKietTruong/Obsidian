@@ -1,3 +1,5 @@
+viết tắt của: Bidirectional Encoder representation from Image Transformers
+
 However, reconstructing images introduces a computational challenge.
 
 Consider an image divided into 196 patches. If we mask 75% of them, only 49 patches remain visible.
