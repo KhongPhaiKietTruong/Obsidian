@@ -18,14 +18,14 @@
 		- [[replace()]]
 		- [[round()]]
 		- [[str()]]
-		- [[1.Work/Programming Languages/Python/Built-in/Function/strip()]]
-		- [[1.Work/Programming Languages/Python/Built-in/Function/sum()]]
+		- [[1.Work/Programming Languages/Python/Library/Built-in/Function/strip()]]
+		- [[1.Work/Programming Languages/Python/Library/Built-in/Function/sum()]]
 		- [[tuple()]]
 		- [[zip()]]
 	- **Iterable**
 		- **[[Dictionary]]**
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/clear()]]
-			- [[1.Work/Programming Languages/Python/Built-in/Library/copy/deepcopy()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Iterable/List/clear()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Library/copy/deepcopy()]]
 			- [[dictionary comprehesion]]
 			- [[get()]]
 			- [[items()]]
@@ -33,19 +33,19 @@
 			- [[popitem()]]
 			- [[setdefault()]]
 			- [[tạo dictionary]]
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/Dictionary/values]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Iterable/Dictionary/values]]
 		- **[[List]]**
 			- [[append()]]
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/clear()]]
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/count()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Iterable/List/clear()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Iterable/List/count()]]
 			- [[extend()]]
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/index()]]
+			- [[index()]]
 			- [[insert()]]
 			- [[list comprehension]]
 			- [[nhân list với một số nguyên]]
 			- [[nối list]]
 			- [[pop()]]
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/Set/Methods/remove()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Iterable/Set/Methods/remove()]]
 			- [[reverse()]]
 			- [[sort()]]
 			- [[sorted()]]
@@ -54,8 +54,8 @@
 			- [[difference_update()]]
 			- [[difference()]]
 			- [[discard()]]
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/Set/phép trừ]]
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/Set/Methods/remove()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Iterable/Set/phép trừ]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Iterable/Set/Methods/remove()]]
 			- [[set comprehension]]
 			- [[symmetric_difference_update]]
 			- [[symmetric_difference]]
@@ -71,17 +71,17 @@
 			- [[replace(a, b)]]
 			- [[split(sep, maxsplit)]]
 			- [[startswith & endswith]]
-			- [[1.Work/Programming Languages/Python/Built-in/Function/strip()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Function/strip()]]
 		- **[[Tuple]]**
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/count()]]
-			- [[1.Work/Programming Languages/Python/Built-in/Iterable/List/index()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Iterable/List/count()]]
+			- [[index()]]
 			- [[Nhân tuple]]
 			- [[Nối tuple]]
 			- [[Tuple Packing]]
 			- [[Tuple Unpacking]]
 	- **Library**
 		- **copy**
-			- [[1.Work/Programming Languages/Python/Built-in/Library/copy/deepcopy()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Library/copy/deepcopy()]]
 		- **math**
 			- [[exp()]]
 			- [[fabs()]]
@@ -172,11 +172,11 @@
 	- **Numpy**
 		- **Attribute**
 			- [[dtype]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/Inverse matrix]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Attribute/Inverse matrix]]
 			- [[ndim]]
 			- [[np.uint8]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/shape]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/size]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Attribute/shape]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Attribute/size]]
 		- **Method**
 			- **linalg**
 				- [[linalg.det()]]
@@ -189,14 +189,14 @@
 				- [[random.randn()]]
 				- [[random.random_sample()]]
 			- [[np.arange()]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/argmax()]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Method/argmax()]]
 			- [[argmin()]]
 			- [[np.array()]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/astype()]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Method/astype()]]
 			- [[np.clip()]]
 			- [[np.empty()]]
 			- [[np.eye()]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/flatten()]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Method/flatten()]]
 			- [[np.full_like()]]
 			- [[np.full()]]
 			- [[np.hstack()]]
@@ -209,9 +209,9 @@
 			- [[np.multiply()]]
 			- [[np.ones()]]
 			- [[random.normal()]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/repeat()]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/reshape()]]
-			- [[1.Work/Programming Languages/Python/Built-in/Function/sum()]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Method/repeat()]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Method/reshape()]]
+			- [[1.Work/Programming Languages/Python/Library/Built-in/Function/sum()]]
 			- [[trace()]]
 			- [[np.transpose()]]
 			- [[vstack()]]
@@ -227,7 +227,7 @@
 		- [[Numpy MOC]]
 	- **OpenCV**
 		- **Attribute**
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/shape]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Attribute/shape]]
 		- **Method**
 			- [[absdiff()]]
 			- [[apply_along_axis()]]
@@ -263,12 +263,12 @@
 			- **Attribute**
 				- [[iloc]]
 				- [[loc]]
-				- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/shape]]
+				- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Attribute/shape]]
 			- **Method**
 				- **Manipulation**
 					- [[apply()]]
 					- [[dropna()]]
-					- [[1.Work/Programming Languages/Python/Third-Party/Pandas/Classes/DataFrame/Methods/Manipulation/fillna()]]
+					- [[1.Work/Programming Languages/Python/Library/Third-Party/Pandas/Classes/DataFrame/Methods/Manipulation/fillna()]]
 				- **Stat & Info**
 					- [[corr()]]
 					- [[describe()]]
@@ -278,7 +278,7 @@
 					- [[np.mean()]]
 					- [[median()]]
 					- [[mode()]]
-					- [[1.Work/Programming Languages/Python/Built-in/Function/sum()]]
+					- [[1.Work/Programming Languages/Python/Library/Built-in/Function/sum()]]
 					- [[tail()]]
 		- **Function**
 			- [[read_csv()]]
@@ -297,9 +297,9 @@
 					- [[is_dir()]]
 					- [[is_file()]]
 					- [[mkdir()]]
-					- [[1.Work/Programming Languages/Python/Third-Party/Pathlib/Recipe/Nối đường dẫn]]
+					- [[1.Work/Programming Languages/Python/Library/Third-Party/Pathlib/Recipe/Nối đường dẫn]]
 		- **Recipe**
-			- [[1.Work/Programming Languages/Python/Third-Party/Pathlib/Recipe/Nối đường dẫn]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Pathlib/Recipe/Nối đường dẫn]]
 			- [[Tạo đường dẫn]]
 		- [[các thuộc tính]]
 	- **Poetry**
@@ -345,7 +345,7 @@
 						- [[item()]]
 						- [[size()]]
 					- **2.Attributes**
-						- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/shape]]
+						- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Attribute/shape]]
 			- **2.Functions**
 				- **Lưu-tải model**
 					- [[torch.load()]]
@@ -355,8 +355,8 @@
 					- [[np.mean()]]
 					- [[min()]]
 					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2. Functions/Object Tensor/numpy()]]
-					- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Method/reshape()]]
-					- [[1.Work/Programming Languages/Python/Built-in/Function/sum()]]
+					- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Method/reshape()]]
+					- [[1.Work/Programming Languages/Python/Library/Built-in/Function/sum()]]
 					- [[1. Work/Languages/Python/Third-Party/Pytorch/torch/2. Functions/Object Tensor/to()]]
 				- **Tạo tensor ngẫu nhiên**
 					- [[torch.arange()]]
@@ -430,7 +430,7 @@
 		- **Common Parameters**
 			- [[hue]]
 			- [[kde]]
-			- [[1.Work/Programming Languages/Python/Third-Party/Numpy/Attribute/size]]
+			- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Attribute/size]]
 		- [[sns.barplot()]]
 		- [[sns.heatmap()]]
 		- [[sns.histplot()]]
