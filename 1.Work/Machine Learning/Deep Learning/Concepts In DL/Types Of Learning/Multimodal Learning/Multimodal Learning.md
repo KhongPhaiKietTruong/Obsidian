@@ -2,7 +2,7 @@ dịch: học đa phương thức
 modality: dạng dữ liệu (text, ảnh, ...)
 ***
 ## Định nghĩa
-Học đa phương thức là một phương pháp học từ nhiều dạng dữ liệu khác nhau (từ cả ảnh, text, ...) để thực hiện một tác vụ cuối nào đó 
+Multimodal learning là một phương pháp học từ nhiều dạng dữ liệu khác nhau (từ cả ảnh, text, ...) để thực hiện một tác vụ cuối nào đó 
 
 ## Các Tasks Phổ Biến
 - Image Captioning: tạo ra đoạn text mô tả hình ảnh
