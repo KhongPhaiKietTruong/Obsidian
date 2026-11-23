@@ -1,0 +1,1 @@
+Cross-Modality Encoder là loại [[Encoder]] có khả năng học được mối quan hệ giữa hai dạng dữ liệu khác nhau 
