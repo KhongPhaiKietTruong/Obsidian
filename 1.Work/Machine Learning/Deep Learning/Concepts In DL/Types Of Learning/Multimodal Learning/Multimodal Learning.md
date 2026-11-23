@@ -9,7 +9,7 @@ Học đa phương thức là một phương pháp học từ nhiều dạng d�
 - Visual Question Anwsering: trả lời câu hỏi dựa trên hình ảnh 
 - Cross-Modal Retrievial: sử dụng một modality để tìm một modality khác 
 - Multimodal Classification: thực hiện classification dựa trên nhiều modality 
-- 
+- Multimodal Localization: thực hiện [[Localization]] với mục tiêu được xác định bằng một modality khác 
 
 ## Các cách kết hợp dữ liệu 
 ### Early Fusion
