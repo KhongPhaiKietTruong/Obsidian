@@ -7,6 +7,27 @@ thường thì model được chia làm hai phần là pretrained [[Backbone]] v
 Kĩ thuật này thường được sử dụng khi thực hiện [[Fine-Tuning]] một model vì nó giúp hạn chế tình trạng [[Catastrophic Forgetting]] 
 
 ## Code 
-```
+```python
+class MyModel(nn.Module):
+    def __init__(self):
+        super().__init__()
 
+        self.backbone = resnet50(weights=ResNet50_Weights.DEFAULT)
+        self.fc = nn.Linear(1000, 10)
+
+    def forward(self, x):
+        x = self.backbone(x)
+        x = self.fc(x)
+        return x
+      
+optimizer = torch.optim.AdamW([
+    {
+        "params": model.fc.parameters(),
+        "lr": 1e-3
+    },
+    {
+        "params": model.backbone.parameters(),
+        "lr": 1e-5
+    }
+])
 ```
