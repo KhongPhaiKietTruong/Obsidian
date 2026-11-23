@@ -7,3 +7,6 @@ thường thì model được chia làm hai phần là pretrained [[Backbone]] v
 Kĩ thuật này thường được sử dụng khi thực hiện [[Fine-Tuning]] một model vì nó giúp hạn chế tình trạng [[Catastrophic Forgetting]] 
 
 ## Code 
+```
+
+```
