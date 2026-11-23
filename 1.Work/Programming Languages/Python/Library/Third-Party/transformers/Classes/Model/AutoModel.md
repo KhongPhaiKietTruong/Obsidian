@@ -12,3 +12,4 @@ với:
 - pixel_values: nhận vào [[Tensor]] ảnh 
 
 ## Khác Biệt So Với AutoBackbone 
+sự khác biệt lớn nhất giữa AutoModel so với [[AutoBackbone]] là AutoBackbone hỗ trợ việc lấy [[Feature Map]] ở nhiều stage 
