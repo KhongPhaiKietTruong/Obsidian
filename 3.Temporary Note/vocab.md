@@ -20,3 +20,4 @@ practice (n): văn phòng, phòng khám
 produce (n): nông sản 
 highrise (n): nhà cao tầng 
 single-handedly (adv): tự làm một mình 
+drop-in (adj): 
