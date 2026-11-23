@@ -41,4 +41,8 @@ CV
 - [ ] Zero-shot learning 
 - [ ] object tracking 
 - [ ] cross-encoder 
+- [ ] multi-modal representation learning:
+	- [ ] Joint Embedding.
+	- [ ] Cross-modal Alignment.
+	- [ ] Multimodal Fusion.
 
