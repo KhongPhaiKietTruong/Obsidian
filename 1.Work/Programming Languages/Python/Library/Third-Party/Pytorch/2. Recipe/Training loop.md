@@ -1,3 +1,5 @@
+
+Training loop là quá trình huấn luyện model 
 Ta có thể áp dụng thêm mixed precision để đẩy nhanh quá trình training 
 
 ```python
