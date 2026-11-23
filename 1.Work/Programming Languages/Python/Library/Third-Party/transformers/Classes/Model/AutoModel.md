@@ -3,6 +3,9 @@ AutoModel là một [[1.Work/OOP/Theory/Class|Class]] dùng để khởi tạo m
 ```python
 from transformers import AutoModel 
 
+model = AutoModel('microsoft/resnet50')
+
+
 ```
 
 ## Khác Biệt So Với AutoBackbone 
