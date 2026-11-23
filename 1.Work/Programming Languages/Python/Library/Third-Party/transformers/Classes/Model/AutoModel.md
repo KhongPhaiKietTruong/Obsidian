@@ -5,7 +5,8 @@ from transformers import AutoModel
 
 model = AutoModel('microsoft/resnet50')
 
-
+outputs = model(pixel_values=image) 
 ```
-
+với:
+- pixel_values: nhận vào [[Tensor]] ảnh 
 ## Khác Biệt So Với AutoBackbone 

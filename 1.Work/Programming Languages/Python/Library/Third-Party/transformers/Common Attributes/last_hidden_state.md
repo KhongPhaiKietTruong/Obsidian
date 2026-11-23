@@ -1,0 +1,1 @@
+last_hidden_state là [[Attribute]] trả về của output sau khi truyền input ảnh vào một model
