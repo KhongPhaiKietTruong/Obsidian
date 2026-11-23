@@ -1,0 +1,1 @@
+có thể xoá thủ công các ảnh trong tập train không
