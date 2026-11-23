@@ -40,5 +40,5 @@ CV
 - [ ] VQA 
 - [ ] Zero-shot learning 
 - [ ] object tracking 
-
+- [ ] cross-encoder 
 
