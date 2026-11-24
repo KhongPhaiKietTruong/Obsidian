@@ -1,2 +1,0 @@
-## Định Nghĩa 
-nn.Idenity là một lớp cho ra i rang những gì nó truyền vào (không thực hiện gì cả), thường dùng khi muốn dùng một kiến trúc làm [[Feature Extractor]] bằng cách đổi lớp cuối cùng thành lớp này để cho ra [[Feature Map]] 
