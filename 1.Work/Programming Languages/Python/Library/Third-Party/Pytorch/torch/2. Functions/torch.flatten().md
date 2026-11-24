@@ -15,5 +15,6 @@ a = torch.randn(2, 3, 4)
 b = torch.flatten(a)
 print(b.shape) # (24,)
 
-
+feature_map = torch.randn(1, 2048, 224, 224)
+feature_vector = torch.flatten(feature_map, start_dim=1)
 ```
