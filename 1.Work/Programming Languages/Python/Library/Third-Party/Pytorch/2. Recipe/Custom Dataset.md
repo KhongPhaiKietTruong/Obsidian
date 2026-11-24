@@ -1,6 +1,6 @@
 ## Định Nghĩa 
-Để tạo một custom dataset trong pytorch, ta tạo một [[1.Work/OOP/Theory/Class|Class]] thừa kế từ [[torch.utils.data.Dataset]] và thực hiện ghi đè lên 3 [[Method]] là
-- \_\_init__(): hàm [[Constructor]], nhận vào tập training set và pipeline transform 
+Để tạo một custom dataset trong pytorch, ta tạo một [[1.Work/OOP/Theory/Class|Class]] thừa kế từ [[torch.utils.data.Dataset]] và bắt buộc thực hiện ghi đè lên 3 [[Method]] là
+- \_\_init__(): hàm [[Constructor]], nhận vào tập training set (file csv, ...) và pipeline transform 
 - \_\_len()\_\_: trả về số lượng mẫu có trong [[Training Set]]  
 - \_\_getitem()__ : trả về một tuple gồm một mẫu dữ liệu kèm nhãn của nó 
 
