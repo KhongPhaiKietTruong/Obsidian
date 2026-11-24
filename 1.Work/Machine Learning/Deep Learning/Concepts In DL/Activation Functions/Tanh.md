@@ -18,7 +18,7 @@ $$
 $$
 ## Sử Dụng 
 - dùng làm [[Activations]] trong [[Vanilla RNN Cell]] 
-- dùng để tính candidate [[Activations In RNN (Hidden State)|Hidden State]] trong [[GRU cell]] 
+- dùng để tính candidate [[Hidden State|Hidden State]] trong [[GRU cell]] 
 - tạo candidate cell state và hidden state trong [[LSTM Cell]]
 ## Ưu Điểm
 giá trị của tanh là zero-centered (tham khảo thêm [[Tại sao muốn giá trị kích hoạt zero-centered]]) 

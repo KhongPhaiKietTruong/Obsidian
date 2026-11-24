@@ -1,1 +1,1 @@
-Là loại cell mà input sẽ nhận vào [[Activations In RNN (Hidden State)]] của lớp trước và dữ liệu của hiện tại (xem thêm ở [[Forward Propagation In RNN]] ) 
+Là loại cell mà input sẽ nhận vào [[Hidden State]] của lớp trước và dữ liệu của hiện tại (xem thêm ở [[Forward Propagation In RNN]] ) 

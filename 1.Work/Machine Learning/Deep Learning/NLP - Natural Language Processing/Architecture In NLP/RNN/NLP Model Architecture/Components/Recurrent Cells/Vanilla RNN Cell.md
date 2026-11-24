@@ -10,7 +10,7 @@ $$
 ta dùng [[Activations]] là [[Tanh]] do có có bounded value (-1, 1) 
 
 ## Ưu Điểm 
-không chỉ xét $x^{<t>}$ (từ hiện tại) mà còn xét cả [[Activations In RNN (Hidden State)]] của lớp trước $h^{<t-1>}$ 
+không chỉ xét $x^{<t>}$ (từ hiện tại) mà còn xét cả [[Hidden State]] của lớp trước $h^{<t-1>}$ 
 ## Nhược Điểm 
 - sẽ xảy ra hiện tượng [[Vanishing Gradient]], do trong cell có sử dụng [[Tanh]] 
 
