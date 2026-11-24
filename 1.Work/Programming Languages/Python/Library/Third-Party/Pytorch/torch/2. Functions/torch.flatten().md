@@ -8,3 +8,8 @@ với:
 - input: tensor đầu vào 
 - start_dim: vị trí bắt đầu làm phẳng
 - end_dim: vị trí kết thúc làm phẳng 
+
+code ví dụ:
+```python
+
+```
