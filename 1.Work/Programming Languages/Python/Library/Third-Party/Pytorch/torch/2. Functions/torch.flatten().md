@@ -13,5 +13,7 @@ code ví dụ:
 ```python
 a = torch.randn(2, 3, 4)
 b = torch.flatten(a)
-print(b.shape) # ()
+print(b.shape) # (24,)
+
+
 ```
