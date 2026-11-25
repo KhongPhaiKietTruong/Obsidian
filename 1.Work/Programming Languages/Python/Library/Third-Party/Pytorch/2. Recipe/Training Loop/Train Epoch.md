@@ -9,16 +9,23 @@ gồm 5 phần cơ bản không thể thiếu:
 ```python
 def train_epoch(model, dataloader, criterion, optimizer, device):
 ​	model.train() # đưa model vào chế độ training
-​	for X_batch, y_batch in train_loader:
+	train_loss = 0 
+​	for X_batch, y_batch in dataloader:
 		# bước 1:thực hiện forward pass để dự đoán
 		​y_pred = model(X_batch) 
 		# bước 2: tính loss của batch 
-		​loss = loss_fn(y_pred, y_batch) 
+		​loss = criterion(y_pred, y_batch) 
+		train_loss += loss.item()
 		# bước 3: reset và tính gradient
 		​optimizer.zero_grad(set_to_none=True) 
 		​loss.backward() 
 		# bước 4: thực hiện update
 		​optimizer.step() 
+		
+	batch_size = len(train_loader)
+	train_loss /= batch_size 
+	
+	return {'train_loss': train_loss, # cac metric khac tuy bai toan}
 
 ```
 
