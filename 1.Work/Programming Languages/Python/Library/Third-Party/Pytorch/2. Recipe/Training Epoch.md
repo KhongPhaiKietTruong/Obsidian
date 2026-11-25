@@ -1,5 +1,5 @@
 ## Cấu Trúc Cơ Bản
-Training epoch là một lần model học trên [[Training Set]], gồm 5 phần cơ bản không thể thiếu:
+Train epoch là một lần model học trên [[Training Set]], gồm 5 phần cơ bản không thể thiếu:
 - bước 1: thực hiện [[Forward Pass]] để cho ra prediction của model
 - bước 2: tính [[Loss Function]] bằng prediction (của bước 1) và [[Ground Truth]] 
 - bước 3: reset và tính [[Gradient]]
