@@ -35,12 +35,12 @@ def train_epoch(model, dataloader, criterion, optimizer, device, scaler, use_amp
 			​y_pred = model(X_batch) 
 			# bước 2: tính loss của batch 
 			​loss = loss_fn(y_pred, y_batch) 
+		​optimizer.zero_grad(set_to_none=True) 
 		scaler.scale(loss).backward()
 		# buoc 3: gradient clipping
 		scaler.unscale_(optimizer)
 		torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
 		# bước 4: reset và tính gradient
-		​optimizer.zero_grad(set_to_none=True) 
 		​scaler.step(optimizer)
 		scaler.update()
 ```
