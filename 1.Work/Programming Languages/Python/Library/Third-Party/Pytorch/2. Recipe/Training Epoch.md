@@ -23,6 +23,6 @@ def train_epoch(model, dataloader, criterion, optimizer, device):
 ```
 
 ## Cấu Trúc Nâng Cao 
-Ngoài các thao tác như ở phần cấu trúc cơ bản, ta còn có thể áp dụng các kĩ thuật như: [[AMP - Automatic Mixed Precision]], [[Gradient Clipping]], 
+Ngoài các thao tác như ở phần cấu trúc cơ bản, ta còn có thể áp dụng các kĩ thuật như: [[AMP - Automatic Mixed Precision]], [[Gradient Clipping]] 
 
 
