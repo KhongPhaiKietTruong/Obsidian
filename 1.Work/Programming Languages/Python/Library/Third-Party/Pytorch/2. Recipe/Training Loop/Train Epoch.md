@@ -22,7 +22,7 @@ def train_epoch(model, dataloader, criterion, optimizer, device):
 		# bước 4: thực hiện update
 		​optimizer.step() 
 		
-	batch_size = len(train_loader)
+	num_batches = len(train_loader)
 	train_loss /= batch_size 
 	
 	return {'train_loss': train_loss, # cac metric khac tuy bai toan}

@@ -7,17 +7,20 @@ gồm 5 phần cơ bản không thể thiếu:
 - bước 4: thực hiện update [[Weight]] của model 
 
 ```python
-def train_epoch(model, dataloader, criterion, optimizer, device):
-​	model.train() # đưa model vào chế độ training
-​	for X_batch, y_batch in train_loader:
+def train_epoch(model, dataloader, criterion, device, scaler):
+	
+	eval_loss=0.0
+	​model.train() # đưa model vào chế độ training
+	
+	​for X_batch, y_batch in dataloader:
 		# bước 1:thực hiện forward pass để dự đoán
 		​y_pred = model(X_batch) 
 		# bước 2: tính loss của batch 
 		​loss = loss_fn(y_pred, y_batch) 
-		# bước 3: reset và tính gradient
-		​optimizer.zero_grad(set_to_none=True) 
-		​loss.backward() 
-		# bước 4: thực hiện update
-		​optimizer.step() 
-
+		eval_loss += loss.item()
+		
+	num_batches = len(dataloader)
+	eval_loss /= num_batches
+	return {"eval_loss": eval_loss, # cac metric phu hop bai toan}
 ```
+
