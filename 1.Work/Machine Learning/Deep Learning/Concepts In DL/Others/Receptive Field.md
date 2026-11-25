@@ -1,5 +1,5 @@
 RF: receptive field
----
+***
 ## Định Nghĩa 
 Receptive Field là một khái niệm dùng để ước lượng mức độ nhận biết ngữ cảnh của 1 pixel trong các [[Hidden Layer]] lên các pixel của input, nếu đủ nhiều [[Layer]], một pixel trong Feature Map có thể có khả năng nhìn thấy toàn bộ input đầu vào 
 
