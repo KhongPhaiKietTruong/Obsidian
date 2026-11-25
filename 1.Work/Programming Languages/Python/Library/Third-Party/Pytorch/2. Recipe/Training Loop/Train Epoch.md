@@ -9,7 +9,7 @@ gồm 5 phần cơ bản không thể thiếu:
 ```python
 def train_epoch(model, dataloader, criterion, optimizer, device):
 ​	model.train() # đưa model vào chế độ training
-	train_loss = 0 
+	train_loss = 0.0
 ​	for X_batch, y_batch in dataloader:
 		# bước 1:thực hiện forward pass để dự đoán
 		​y_pred = model(X_batch) 
