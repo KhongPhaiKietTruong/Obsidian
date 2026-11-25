@@ -1,1 +1,1 @@
-dùng để reset lại [[Gradient]], thường chạy [[Method]] này với mỗi [[Mini-Batch Stochastic Gradient Descent (Mini-batch SGD)]] (pytorch mặc định sẽ tích lũy gradient) 
+optimizer.zero_grad() dùng để reset lại giá trị của [[Gradient]] của các tham số trong model về lại bằng 0 hoặc None (tuỳ vào tham số set_to_none), ta phải thực hiện thao tác này mỗi khi muốn tính gradient thì pytorch có cơ chế cộng dồn gradient 
