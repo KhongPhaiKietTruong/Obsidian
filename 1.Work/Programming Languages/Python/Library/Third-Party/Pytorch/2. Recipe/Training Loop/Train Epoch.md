@@ -27,7 +27,7 @@ Ngoài các thao tác như ở phần cấu trúc cơ bản, ta còn có thể �
 
 
 ```python
-def train_epoch(model, dataloader, criterion, optimizer, device, scaler, use_amp, max_grad_norm):
+def train_epoch(model, dataloader, criterion, optimizer, device, scaler):
 ​	model.train() # đưa model vào chế độ training
 ​	for X_batch, y_batch in dataloader:
 		# bước 1:thực hiện forward pass để dự đoán 
