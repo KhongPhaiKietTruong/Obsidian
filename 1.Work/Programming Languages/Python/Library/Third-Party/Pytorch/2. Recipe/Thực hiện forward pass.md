@@ -9,4 +9,4 @@ model = LinearRegression()
 y_preds = model(X)
 ```
 
-gọi model(X) cũng là gọi đến [[Dunder method]] \_\_call__() của nn.Module, trong method nó sẽ gọi đến forward(X) để thực hiện [[Forward Propogation]]
+gọi model(X) cũng là gọi đến [[Dunder method]] \_\_call__() của nn.Module, trong method nó sẽ gọi đến forward(X) để thực hiện [[Forward Pass]]

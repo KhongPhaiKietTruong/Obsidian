@@ -2,7 +2,7 @@
 
 ở mỗi timestamp, thì ta truyền vào giá trị:  $x^{<t>}=y^{<t-1>}$ là [[Ground Truth]] tại time step trước, $a^{<t-1>}$ là tóm tắt thông tin của các time step trước ([[Hidden State]]) từ đó ta tính được [[Pre-Activation Value]] của time step hiện tại 
 
-công thức [[Forward Propogation]] trong RNN là:
+công thức [[Forward Pass]] trong RNN là:
 $$
 \begin{align} 
 &x^{(t)}=y^{<t-1>} \\

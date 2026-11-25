@@ -329,7 +329,7 @@
 			- [[Tạo Optimizer]]
 			- [[Testing loop]]
 			- [[Thực hiện forward pass]]
-			- [[Training loop]]
+			- [[Training Loop]]
 		- **3.Datatypes**
 			- [[datatypes]]
 			- [[float32]]
