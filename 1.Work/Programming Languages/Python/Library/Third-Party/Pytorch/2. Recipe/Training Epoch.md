@@ -29,18 +29,20 @@ Ngoài các thao tác như ở phần cấu trúc cơ bản, ta còn có thể �
 ```python
 def train_epoch(model, dataloader, criterion, optimizer, device, scaler, use_amp, max_grad_norm):
 ​	model.train() # đưa model vào chế độ training
-​	for X_batch, y_batch in train_loader:
+​	for X_batch, y_batch in dataloader:
 		# bước 1:thực hiện forward pass để dự đoán 
 		with torch.autocast(device_type=device, dtype=torch.float16):
 			​y_pred = model(X_batch) 
 			# bước 2: tính loss của batch 
 			​loss = loss_fn(y_pred, y_batch) 
-		
-		# bước 3: reset và tính gradient
+		scaler.scale(loss).backward()
+		# buoc 3: gradient clipping
+		scaler.unscale_(optimizer)
+		torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+		# bước 4: reset và tính gradient
 		​optimizer.zero_grad(set_to_none=True) 
-		​loss.backward() 
-		# bước 4: thực hiện update
-		​optimizer.step() 
+		​scaler.step(optimizer)
+		scaler.update()
 ```
 
 
