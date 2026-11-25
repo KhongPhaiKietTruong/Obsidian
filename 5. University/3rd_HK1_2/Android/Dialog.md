@@ -1,0 +1,1 @@
+Dialog là một cửa sổ nhỏ đè lên [[Activity]] hiện tại 
