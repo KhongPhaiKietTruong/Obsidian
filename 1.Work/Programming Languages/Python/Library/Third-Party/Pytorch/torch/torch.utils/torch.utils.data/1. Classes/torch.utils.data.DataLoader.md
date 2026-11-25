@@ -20,7 +20,7 @@ với các tham số:
 
 
 > [!note]
-> len(train_loader) sẽ trả về số lượng batch 
+> len(train_loader) sẽ trả về số lượng batch (chứ không phải số lượng mẫu trong một batch)
 
 
 
