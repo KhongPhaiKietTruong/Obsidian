@@ -1,12 +1,12 @@
-
 ## Cấu Trúc Cơ Bản
-Training loop là vòng lặp dùng để huấn luyện model, cấu trúc cơ bản gồm 5 phần không thể thiếu:
+Training epoch là một lần model học trên [[Training Set]], gồm 5 phần cơ bản không thể thiếu:
 - bước 1: thực hiện [[Forward Pass]] để cho ra prediction của model
 - bước 2: tính [[Loss Function]] bằng prediction (của bước 1) và [[Ground Truth]] 
 - bước 3: reset và tính [[Gradient]]
 - bước 4: thực hiện update [[Weight]] của model 
 
 ```python
+def train_epoch()
 for epoch in range(epochs):
 ​	model.train() # đưa model vào chế độ training
 ​	for X_batch, y_batch in train_loader:
