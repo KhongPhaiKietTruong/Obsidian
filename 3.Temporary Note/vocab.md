@@ -21,3 +21,4 @@ produce (n): nông sản
 highrise (n): nhà cao tầng 
 single-handedly (adv): tự làm một mình 
 drop-in (adj): 
+concert (v): 
