@@ -23,17 +23,19 @@ def train_epoch(model, dataloader, criterion, optimizer, device):
 ```
 
 ## Cấu Trúc Nâng Cao 
-Ngoài các thao tác như ở phần cấu trúc cơ bản, ta còn có thể áp dụng các kĩ thuật như: [[AMP - Automatic Mixed Precision]] (tham số scaler và use_amp), [[Gradient Clipping]] 
+Ngoài các thao tác như ở phần cấu trúc cơ bản, ta còn có thể áp dụng các kĩ thuật như: [[AMP - Automatic Mixed Precision]] (tham số scaler), [[Gradient Clipping]] 
 
 
 ```python
 def train_epoch(model, dataloader, criterion, optimizer, device, scaler, use_amp, max_grad_norm):
 ​	model.train() # đưa model vào chế độ training
 ​	for X_batch, y_batch in train_loader:
-		# bước 1:thực hiện forward pass để dự đoán
-		​y_pred = model(X_batch) 
-		# bước 2: tính loss của batch 
-		​loss = loss_fn(y_pred, y_batch) 
+		# bước 1:thực hiện forward pass để dự đoán 
+		with torch.autocast(device_type=device, dtype=torch.float16):
+			​y_pred = model(X_batch) 
+			# bước 2: tính loss của batch 
+			​loss = loss_fn(y_pred, y_batch) 
+		
 		# bước 3: reset và tính gradient
 		​optimizer.zero_grad(set_to_none=True) 
 		​loss.backward() 
