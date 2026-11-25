@@ -13,4 +13,8 @@ AuthRepository.java: xử lí FirebaseAuth (login bằng Google acc) hoặc CRUD
 
 ## Giỏ Hàng 
 CartItem.java: class đại diện cho một món hàng trong giỏ hàng
-CartRepository: 
+CartRepository.java: 
+
+## Đơn Hàng 
+Order.java đại diện cho một đơn hàng 
+OrderRepository: 
