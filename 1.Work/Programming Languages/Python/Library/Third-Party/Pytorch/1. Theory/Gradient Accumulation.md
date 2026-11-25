@@ -1,6 +1,8 @@
+## Định Nghĩa 
 Gradient Accumulation là cơ chế cho phép cộng dồn [[Gradient]] được tính trên nhiều batch lại rồi mới thực hiện cập nhật 
-
 ## Tại sao cần Gradient Accumulation
+Pytorch mặc định bật gradient accumulation (vì họ muốn thế :v) 
+
 Giả sử bạn đang train mô hình và muốn sử dụng:
 - Batch size = 32.
 - GPU của bạn không đủ VRAM để chứa 32 samples cùng lúc.
