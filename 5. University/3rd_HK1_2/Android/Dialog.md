@@ -5,3 +5,9 @@ Dialog là một cửa sổ nhỏ đè lên [[Activity]] hiện tại
 - folder data/repository
 - folder data/ui
 
+tại sao class order tận 3 cái constructor ?
+
+## TÀI KHOẢN
+User.java: khai báo class người dùng
+AuthRepository.java: xử lí FirebaseAuth (login bằng Google acc) hoặc CRUD bảng user để tạo tk, đăng nhập 
+
