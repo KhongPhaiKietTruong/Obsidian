@@ -15,7 +15,7 @@ def train_epoch(model, dataloader, criterion, optimizer, device):
 		# bước 2: tính loss của batch 
 		​loss = loss_fn(y_pred, y_batch) 
 		# bước 3: reset và tính gradient
-		​optimizer.zero_grad() 
+		​optimizer.zero_grad(set_to_none=True) 
 		​loss.backward() 
 		# bước 4: thực hiện update
 		​optimizer.step() 

@@ -5,4 +5,4 @@ cú pháp:
 optimizer.zero_grad(set_to_none=False)
 ```
 với:
-- set_to_none: quyết định xem reset giá trị gradient về 0 hay None (về None sẽ tiết kiệm tài nguyên tính toán hơn)
+- set_to_none: quyết định xem reset giá trị gradient về 0 hay None (về None sẽ tiết kiệm tài nguyên tính toán hơn), nếu không có can thiệp gì quá sâu thì đặt tham số này bằng True thường không gây lỗi gì nhiều 
