@@ -1,4 +1,6 @@
 Hàm train_model nhận vào 9 tham số 
+lưu ý: phải có save checkpoint
+tuỳ chọn: có thêm patience 
 ```python
 def train_model(model, train_dataloader, val_dataloader, criterion, optimizer, device, scaler, scheduler, epochs):
 	 history = {
