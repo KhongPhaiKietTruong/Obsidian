@@ -3,3 +3,10 @@ Learning Rate Scheduler là cách thực hiện cụ thể của [[Learning Rate
 có nhiều loại scheduler khác nhau như:
 - [[1.Work/Programming Languages/Python/Library/Third-Party/Pytorch/torch/torch.optim/torch.optim.lr_scheduler/1. Class/CosineAnnealingLR|CosineAnnealingLR]] 
 - [[Warmup]]
+- ...
+## Code
+```python
+from torch.optim.lr_scheduler import CosineAnnealingLR 
+
+scheduler = CosineAnnealingLR(optmizer, T_max=EPOCHS, eta_min=1e-6)
+```
