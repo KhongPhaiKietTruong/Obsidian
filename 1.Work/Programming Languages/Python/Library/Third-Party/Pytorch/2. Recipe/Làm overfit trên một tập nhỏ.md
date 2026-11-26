@@ -1,4 +1,5 @@
-Có hai cách để thực hiện việc này, một là train trên một batch 
+Có hai cách để thực hiện việc này
+## Train trên một batch 
 ```python
 img, ques, ans = next(iter(train_loader))
 for epoch in range(10):
@@ -16,4 +17,18 @@ for epoch in range(10):
         f"Loss: {train_metrics['train_loss']:.4f} | "
         f"Acc: {train_metrics['train_acc']:.4f}"
     )
+```
+
+## Train trên số mẫu chỉ định
+```python
+from torch.utils.data import Subset, DataLoader
+
+small_dataset = Subset(train_dataset, range(1000))
+
+small_loader = DataLoader(
+    small_dataset,
+    batch_size=16,
+    shuffle=True,
+    collate_fn=collate_fn
+)
 ```
