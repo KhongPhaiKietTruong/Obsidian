@@ -4,4 +4,5 @@
 - sử dụng loss function gì 
 - optimizer gì
 - có sử dụng [[AMP - Automatic Mixed Precision]] không
-- co
+- có sử dụng [[Gradient Clipping]] không, ngưỡng bao nhiêu 
+- muốn hàm trả về gì (train_loss và metric gì)
