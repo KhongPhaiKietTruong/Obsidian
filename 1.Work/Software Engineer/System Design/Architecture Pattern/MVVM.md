@@ -1,7 +1,7 @@
 ## Định Nghĩa 
 MVVM là một [[Architecture Pattern]] chia code thành 3 thành phần 
 - View: giao diện người dùng
-- ViewModel: tầng nằm giữ view và repository, xử lí các thao tác người dùng
+- ViewModel: tầng nằm giữ view và repository, xử lí các thao tác người dùng (xem xem những giao diện nào sẽ được hiển thị lên)
 - Model: lưu trữ, xử lí dữ liệu 
 	- Repository Layer: tầng trung gian đứng giữa database và ViewModel 
 
