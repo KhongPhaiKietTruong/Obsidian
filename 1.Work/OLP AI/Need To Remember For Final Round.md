@@ -15,3 +15,5 @@ khi áp dụng [[Class-Weighted Loss]], tensor weight cần được đặt trê
 SSL: semi and self supervised learning 
 
 không nên chỉ huấn luyện trên lớp cuối mà nên huấn luyện trên cả backbone lẫn lớp cuối với lr của backbone thấp hơn lớp cuối và chỉ mở băng backbone sau khi đã train một vài epoch trên lớp cuối
+
+save_path trong torch.save phải có tên file luôn
