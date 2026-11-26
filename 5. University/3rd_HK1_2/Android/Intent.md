@@ -1,0 +1,1 @@
+Intent là một thông điệp yêu cầu android thực hiện một công việc nào đó 
