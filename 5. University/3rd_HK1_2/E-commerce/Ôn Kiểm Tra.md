@@ -54,3 +54,5 @@ CA (tổ chức chứng thực): đơn vị cung cấp dịch vụ chứng thự
 chỉ số EDGI liên hợp quốc gồm 3 thành phần: OSI, TII, HCI
 
 quy trình sử dụng dịch vụ công trực tuyến: đăng nhập, chọn thủ tục, nộp hồ sơ, xử lí & theo dõi, kết quả 
+
+quy trình quét QR trong điểm bán hàng: tạo mã, hiển thị, thu nhận, kiểm tra, thực hiện
