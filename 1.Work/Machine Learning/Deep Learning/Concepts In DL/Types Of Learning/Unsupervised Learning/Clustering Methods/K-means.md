@@ -23,6 +23,8 @@ $\mu_{c^{(i)}}$ là tạo độ tâm cụm của cụm
 - Nhạy cảm với [[Outliers]] do dùng [[1.Work/Math For Data Science/Math/Euclidean Distance]]
 - Nhạy cảm với quy mô giá trị các [[Features]] (phải thực hiện [[Normalization]])
 - "lời quyền số chiều"
+## Tìm Hiểu Thêm
+- K-Means ++ 
 ## Cost Function Trong K-Means 
 cost function của K-means còn được gọi là distortion fucntion mà nó hoàn toàn có thể mắc kẹt ở cực tiểu cục bộ, hai cái dưới chính là cực tiểu cục bộ 
 giải pháp: chạy k-means nhiều lần và chọn cái mà có cost function nhỏ nhất (thường chạy 100 lần)
