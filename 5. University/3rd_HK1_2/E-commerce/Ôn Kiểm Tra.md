@@ -26,7 +26,7 @@ omni channel: gộp tất cả kênh bán hàng và tương tác bán hàng lạ
 - dữ liệu hoá: hành vi người dùng có thể biến thành dữ liệu 
 - trung tâm nền tảng: là nơi kết nối nhiều thứ lại với nhau 
 
-### Các chủ thể tham gia giao dịch
+### Các chủ thể tham gia giao dịch (mô hình giao dịch)
 B2C: bussiness to consumer
 B2B: business to business
 C2C: consumer to consumer (pass đồ)
@@ -35,3 +35,4 @@ G<->B: goverment to bussiness và ngược lại
 G<->C: goverment to citizen và ngược lại
 D2C: direct to customer (thương hiệu sản phẩm bán trực tiếp cho người dùng mà không thông qua trung gian nào cả)
 
+mô hình doanh thu: các doanh nghiệp tạo ra doanh thu (quảng cáo, gói đăng kí, ... )
