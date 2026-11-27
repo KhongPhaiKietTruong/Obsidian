@@ -60,5 +60,3 @@ quy trình quét QR trong điểm bán hàng: tạo mã, hiển thị, thu nhậ
 RSS: 
 
 nhận biết (reach) -> quan tâm (engagement - tương tác) -> cân nhắc (CTR - tỉ lệ nhập) -> hành động (conversion - chuyển đổi )
-
-ba giai đoạn thanh toán điện tử: uỷ quyền -> bù trừ -> quyết toán 
