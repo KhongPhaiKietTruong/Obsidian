@@ -9,6 +9,8 @@ với:
 - weight: nhận vào một [[Tensor]] chứa các giá trị chỉ định hệ số phạt của từng lớp, vị trí nào của class nào là do ta quy định trong phần tạo Custom Dataset (hoặc nếu dùng [[torch.utils.data.ImageFolder]] thì lấy nó từ [[ImageFolder.cls_to_idx]])
 - label smoothing: chỉ định giá trị cho [[Label Smoothing]] (thường là 0.1)
 
+## Code
+
 
 > [!WARNING] 
 > weight phải trên cùng thiết bị với model, nếu model nằm trên cude thì cần chuyển tensor weight lên cuda 
