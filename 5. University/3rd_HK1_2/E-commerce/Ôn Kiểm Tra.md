@@ -25,3 +25,9 @@ omni channel: gộp tất cả kênh bán hàng và tương tác bán hàng lạ
 - tính liên tục: kênh bán hàng mở cửa liên tục 24/7 
 - dữ liệu hoá: hành vi người dùng có thể biến thành dữ liệu 
 - trung tâm nền tảng: là nơi kết nối nhiều thứ lại với nhau 
+
+### Các chủ thể tham gia giao dịch
+B2C: bussiness to consumer
+B2B: business to business
+C2C: consumer to consumer (pass đồ)
+C2B: consumer to bussiness (cá nhân cung cấp giá trị cho doanh nghiệp: content creator )
