@@ -58,3 +58,7 @@ quy trình sử dụng dịch vụ công trực tuyến: đăng nhập, chọn t
 quy trình quét QR trong điểm bán hàng: tạo mã, hiển thị, thu nhận, kiểm tra, thực hiện
 
 RSS: 
+
+nhận biết (reach) -> quan tâm (engagement - tương tác) -> cân nhắc (CTR - tỉ lệ nhập) -> hành động (conversion - chuyển đổi )
+
+ba giai đoạn thanh toán điện tử: uỷ quyền -> bù trừ -> quyết toán 
