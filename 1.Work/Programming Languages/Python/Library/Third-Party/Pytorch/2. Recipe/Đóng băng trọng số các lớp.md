@@ -18,6 +18,12 @@ for name, param in model.named_parameters():
 ```
 
 ## Đóng Băng Custom Model 
-```
-
+```python
+class MyModel(nn.Module):
+	def __init__(self):
+		super().__init__()
+		self.backbone = resnet50()
+		self.fc = nn.Linear(1024, C) #C: so class cua bai toan dang thuc hien 
+	def forward(self, x):
+		return self.fc(self.backbone(x))
 ```
