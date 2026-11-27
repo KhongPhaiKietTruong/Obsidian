@@ -33,3 +33,5 @@ C2C: consumer to consumer (pass đồ)
 C2B: consumer to bussiness (cá nhân cung cấp giá trị cho doanh nghiệp: content creator)
 G<->B: goverment to bussiness và ngược lại
 G<->C: goverment to citizen và ngược lại
+D2C: direct to customer (thương hiệu sản phẩm bán trực tiếp cho người dùng mà không thông qua trung gian nào cả)
+
