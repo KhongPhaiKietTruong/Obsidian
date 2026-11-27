@@ -44,9 +44,9 @@ mô hình doanh thu: các doanh nghiệp tạo ra doanh thu (quảng cáo, gói 
 - thanh toán
 - giao nhận 
 
-chữ kí số: dạng hash, bảo mật cao
+chữ kí số: dạng hash, bảo mật cao (**private key**)
 chữ kí điện tử: hành động thể hiện sự xác nhận 
 
-chứng thư số: là chứng thư gắn với một cá nhân dùng để xác thực danh tính và liên kết danh tính đó với khoá công khai 
+chứng thư số: là chứng thư gắn với một cá nhân dùng để xác thực danh tính và liên kết danh tính đó với khoá công khai (giống như CCCD, **public key**)
 
 CA (tổ chức chứng thực): đơn vị cung cấp dịch vụ chứng thực chữ kí số 
