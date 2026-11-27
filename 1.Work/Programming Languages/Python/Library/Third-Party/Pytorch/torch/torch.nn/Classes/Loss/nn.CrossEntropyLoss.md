@@ -11,7 +11,11 @@ với:
 - label smoothing: chỉ định giá trị cho [[Label Smoothing]] (thường là 0.1)
 
 ## Code
-
+```python
+logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float) # cac logits model du doan ra 
+target = torch.tensor([2]) # vi tri cua nhan ground truth 
+loss = criterion(logits, target)
+```
 
 > [!WARNING] 
 > - bên trong nn.CrossEntropy đã có sẵn lớp softmax, nên ta chỉ truyền vào logits 
