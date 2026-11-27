@@ -13,6 +13,7 @@
 - anomoly detecion
 - self-supervised learning 
 - semi-supervised learning 
+- fake face classification 
 ## NLP 
 - classification 
 - token classification (NER, POS)
