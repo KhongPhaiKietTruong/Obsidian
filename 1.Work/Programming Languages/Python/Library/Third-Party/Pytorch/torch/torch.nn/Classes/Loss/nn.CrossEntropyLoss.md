@@ -18,14 +18,24 @@ logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float) # cac logits model
 target = torch.tensor([2]) # vi tri cua nhan ground truth 
 loss = criterion(logits, target) # output: 0.6
 ```
-
 ### One-hot Encoding 
 ```python
 logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float)
 target = torch.tensor([0, 0, 1, 0, 0, 0], dtype=torch.float)
 loss = criterion(logits, target) # output: 0.6 
 ```
+### Segmentation
+```python
+logits = torch.randn(1, 2, 2, 2) #(B, C, W, H)
+mask = torch.tensor([
+    [
+        [0, 1],
+        [1, 0]
+    ]
+], dtype=torch.long) # (B, W, H)
+loss = criterion(logits, mask)
 
+```
 
 
 > [!WARNING] 
