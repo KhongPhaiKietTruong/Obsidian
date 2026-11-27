@@ -30,4 +30,5 @@ omni channel: gộp tất cả kênh bán hàng và tương tác bán hàng lạ
 B2C: bussiness to consumer
 B2B: business to business
 C2C: consumer to consumer (pass đồ)
-C2B: consumer to bussiness (cá nhân cung cấp giá trị cho doanh nghiệp: content creator )
+C2B: consumer to bussiness (cá nhân cung cấp giá trị cho doanh nghiệp: content creator)
+
