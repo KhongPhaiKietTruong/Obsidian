@@ -43,3 +43,6 @@ mô hình doanh thu: các doanh nghiệp tạo ra doanh thu (quảng cáo, gói 
 - xác thực 
 - thanh toán
 - giao nhận 
+
+chữ kí số: dạng hash, bảo mật cao
+	chữ kí điện tử: hành động thể hiện sự xác nhận 
