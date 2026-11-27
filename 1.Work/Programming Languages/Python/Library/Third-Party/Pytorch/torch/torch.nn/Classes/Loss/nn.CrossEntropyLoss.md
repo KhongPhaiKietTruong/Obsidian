@@ -14,4 +14,5 @@ với:
 
 
 > [!WARNING] 
-> weight phải trên cùng thiết bị với model, nếu model nằm trên cude thì cần chuyển tensor weight lên cuda 
+> - bên trong nn.CrossEntropy đã có sẵn lớp softmax, nên ta chỉ truyền vào logits 
+> - weight phải trên cùng thiết bị với model, nếu model nằm trên cude thì cần chuyển tensor weight lên cuda 
