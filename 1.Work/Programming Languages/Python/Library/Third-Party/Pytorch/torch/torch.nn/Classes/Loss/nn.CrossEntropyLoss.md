@@ -15,8 +15,8 @@ với:
 ### Class-index
 truyền vào targer dạng một số nguyên là vị trí của [[Ground Truth]] 
 ```python
-logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float) # cac logits model du doan ra 
-target = torch.tensor([2]) # vi tri cua nhan ground truth 
+logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float) # cac logits model du doan ra (B, C)
+target = torch.tensor([2]) # vi tri cua nhan ground truth (B,)
 loss = criterion(logits, target) # output: 0.6
 ```
 
