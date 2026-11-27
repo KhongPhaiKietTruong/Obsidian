@@ -13,11 +13,13 @@ với:
 ## Code
 
 ### Class-index
+truyền vào targer dạng một số nguyên là vị trí của [[Ground Truth]] 
 ```python
 logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float) # cac logits model du doan ra 
 target = torch.tensor([2]) # vi tri cua nhan ground truth 
 loss = criterion(logits, target) # output: 0.6
 ```
+
 ### One-hot Encoding Target
 ```python
 logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float)
