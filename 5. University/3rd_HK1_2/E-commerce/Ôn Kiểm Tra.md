@@ -36,3 +36,10 @@ G<->C: goverment to citizen và ngược lại
 D2C: direct to customer (thương hiệu sản phẩm bán trực tiếp cho người dùng mà không thông qua trung gian nào cả)
 
 mô hình doanh thu: các doanh nghiệp tạo ra doanh thu (quảng cáo, gói đăng kí, ... )
+
+### Dịch vụ phổ biến trong tmđt
+- khám phá
+- đặt hàng 
+- xác thực 
+- thanh toán
+- giao nhận 
