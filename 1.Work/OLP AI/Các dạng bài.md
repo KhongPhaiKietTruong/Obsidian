@@ -8,7 +8,7 @@
 	- VQA 
 	- Visual Grounding 
 	- image captioning 
-- image-retrivial 
+- image-retrievial 
 - fine-grained feature learning 
 - anomoly detecion
 - self-supervised learning 
