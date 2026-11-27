@@ -10,5 +10,6 @@ thương mại điện tử gồm 4 quá trình:
 - sau bán: bảo hành, đổi trả, đánh giá, ...
 
 so sánh giữa thương mại điện tử và kinh doanh điện tử
-thương mại điện tử tập trung vào quá trình mua bán, còn kinh doanh điện tử 
+thương mại điện tử tập trung vào quá trình mua bán, còn kinh doanh điện tử tập trung vào hành động vận hành doanh nghiệp bằng công nghệ số
+e-commerce là một phần của e-bussiness
 
