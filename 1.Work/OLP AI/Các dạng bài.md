@@ -3,10 +3,16 @@
 - detection 
 - segmentation 
 - image-to-image: image restoration, image super-resolution, ... 
-- image-text matching
-- VQA 
+- multi-modal learning:
+	- image-text matching
+	- VQA 
+	- Visual Grounding 
+	- image captioning 
 - image-retrivial 
 - fine-grained feature learning 
+- anomoly detecion
+- self-supervised learning 
+- semi-supervised learning 
 ## NLP 
 - classification 
 - token classification (NER, POS)
@@ -14,8 +20,4 @@
 - question & awnsering 
 - information extraction 
 - suy luận mối quan hệ giữa hai đâu (kéo theo, mâu thuẫn, không có liên hệ)
-
-parsing 
-sentimenation classification 
-multi-task learning  
-image captioning (attention ?) 
+- sentimentation classification 
