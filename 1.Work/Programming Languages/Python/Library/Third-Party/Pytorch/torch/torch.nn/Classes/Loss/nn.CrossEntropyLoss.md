@@ -11,11 +11,22 @@ với:
 - label smoothing: chỉ định giá trị cho [[Label Smoothing]] (thường là 0.1)
 
 ## Code
+
+### Class-index
 ```python
 logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float) # cac logits model du doan ra 
 target = torch.tensor([2]) # vi tri cua nhan ground truth 
-loss = criterion(logits, target)
+loss = criterion(logits, target) # output: 0.6
 ```
+
+### One-hot Encoding 
+```python
+logits = torch.tensor([5, 7, 8, -3, 6 ,7], dtype=torch.float)
+target = torch.tensor([0, 0, 1, 0, 0, 0], dtype=torch.float)
+loss = criterion(logits, target) # output: 0.6 
+```
+
+
 
 > [!WARNING] 
 > - bên trong nn.CrossEntropy đã có sẵn lớp softmax, nên ta chỉ truyền vào logits 
