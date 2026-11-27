@@ -17,3 +17,9 @@ thương mại điện tử tập trung vào quá trình mua bán, còn kinh doa
 e-commerce là một phần của e-bussiness
 
 omni channel: gộp tất cả kênh bán hàng và tương tác bán hàng lại thành một hệ thống thống nhất 
+
+### Đặc điểm cốt lõi của thương mại điện tử 
+- kết nối mạng: giao dịch được thực hiện thông qua internet
+- phạm vi rộng: có thể tương tác với khách hàng trên khắp thế giới
+- tương tác cao: người mua và người bán có thể trao đổi với nhau
+- tính liên tục: 
