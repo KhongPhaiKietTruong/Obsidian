@@ -19,5 +19,6 @@
 - [x] làm báo cáo KTCT
 - [x] làm báo cáo AI
 - [x] làm báo cáo CNXH
+- [ ] sửa scale libreoffice 
 
 
