@@ -22,4 +22,6 @@ omni channel: gộp tất cả kênh bán hàng và tương tác bán hàng lạ
 - kết nối mạng: giao dịch được thực hiện thông qua internet
 - phạm vi rộng: có thể tương tác với khách hàng trên khắp thế giới
 - tương tác cao: người mua và người bán có thể trao đổi với nhau
-- tính liên tục: 
+- tính liên tục: kênh bán hàng mở cửa liên tục 24/7 
+- dữ liệu hoá: hành vi người dùng có thể biến thành dữ liệu 
+- trung tâm nền tảng: là nơi kết nối nhiều thứ lại với nhau 
