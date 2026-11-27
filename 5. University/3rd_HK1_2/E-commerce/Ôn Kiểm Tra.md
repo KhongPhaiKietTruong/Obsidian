@@ -50,3 +50,7 @@ chữ kí điện tử: hành động thể hiện sự xác nhận
 chứng thư số: là chứng thư gắn với một cá nhân dùng để xác thực danh tính và liên kết danh tính đó với khoá công khai (giống như CCCD, **public key**)
 
 CA (tổ chức chứng thực): đơn vị cung cấp dịch vụ chứng thực chữ kí số 
+
+chỉ số EDGI liên hợp quốc gồm 3 thành phần: OSI, TII, HCI
+
+quy trình sử dụng dịch vụ công trực tuyến: đăng nhập, chọn thủ tục, nộp hồ sơ, xử lí & theo dõi, kết quả 
