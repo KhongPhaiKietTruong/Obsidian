@@ -1,0 +1,6 @@
+
+thương mại điện tử gồm 4 quá trình:
+- nhu cầu: người mua xác định nhu cầu
+- trao đổi: thống nhất về giá, ... với người bán
+- thực hiện: giao hàng, ...
+- sau bán: bảo hành, đổi trả, đánh giá, ...
