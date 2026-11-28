@@ -1,4 +1,4 @@
-dùng để thay thế giá trị NaN của [[DataFrame]] hoặc của [[Series]] thành giá trị mà ta chỉ định
+df.fillna() dùng để thay thế giá trị NaN của [[DataFrame]] hoặc của [[Series]] thành giá trị mà ta chỉ định
 
 ```python
 df.fillna(0) #thay thế tất cả giá trị NaN của bảng thành 0

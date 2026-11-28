@@ -1,4 +1,4 @@
-hàm này trả về một [[DataFrame]] mới sau khi đã xóa tất cả những dòng có dữ liệu bị rỗng (NaN).
+df.dropna() trả về một [[DataFrame]] mới sau khi đã xóa tất cả những dòng có dữ liệu bị rỗng (NaN).
 
 Các tham số phổ biến:
 * inplace=True: Thay đổi trực tiếp trên DataFrame hiện tại thay vì trả về DataFrame mới.

@@ -266,9 +266,9 @@
 				- [[1.Work/Programming Languages/Python/Library/Third-Party/Numpy/Attribute/shape]]
 			- **Method**
 				- **Manipulation**
-					- [[apply()]]
-					- [[dropna()]]
-					- [[1.Work/Programming Languages/Python/Library/Third-Party/Pandas/Classes/DataFrame/Methods/Manipulation/fillna()]]
+					- [[df.apply()]]
+					- [[df.dropna()]]
+					- [[df.fillna()]]
 				- **Stat & Info**
 					- [[corr()]]
 					- [[describe()]]
