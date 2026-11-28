@@ -12,11 +12,11 @@ thương mại điện tử gồm 4 quá trình:
 vòng đời của một giao dịch tmđt bao gồm 6 thành phần:
 khám phá -> đánh giá -> đặt hàng -> thanh toán -> hoàn tất -> hậu mãi 
 
-so sánh giữa thương mại điện tử và kinh doanh điện tử
+### So sánh giữa thương mại điện tử và kinh doanh điện tử
 thương mại điện tử tập trung vào quá trình mua bán, còn kinh doanh điện tử tập trung vào hành động vận hành doanh nghiệp bằng công nghệ số
 e-commerce là một phần của e-bussiness
 
-omni channel: gộp tất cả kênh bán hàng và tương tác bán hàng lại thành một hệ thống thống nhất 
+omni channel: gộp tất cả kênh bán hàng và tương tác bán hàng lại thành một hệ thống thống nhất (trải nghiệm đa kênh)
 
 ### Đặc điểm cốt lõi của thương mại điện tử 
 - kết nối mạng: giao dịch được thực hiện thông qua internet
